@@ -18,7 +18,9 @@ Kontextabhängig; besonders stark in komplexen, beratungsintensiven Verkäufen.
 
 ## Mechanismus
 
-Selbstüberzeugung, Commitment, kognitive Konsistenz.
+- MEC-0001 — Selbstüberzeugung durch Verbalisierung (primär)
+- MEC-0004 — Kognitive Konsistenz durch explizite Bedarfsartikulierung (sekundär)
+- Commitment-und-Konsistenz-Prinzip (Cialdini) — psychologische Basis, noch kein eigenes MEC-Objekt
 
 ## Unterstützende Quellen
 

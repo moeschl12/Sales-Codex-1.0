@@ -1,0 +1,84 @@
+# MEC-0005 — Reziprozitätspflicht
+
+## Mechanism ID
+
+MEC-0005
+
+## Source ID
+
+SRC-0002
+
+## Name
+
+Reziprozitätspflicht
+
+## Definition
+
+Der Empfang einer Gabe, eines Gefallens oder einer Konzession erzeugt beim Empfänger automatisch ein Gefühl der Verpflichtung zur Gegenleistung. Dieser Mechanismus ist kulturübergreifend verankert und wirkt auch dann, wenn die initiale Gabe unerbeten, uninvitiert oder von einer ungeliebten Person stammt.
+
+## Mechanismus-Typ
+
+Sozial / Psychologisch
+
+## Erklärung
+
+Die Reziprozitätsnorm (Gouldner, 1960) ist in keiner bekannten menschlichen Gesellschaft absent. Sie ermöglichte evolutionär die Entstehung von Kooperationsnetzwerken, Arbeitsteilung und Austauschsystemen. Das Gefühl der Verpflichtung entsteht automatisch mit dem Erhalt einer Gabe und erzeugt psychologischen Druck zur Rückgabe.
+
+**Drei zentrale Eigenschaften (aus Cialdini Kap. 2):**
+
+1. **Stärke:** Reziprozitätspflicht übertrumpft Sympathie als Compliance-Faktor. Im Regan-Experiment kauften Versuchspersonen doppelt so viele Raffle-Tickets von Joe, auch wenn sie ihn nicht mochten (ST-0034).
+
+2. **Uninvited-gift-Aktivierung:** Die Norm wird durch Erhalt ausgelöst — nicht durch Willen zur Annahme. Auch ungebetene Gaben (Krishna-Blume, Amway-BUG) aktivieren das Verpflichtungsgefühl (ST-0035).
+
+3. **Asymmetrie:** Menschen geben oft mehr zurück als sie erhalten haben, um das Unbehagen der Schuld zu lindern (ST-0036, Rejection-then-Retreat: "Konzession" wirkt wie Gabe).
+
+**Rejection-then-Retreat als kombinierten Auslöser:** Wenn eine Partei von einer großen Forderung auf eine kleine zurückweicht, wird dieser Rückzug als Konzession (= Gabe) wahrgenommen — die Reziprozitätsnorm verlangt eine Gegenkonzession (= Zustimmung zur kleineren Bitte). Kombiniert mit dem Kontrastprinzip (MEC-0009) erzeugt das besonders starke Compliance-Effekte.
+
+## Verknüpfte Prinzipien
+
+Kandidat für P-Objekt "Reziprozität" (TASK-0006)
+
+## Verknüpfte Techniken
+
+- Vorab-Leistung / kostenloses Sample als Verkaufseinstieg
+- Rejection-then-Retreat / Door-in-the-Face
+- Konzessionsbasiertes Verhandeln
+
+## Wissenschaftliche Grundlage
+
+- Gouldner, A.W. (1960): The Norm of Reciprocity. American Sociological Review.
+- Regan, D. (1971): Effects of a favor and liking on compliance. Journal of Experimental Social Psychology.
+- Leakey, R. / Tiger, L. & Fox, R.: Anthropologische Grundlagen der Reziprozitätsnorm (zit. bei Cialdini).
+
+## Evidenzlevel
+
+E4 (allgemeiner sozialer Mechanismus — kulturanthropologisch und experimentell gut belegt)
+E3 (spezifische Verkaufsanwendungen: Amway BUG, Krishna-Flower, Rejection-then-Retreat — Feldbeobachtungen und Laborexperimente)
+
+Gemini-Validierung für B2B-spezifische Evidenz ausstehend.
+
+## Vertriebsrelevanz
+
+Hoch — erklärt die Wirksamkeit von kostenlosen Leistungen vor dem Verkaufsgespräch (Demo, kostenloser Inhalt, kostenlose Analyse), von Konzessionen in Verhandlungen und von Vorab-Gefälligkeiten in der Beziehungspflege.
+
+## Grenzen
+
+- Wenn die Gabe als offensichtlich strategisch erkannt wird, kann der Effekt abgeschwächt sein — aber nicht vollständig (Hare-Krishna-Gegenbeispiel)
+- Bei sehr großem Ungleichgewicht zwischen Gabe und verlangter Gegenleistung kann die Norm kippen (Ablehnung der Gabe, um Obligation zu vermeiden)
+- Kulturelle Variationen: In kollektivistischen Kulturen kann Reziprozität als Gruppenobligation statt Einzelobligation funktionieren
+
+## Offene Fragen
+
+- Wie skaliert der Mechanismus von kleinen (Stift, Kaffee) zu großen (mehrstündige Beratung) Gaben in Verkaufskontexten?
+- Gibt es B2B-spezifische Forschung zur Reziprozitäts-Wirksamkeit?
+- Wie verhält sich der Mechanismus, wenn die Gabe vom Unternehmen (nicht der Person) kommt?
+
+## Erweiterung: Konvergenzbestätigung (Academic Recovery Sprint Phase 2, Research Pack 3)
+
+**[Ergänzt 2026-07-01]** Research Pack 3 nennt für Reciprocity unabhängig exakt dieselben Standardreferenzen, die bereits oben in "Wissenschaftliche Grundlage" geführt werden (Gouldner 1960, Regan 1971). Diese Konvergenz zwischen zwei unabhängig erstellten Literaturrecherchen bestätigt die Zitationsgenauigkeit dieses Objekts, liefert aber keine neue Information und ändert das Evidenzlevel nicht. Das Pack bestätigt zudem die bestehende offene Frage: "keine robuste B2B-spezifische Meta-Analyse" für Reciprocity vorhanden.
+
+Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`.
+
+## Status
+
+Entwurf; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 — Konvergenzbestätigung)

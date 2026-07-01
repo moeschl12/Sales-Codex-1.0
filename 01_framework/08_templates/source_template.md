@@ -10,6 +10,15 @@ SRC-0000
 
 ## Jahr
 
+## Ausgabe / Edition
+
+[z.B. Revised Edition 2007 — Originalausgabe 1984]
+
+## Ausgabe aus Impressum verifiziert
+
+[ ] Ja — Seite: ___  
+[ ] Nein — Grund: ___
+
 ## Quellenklasse
 
 A / B / C / D / E / F

@@ -15,3 +15,29 @@ tmp/
 __pycache__/
 *.pyc
 .venv/
+
+# Copyrighted source books
+02_sources/books/
+
+
+# Copyrighted source books
+02_sources/books/
+
+# Claude / Gemini temp files
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/

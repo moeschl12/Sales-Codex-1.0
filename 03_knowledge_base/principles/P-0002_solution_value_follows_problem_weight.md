@@ -18,7 +18,8 @@ Breit anwendbar; besonders stark bei High-Ticket, B2B, Beratung, Immobilien und 
 
 ## Mechanismus
 
-Verlustaversion, Kosten des Status quo, Kontrasteffekt.
+- MEC-0002 — Verlustaversion und Kosten des Status quo (primär)
+- Kontrasteffekt: Der wahrgenommene Wert einer Lösung steigt, wenn er gegen hohe Problemkosten kontrastiert wird. ⚠ Noch kein eigenes MEC-Objekt — kandidiert für MEC-0005 in späteren Analysephasen.
 
 ## Unterstützende Quellen
 
