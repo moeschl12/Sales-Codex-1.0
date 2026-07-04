@@ -9,7 +9,7 @@ In jeder Verhandlung existieren zwei simultane Prozesse: die inhaltliche Auseina
 ## Woher stammt diese Annahme?
 SRC-0007 — Getting to Yes, Chapter 2.
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 E3 — Breit in Kommunikations- und Konfliktforschung belegt (Watzlawick: Inhalts- und Beziehungsebene in Kommunikation; Schulz von Thun: Vier-Ohren-Modell).
 
 ## Verbundene Objekte

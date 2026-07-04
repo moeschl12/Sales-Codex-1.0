@@ -16,7 +16,7 @@ SRC-0006 — The JOLT Effect, Chapters 1–2. Zentrale konzeptuelle Prämisse de
 
 Wenn diese Annahme stimmt, ist die gesamte Vertriebspraxis nach der Status-quo-Überwindung suboptimal ausgerichtet — weil sie mit Status-quo-Taktiken (FUD, Dringlichkeit) arbeitet, die auf ein anderes Problem zielen. Die Annahme rechtfertigt JOLT als eigenständige Methode.
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 
 E2 — Die 44%/56%-Bifurkation ist empirisch aus proprietärer Datenbasis. Die Kausalinterpretation (FOMU als Hauptgrund) ist konzeptuell, nicht kausal belegt. Die Unterscheidung ist plausibel, aber nicht unabhängig repliziert.
 

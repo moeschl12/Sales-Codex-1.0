@@ -24,7 +24,7 @@ Im Sales: Wer bestimmt, worüber gesprochen wird, bestimmt auch, was als entsche
 
 SRC-0008 (Pre-Suasion, Cialdini 2016), Kap. 3–4
 
-## Evidenzklasse
+## Evidenzklassifikation
 
 E4 (peer-reviewed; Agenda-Setting, Attribution, Spotlight-Effekte)
 
@@ -45,6 +45,18 @@ P-0021 (Challenger Sale Commercial Teaching Pitch) folgt implizit dem Focal-Impo
 - Funktioniert nicht gegen aktiv ablenkendes oder defensives Gegenüber
 - Wenn Gesprächspartner bereits ein "eigenes Focal-Konzept" mitbringt, erfordert Umlenken aktive Effort
 
+## Erweiterung: Gap-Theorie der Neugier als komplementärer, aber eigenständiger Aufmerksamkeitsmechanismus (SRC-0015)
+
+**[Ergänzt 2026-07-02 aus B-0015 — Made to Stick]**
+
+Made to Stick (Heath & Heath) beschreibt mit der Gap-Theorie der Neugier (Loewenstein 1994, MEC-0027) einen zweiten, komplementären Weg, Aufmerksamkeit zu binden: nicht durch Aktivierung eines Focal-Konzepts (wie in MEC-0018/P-0036), sondern durch das bewusste Offenhalten einer spezifischen, wahrgenommenen Wissenslücke, die eine aversive, anhaltende Spannung erzeugt und aktives Informationssuchverhalten motiviert.
+
+**Wichtige Abgrenzung (keine Verschmelzung der Prinzipien):** P-0036 postuliert, dass FOKUSSIERTES als wichtig/kausal erscheint (Salienz-Heuristik, wirkt kurzfristig). Die Gap-Theorie postuliert, dass eine bewusst UNGESCHLOSSENE Lücke über eine längere Zeitspanne aufmerksamkeitsbindend wirkt, bis sie aufgelöst wird (Spannungsreduktions-Motivation). Beide Mechanismen können in der Praxis KOMBINIERT werden: Ein Verkäufer kann zunächst ein Focal-Konzept aktivieren (P-0036) und dieses dann bewusst als offene Frage/Lücke stehen lassen (MEC-0027), um Aufmerksamkeit über eine gesamte Präsentation aufrechtzuerhalten. Dies rechtfertigt keine Zusammenführung der beiden Prinzipien/Mechanismen, da die kausalen Wirkpfade unterschiedlich sind (siehe MEC-0027, Canonicalization-Begründung, für die vollständige CKM-Schritt-2-Analyse).
+
+**Praktische Implikation für P-0036:** Die Formulierung "lenke die Aufmerksamkeit auf das Konzept" kann um die Taktik ergänzt werden, das fokussierte Konzept bewusst als NOCH NICHT VOLLSTÄNDIG AUFGELÖST zu präsentieren (z. B. "Ich zeige Ihnen gleich, warum das für Ihren Fall entscheidend ist" statt sofortiger vollständiger Erklärung), um die Wirkdauer der Aufmerksamkeitsbindung zu verlängern.
+
+**Kein E-Level-Wechsel** — E4 bleibt bestehen (die Ergänzung fügt einen komplementären, empirisch eigenständig gestützten Mechanismus hinzu, ohne die Kernevidenz von P-0036 selbst zu verändern).
+
 ## Status
 
-Entwurf — 2026-07-01
+Entwurf — 2026-07-01; erweitert 2026-07-02 (SRC-0015 Made to Stick — Gap-Theorie-Querverweis, MEC-0027)

@@ -6,7 +6,7 @@ P-0021
 
 ## Source ID
 
-SRC-0004
+SRC-0004, W-001
 
 ## Name
 
@@ -53,6 +53,17 @@ Komplex-B2B-spezifisch — wirkungslos in Commodity-Käufen, wo kein Reframing m
 
 - SPIN Selling (Rackham): Insight-Delivery durch Fragen (Implication + Need-Payoff), nicht durch proaktive Lehrperspektive. Abgrenzung: SPIN aktiviert selbst-formuliertes Erkennen (MEC-0001), Challenger liefert Fremd-Perspective. Beide wirksam, unterschiedliche Mechanismen.
 - Solution Selling: "Define pain first, then offer solution" — ähnlich in Intention, aber ohne expliziten Reframe-Schritt. Challenger geht weiter: nicht Schmerz diagnosis, sondern neue Perspektive auf unbekannten Schmerz.
+- Gap Selling (P-0025): Siehe "Erweiterung durch W-001" unten — ehemals als "Widerspruch" geführt, jetzt als kontextabhängige Koexistenz präzisiert.
+
+## Erweiterung durch W-001 (Research Program) — 2026-07-03
+
+**Geprüfter Sachverhalt:** Das Verhältnis von P-0021 (Teach vor Discovery) zu P-0025 (vollständige Diagnose vor Lösung, Gap Selling) war seit `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md` (Eintrag "W-001") als methodologischer Kernkonflikt dokumentiert und wurde dem Research Program zur systematischen Klärung übergeben.
+
+**Ergebnis (Editor Decision W-001, `06_research_program/completed/W001/06_EDITOR_DECISION.md`, 2026-07-03, Option "Teilweise annehmen"):** P-0021 und P-0025 stehen **nicht** in einem universellen Methodologiekonflikt. Beide beschreiben eigenständig gültige, aber unterschiedliche Wirkmechanismen (Insight-Disruption durch Reframing vs. vollständige Gap-Diagnose), deren relative Wirksamkeit von Problemreife, Kontext, Sensemaking-Bedarf und Buying-Center-Dynamik abhängt (`04_THEORY_LANDSCAPE.md`, Abschnitt 3). Keine der beiden Sequenzen wird als universell vorrangig ("Teach First" oder "Diagnose First") erklärt. Die kausale Struktur von P-0021 selbst bleibt unverändert — diese Erweiterung präzisiert ausschließlich die Kontextabgrenzung zu P-0025, ersetzt aber nicht dessen Kontextlabel oder Grenzen-Abschnitt.
+
+**Nicht übernommen:** Keine mathematische Formalisierung (SCSM), kein neues Modell-Objekt, keine Phasenzuordnung mit Differentialgleichung. Die vier SCSM-Phasen wurden nicht als eigene Prinzipien angelegt.
+
+**Herkunft:** W-001 (Research Program), siehe `Source ID` oben.
 
 ## Bedingungen: Wann funktioniert es?
 

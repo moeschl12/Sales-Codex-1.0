@@ -19,7 +19,7 @@ Verhaltensprinzip / Empathie-Anforderung
 - Voss (B-0003): Taktische Empathie ist Voss' Kern-Konzept — kongruent mit Fisher/Urys Perspektivwechsel, aber operationalisiert anders (Labeling vs. Perspective-Taking)
 - MEC-0010 (Amygdala-Regulation): Emphatisches Verständnis reduziert Feindseligkeit auf Amygdala-Ebene
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (Perspective-Taking ist gut belegt in Sozialpsychologie; Anwendung auf Verhandlung ist extrapoliert, aber plausibel)
 
 ## Status

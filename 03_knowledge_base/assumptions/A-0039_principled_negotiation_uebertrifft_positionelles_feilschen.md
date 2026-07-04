@@ -9,7 +9,7 @@ Principled Negotiation (interessenbasiert, objektive Kriterien, BATNA, Menschen-
 ## Woher stammt diese Annahme?
 SRC-0007 — Getting to Yes, Introduction + Chapter 1 + "Ten Questions" (IV).
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 E2 — Normative Behauptung; institutionell gut verankert (Harvard, Diplomatie, Recht); keine RCTs; Gegenbeispiele existieren (Voss: Principled Negotiation funktioniert nicht bei Hardball-Verhandlern oder in distributiven Situationen).
 
 ## Verbundene Objekte

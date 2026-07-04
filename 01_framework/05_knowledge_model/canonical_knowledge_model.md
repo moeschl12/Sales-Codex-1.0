@@ -331,4 +331,10 @@ Diese Punkte entstehen aus der Arbeit — nicht aus Antizipation.
 
 ---
 
-*Dieses Dokument gilt ab Pilot 001. Zuletzt aktualisiert: v1.1 (2026-06-30) — Abschnitt 9 (Nicht-Anlage-Dokumentation) ergänzt.*
+## 11. Herkunft aus dem Research Program (RC-1)
+
+Wissensobjekte können neben Buchanalysen auch aus einem abgeschlossenen Forschungsprojekt des Research Program (`06_research_program/`) stammen. Für die Identitäts-, Entscheidungs- und Evidenzlogik dieses Dokuments (Abschnitte 2–9) macht das keinen Unterschied — sie gilt für Research-Program-Ergebnisse unverändert und ohne Ausnahme; Abschnitt 10 (insbesondere die Einführung neuer Objekttypen als Herausgeber-Entscheidung) gilt ebenso unverändert. Der einzige Unterschied betrifft die Herkunftskennzeichnung im Pflichtfeld "Source ID" (`00_project/task_rules.md`, Abschnitt 7): Bei Research-Program-Ursprung trägt dieses Feld die Projekt-ID (z. B. `W-001`) statt einer `SRC-ID` (Details: `00_project/task_rules.md`, Abschnitt 7.5). Der vollständige Ablauf, wie ein angenommenes Forschungsergebnis zu einem Wissensobjekt gemäß der Logik dieses Dokuments wird, ist beschrieben in `06_research_program/REPOSITORY_INTEGRATION.md`.
+
+---
+
+*Dieses Dokument gilt ab Pilot 001. Zuletzt aktualisiert: v1.1 (2026-06-30) — Abschnitt 9 (Nicht-Anlage-Dokumentation) ergänzt; RC-1 (2026-07-03) — Abschnitt 11 (Herkunft aus dem Research Program) ergänzt.*

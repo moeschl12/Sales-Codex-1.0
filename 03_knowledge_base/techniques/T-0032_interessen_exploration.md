@@ -21,5 +21,11 @@ MEC-0017 (Positions-Interessen-Divergenz), A-0036
 ## Quelle
 SRC-0007 — Getting to Yes, Chapter 3
 
+## Evidenzlevel
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0017 (E4, Positions-Interessen-Divergenz), A-0036 (E3, Positionen und Interessen sind verschieden). Eine technikspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 Entwurf

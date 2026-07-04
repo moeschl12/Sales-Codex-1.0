@@ -35,7 +35,7 @@ Illustriert durch konkretes Fallbeispiel: großes Krankenhaus (klarer Fit, aber 
 - Gap Selling (B-0005): Keenan's "Is the Gap Worth It?" ist Qualifikationsfrage aus Gap-Perspektive; JOLT ergänzt die Entscheidungs-Perspektive
 - SPIN: Qualification nach Needs → JOLT fügt Decisiveness hinzu
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Anekdotisches Fallbeispiel; plausibel durch ML-Muster gestützt, aber kein quantitativer Nachweis im Buch)
 

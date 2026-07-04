@@ -56,6 +56,23 @@ Voss baut auf Kahnemans System 1/System 2-Konzept auf (explizit in ST-0053/0054)
 - Gibt es Persönlichkeitstypen (z.B. sehr hoch in Need for Cognition), bei denen die rationale Dimension dominiert?
 - Wie verhält sich die Annahme in interkulturellen Settings, in denen emotionaler Ausdruck unterdrückt wird?
 
+## Erweiterung: Breitere psychologische Fundierung — Damasio somatische Marker, LeDoux Amygdala-Vorrang (B-0011, Goleman 1995, SRC-0011)
+
+**[Ergänzt 2026-07-02]**
+
+Goleman liefert eine wichtige Erweiterung der Evidenzbasis für A-0013, die über den bisherigen Hochstress-/Krisenverhandlungskontext (Voss/FBI, SRC-0003) hinausgeht und die Annahme auf ALLTÄGLICHE Entscheidungssituationen verallgemeinert:
+
+**1. Damasios "Somatic Marker Hypothesis" (Kap. 2, Kap. 4 "In Praise of Gut Feeling"):** Fallstudie "Elliot" — ein Patient mit Läsion der präfrontal-Amygdala-Verbindung (nach Hirntumor-Operation) behält volle kognitive/logische Fähigkeiten (unauffällige IQ-Tests), verliert aber die Fähigkeit, ALLTÄGLICHE Entscheidungen zu treffen (z. B. keinen Termin vereinbaren können, da rational für jede Option gleich viele Für-/Gegenargumente sprechen). Damasios Schlussfolgerung: "Somatische Marker" (viszerale, emotional gespürte Bewertungssignale) sind eine NOTWENDIGE Vorstufe rationaler Entscheidungsfindung, nicht nur ein Störfaktor unter Stress. Dies erweitert A-0013 von "Emotionen dominieren in Hochstress-Verhandlungssituationen" zu "Emotionen sind eine notwendige Grundlage rationaler Entscheidungsfindung generell, auch in ruhigen Alltagssituationen."
+
+**2. LeDoux' Zwei-Pfad-Modell (Kap. 2, siehe auch MEC-0010-Erweiterung):** Die neuroanatomische Tatsache, dass sensorische Signale die Amygdala über einen kürzeren neuronalen Pfad erreichen als den Neocortex, liefert eine strukturelle (nicht nur funktionale) Erklärung dafür, warum affektive Bewertung Entscheidungen zeitlich vorausgehen kann — unabhängig von der spezifischen Situation (nicht nur in Verhandlungen).
+
+**Konsequenz:** Diese Erweiterung stützt A-0013 auf einer allgemeineren, situationsunabhängigeren Ebene als die bisherige Evidenzbasis (die primär aus Hochstress-Verhandlungskontexten stammte). Gleichzeitig relativiert sie leicht die im "Was passiert, wenn die Annahme falsch ist?"-Abschnitt formulierte Einschränkung ("Anwendungskontext ist primär Hochstress-/Krisenverhandlung") — wenn Damasios Befund korrekt generalisiert, gilt die emotionale Fundierung von Entscheidungen auch in ruhigen, nicht-eskalierten Verkaufssituationen, nicht nur in Krisenverhandlungen.
+
+**Evidenzeinordnung dieser Ergänzung:** E3 — Damasios Fallstudien-Forschung (Iowa Gambling Task und verwandte Läsionsstudien) ist einflussreich und mehrfach repliziert, aber auch Gegenstand methodischer Debatten (kleine Stichprobengrößen bei seltenen Läsionsmustern, Kritik an der Generalisierbarkeit der Iowa Gambling Task selbst). Nicht E4, da keine Meta-Analyse zur somatischen Marker-Hypothese als Ganzes vorliegt.
+
+**Kein Evidenzstatus-Wechsel für A-0013 als Ganzes** (bleibt E3) — die Ergänzung verbreitert die Anwendungsbasis, ohne die bestehende Einstufung zu verändern.
+
 ## Status
 
-Entwurf
+Entwurf  
+**Erweitert 2026-07-02 (B-0011, Goleman):** Damasio somatische Marker, LeDoux Amygdala-Vorrang als breitere psychologische Fundierung ergänzt (Generalisierung über Hochstress-Kontext hinaus). Kein Evidenzstatus-Wechsel.

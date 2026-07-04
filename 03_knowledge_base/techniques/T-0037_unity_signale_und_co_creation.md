@@ -61,7 +61,7 @@ Unity-Signale sind Handlungen oder Aussagen, die eine gemeinsame Gruppenidentit�
 - ST-0182 (Synchrones Handeln erzeugt Unity)
 - T-0032 (Interessen-Exploration aus Getting to Yes — verwandt: Käufer-Perspektive aktivieren)
 
-## Evidenzklasse
+## Evidenzlevel
 
 E3 (Unity "Being Together": Social Identity Theory E4; Sales-Anwendung E2 / E3 aus Schlussfolgerungen)
 E3 (Co-Creation/Synchronie: Synchronie-Kooperation-Studien E4; Sales-Transfer E2)

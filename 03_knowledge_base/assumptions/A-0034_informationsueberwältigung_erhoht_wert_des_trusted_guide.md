@@ -16,7 +16,7 @@ SRC-0006 — The JOLT Effect, Chapter 7 (Buyer's Agent). Gestützt auf Travel-Ag
 
 Begründet, warum Sales-Rollen nicht durch Online-Informationskanäle obsolet werden, sondern durch Informationsabundanz relevanter werden — sofern Verkäufer die Guide-Rolle annehmen.
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 
 E2 — Travel-Agent-Daten sind faktisch; Übertragung auf B2B-Sales ist konzeptuell (keine direkten Vergleichsstudien).
 

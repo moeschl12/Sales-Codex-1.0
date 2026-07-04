@@ -83,7 +83,13 @@ Mittel — Labeling ohne echtes Verständnis ist kalkulierte Emotionsmanipulatio
 
 ## Evidenzlevel
 
-E3 — Lieberman et al. (2007), *Psychological Science* 18(5): Affect Labeling reduziert Amygdala-Aktivierung (fMRT-Studie). Voss FBI-Praxis. Transfer auf verbale Verhandlung plausibel, aber nicht direkt getestet.
+**E2 — synchronisiert 2026-07 (Consistency Correction Sprint, siehe `CODEX_AUDIT_2026-07.md` Kapitel 3 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`).**
+
+Diese Technik ist die direkte Anwendung von MEC-0010 (Amygdala-Regulation durch affektives Labeling). MEC-0010 wurde bereits am 2026-07-01 per Peer Review Sprint 1 von E3 auf E2 herabgestuft (`PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`). Dieses Technik-Objekt zitierte bis zur vorliegenden Korrektur weiterhin den alten E3-Wert mit derselben Begründung — eine Desynchronisation, die im Audit 2026-07 aufgedeckt wurde. Der Inhalt der Begründung war zutreffend; nur der Zahlenwert war veraltet.
+
+**Ursprüngliche Begründung (unverändert gültig):** Lieberman et al. (2007), *Psychological Science* 18(5): Affect Labeling reduziert Amygdala-Aktivierung (fMRT-Studie, Laborreize). Voss FBI-Praxis. Transfer auf verbale Verhandlung plausibel, aber nicht direkt getestet — genau diese Einschränkung begründet E2 statt E3 im Basismechanismus (siehe MEC-0010, Abschnitt „Evidenzlevel").
+
+Dies ist eine reine Konsistenzkorrektur ohne neue inhaltliche Bewertung — die Einstufung folgt vollständig der bereits getroffenen und im Basismechanismus dokumentierten Entscheidung.
 
 ## Verknüpfte Kompetenzen
 

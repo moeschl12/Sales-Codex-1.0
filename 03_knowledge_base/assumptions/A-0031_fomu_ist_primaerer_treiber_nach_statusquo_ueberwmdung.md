@@ -16,7 +16,7 @@ SRC-0006 — The JOLT Effect, Chapter 2 (FOMO/FOMU-Shift), Chapter 6 (Outcome Un
 
 Wenn FOMU der Haupttreiber ist, müssen alle JOLT-Interventionen primär auf Risikoreduktion ausgerichtet sein — nicht auf Dringlich keitserzeugung (FOMO) oder Nutzenargumentation.
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 
 E2 — Konzeptuell plausibel; antizipatorische Reue ist empirisch gut belegt (E4); aber direkter Nachweis für FOMU als dominante No-Decision-Ursache fehlt (die 44%/56%-Daten klassifizieren nach Verhalten, nicht nach Motiv).
 

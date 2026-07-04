@@ -16,7 +16,7 @@ Wenn Empfänger bemerken, dass ein Opener darauf abzielt, ihre Wahrnehmung vor e
 
 Cialdini beschreibt Korrektiv-Mechanismen: Menschen neigen zur Gegensteuerung, wenn sie extreme oder offensichtlich manipulative Einflüsse erkennen. Forschung: Wenn Versuchsteilnehmer wussten, dass ihr Urteil durch einen Anker beeinflusst wurde, korrigierten sie — oft sogar überkompensatorisch. Stealth-Priming (unbewusst) wirkt dagegen ungehindert.
 
-## Evidenzklasse
+## Evidenzstatus
 
 E4 (Reaktanz-Forschung E4; Korrektiv-Mechanismus-Forschung E4; Priming-Bewusstsein-Effekte gut belegt)
 

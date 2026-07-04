@@ -21,5 +21,11 @@ MEC-0003 (Reaktanz: Nicht-Drücken verhindert Reaktanz), MEC-0010 (Emotions-Aner
 ## Quelle
 SRC-0007 — Getting to Yes, Chapter 7
 
+## Evidenzlevel
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0003 (E4, Reaktanz), MEC-0010 (E2, Amygdala-Regulation/Emotions-Anerkennung). Eine technikspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 Entwurf

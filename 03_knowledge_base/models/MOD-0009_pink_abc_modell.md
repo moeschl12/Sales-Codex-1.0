@@ -54,7 +54,7 @@ Pink positioniert dieses Modell als Nachfolge des "Always Be Closing"-Paradigmas
 
 Pink's Modell ist orthogonal zu W-001: Weder explizit Diagnose-First noch Teach-First. Clarity und Attunement stützen Diagnose-Seite (Problem Finding, Perspektivübernahme). Improv und Pitch haben Affinität zu Teach-Aspekten (Neue Einsichten präsentieren). Kein direkter Beitrag zur W-001-Auflösung.
 
-## Evidenzklasse (Modell)
+## Evidenzlevel
 
 E3 (Einzelne Komponenten E4, aber Integration und "Model" als Ganzes ist Pink's journalistische Synthese; nicht als empirisches Modell validiert)
 

@@ -38,7 +38,7 @@ Direkte Antithese zur klassischen Abschlusstechnik. FUD ist historisch tief in d
 - MEC-0002 (Verlustaversion): FUD aktiviert Verlustaversion — aber die falsche Richtung: die Kauf-Option wirkt jetzt auch verlustreich
 - Challenger FUD-Komponente (B-0004): The Challenger Sale nutzt "Emotional Impact" im Commercial Teaching Pitch — JOLT differenziert: Emotional Impact im Status-quo-Stadium OK; FUD in der FOMU-Phase schädlich
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Aus ML-Analyse; FUD-Kontraproduktivität bei Indecision-Kunden als Muster identifiziert, nicht RCT-getestet)
 

@@ -18,7 +18,7 @@ Jeder Agent liest zuerst:
 - `01_framework/02_evidence_system/evidence_system.md`
 - `01_framework/03_source_standard/codex_source_standard.md`
 - `01_framework/04_principle_extraction/principle_extraction_standard.md`
-- `01_framework/05_knowledge_model/codex_knowledge_model.md`
+- `01_framework/05_knowledge_model/canonical_knowledge_model.md`
 - `01_framework/06_process_system/sales_process_decision_system.md`
 
 ## Agentenleitfäden

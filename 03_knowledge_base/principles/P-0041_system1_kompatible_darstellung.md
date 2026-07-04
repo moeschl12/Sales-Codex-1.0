@@ -20,7 +20,7 @@ Da Kaufentscheidungen primär durch System 1 getrieben werden, muss jede Verkauf
 4. **Wiederholung und Vertrautheit**: Kernbotschaften wiederholen (WYSIATI: häufig Gesagtes wirkt wahrer) — aber nicht redundant wirken
 5. **Visuelle Klarheit**: Bilder und Diagramme sprechen S1 direkter an als Text (Dual-Coding-Theorie)
 
-## Evidenzklasse (Prinzip)
+## Evidenzklassifikation
 
 E4 (abgeleitet aus ST-0194, ST-0196, ST-0197; alle E4/E5)
 

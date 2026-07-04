@@ -29,7 +29,7 @@ Galinsky, Magee, Inesi, Gruenfeld (2006, Psychological Science): "Power and Pers
 
 Distinktion zu Empathie: Galinsky-Folgestudien zeigen, dass kognitive Perspektivübernahme ("Was denkt der andere?") bessere Verhandlungsergebnisse liefert als emotionale Empathie ("Was fühlt der andere?"). Empathie kann zu Überanpassung führen.
 
-## Evidenzklasse
+## Evidenzlevel
 
 E4 (peer-reviewed, repliziert)
 
@@ -62,6 +62,18 @@ Kein E-Level-Wechsel (bleibt E4).
 
 Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`.
 
+## Erweiterung: Entwicklungspsychologische Fundierung — Hoffman-Empathiestufen und PONS-Test (B-0011, Goleman 1995, SRC-0011)
+
+**[Ergänzt 2026-07-02]**
+
+Martin Hoffman (New York University) beschreibt in entwicklungspsychologischer Beobachtungsforschung vier aufeinanderfolgende Reifestufen von Empathie/Perspektivübernahme: (1) globale Personifikations-Verwechslung im Säuglingsalter (fremdes Leid wird motorisch-reflexiv als eigenes erlebt), (2) undifferenzierte Trostversuche ab ca. 1 Jahr, (3) Bewusstsein für die Differenz zwischen eigenen und fremden Gefühlen ab 2 Jahren, (4) abstrakte Empathie für Gruppen/Situationen jenseits unmittelbarer Wahrnehmung im späten Kindesalter. Diese Stufenfolge liefert eine wichtige begriffliche Präzisierung für MEC-0020: Sie zeigt, dass motorische Mimikry (Stufe 1, reflexiv-unbewusst — vgl. auch MEC-0022) und KOGNITIVE Perspektivübernahme (Stufe 3–4, bewusst-differenziert, das in MEC-0020 beschriebene Konstrukt) entwicklungspsychologisch unterschiedliche Reifegrade UND unterschiedliche neuronale/kognitive Prozesse darstellen. Dies bestätigt unabhängig (aus einer völlig anderen Forschungstradition — Entwicklungspsychologie statt Sozialpsychologie der Macht) die bereits in MEC-0020 dokumentierte Abgrenzung zu MEC-0007 (affektive Sympathie) und liefert zusätzlich eine Abgrenzung zu MEC-0022 (motorische Emotional Contagion).
+
+**Zusätzlich websuchverifiziert (2026-07-02):** Der PONS-Test (Profile of Nonverbal Sensitivity), von Robert Rosenthal (Harvard) mit Kollegen entwickelt, ist eine unabhängig von der Galinsky-Machtforschung stehende Messmethode für "empathische Akkuratheit" (Fähigkeit, Emotionen aus nonverbalen Kanälen korrekt zu dekodieren). Vollständige Quelle: Rosenthal, R., Hall, J.A., DiMatteo, M.R., Rogers, P.L. & Archer, D. (1979). *Sensitivity to Nonverbal Communication: The PONS Test*. Baltimore: Johns Hopkins University Press. Websuchverifiziert: Der Volltest wurde in zahlreichen Kulturen validiert, Reliabilität des Volltests hoch (Retest-Reliabilität .86–.92), während verkürzte Testformen (Face-and-Body-Subtest, Vocal-Subtest) deutlich schwächere Reliabilität zeigen (.17–.40) — eine methodische Einschränkung, die Goleman im Fließtext nicht erwähnt. Wichtiger Befund aus Goleman/Rosenthal: PONS-Trefferquote korreliert kaum mit IQ/SAT — empirischer Beleg für die von MEC-0020 vorausgesetzte Trennung zwischen "kognitiver Perspektivübernahme als eigenständige Fähigkeit" und allgemeiner Intelligenz.
+
+**Konsequenz für MEC-0020:** Kein E-Level-Wechsel (bleibt E4 für den Kern-Galinsky-Befund). Die Ergänzung präzisiert die begriffliche Abgrenzung zu benachbarten Mechanismen (MEC-0007, MEC-0022) und liefert mit dem PONS-Test ein unabhängiges Messinstrument, das die Grundannahme (Perspektivübernahme als eigenständige, IQ-unabhängige Fähigkeit) stützt — jedoch mit dem Vorbehalt, dass PONS und Galinskys E-Test-Paradigma unterschiedliche Konstrukte messen (PONS: Dekodier-Akkuratheit; E-Test: Eigenzentrierungs-Tendenz unter Machtgefühl) und nicht identisch sind.
+
+**Neue offene Frage:** Moderiert wahrgenommene Machtasymmetrie (Galinsky) auch die PONS-gemessene Dekodier-Akkuratheit, oder nur die im E-Test gemessene Eigenzentrierungs-Tendenz? Nicht direkt getestet in den zitierten Quellen — beide Forschungslinien (Galinsky-Macht, Rosenthal-PONS) wurden bislang nicht miteinander kombiniert.
+
 ## Status
 
-Entwurf — 2026-07-01; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 & 4)
+Entwurf — 2026-07-01; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 & 4); erweitert 2026-07-02 (B-0011, Goleman: Hoffman-Entwicklungsstufen, Rosenthal-PONS-Test ergänzt, kein E-Level-Wechsel)

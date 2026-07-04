@@ -16,7 +16,7 @@ Die Annahme, dass Überzeugungswirkung primär von der Qualität, Logik und Attr
 
 Cialdini: "The psychological frame in which an appeal is first placed can carry equal or even greater weight." Belegt durch: Anker-Effekte (Preiswahrnehmung), Musik als Wein-Selektor, Trust-Assoziation des Topverkäufers Jim vor dem Pitch.
 
-## Evidenzklasse
+## Evidenzstatus
 
 E3 (hergeleitet aus Priming-Forschung E4 und Cialdinis eigenen Beobachtungen E2)
 

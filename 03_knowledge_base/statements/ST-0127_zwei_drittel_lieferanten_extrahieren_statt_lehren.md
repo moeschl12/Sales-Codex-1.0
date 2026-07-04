@@ -38,6 +38,10 @@ Kernproblem in der Tailoring-Dimension: Die meisten Vertriebsmitarbeiter nutzen 
 - Gibt es Situationen, in denen Intel-Sammlung von Stakeholdern primär sinnvoll ist? (z.B. sehr frühe Discovery-Phase)
 - Wie balancieren die besten Reps Lehren und Lernen in einem Stakeholder-Gespräch?
 
+## ⚠ Hinweis: Publication Bias (Kommerzielle Quelle)
+
+Dieses Objekt beruht (mit) auf der proprietaeren CEB-Befragungsstudie (N≈ 6.000, Vertriebsmitarbeiter aus 90+ Unternehmen). Die Rohdaten, Faktorladungen und Signifikanztests sind nicht oeffentlich einsehbar; ein unabhaengiges akademisches Peer-Review-Verfahren ist nicht nachgewiesen. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-001 (Replikationsrisiko) und SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
+
 ## Status
 
 Entwurf

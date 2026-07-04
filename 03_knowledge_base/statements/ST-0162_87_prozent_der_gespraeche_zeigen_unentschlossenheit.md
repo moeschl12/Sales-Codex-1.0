@@ -28,7 +28,7 @@ Aus der Tethr-ML-Analyse. Operationalisierung von "moderate vs. high indecision"
 
 - ST-0150: 40–60% der Deals enden in No-Decision — 87% zeigen Unentschlossenheit. Beide Zahlen zusammen: Unentschlossenheit ist allgegenwärtig, aber überwindbar (nicht alle 87% enden in No-Decision)
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Proprietäre ML-Datenbasis; keine externe Replikation; Klassifizierungslogik nicht offen)
 

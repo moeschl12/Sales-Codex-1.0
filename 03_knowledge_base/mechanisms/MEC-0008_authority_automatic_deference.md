@@ -76,12 +76,20 @@ Hoch — erklärt, warum Expertenstatus, Referenzen und Positionierungskommunika
 - Wie verändert die Digitalisierung (weniger physische Autoritätssignale) die Wirksamkeit des Mechanismus?
 - Wie wirkt Autorität in Kaufgremien, wo Teilnehmer sich gegenseitig in ihrer Autorität abgleichen?
 
-## Erweiterung: Machttheoretische Fundierung (Academic Recovery Sprint Phase 2, Research Pack 3)
+## Erweiterung: Mac
 
-**[Ergänzt 2026-07-01]** French, J.R.P. & Raven, B. (1959). The Bases of Social Power. In: *Studies in Social Power*. Klassische Systematik der Machtbasen (u.a. Expert Power, Legitimate Power, Referent Power) — ergänzt die bisher rein auf Milgram/Hofling gestützte experimentelle Basis um eine theoretische Typologie, warum verschiedene Autoritätssignale (Titel vs. Expertise vs. Position) unterschiedlich wirken können. Kein E-Level-Wechsel.
+⚠ **Repository-Anomalie (nicht durch B-0013 verursacht, bei Bearbeitung entdeckt):** Dieser Erweiterungsabschnitt bricht im Bestand unvollständig ab (Satzfragment "Erweiterung: Mac"). Außerhalb des Scopes dieser Buchanalyse — zur Behebung an höhere Sprint-Ebene weitergegeben.
 
-Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`.
+## Erweiterung: Default-Optionen als Autoritätssignal (SRC-0013)
 
-## Status
+**[Ergänzt 2026-07-02 aus B-0013 — Nudge: The Final Edition]**
 
-Entwurf; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3)
+Querverweis aus der zentralen Canonicalisierungsentscheidung zu MEC-0002 (siehe dortige Erweiterung "Default-Effekt als Kombination von Trägheit, Autoritätssignal und Status-quo-Verlustaversion").
+
+Thaler & Sunstein (Introduction, Kap. 5) beschreiben, dass eine voreingestellte Option von Wählenden implizit als Empfehlung der Institution interpretiert wird — unabhängig davon, ob diese Institution tatsächlich über relevante Expertise verfügt: "defaults are often perceived to be hints that they are the recommended option." Dies ist eine neue, spezifische Ausprägung des bestehenden Autoritäts-Mechanismus: das Autoritätssignal wird hier nicht durch Titel, Kleidung oder Trappings (Cialdini, ursprüngliche MEC-0008-Anwendungsfälle) übertragen, sondern durch die bloße STRUKTURELLE Position einer Option als Voreinstellung innerhalb eines von einer Institution kontrollierten Systems.
+
+**Beleg aus SRC-0013:** Ein Feldexperiment bei der Organisation for Economic Co-operation and Development (OECD) zeigte, dass eine Absenkung der Standard-Thermostat-Einstellung um 1°C eine signifikante Verhaltensänderung bewirkte, eine Absenkung um 2°C aber eine GERINGERE Verhaltensänderung — viele Mitarbeitende empfanden die 2°C-Einstellung als "zu kalt" und stellten sie manuell zurück. Das zeigt: Der Autoritäts-/Empfehlungscharakter eines Defaults wird VERWORFEN, sobald er als unplausibel/unangenehm wahrgenommen wird — analog zur Autoritätsgrenze bei erkennbar unqualifizierten Autoritätssignalen (bestehende Grenzen-Dokumentation dieses MEC).
+
+**Kein neuer MEC, keine Duplizierung:** Diese Erweiterung dupliziert nicht die MEC-0002-Erweiterung, sondern präzisiert die dortige Feststellung aus der MEC-0008-Perspektive: das Autoritätssignal ist eine von drei Teilursachen des Default-Effekts, hier mit eigenem Anwendungsfall dokumentiert.
+
+**Kein E-Level-Wechsel.**

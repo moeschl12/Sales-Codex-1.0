@@ -16,7 +16,7 @@ SRC-0008 (Pre-Suasion, Cialdini 2016), Kap. 11
 
 Cialdini: "The relationships that lead people to favor another most effectively are not those that allow them to say, 'Oh, that person is like us.' They are the ones that allow people to say, 'Oh, that person is of us.'" Neurologisch: Selbst- und Nahestehende-Konzepte entstehen aus denselben Hirnschaltkreisen — Überlappung, nicht bloße Analogie.
 
-## Evidenzklasse
+## Evidenzstatus
 
 E4 (Social Identity Theory Tajfel/Turner; IOS-Scale Aron; neuro-imaging E3)
 

@@ -22,7 +22,7 @@ Kernbegründung für die Harvard-Verhandlungsmethode. Illustriert durch Fallbeis
 - Gap Selling (B-0005): BANT-Kritik (ST-0138) — Positionen (Budget/Authority/Need/Timeline) statt Interessen (Problem/Gap) als Qualifikations-Fehler
 - W-001-Beitrag: Positionelles Denken erklärt auch, warum "Teach First" vs. "Diagnose First" eine Falschdichotomie sein könnte — beide könnten auf Interessen statt Positionen zielen
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (Weitverbreiteter Befund in Verhandlungstheorie; Harvard Negotiation Project; keine RCT, aber institutionell gut belegt und breit rezipiert)
 
 ## Status

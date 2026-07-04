@@ -12,7 +12,7 @@ Das Verhalten, das JOLT-Erfolg erklärt — Indecision diagnostizieren, spezifis
 
 SRC-0006 — The JOLT Effect, Chapter 11. Trainierbarkeits-Argument analog zu A-0023 (Challenger Sale, B-0004).
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 
 E2 — Normative Behauptung; keine Längsschnitt-Trainingsdaten; kompatibel mit Verhaltens-Forschung, aber für JOLT-Kontext nicht spezifisch belegt.
 

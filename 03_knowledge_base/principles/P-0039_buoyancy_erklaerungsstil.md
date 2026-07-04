@@ -28,7 +28,7 @@ ACHTUNG: Optimismus ≠ naiver Positivismus. Seligman spricht von "flexiblem Opt
 2. Interrogative Self-Talk (T-0038) vor dem Gespräch: Mobilisiert konstruktive Selbstprüfung ohne Selbstgeißelung
 3. "Non-Sales Selling"-Frame: Jedes Gespräch als Möglichkeit zum Lernen → spezifische Verbesserung statt globale Bewertung
 
-## Evidenzklasse (Prinzip)
+## Evidenzklassifikation
 
 E4 (Seligman MetLife-Studie: longitudinal, N groß, peer-reviewed; abgeleitet über ST-0190)
 

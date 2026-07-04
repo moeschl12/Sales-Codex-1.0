@@ -20,22 +20,13 @@ Pre-Suasion (MEC-0018) zeigt: Was unmittelbar vor einer Botschaft geschieht, bee
 
 SRC-0008 (Pre-Suasion, Cialdini 2016), Kap. 1 + 9
 
-## Evidenzklasse
+## Evidenzklassifikation
 
-E3 (Priming-Forschung E4; Sales-Anwendung E2; Kombination E3)
+E3 (Priming-Forschung E2–E4 differenziert — siehe MEC-0018 Abschnitt „Evidenzlevel" **[korrigiert 2026-07-03, Final Pre-Release Sprint]**: Spreading Activation E4, sozial-behaviorale Bargh/Dijksterhuis-Priming-Studien E2 mit Replikationsvorbehalt (`SCIENTIFIC_DEBT.md`, Sektion B-0010); Sales-Anwendung E2; Kombination unverändert E3)
 
 ## Verknüpfte Objekte
 
 - MEC-0018 (Pre-Suasion)
 - T-0035 (Opener-Technik)
 - ST-0175 (Top-Performer investieren in Pre-Moment)
-- A-0040 (Rahmen vor Botschaft = gleich oder mehr Gewicht)
-
-## Grenzen
-
-- Gilt nicht bei extrem gut vorbereiteten Gesprächspartnern, die einen mentalen Gegen-Rahmen mitbringen
-- Sehr kurze Interaktionen (E-Mail, Kalt-Call erster Satz) lassen wenig Raum für Opener
-
-## Status
-
-Entwurf — 2026-07-01
+- A-0040 (Rahmen vor 

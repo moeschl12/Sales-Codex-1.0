@@ -37,7 +37,7 @@ Grundlage für die J-Komponente (Judge the Indecision). Hochleister identifizier
 - SPIN (B-0001): Implizite Parallele — Huthwaite unterscheidet auch Bedürfnis-Typen (Latent vs. Explicit). JOLT tut dasselbe für Entscheidungsblockaden
 - Gap Selling (B-0005): PIC-Discovery erschließt emotional/technisch/business-Ebenen — JOLT erschließt analog Entscheidungsblockaden auf diesen Ebenen
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Aus ML-Analyse abgeleitet; Taxonomie plausibel und intern konsistent; keine Replikation der Drei-Typen-Klassifikation)
 

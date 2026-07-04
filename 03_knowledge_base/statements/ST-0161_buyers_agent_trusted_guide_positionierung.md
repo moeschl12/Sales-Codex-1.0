@@ -34,7 +34,7 @@ Travel-Agent-Metapher ist zentrales Narrativ-Element des Buches. Zahl: US-Reiseb
 - MEC-0007 (Liking, B-0002): Liking allein reicht nicht für Trusted Guide — Expertise ist die Bedingung
 - Gap Selling (B-0005): "Credibility vor Helping" (ST-0146) ist dieselbe Idee — zuerst Expertise zeigen, dann helfen
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Metaphorisches Rahmenmodell; Reisebüro-Comeback-Daten faktisch, aber Übertragung auf Sales ist konzeptuell, nicht empirisch belegt)
 

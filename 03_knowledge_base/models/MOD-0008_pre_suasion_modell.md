@@ -83,7 +83,7 @@ Nicht direkt relevant. Pre-Suasion ist orthogonal zu Teach First vs. Diagnose Fi
 
 ## Evidenzlevel
 
-E3 (Modell als Integration: einzelne Komponenten E4; Gesamtmodell als Cialdinis Synthese E3)
+E3 (Modell als Integration: einzelne Komponenten E2–E4, differenziert — siehe MEC-0018 Abschnitt „Evidenzlevel" **[korrigiert 2026-07-03, Final Pre-Release Sprint]**: Spreading Activation E4, sozial-behaviorale Bargh/Dijksterhuis-Priming-Studien E2 mit Replikationsvorbehalt (`SCIENTIFIC_DEBT.md`, Sektion B-0010, Priorität Hoch); Gesamtmodell als Cialdinis Synthese unverändert E3)
 
 ## Grenzen
 

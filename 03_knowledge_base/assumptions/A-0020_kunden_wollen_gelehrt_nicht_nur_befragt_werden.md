@@ -6,7 +6,7 @@ A-0020
 
 ## Source ID
 
-SRC-0004
+SRC-0004, W-001
 
 ## Name
 
@@ -48,7 +48,19 @@ Die Annahme ist stärker für komplexe, differenzierte Lösungen. Für austausch
 
 ## Widerspruch (dokumentiert)
 
-⚠ SPIN Selling (Rackham, nicht im Repository): SPIN betont Situationsfragen, Problemfragen, Implikationsfragen und Nutzenfragen als Kern der Verkaufsexzellenz. Challenger Sale sieht das als notwendig aber nicht hinreichend — und sieht die Priorität beim Teach. Beide können richtig sein, wenn man unterschiedliche Verkaufsphasen betrachtet: Diagnose als Hygienefaktor, Insight als Differenzierer.
+⚠ SPIN Selling (Rackham, nicht im Repository): SPIN betont Situationsfragen, Problemfragen, Implikationsfragen und Nutzenfragen als Kern der Verkaufsexzellenz. Challenger Sale sieht das als notwendig aber nicht hinreichend — und sieht die Priorität beim Teach. Beide können richtig sein, wenn man unterschiedliche Verkaufsphasen betrachtet: Diagnose als Hygienefaktor, Insight als Differenzierer. **Siehe auch die Erweiterung durch W-001 unten — dieser Widerspruch wurde durch das Research Program aufgegriffen und kontextuell (nicht universell) aufgelöst.**
+
+## Erweiterung durch W-001 (Research Program) — 2026-07-03
+
+**Geprüfter Sachverhalt:** Verhältnis zwischen dieser Annahme (Kunden profitieren in komplexen B2B-Situationen stärker von Insights als von Diagnosefragen) und dem gegenläufigen Kernbefund aus Gap Selling (P-0025, vollständige Diagnose vor Lösung) — dokumentiert seit `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md`, Eintrag "W-001 — Teach First vs. Diagnose First", dort als UNGELÖST geführt.
+
+**Ergebnis (Editor Decision W-001, `06_research_program/completed/W001/06_EDITOR_DECISION.md`, 2026-07-03, Option "Teilweise annehmen"):** Diese Annahme steht **nicht** in einem universellen Widerspruch zu P-0025/diagnose-orientierten Ansätzen. Beide beschreiben unterschiedliche Wirkmechanismen innerhalb komplexer B2B-Kaufprozesse; welcher Mechanismus überlegen ist, hängt von Problemreife, Kontext, Sensemaking-Bedarf und Buying-Center-Dynamik ab (`06_research_program/completed/W001/04_THEORY_LANDSCAPE.md`, Abschnitt 3). Eine universelle Regel "Teach First" wird aus dieser Annahme ausdrücklich **nicht** abgeleitet — die Annahme gilt kontextabhängig, nicht universell überlegen gegenüber Diagnose-Ansätzen.
+
+**Zusätzliche, unformalisierte Stützung:** Eine im Rahmen von W-001 konsolidierte Gartner-Studie (>1.100 befragte B2B-Käufer) findet für "Sensemaking"-Verkäufer eine Glaubwürdigkeitsrate von 67 % gegenüber 13 % ("Giving") bzw. 28 % ("Telling") — zitiert nach `06_research_program/completed/W001/REFERENCES.md` (#3, #37, #57) bzw. `04_THEORY_LANDSCAPE.md`, Abschnitt 3.4. Diese Studie ist bislang **nicht** nach `01_framework/08_templates/source_template.md` formal klassifiziert (Quellenklasse A–F ausstehend) — siehe `06_research_program/completed/W001/05_DECISION_BRIEF.md`, Abschnitt 4. Die Evidenzklasse dieser Annahme bleibt daher unverändert **E3** — eine Research-Program-Herkunft begründet keine automatische Höherstufung (`06_research_program/REPOSITORY_INTEGRATION.md`, Abschnitt 8).
+
+**Nicht übernommen:** Die im Master Review entwickelte mathematische Formalisierung (Socio-Cognitive Sensegiving Model, SCSM) wurde in der Editor Decision ausdrücklich abgelehnt und fließt nicht in diese Annahme ein — keine Differentialgleichung, kein neues Symbolsystem, kein neues Modell-Objekt.
+
+**Herkunft:** W-001 (Research Program), siehe `Source ID` oben.
 
 ## Offene Fragen
 

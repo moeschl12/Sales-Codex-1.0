@@ -94,8 +94,35 @@ Hoch — erklärt, warum Labeling als erste Technik (vor Präsentation, Argument
 
 Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`, `00_project/SCIENTIFIC_DEBT.md`.
 
+## Erweiterung: Neurobiologischer Grundlagenrahmen — LeDoux Amygdala-Schaltkreis (B-0011, Goleman 1995, SRC-0011)
+
+**[Ergänzt 2026-07-02]**
+
+Goleman (Emotional Intelligence, 1995) liefert — zehn Jahre vor Lieberman (2007) — den übergeordneten neurobiologischen RAHMEN, in den der spezifische Labeling-Mechanismus einzuordnen ist. Zentrale Quelle: Joseph LeDoux (Center for Neural Science, NYU), dessen Forschung zwei parallele neuronale Verarbeitungspfade nach sensorischer Reizaufnahme beschreibt:
+
+1. **"Low Road" (direkter Pfad):** Thalamus → Amygdala (ein einziger synaptischer Sprung) — schnell, aber ungenau ("quick and dirty"), löst emotionale Reaktion aus, BEVOR der Neocortex die Situation vollständig erfasst hat.
+2. **"High Road" (kortikaler Pfad):** Thalamus → sensorischer Cortex → Amygdala — langsamer, aber präziser, ermöglicht bewusste Bewertung.
+
+Websuchverifiziert (2026-07-02): Der Begriff "Low Road"/"High Road" stammt aus LeDoux, J. (1996), *The Emotional Brain: The Mysterious Underpinnings of Emotional Life*, Simon & Schuster — websuchbestätigt als Standardreferenz für dieses Zwei-Pfad-Modell (Quelle: ResearchGate-Abbildung "The Low and the High Roads to the Amygdala (LeDoux, 1996)"; vgl. auch LeDoux, J. (2000), "Emotion Circuits in the Brain", *Annual Review of Neuroscience* 23, 155–184). Golemans Buch (1995) beschreibt denselben Mechanismus bereits vor der Buchveröffentlichung LeDoux' 1996, gestützt auf LeDoux' vorangegangene Zeitschriftenpublikationen der frühen 1990er Jahre (im Fließtext nicht vollständig zitiert — Konsistenz mit dem 1996er Buch aber thematisch eindeutig).
+
+**Konsequenz für MEC-0010:** Diese Erweiterung präzisiert die Kausalkette. Bislang beschrieb MEC-0010 ausschließlich den SPEZIFISCHEN Labeling-Effekt (Lieberman 2007: Benennen eines Affekts dämpft Amygdala-Aktivität, erhöht rvlPFC-Aktivität). Goleman/LeDoux liefert den GRUNDLEGENDEN Erklärungsrahmen, warum die Amygdala überhaupt schneller reagiert als der präfrontale Kortex reguliert (Thalamus-Kurzschluss) — das ist eine notwendige Ergänzung, kein Ersatz: Lieberman (2007) zeigt die Regulation DURCH Labeling; LeDoux (1996) zeigt, WARUM ohne Regulation die Amygdala die Oberhand gewinnt. Beide Quellen sind komplementär und unabhängig (verschiedene Forschungsgruppen, verschiedene Jahrzehnte, verschiedene Methodik — LeDoux primär Tiermodell/Läsionsstudien, Lieberman fMRT am Menschen).
+
+**Zusätzlich ergänzt:** Golemans Beschreibung des präfrontalen "Off-Switch"-Mechanismus (linker präfrontaler Kortex hemmt rechten/Amygdala-Erregung, gestützt auf Schlaganfallpatienten-Studien) liefert eine weitere unabhängige Evidenzlinie für den Regulationsmechanismus, komplementär zu Liebermans rvlPFC-Befund (beide Studien identifizieren präfrontale Regionen als Gegenspieler der Amygdala, jedoch unterschiedliche Subregionen — rvlPFC bei Lieberman vs. allgemeiner linker präfrontaler Kortex bei den von Goleman zitierten Läsionsstudien; diese Präzisierung ist eine offene Frage, s. u.).
+
+**Neue Grenzen-Ergänzung (Kagan-Temperamentsforschung, Goleman Kap. 14):** Individuelle Unterschiede in der Amygdala-Basiserregbarkeit sind erheblich und teilweise neuroplastisch veränderbar (Jerome Kagan, Harvard, Längsschnittstudien an "hochreaktiven" Kleinkindern). Etwa ein Drittel initial ängstlich-reaktiver Kinder zeigt bis zum Kindergartenalter deutlich geringere Reaktivität — abhängig von wiederholter, dosierter Konfrontation mit milden Herausforderungen statt Überbehütung. Dies ist eine wichtige Ergänzung des Grenzen-Abschnitts: MEC-0010 (Labeling-Wirkung) dürfte bei Personen mit chronisch erhöhter Amygdala-Basiserregbarkeit schwächer oder langsamer wirken als bei Personen mit niedrigerer Basiserregbarkeit — eine individuelle Moderatorvariable, die in der bisherigen Fassung von MEC-0010 nicht berücksichtigt war.
+
+**Evidenzeinordnung dieser Ergänzung:** E4 für den LeDoux-Grundlagenrahmen (Tiermodell-Läsionsstudien und Zwei-Pfad-Anatomie sind neurowissenschaftlicher Konsens, breit repliziert und in Lehrbüchern etabliert) — aber weiterhin E2 für den spezifischen Verhandlungs-/Vertriebstransfer (unverändert, da diese Ergänzung den Grundlagenrahmen stärkt, nicht den Transfer-Beleg). Kagan-Temperamentsforschung: E3 (Längsschnittstudie mit Kontrollgruppenvergleich, aber Kindesentwicklungskontext, nicht direkt am Verhandlungserwachsenen getestet).
+
+**Kein E-Level-Wechsel für MEC-0010 als Ganzes.** Die Gesamteinstufung bleibt E2 (Verhandlungstransfer weiterhin unbelegt), aber der Grundlagenrahmen (WARUM Amygdala vor Kortex reagiert) ist jetzt auf E4-Niveau dokumentiert statt implizit vorausgesetzt.
+
+## Offene Fragen (Ergänzung 2026-07-02)
+
+- Sind rvlPFC (Lieberman) und der von Goleman/den zitierten Läsionsstudien beschriebene "linke präfrontale Kortex" dieselbe funktionale Region oder unterschiedliche, komplementäre Subsysteme? Nicht abschließend geklärt — beide Studienlinien identifizieren präfrontale Hemmung der Amygdala, aber mit unterschiedlicher anatomischer Präzision.
+- Moderiert individuelle Amygdala-Basiserregbarkeit (Kagan) die Wirksamkeit von Labeling-Techniken messbar? Nicht direkt getestet — plausible, aber unbelegte Hypothese aus der Zusammenschau zweier unabhängiger Forschungslinien (Kagan zu Kindesentwicklung, Lieberman zu Erwachsenen-Labeling).
+
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0003)  
 **E-Level-Korrektur 2026-07-01:** E3 → E2. Lieberman (2007) ist Laborstudie ohne direkten B2B-Verhandlungsbeweis. Entscheidung dokumentiert in PEER_REVIEW_DECISION_REPORT_SPRINT_001.md.  
-**Erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 & 4):** Gross (1998), van Kleef et al. (2004) ergänzt; Konvergenzbestätigung dokumentiert.
+**Erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 & 4):** Gross (1998), van Kleef et al. (2004) ergänzt; Konvergenzbestätigung dokumentiert.  
+**Erweitert 2026-07-02 (B-0011, Goleman/LeDoux):** Neurobiologischer Grundlagenrahmen (Thalamus-Amygdala-Kurzschluss, präfrontale Hemmung), Kagan-Temperamentsforschung als neue Grenzen-Dimension ergänzt. Kein E-Level-Wechsel für Gesamtobjekt (bleibt E2); Grundlagenrahmen selbst auf E4 dokumentiert.

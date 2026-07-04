@@ -5,6 +5,340 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-04 — Sales Codex Version 1.0 — Repository Closing & Release Sprint
+
+**Session-Typ:** Letzter Sprint für Version 1.0. Rolle ausdrücklich Editor-in-Chief / Release Manager / Repository Curator — nicht Forscher, Autor, Reviewer oder Framework-Architekt. Entwicklungsmodus beendet: Zweck ist die finale wissenschaftliche Dokumentation des Zustands, der formale Repository-Abschluss und die offizielle Veröffentlichung von Version 1.0, nicht deren Weiterentwicklung. Auftrag: alle drei zugestellten externen Gutachten ("Wissenschaftliche Prüfung des Sales Codex", "Wissenschaftliche Begutachtung des Behavioral Science Sprints", "Sales Codex Release Audit" — zusammen der im Release Plan definierte Finale RC-1-Audit) vollständig verarbeiten, das Repository abschließen und Version 1.0 formal freigeben.
+
+**Phase 1 (Abschlussvalidierung aller externen Gutachten):** Alle 19 Einzelkritikpunkte der drei Gutachten wurden einzeln gegen den tatsächlichen, aktuellen Repository-Zustand geprüft — durch direktes Öffnen der betroffenen Dateien, nicht durch Verlassen auf Sekundärberichte. Keine Empfehlung wurde ungeprüft übernommen, keine ignoriert. Ergebnis (`00_project/FINAL_RC1_AUDIT_VALIDATION_REPORT.md`): 14 Punkte BEHOBEN (u. a. SRC-0010-Behauptung sachlich widerlegt; Publication-Bias-Warnhinweise für B-0004/B-0006 bestätigt vorhanden; OD-006/007-Status korrekt formuliert; `book_catalog.md`/`REPOSITORY_KPIS.md` synchronisiert; MEC-0018-Widerspruch behoben; MEC-0025-Umbenennung bestätigt; Scientific-Debt-Ergänzungen B-0011 bestätigt; Boundary Conditions bestätigt), 1 TEILWEISE BEHOBEN (14 Kernobjekte mit Evidenzfeld versehen, Statement-Ebene mit geschätzt >250/309 fehlenden Feldern weiterhin offen), 2 WEITERHIN GÜLTIG als bereits dokumentierte, nicht-blockierende Punkte (kein retrospektives Peer-Review des Kernbestands; OD-008–012 weiterhin offen), 1 DURCH EDITOR DECISION ABGELEHNT bestätigt (MOD-0011/MOD-0012-Reklassifizierung in neue Kategorien PRX/TAX — ED-008 aus dem Behavioral Science Review Sprint wird nicht neu aufgerollt), 1 NICHT REPRODUZIERBAR (Git-Index-Formatierungsfehler lief in dieser Session fehlerfrei durch).
+
+**Phase 2 (Repository Closing):** Abschließender Status über 14 Dimensionen erstellt (`00_project/REPOSITORY_CLOSING_STATUS.md`): Konsistenz, Governance, Research Program, Evidence System, Scientific Debt, Open Decisions, Canonical Knowledge Model, Repositorystruktur, Release-Dokumente, Cross References, tote Links, Quellen, Wissensobjekte, Versionierung. Ein bestätigt fehlerhafter relativer Pfadverweis in einem historischen Sprintbericht (`04_book_analysis/Nudge/CANONICALIZATION_REPORT_B0013.md:137`) sowie die bekannten strukturellen Restpunkte (Ordnernummern-Kollisionen, SRC-0010-Platzierung) wurden dokumentiert, nicht behoben (Änderungssperre RC-1, Repository-Umstrukturierung in diesem Sprint unzulässig). Gesamtergebnis: **kein echter, unadressierter Release Blocker.**
+
+**Phase 3 (Final Editor Assessment):** Wissenschaftliche und editorische Gesamtbewertung erstellt (`00_project/FINAL_EDITOR_ASSESSMENT_V1_0.md`) — keine technische Dokumentation, sondern inhaltliche Würdigung: wesentliche wissenschaftliche Erkenntnisse (empirischer Nachweis der Funktionsfähigkeit des Research Program via W-001, Behavioral-Science-Fundierung, differenzierte Ariely-Entkopplung), einflussreichste Architekturentscheidungen (Stateless Agent Architecture, entkoppelte Framework-/Codex-Versionsachsen, Research Program, Canonical Knowledge Model), erfolgreich gelöste vs. bewusst abgelehnte Kritikpunkte, bewusst verbliebene Einschränkungen, namentliche Übergabe an Version 1.1.
+
+**Phase 4 (Release Declaration):** `00_project/SALES_CODEX_VERSION_1_0_RELEASE.md` erstellt — die offizielle Veröffentlichungserklärung mit allen geforderten Abschnitten (Titel, Datum, Version, Herausgeber, Executive Summary, Ziel, Umfang, wissenschaftliche Grundlage, Governance, Research Program, Audit-Historie, Veröffentlichungsentscheidung, bekannte Einschränkungen, Ausblick auf Version 1.1).
+
+**Phase 5 (Repository Abschluss):** `CURRENT_STATE.md` (Sales-Codex-Gesamtversion jetzt 1.0, veröffentlicht am 2026-07-04), `00_project/NEXT_ACTION.md` (aktuelle Aktion durch Abschlussmeldung ersetzt, alter Freeze-Eintrag zu „Vorheriger Sprint"), `00_project/SESSION_LOG.md` (dieser Eintrag) und `00_project/changelog.md` aktualisiert. Ausschließlich diese vier Governance-Dokumente geändert — keine anderen Dateien.
+
+**Abschluss:** `00_project/VERSION_1_0_CLOSING_REPORT.md` erstellt mit allen zehn geforderten Abschnitten (Executive Summary, Zusammenfassung der externen Gutachten, Repository-/Governance-/Research-Program-/Scientific-Debt-/Open-Decisions-Endzustand, Releaseentscheidung, Lessons Learned, Empfehlung für Version 1.1). **Einstufung: VERSION 1.0 OFFICIALLY RELEASED** — auf Basis des tatsächlichen, unabhängig verifizierten Repository-Zustands, nicht auf Basis einer Selbsteinschätzung der drei zugestellten Gutachten.
+
+**Eingehaltene Leitplanken:** Keine neuen Wissensobjekte, Quellen, Bücher, Modelle, Mechanismen, Statements, Assumptions; keine neue Forschung, keine Literature Reviews; keine Frameworkänderungen; keine Änderungen am Canonical Knowledge Model, Operating Manual, Research Program, Research Lifecycle, an abgeschlossenen Forschungsprojekten oder Editor Decisions; keine neuen Open Decisions; keine Repository-Umstrukturierungen.
+
+**Bedeutung:** Sales Codex Version 1.0 ist ab 2026-07-04 offiziell veröffentlicht. Die Entwicklungsphase von Version 1.0 ist abgeschlossen. Version 1.1 wurde noch nicht begonnen. Version 1.0 gilt ab sofort als unveränderlich; jede zukünftige Änderung erfolgt ausschließlich im Rahmen von Version 1.1. Es dürfen keine weiteren Entwicklungssprints für Version 1.0 mehr eröffnet werden.
+
+---
+
+## 2026-07-04 — Sales Codex Version 1.0 RC-1 Release Candidate Freeze
+
+**Session-Typ:** Reiner Release-/Configuration-Management-Sprint. Rolle ausdrücklich Release Manager / Configuration Manager — nicht Forscher, Autor, Reviewer, Editor oder Framework-Architekt. Auftrag: den bereits erreichten, veröffentlichungsreifen Zustand des Sales Codex als Version 1.0 RC-1 dokumentieren und einfrieren. Keine fachlichen, wissenschaftlichen oder Framework-Änderungen zulässig.
+
+**Datenerhebung:** Alle Freeze-Kennzahlen wurden unabhängig direkt im Dateisystem erhoben (nicht aus Erinnerung oder ungeprüften Angaben übernommen) und gegen `00_project/FINAL_PRE_RELEASE_REPORT.md` (Abschnitt 5) gegengeprüft: 514 Wissensobjekte (309 ST, 60 A, 29 MEC, 57 P, 47 T, 12 MOD), 15 Quellen, 15 Bücher, 15 Selbstreviews, 12 Open Decisions (4 DONE, 1 ERSETZT, 2 ANGENOMMEN/Umsetzung ausstehend, 5 OFFEN), 106 Scientific-Debt-Tabellenzeilen in 23 Tabellen (per Skript objektiv ausgezählt, methodischer Unterschied zur KPI-Formel-Summe 83 dokumentiert, nicht geglättet).
+
+**Phase 1–3 (Freeze-Dokumente):** `00_project/RELEASE_CANDIDATE_RC1.md` (18 geforderte Angaben), `00_project/RELEASE_NOTES_v1.0_RC1.md` (Neuerungen, wissenschaftliche Ergebnisse, Architekturentscheidungen, Research Program, W-001, Behavioral Science, Repository Consolidation, Breaking Changes, Einschränkungen) und `00_project/REPOSITORY_MANIFEST_RC1.md` (vollständiger Struktur-Snapshot: Ordnerstruktur, Objektanzahlen, Versionen, Governance-/Framework-Dokumente, Forschungsprojekte, wissenschaftliche Abdeckung) neu erstellt — ausschließlich Zusammenfassung/Zählung bereits bestehender, an anderer Stelle dokumentierter Zustände.
+
+**Phase 4 (Release Verification):** Cross-Referenzen der drei neuen Dokumente gegen das tatsächliche Repository geprüft (alle referenzierten Governance-/Framework-Dateien existieren, Summenprobe 309+57+60+47+29+12=514 bestätigt); keine bestehende Governance-, Framework-, Wissensobjekt- oder Forschungsprogramm-Datei verändert; keine sprintrelevante Inkonsistenz gefunden.
+
+**Phase 5 (Freeze Declaration):** `00_project/RC1_FREEZE_DECLARATION.md` erstellt — formale Erklärung, dass Sales Codex Version 1.0 RC-1 ab 2026-07-04 als eingefrorener Release Candidate gilt, mit explizitem Geltungsvorbehalt gegenüber dem noch ausstehenden Finalen RC-1-Audit und der Herausgeber-Freigabe; Liste zulässiger/unzulässiger Änderungen bis 1.0; Umgang mit Version-1.1-Backlog.
+
+**Wichtige Klarstellung (per Rückfrage an den Herausgeber während dieses Sprints geklärt):** Das Repository definiert selbst einen dreistufigen Prozess — RC-1 Freeze → Finaler RC-1-Audit → formale Herausgeber-Freigabe (`SALES_CODEX_1_0_RELEASE_PLAN.md`, Kapitel 2.2/5). Dieser Sprint erledigt ausschließlich Stufe 1. Der Herausgeber bestätigte: Empfehlung lautet **READY FOR FINAL RC-1 AUDIT**, nicht "READY FOR VERSION 1.0 RELEASE" — der Freeze ersetzt weder den Finalen RC-1-Audit noch die Herausgeberentscheidung.
+
+**Ergebnis:** `00_project/RC1_FREEZE_REPORT.md` erstellt (Executive Summary, Freeze-Arbeiten, Snapshot, Versionsstatus, Restrisiken, Release Readiness, Empfehlung). Einschätzung: **READY FOR FINAL RC-1 AUDIT**.
+
+**Eingehaltene Leitplanken:** Keine neuen Wissensobjekte, Quellen, Bücher, Modelle, Mechanismen, Statements, Assumptions; keine Frameworkänderungen; keine Änderungen am Canonical Knowledge Model, Operating Manual, Research Program, Research Lifecycle, an abgeschlossenen Forschungsprojekten oder Editor Decisions; keine neuen Open Decisions; keine neue Forschung; keine Literature Reviews; keine Architektur- oder Repository-Umstrukturierungen.
+
+---
+
+## 2026-07-04 — External Audit Resolution Sprint
+
+**Session-Typ:** Sprint zur systematischen Prüfung und selektiven Auflösung eines extern zugelieferten Audits ("Wissenschaftliche Prüfung des Sales Codex", Framing: Gemini Deep Research; Gesamteinschätzung des Audits: MAJOR REVISION REQUIRED). Auftrag: jeder der 7 Kritikpunkte des Audits musste vor jeder Maßnahme eigenständig am tatsächlichen Repository-Zustand verifiziert werden — der Audit selbst gilt als Eingabe, nicht als Wahrheit. Nur bestätigte oder teilweise bestätigte Befunde durften umgesetzt werden.
+
+**Phase 1 (SRC-0010 + Publication Bias):** SRC-0010 (`02_sources/SRC-0010_thinking_fast_and_slow.md`) wurde vollständig gelesen — die Auditbehauptung, die Datei fehle physisch, ist sachlich falsch; keine Maßnahme erforderlich. Publication-Bias-Behauptung für B-0004/B-0005/B-0006 wurde differenziert geprüft: `SCIENTIFIC_DEBT.md` enthielt bereits SD-SYS-001 (Challenger/CEB) und SD-SYS-004 (JOLT/Tethr), jedoch keinen sichtbaren Warnhinweis auf Objektebene; für B-0005 (Gap Selling) liegt dagegen ein andersartiges, bereits separat dokumentiertes Problem vor (SD-SYS-002, Quellenunvollständigkeit). 29 Objekte (26 Statements ST-0107–ST-0132, A-0019, ST-0151, MOD-0006) erhielten einen neuen Abschnitt „⚠ Hinweis: Publication Bias (Kommerzielle Quelle)"; B-0005 wurde bewusst ausgenommen. `SCIENTIFIC_DEBT.md` um entsprechende Objektsichtbarkeits-Vermerke ergänzt, inklusive Hinweis, dass ST-0001–ST-0023 (SPIN, dieselbe Risikokategorie, aber nicht Auditgegenstand) unverändert blieb.
+
+**Phase 2 (OD-006/007, book_catalog.md, REPOSITORY_KPIS.md, Peer Review):** OD-006/OD-007-Status in `OPEN_DECISIONS.md` bereits korrekt aus dem vorangegangenen Final Pre-Release Sprint dokumentiert — Auditbehauptung einer "Scheinintegration" nicht bestätigt, keine Änderung nötig; zusätzliche Prüfung des Operating Manual auf angeblich irreführende Textstellen ergab null Treffer. `book_catalog.md` wurde als bestätigt stark veraltet identifiziert — schwerwiegender als vom Audit beschrieben: Aufdeckung einer bis dahin unentdeckten ID-Kollision zwischen ursprünglich geplanten und tatsächlich vergebenen Buch-IDs bei 7 offenen Kandidaten. Vollständig neu strukturiert: 15 abgeschlossene Bücher (B-0001–B-0015) korrekt unter realer ID mit Status DONE, 6 doppelte Alteinträge entfernt, 7 kollidierende Kandidaten auf neue IDs B-0041–B-0047 verschoben (Inhalt unverändert). `REPOSITORY_KPIS.md` (neu: Version 1.1) um 13 fehlende Buchsektionen (B-0003–B-0015) ergänzt, jeweils aus dem zugehörigen `BOOK_REVIEW_REPORT`-Dokument sowie einer objektiven Auszählung der `SCIENTIFIC_DEBT.md`-Zeilen; Repository-weite Summenzeile ergänzt, Restdifferenz (512 vs. 514 Objekte) offen dokumentiert statt geglättet. Peer-Review-Empfehlung geprüft und als inhaltlich bereits durch die bestehende, offene OD-010 abgedeckt bewertet — keine neue Open Decision, keine neue Governance angelegt (wie im Auftrag ausdrücklich vorgegeben).
+
+**Phase 3 (Evidence Coverage, Git-Index):** Die 14 vom Audit benannten Objekte (A-0030–A-0039, MOD-0001/0002/0004/0005) wurden einzeln gelesen — die Behauptung "keinerlei Evidenzklassifizierung" erwies sich als unzutreffend: alle 10 Assumptions hatten bereits vollständige Bewertungen unter der nicht standardisierten Überschrift „Wie gut ist sie belegt?" (umbenannt zu „Evidenzstatus", Inhalt unverändert); 3 der 4 Modelle hatten bereits explizite E-Level-Aussagen im Fließtext (MOD-0001, MOD-0004 transkribiert), MOD-0002 wurde aus den bereits vorhandenen E4-Bewertungen seiner vier Kernmechanismen (MEC-0005/0006/0007/0008, MEC-0019) zu einem Komposit-E3 abgeleitet (analog zur MOD-0008-Konvention), MOD-0005 aus Quellenklasse B + fehlender unabhängiger Validierung zu E2 abgeleitet — in allen Fällen Transkription/Ableitung, keine neue Bewertung erfunden. Der vom Audit behauptete Git-Index-Formatierungsfehler wurde anhand von `REPOSITORY_CONSOLIDATION_IMPLEMENTATION_REPORT_RC1.md` (Abschnitt 6.4) bestätigt als vorbestehend, technisch auf die `.git/index`-Cache-Datei begrenzt (Versionshistorie via `git log` intakt) und sandbox-/versionsabhängig — wie im Auftrag vorgegeben nur beurteilt, nicht repariert.
+
+**Phase 4 (Verification):** Alle 29 Publication-Bias-Dateien auf korrekte, einmalige Einfügung vor „## Status" geprüft (keine Anomalie). Alle 10 umbenannten Assumption-Header und alle 4 neu ergänzten Modell-Evidenzlevel-Abschnitte einzeln gegengeprüft (kein Duplikat, kein Rest der alten Überschrift). `book_catalog.md` und `REPOSITORY_KPIS.md` nach Bearbeitung vollständig über natives Lesewerkzeug gegengeprüft — die Bash-Sandbox zeigte erneut zeitweise veraltete/verkürzte Zeilenzahlen für in dieser Session bearbeitete Dateien (bereits aus vorherigen Sprints bekanntes Verhaltensmuster), keine tatsächliche Dateibeschädigung.
+
+**Ergebnis:** `00_project/EXTERNAL_AUDIT_RESOLUTION_REPORT.md` erstellt (Executive Summary, Punkt-für-Punkt-Analyse aller 7 Kritikpunkte, Geänderte Dateien, Verbleibende offene Punkte, Release Readiness). Einschätzung: **READY FOR FINAL RC-1 AUDIT**.
+
+**Eingehaltene Leitplanken:** Keine neuen Wissensobjekte (SRC-0010 existierte bereits vollständig), keine neue Forschung, keine neue Governance-Struktur, keine Änderungen am Canonical Knowledge Model, am Operating Manual, am Research Program, an abgeschlossenen Forschungsprojekten oder an bestehenden Editor Decisions. Jede Auditbehauptung wurde vor jeder Maßnahme eigenständig verifiziert — mehrere Behauptungen erwiesen sich als teilweise oder vollständig unzutreffend und wurden entsprechend nicht pauschal umgesetzt.
+
+---
+
+## 2026-07-03 — Sales Codex 1.0 Final Pre-Release Sprint
+
+**Session-Typ:** Reiner Konsistenzsprint unmittelbar vor dem RC-1-Audit. Auftrag: alle bekannten Repository-Widersprüche und Konsistenzprobleme beseitigen — keine neue Forschung, keine neuen Wissensobjekte, keine Frameworkänderungen, keine neuen Open Decisions.
+
+**Phase 1 (Open Decisions):** OD-006 und OD-007 wurden vom Herausgeber (Felix) im Verlauf dieser Session tatsächlich entschieden (beide **Angenommen**) und in `00_project/OPEN_DECISIONS.md` dokumentiert. Ein Scope-Konflikt zwischen der "vollständigen Umsetzung" dieser Entscheidungen (Phase-1-Auftrag) und dem allgemeinen Sprint-Verbot von Frameworkänderungen wurde erkannt, dem Herausgeber vorgelegt und von ihm aufgelöst: Entscheidungen gelten als verbindlich dokumentiert, technische Umsetzung (QK-Meme-Filter, CTX-Ebene) ausdrücklich auf einen separaten Framework Integration Sprint nach Version 1.0 verschoben.
+
+**Phase 2 (MEC-0018):** Dokumentierter Widerspruch zwischen MEC-0018s Evidenzbewertung und dem bestehenden Scientific-Debt-Eintrag (Replikationsrisiko Bargh/Dijksterhuis-Priming, Priorität Hoch) vollständig behoben — Evidenzlevel differenziert, Warnhinweis in Vertriebsrelevanz ergänzt, Cross-References (MOD-0008, ST-0179, P-0035, T-0035) angeglichen, `SCIENTIFIC_DEBT.md` um Auflösungsvermerk ergänzt (Risiko selbst bleibt Priorität Hoch, nur der Objektwiderspruch ist behoben).
+
+**Phase 3 (Evidence Harmonization):** 70 Wissensobjekte in `03_knowledge_base/` auf das jeweils templatekonforme Evidenzfeld-Schema umbenannt (A → `Evidenzstatus`, MEC/MOD/T → `Evidenzlevel`, P → `Evidenzklassifikation`, ST → `Evidenzklasse`, informelle Mehrheitspraxis). Ausschließlich Feldnamen-Konsistenz, keine inhaltliche Änderung an einem Bewertungswert.
+
+**Phase 4 (Verification):** Repositoryweiter Cross-Reference- und Link-Scan (48 Backtick-Verweise geprüft, ausnahmslos bereits dokumentierte historische/Platzhalter-Fälle, kein Handlungsbedarf); MEC-0018-Familie nach Bearbeitung vollständig über natives Lesewerkzeug gegengeprüft (Bash-Sandbox zeigte zeitweise veraltete Inhalte für `OPEN_DECISIONS.md` — bereits aus vorherigem Sprint bekanntes Verhaltensmuster, keine tatsächliche Dateibeschädigung).
+
+**Ergebnis:** `00_project/FINAL_PRE_RELEASE_REPORT.md` erstellt. Einschätzung: **READY FOR RC-1 AUDIT**.
+
+**Eingehaltene Leitplanken:** Keine neue Forschung, keine neuen Wissensobjekte, keine neuen Frameworkbestandteile, keine neuen Open Decisions, keine Änderungen am Canonical Knowledge Model, am Operating Manual oder am Research Program (außer der explizit vom Herausgeber autorisierten und dann wieder auf reine Dokumentation begrenzten OD-006/007-Entscheidungsintegration).
+
+---
+
+## 2026-07-03 — Research Project W-001 Repository Integration Sprint (Post Editor Decision)
+
+**Session-Typ:** Repository-Integrationssprint auf Basis einer bereits durch den Herausgeber (Felix) getroffenen, verbindlichen Editor Decision zu W-001. Ziel: die Entscheidung sauber in das Repository integrieren, W-001 formal abschließen und den ersten vollständigen Research Lifecycle des Research Program erfolgreich beenden — ohne die Entscheidung selbst zu erweitern oder zu verändern.
+
+**Auslöser:** Herausgeberauftrag "Research Project W-001 Repository Integration Sprint (Post Editor Decision)" mit verbindlicher Editor Decision: **Teilweise annehmen.** Die mathematische Formalisierung des Socio-Cognitive Sensegiving Model (SCSM) wird nicht übernommen (Red-Team-Kritik — 11 von 13 Prüfkriterien nicht erfüllt — wird gefolgt). Übernommen wird ausschließlich der Kernbefund: Diagnoseorientierte (SPIN, Gap Selling) und teaching-/sensemaking-orientierte (Challenger) Ansätze stehen nicht in universellem Widerspruch, sondern beschreiben kontextabhängig koexistierende Wirkmechanismen (Problemreife, Kontext, Sensemaking-Bedarf, Buying-Center-Dynamik). Keine neue Grand Theory, kein MOD, keine Differentialgleichung, kein neues Symbolsystem.
+
+**Phase 1 (Editor Decision):** `06_research_program/completed/W001/06_EDITOR_DECISION.md` von Entwurf auf finale Entscheidung überführt — Begründung, Stellungnahme zu den drei zentralen Streitpunkten (SCSM-Formalisierung: verworfen; phänomenologische Sensemaking-Beobachtung: angenommen als Kontextpräzisierung; CEAM/MDM/CQM: als offene Frage weitergereicht), Tabelle "Geplante Integration" (6 Erweiterungen), ethische Einschätzung (niedrig), Datum/Unterschrift.
+
+**Phase 2 (Repository Integration):** Sechs bestehende Wissensobjekte erweitert, keine Neuanlage: `A-0020` (Kontextpräzisierung: phasen-/situationsabhängig statt universell), `P-0021` und `P-0025` (wechselseitige Kontextabgrenzung statt "Methodologiekonflikt"), `MEC-0013` (Verhältnis zu MEC-0001 als koexistierende, kontextabhängige Sensegiving-Pfade präzisiert), `T-0019` und `T-0023` (Querverweis ergänzt, Technik inhaltlich unverändert). Jedes Objekt erhält im Herkunftsfeld die kombinierte Referenz `<SRC-ID>, W-001` und einen neuen Abschnitt "Erweiterung durch W-001". Neu angelegt: `06_research_program/completed/W001/REPOSITORY_INTEGRATION_LOG.md` (vollständige Protokollierung aller sechs Aktionen, Identitäts- und Qualitätsprüfung gemäß `canonical_knowledge_model.md`).
+
+**Phase 3 (Scientific Debt):** `OPEN_QUESTIONS.md` (im Projektordner): OQ-1 auf `beantwortet` gesetzt; OQ-2 bis OQ-4 auf `übergeben — technisch vollzogen`; OQ-5 unverändert an OD-007 bestätigt. `00_project/SCIENTIFIC_DEBT.md`: neue Sektion "W-001 — Teach First vs. Diagnose First (Research Program)" mit OQ-2 bis OQ-4 sowie dem Gartner-Quellenklassifizierungsvorbehalt; zwei bestehende Einträge (A-0020 vs. P-0025 in B-0005-Sektion; MOD-0001 vs. MOD-0004 in B-0004-Sektion) als kontextuell aufgelöst markiert, nicht gelöscht (Repository-Grundsatz: Widersprüche dokumentieren statt glätten).
+
+**Phase 4 (Research Program Abschluss):** `06_research_program/completed/W001/README.md` Status auf `COMPLETED`. Echter Abschluss-Health-Check (Stufe 9, nach Integration) durchgeführt und bestanden — eine bewusst akzeptierte, dauerhaft dokumentierte Restlücke (Stufe-1/2-Alt-Lücke, historisch vor RC-1, außerhalb des Sprintmandats). `06_research_program/RESEARCH_STATUS.md`: W-001-Zeile in die `completed/`-Tabelle verschoben. Projektordner von `active/W001/` nach `completed/W001/` verschoben (unverändert, `RESEARCH_GOVERNANCE.md` Abschnitt 6.2).
+
+**Phase 5 (Governance):** `CURRENT_STATE.md`, `00_project/NEXT_ACTION.md`, `00_project/SESSION_LOG.md` (dieser Eintrag), `00_project/changelog.md` aktualisiert. Neue Open Decision `OD-012` in `00_project/OPEN_DECISIONS.md` angelegt (Formalisierung der jetzt dokumentierten Kontextspezialisierung zwischen P-0021/P-0025 und MEC-0013/MEC-0001) — bereits im vorherigen Repository-Integrationsplan als voraussichtlich erforderlich angekündigt, keine Vorwegnahme.
+
+**Phase 6 (Verifikation):** Cross-Referenzen, interne Verlinkung, Repository Integration, betroffene Wissensobjekte, Scientific Debt und Health Check gegengeprüft — Details und Ergebnis: `06_research_program/completed/W001/W001_REPOSITORY_INTEGRATION_REPORT.md`, Abschnitt 7.
+
+**Eingehaltene Leitplanken:** Keine neue Theorie, kein SCSM, kein neues MOD, keine mathematische Formalisierung, keine Differentialgleichungen, keine neuen Symbolsysteme, keine neue Forschung, keine neue Literaturrecherche, keine Frameworkänderungen (Canonical Knowledge Model und Operating Manual nur um die zur Integration zwingend notwendigen Herkunftsvermerke ergänzt), keine Änderungen an bestehenden Open Decisions außer der im Integrationsplan bereits angekündigten Neuanlage (OD-012).
+
+**Ergebnis:** W-001 ist vollständig abgeschlossen — das erste Forschungsprojekt, das den vollständigen neunstufigen RC-1 Research Lifecycle (Research Question/Stufe 1–2 als dokumentierte Alt-Lücke bis Health Check/Stufe 9) erfolgreich durchlaufen hat. Abschlussdokument: `06_research_program/completed/W001/W001_REPOSITORY_INTEGRATION_REPORT.md`.
+
+---
+
+## 2026-07-03 — Research Program Finalization Sprint (RC-1)
+
+**Session-Typ:** Governance-Ausarbeitungssprint für `06_research_program/` auf Basis der rein lesenden Architekturprüfung `RESEARCH_PROGRAM_REVIEW_RC1.md` (Gesamtreifegrad zuvor „MAJOR REVISION REQUIRED"). Ziel: Das Research Program vollständig, methodisch konsistent und skalierbar ausarbeiten, ohne Wissensobjekte, neue Forschungsprojekte, Literaturrecherche oder Sales-Codex-Inhalt zu verändern.
+
+**Auslöser:** Herausgeberauftrag „Research Program Finalization Sprint" mit sieben Phasen (Governance, Templates, Research Lifecycle, Repository Integration, Health Check, Framework Integration, W-001-Infrastruktur) und expliziter Ausschlussliste für W-001 (Initial Hypothesis unverändert gelassen, da nicht in der positiven Scope-Liste der Phase 7 benannt; Scientific Master Review, Red Team Review, Theory Landscape, Decision Brief, Editor Decision, Scientific Debt, Open Decisions, Book Mode ausdrücklich unverändert).
+
+**Governance ausgearbeitet:**
+- `README.md`, `RESEARCH_GOVERNANCE.md` (5 Rollen, Statusdefinitionen, Ordnerübergänge `active`/`completed`/`archived`, Abbruch-/Abschlusskriterien), `DECISION_POLICY.md` (4 Entscheidungsoptionen, Kriterienkatalog, Umgang mit widersprüchlichen Reviews), `RESEARCH_STATUS.md` (Tabellenformat statt Freitext-Zeile).
+- Neu: `RESEARCH_LIFECYCLE.md` (neunstufiger Prozess Research Question → Health Check, je Stufe Ziel/Eingaben/Ergebnisse/Qualitätskriterien/Übergabekriterien/Rolle; explizite Governance-Entscheidung zur Position der Theory-Landscape-Stufe, mit Begründung).
+- Neu: `REPOSITORY_INTEGRATION.md` (Integrationsablauf, Objekttypen ST/A/MEC/P/T/MOD, Source-ID-Konvention `W-XXX (Research Program)`, Dokumentationspflichten, Versionierung — vollständig kompatibel mit, aber ohne Änderung an der Kernlogik des Canonical Knowledge Model).
+
+**Templates:** Alle 5 bestehenden Templates (`RESEARCH_PROJECT`, `DECISION_BRIEF`, `EDITOR_DECISION`, `RED_TEAM`, `THEORY_LANDSCAPE`) ausgearbeitet; 6 neue Templates ergänzt (`INITIAL_HYPOTHESIS`, `MASTER_REVIEW`, `OPEN_QUESTIONS`, `REFERENCES`, `RESEARCH_LOG`, `HEALTH_CHECK`) — `templates/` jetzt 11 statt 5 Dateien, alle mit Feldstruktur.
+
+**Framework-Integration (minimal, punktuell):** `00_project/SALES_CODEX_OPERATING_MANUAL.md` Abschnitt 11 (neu, angehängt nach Abschnitt 10/Book Mode), `01_framework/05_knowledge_model/canonical_knowledge_model.md` Abschnitt 11 (neu, angehängt — bestehende Nummerierung 1–10 bewusst unverändert, um Zitate von „CKM Abschnitt 10" in `BEHAVIORAL_SCIENCE_REVIEW_DECISION_REPORT_2026-07.md` nicht zu invalidieren), `00_project/task_rules.md` Unterabschnitt 7.5 (neu, Source-ID-Konvention).
+
+**W-001-Infrastruktur (Musterprojekt):** `README.md` (Research Question retroactiv formuliert, Nachträglichkeit ausdrücklich gekennzeichnet), `OPEN_QUESTIONS.md` (5 aus den bestehenden Reviews extrahierte offene Fragen, OQ-1 bis OQ-5), `REFERENCES.md` (119 mechanisch konsolidierte, deduplizierte Quellen aus `02_SCIENTIFIC_MASTER_REVIEW.md` und `03_GEMINI_RED_TEAM_REVIEW.md`), `RESEARCH_LOG.md` (rekonstruiertes chronologisches Protokoll, Rekonstruktion explizit als Unsicherheit gekennzeichnet). Keine Änderung an `01_INITIAL_HYPOTHESIS.md`, `02_SCIENTIFIC_MASTER_REVIEW.md`, `03_GEMINI_RED_TEAM_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, `05_DECISION_BRIEF.md`, `06_EDITOR_DECISION.md`.
+
+**Verifikation:** Alle drei Framework-Integrationsedits per Read/Grep gegengeprüft (Bash-Sandbox-Mount zeigte während der Session veraltete/zwischengespeicherte Dateiinhalte für in dieser Session per Write/Edit erstellte Dateien — als Diskrepanz erkannt und für die Verifikation stattdessen durchgängig Read/Grep verwendet, die den tatsächlichen, aktuellen Dateizustand widerspiegeln). 172 interne Backtick-Querverweise über 21 Dateien in `06_research_program/` bestätigt (vorher: 0). Alle 8 in der Architekturprüfung benannten strukturellen Blocker einzeln gegen den neuen Zustand geprüft (6 vollständig geschlossen, 1 bewusst nur projektebenenbezogen geschlossen — OD-003 unverändert offen —, 1 durch explizite Governance-Entscheidung aufgelöst).
+
+**Eingehaltene Leitplanken:** Keine Wissensobjekte angelegt oder verändert, keine neue Recherche, keine Änderung an W-001s wissenschaftlichem Inhalt, an `OPEN_DECISIONS.md`, `SCIENTIFIC_DEBT.md` oder Book Mode, keine neuen Top-Level-Ordner, keine geänderte Ordnernummerierung.
+
+**Abschlussdokument:** `06_research_program/RESEARCH_PROGRAM_IMPLEMENTATION_REPORT_RC1.md` — Einschätzung: **Ready after Minor Revision** (alle strukturellen Blocker bearbeitet; Architektur noch durch kein neues, vollständig unter RC-1 durchlaufenes Forschungsprojekt praktisch erprobt).
+
+**AUFTRAG VOLLSTÄNDIG ABGESCHLOSSEN.**
+
+---
+
+## 2026-07-02 — Repository Consolidation Sprint 2 (Implementation Phase)
+
+**Session-Typ:** Rein struktureller Umsetzungssprint — acht vom Herausgeber freigegebene Editor Decisions (ED-001 bis ED-008) aus `00_project/REPOSITORY_CONSOLIDATION_REPORT_RC1.md` (Repository Consolidation Sprint 1, read-only) umgesetzt. Keine eigenen Architekturentscheidungen, keine über die acht ED hinausgehenden Optimierungen.
+
+**Auslöser:** Herausgeberauftrag „Repository Consolidation Sprint 2 — Implementation Phase" mit exakt acht freigegebenen Maßnahmen sowie einer expliziten Ausschlussliste (u. a. `book_catalog.md`, Research Program, Open Decisions, Framework-Struktur, Top-Level-Ordner, Ordnernummerierung, README-Dateien — alle unverändert gelassen).
+
+**Durchgeführte Löschungen:**
+- `04_book_analysis/Never_Split_The_Difference/` (leerer Duplikat-Ordner, ED-001)
+- `04_book_analysis/Emotional Intelligence/test_probe.md` (0-Byte-Debug-Datei, ED-002)
+
+**Durchgeführte Verschiebungen (Inhalt jeweils unverändert):**
+- `01_framework/05_knowledge_model/codex_knowledge_model.md` → `99_archive/codex_knowledge_model.md` (ED-003)
+- `00_project/VAL-0001_consistency_review_pilot001.md` → `04_book_analysis/SPIN_Selling/VAL-0001_consistency_review_pilot001.md` (ED-004)
+- `00_project/VAL-0002_consistency_review_influence.md` → `04_book_analysis/Influence/VAL-0002_consistency_review_influence.md` (ED-004)
+- `00_project/PILOT_001_ABSCHLUSSBERICHT.md` → `04_book_analysis/SPIN_Selling/PILOT_001_ABSCHLUSSBERICHT.md` (ED-004)
+- `SCRP-0001_Sales_Core.md` (Root) → `00_project/peer_review/decisions/SCRP-0001_Sales_Core.md` (ED-005)
+- `00_project/decision_log.md` → `99_archive/decision_log.md` (ED-006)
+- `00_project/roadmap.md` → `99_archive/roadmap.md` (ED-007)
+- `00_project/task_proposal_B-0002_influence.md` → `99_archive/task_proposal_B-0002_influence.md` (ED-008)
+
+**Referenzkorrektur:** Repositoryweite Prüfung aller Backtick-Pfadverweise auf die acht Alt-Pfade ergab genau eine aktive, korrekturbedürftige Fundstelle: `INDEX.md`, Zeile 21, verwies auf den alten Pfad von `codex_knowledge_model.md`. Korrigiert auf `01_framework/05_knowledge_model/canonical_knowledge_model.md` (das laut Consistency Correction Sprint 2026-07 maßgebliche, aktuell gültige Wissensmodell-Dokument — Verweis auf das jetzt archivierte Dokument selbst wäre inhaltlich irreführend gewesen). Alle übrigen Fundstellen der acht Alt-Pfade liegen ausschließlich in datierten historischen Sprintberichten (`POST_MORTEM_B0002.md`, `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`, `REPOSITORY_CONSOLIDATION_REPORT_RC1.md`) sowie im jetzt archivierten `task_proposal_B-0002_influence.md` selbst — diese wurden bewusst nicht verändert (historische Zustandsbeschreibung, keine aktiven toten Links; `task_proposal_B-0002_influence.md` zusätzlich laut ED-008 explizit „unverändert lassen").
+
+**Pflichtprüfungen durchgeführt:**
+1. Cross-Reference-Prüfung: keine neu entstandenen toten Links oder veralteten Dateipfade außerhalb der bewusst unveränderten historischen Dokumente.
+2. Referenzprüfung: alle aktiven internen Verweise zeigen auf die neuen Speicherorte (1 Korrektur, siehe oben).
+3. Repository Health Check: keine verwaisten Dateien; leere Ordner 18 → 17 (nur der gelöschte Duplikat-Ordner entfällt, die verbleibenden 17 sind laut RC-1-Bericht bewusst vorbereitete Struktur); keine doppelten Dateiinhalte (MD5-Prüfung); keine inkonsistenten Pfade neu entstanden.
+4. Git Status: `git log` funktioniert unverändert (3 Commits, letzter: „Release v0.9.0: Foundation completed"). `git status` und `git diff` schlagen in dieser Sandbox mit `fatal: unknown index entry format 0x32380000` fehl — ein vorbestehender, von diesem Sprint unabhängiger Fehler im `.git/index`-Dateiformat (vermutlich durch eine andere Git-Version außerhalb der Sandbox erzeugt). Nicht behoben (außerhalb des Scopes — Reparatur des Git-Index wäre ein Eingriff in Versionskontrollzustand, keine der acht freigegebenen Maßnahmen). Dem Herausgeber zur Kenntnis gegeben.
+
+**Eingehaltene Leitplanken:** Keine Änderungen an `book_catalog.md`, CURRENT_STATE-/NEXT_ACTION-/SESSION_LOG-Struktur (nur additive Einträge, keine Strukturänderung), Research Program, Open Decisions, Literature Index, Scientific Debt, Canonical Knowledge Model, Framework-Struktur, Top-Level-Ordnern, Ordnernummerierung oder README-Dateien. Keine weiteren Dateien verschoben, gelöscht oder archiviert außer den acht benannten.
+
+**Abschlussdokument:** `00_project/REPOSITORY_CONSOLIDATION_IMPLEMENTATION_REPORT_RC1.md`.
+
+**AUFTRAG VOLLSTÄNDIG ABGESCHLOSSEN.**
+
+---
+
+## 2026-07-02 — Behavioral Science Review Sprint (externes Gutachten + Editor Decision + Umsetzung)
+
+**Session-Typ:** Governance-/Redaktionssprint in zwei Phasen — (1) Editor Decision Report ohne Repository-Änderung, (2) Umsetzung der freigegebenen Änderungen. Kein Sales-Sprint, keine neue Primärrecherche.
+
+**Auslöser:** Unabhängiges, extern zugeliefertes wissenschaftliches Gutachten zum Behavioral Science Expansion Sprint (SPR-0003). Herausgeberauftrag: Gutachten als Reviewer-Position behandeln, verbindliche Editor Decision je Empfehlung treffen, dokumentieren, erst danach umsetzen.
+
+**Phase 1 (Decision Report):** `00_project/BEHAVIORAL_SCIENCE_REVIEW_DECISION_REPORT_2026-07.md` erstellt. Jede der 8 Reviewer-Empfehlungen (ED-001 bis ED-008) einzeln gegen den tatsächlichen Repository-Zustand geprüft (nicht gegen Erinnerung). Ergebnis: 4× Übernehmen, 3× Teilweise übernehmen, 1× Ablehnen. Keine Repository-Datei außer dem Report selbst wurde in dieser Phase verändert.
+
+**Wichtiger methodischer Befund:** Bei zwei Empfehlungen (ED-002: B-0011-Scientific-Debt-Lücken; ED-007: Literature-Index-Bibliographie-Lücken) stimmte die Reviewer-Behauptung eines fehlenden/mangelhaften Eintrags nicht mit dem tatsächlichen, aktuellen Repository-Zustand überein — die betreffenden Punkte (Marshmallow-Replikation ST-0213, Ekman/Barrett-Kontroverse ST-0214, Carmon-&-Ariely-Literatureintrag, Newton/Bechky/UCLA-Verifikationsstatus) waren bereits korrekt dokumentiert. Dies wurde als Widerspruch explizit dokumentiert statt stillschweigend "korrigiert" (Repository-Grundregel). Nur der tatsächlich fehlende Teil von ED-002 (Konstruktvalidität EI vs. Big Five) wurde neu ergänzt.
+
+**Phase 2 (Umsetzung):**
+- ED-001: MEC-0025 umbenannt ("Fairness-Verzicht" → "Altruistische Bestrafung / Altruistic Punishment") — Namenskorrektur, kausale Struktur/Objekt-ID unverändert. MOD-0010 und SCIENTIFIC_DEBT.md-Terminologie mitgezogen. Henrich-Boundary-Conditions bereits vollständig vorhanden, keine Ergänzung.
+- ED-002: Neuer Scientific-Debt-Eintrag (Konstruktvalidität EI, mit Quellenvorbehalt — Harms & Credé/Landy/Locke aus dem Gutachten übernommen, nicht eigenständig websuchverifiziert).
+- ED-003/ED-004: Klassifikationshinweis-Abschnitt in MOD-0011 und MOD-0012 ergänzt — bestehende CKM-MOD-Definition (§5: ≥3 Prinzipien, kausallogische Struktur) erlaubt die aktuelle Einordnung bereits; Einschränkung (kein formal-empirisches Gesamtmodell) wird explizit benannt, keine Umklassifizierung, keine neue Kategorie.
+- ED-005: Boundary Conditions Individual→Organisation in MEC-0002, MEC-0021, MEC-0022 ergänzt (eng ausgelegt auf die drei vom Reviewer namentlich benannten Objekte, keine Massenänderung).
+- ED-006: Ariely-Autoren-Integritätsrisiko-Eintrag in SCIENTIFIC_DEBT.md nicht geschlossen, Status auf "partially mitigated" präzisiert.
+- ED-007: Prüfvermerk in LITERATURE_INDEX.md ergänzt, keine inhaltliche Korrektur (Punkte bereits erfüllt).
+- ED-008: Abgelehnt, keine Datei geändert (neue Kategorien PRX/TAX = Framework-Änderung, außerhalb Scope, CKM §10).
+
+**Eingehaltene Leitplanken:** Keine neuen Objekt-IDs, keine neuen Kategorien/Templates/Objektarten, keine neuen MEC/MOD, keine Änderung an Open Decisions, Operating Manual oder Canonical Knowledge Model, keine Framework-Versionsänderung.
+
+**Bekannte, bewusst nicht geschlossene Lücke:** Terminologie "Fairness-Verzicht" bleibt in P-0051, A-0056, fünf ST-Objekten und den historischen B-0014-Sprintartefakten bestehen — diese Dateitypen standen nicht auf der für diesen Sprint freigegebenen Änderungsliste. Als Folgeaufgabe dokumentiert (ED-001).
+
+**AUFTRAG VOLLSTÄNDIG ABGESCHLOSSEN.**
+
+---
+
+## 2026-07-02 — BEHAVIORAL SCIENCE EXPANSION SPRINT 1 (5 Bücher, Book Mode)
+
+**Session-Typ:** Wissenschaftlicher Vertiefungssprint, Phase "Scientific Completion" des Sales Codex 1.0 Programms. Fünf Bücher vollständig im Book Mode (SRC→ST→A→MEC→P→T→MOD→VAL→BOOK_REVIEW→CANONICALIZATION_REPORT). Kein Sales-Sprint, kein Codex-Wachstum als Selbstzweck — Priorität durchgängig: Kanonisierung vor Neuanlage.
+
+**Auslöser:** Herausgeberauftrag „BEHAVIORAL SCIENCE EXPANSION – SPRINT 1" — Verarbeitung von B-0011 (Emotional Intelligence, Goleman), B-0012 (Predictably Irrational, Ariely), B-0013 (Nudge, Thaler & Sunstein), B-0014 (Priceless, Poundstone), B-0015 (Made to Stick, Heath & Heath), je mit buchspezifischen Zielkonzepten und expliziter 4-Bedingungen-Prüfung vor jeder MEC-Neuanlage (Canonicalization Rejection Pflicht).
+
+**Durchführung:** Jedes Buch über einen isolierten Subagenten (Book-Mode-Pipeline, eigener Kontext) verarbeitet, anschließend durch die übergeordnete Session gegen den tatsächlichen Repository-Zustand verifiziert (Read-Tool, nicht nur Agentenbericht — mehrfach wurde eine bash-Mount-Cache-Verzögerung als scheinbarer Datenverlust identifiziert und durch Read-Tool-Gegenprüfung als Fehlalarm entkräftet).
+
+**Ergebnisse je Buch:** Siehe `CURRENT_STATE.md`, Abschnitt „BEHAVIORAL SCIENCE EXPANSION SPRINT 1" für die vollständige Objektbilanz je Buch. Kurzfassung: 8 neue Mechanismen (MEC-0022–MEC-0029, je mit vollständiger Canonicalization-Rejection-Dokumentation), 16 Mechanismus-Erweiterungen, 2 neue Modelle (MOD-0011 Choice Architecture, MOD-0012 SUCCESS-Framework), 108 neue Statements, 12 neue Annahmen, 10 neue Prinzipien, 6 neue Techniken, 5 neue Quellen.
+
+**Korrekturen durch die übergeordnete Session während des Sprints:**
+- B-0013-Subagent hatte fälschlich eine zweite, duplizierte "SD-SYS-005"-Sektion in `SCIENTIFIC_DEBT.md` angelegt (bash-Mount zeigte die bereits bestehende kanonische Sektion nicht an). Korrigiert: Duplikat entfernt, neue B-0013-Erkenntnisse (Szaszi et al. 2022, Shu et al. 2012-Querverweis) als Update in die bestehende kanonische Sektion gemergt.
+- B-0014: `LITERATURE_INDEX.md`-Header/Footer nicht mit dem Buch aktualisiert (Inhalte selbst korrekt vorhanden) — nachträglich korrigiert.
+- B-0014-Subagent-Session endete durch Session-Limit, hatte aber bereits alle Pflicht-Deliverables vollständig erstellt bis auf `SCIENTIFIC_DEBT.md`/`LITERATURE_INDEX.md`-Einträge — diese wurden von der übergeordneten Session mechanisch aus dem bereits vorliegenden `CANONICALIZATION_REPORT_B0014.md` nachgetragen (keine neue Recherche, reine Transkription bereits verifizierter Inhalte).
+- B-0011-Subagent hinterließ eine leere Debug-Datei (`test_probe.md`) — konnte wegen Workspace-Löschschutz nicht automatisch entfernt werden; dem Herausgeber zur Kenntnis zu geben (siehe unten).
+
+**Abschlussdokument:** `04_synthesis/SPR-0003_Behavioral_Science_Synthesis/SPR-0003_BEHAVIORAL_SCIENCE_SYNTHESIS.md` — 9 Pflichtabschnitte (gemeinsame Erkenntnisse, gestärkte Mechanismen, erweiterte Modelle, notwendige Neumechanismen, Canonicalization Rate 66,7 % sprintweit, Reifegrad-Veränderung, neue Scientific Debt, neue Tier-1-Kandidaten, Empfehlungen für Version 1.0).
+
+**Offener Hinweis für den Herausgeber (nicht blockierend):** `04_book_analysis/Emotional Intelligence/test_probe.md` ist eine leere, vom B-0011-Subagenten versehentlich hinterlassene Debug-Datei. Sie liegt im geschützten Workspace-Ordner und konnte von der KI nicht selbst gelöscht werden (erfordert Nutzerfreigabe). Empfehlung: manuell löschen oder bei Gelegenheit Freigabe erteilen.
+
+**Keine Framework-Änderungen, keine Governance-Entscheidungen, keine Open Decisions geschlossen, keine Repository-Restrukturierung.**
+
+**AUFTRAG VOLLSTÄNDIG ABGESCHLOSSEN — endet laut Auftrag automatisch.**
+
+---
+
+## 2026-07-02 — SALES CODEX 1.0 PROGRAM (Programm-Definition)
+
+**Session-Typ:** Reine Programm-/Steuerungsdokument-Erstellung — kein Sprint im bisherigen Sinne, keine neuen Wissensobjekte, keine neue Recherche, keine Academic Recovery, keine Framework-Änderungen, keine Repository-Strukturänderungen, keine Open Decisions geschlossen.
+
+**Auslöser:** Herausgeberauftrag „SALES CODEX 1.0 PROGRAM" — nach Abschluss von 10 Buchanalysen, Sprint-1/2-Synthese, Peer Review Sprint 1+2, Academic Recovery Phase 1+2, Gemini Scientific Review, Claude Response Review, vollständigem Codex Audit, Consistency Correction Sprint und Governance Sprint befindet sich der Codex erstmals in einem wissenschaftlich konsolidierten Zustand. Auftrag: das zentrale Steuerungsdokument für die Entwicklung bis Version 1.0 erstellen — ersetzt die bisherige rein sprintorientierte Entwicklungslogik als übergeordneten Rahmen.
+
+**Deliverable:** `00_project/SALES_CODEX_1_0_PROGRAM.md` — 12 Kapitel:
+1. Vision (wissenschaftlich kuratierte Wissensbasis, keine Buchsammlung, kein Notizsystem)
+2. Mission (drei gelöste Probleme: Fragmentierung, Evidenz, KI-Kontinuität; geschlossene wissenschaftliche Lücke)
+3. Aktueller Status (Bücher, 368 Wissensobjekte, Audit B+, Academic Recovery, Governance, Scientific Debt, Literature Index, Reifegrad B) — alle Zahlen mit Quellenverweis gegen bestehende Repository-Dokumente verifiziert
+4. Fünf Entwicklungsphasen: Governance → Scientific Completion → Architecture Freeze → Release Candidate → Version 1.0, je mit Ziel/Deliverables/Definition of Done
+5. Qualitätskriterien (objektiv, je mit Prüfpunkt und aktuellem Status)
+6. Blocker (6 identifiziert, priorisiert: W-001, Publication-Bias-Abhängigkeit B2B-Kernmethodik, OD-006, OD-007, Evidenzfeld-Uneinheitlichkeit, Repository-Hygiene)
+7. Nicht-Blocker (8 dokumentiert, je begründet: Tier-2–4-Academic-Recovery, OD-008, MEC-0011-Niedrig-Evidenz als akzeptierte Transparenz, Domänenlücken, u. a.)
+8. Governance-Workflow nach Version 1.0 (Research Pack/Book Mode → Academic Recovery/Buchanalyse → Peer Review → **neuer expliziter Consistency-Check-Schritt** → Audit → Release)
+9. Versionierungsschema — klärt Doppeldeutigkeit zwischen Framework-Version (aktuell 1.1) und Sales-Codex-Gesamtversion (Ziel 1.0) als zwei getrennte Achsen; operationalisiert OD-009, ohne sie zu schließen
+10. Roadmap (10 Punkte, alle aus bestehenden Dokumenten abgeleitet, keine Wunschliste)
+11. Definition of Done (7 objektive, messbare Kriterien für Version 1.0)
+12. Executive Summary (eigenständig lesbar, für spätere Nutzung als offizielle Projektbeschreibung)
+
+**Wichtigste inhaltliche Entscheidung dieser Session:** Klare Trennung zwischen echten Blockern (W-001, Publication-Bias-Abhängigkeit, OD-006, OD-007 — alle mit direktem Bezug zur Kernaussagekraft des Codex) und Nicht-Blockern (Domänenerweiterung, niedrigpriore Academic-Recovery-Themen, transparent dokumentierte Niedrig-Evidenz-Objekte wie MEC-0011). Diese Trennung verhindert, dass Version 1.0 entweder verfrüht (ohne Schließung der Kernlücken) oder unnötig verzögert (durch Perfektionsanspruch bei Nicht-Blockern) freigegeben wird.
+
+**Keine neuen Wissensobjekte (ST/A/MEC/P/T/MOD). Keine neue Recherche. Keine Framework-Änderungen. Keine Repository-Strukturänderungen. Keine Open Decisions geschlossen — alle referenzierten OD (006–011) bleiben in `OPEN_DECISIONS.md` unverändert im dort zuletzt dokumentierten Status.**
+
+**Nächste Aktion:** Phase 1 des Programms — Herausgeber-Entscheidungsrunde zu OD-006 bis OD-011 sowie Repository-Hygiene (Duplikat-Ordner, `codex_knowledge_model.md`). Details: `00_project/SALES_CODEX_1_0_PROGRAM.md` Kapitel 4 und 10.
+
+---
+
+## 2026-07-02 — Open Decisions Resolution Sprint
+
+**Session-Typ:** Reiner Governance-Sprint — ausschließlich Herausgeber-Redaktion an `00_project/OPEN_DECISIONS.md` und den notwendigen Governance-Dateien. Keine neue Recherche, keine neuen Wissensobjekte, keine Framework-Änderungen, keine Academic Recovery.
+
+**Auslöser:** Herausgeberauftrag „OPEN DECISIONS RESOLUTION SPRINT" — nach Abschluss von 10 Buchanalysen, Sprint-1/2-Synthese, Peer Review Sprint 1+2, Academic Recovery Phase 1+2, Gemini Scientific Review, Claude Response Review, Codex Audit und Consistency Correction Sprint befindet sich das Repository erstmals in einem wissenschaftlich konsolidierten Zustand; Auftrag war die Einzelprüfung aller offenen Herausgeber-Entscheidungen.
+
+**Deliverables:**
+- `00_project/OPEN_DECISION_RESOLUTION_REPORT_2026-07.md` — vollständiger Bericht (Zusammenfassung, Abschluss-/Offen-/Ersetzt-Übersicht, Einzelbegründungen, Governance-Reifegrad, Empfehlung)
+- `00_project/OPEN_DECISIONS.md` — alle acht bestehenden Einträge geprüft und mit Auflösungsabschnitten versehen; drei neue Einträge (OD-009–011) angelegt
+
+**Ergebnis je Entscheidung:**
+- OD-001 (Post-Mortem Influence) → **DONE** — `POST_MORTEM_B0002.md` bereits 2026-06-30 vollständig erstellt
+- OD-002 (Book Mode offiziell) → **DONE** — mit v1.1-Release 2026-06-30 in Operating Manual, COWORK_EXECUTION_PROTOCOL, task_rules.md eingeführt, seither 7× angewendet
+- OD-003 (Framework v1.1 Freeze) → **DONE, mit dokumentierter Restlücke** — Freeze vollzogen 2026-06-30, 5/6 geplante Inhalte belegt umgesetzt, „Repository Health Check verpflichtend" nie formalisiert (POST_MORTEM_B0002.md Phase 11) — als Lücke dokumentiert, keine neue OD
+- OD-004 (Nächstes Buch) → **DONE** — B-0003 gewählt und abgeschlossen 2026-06-30; Folgebücher über etabliertes Nachfolgeverfahren statt dieser OD ausgewählt
+- OD-005 (Gemini-Validierung) → **ERSETZT durch OD-010** — Instrument nie eingesetzt, inhaltliche Absicht aber über Peer Review Sprints + Academic Recovery weitgehend erfüllt; textliche Platzhalter-Reste in einzelnen MEC-Dateien als redaktioneller Nacharbeitspunkt vermerkt (nicht behoben — außerhalb Sprint-Scope)
+- OD-006 (Meme-Filter QK-Rating) → **OFFEN** (weisungsgemäß nicht automatisch schließbar) — entscheidungsreif bestätigt, keine neuen Entwicklungen seit 2026-07-01
+- OD-007 (CTX-Ebene) → **OFFEN** (weisungsgemäß nicht automatisch schließbar) — vollständigste Analyse aller offenen Entscheidungen, entscheidungsreif bestätigt
+- OD-008 (ELM/Trust/PKM-Priorisierung) → **OFFEN** — keine implizite Entscheidung gefunden
+- **OD-009 (neu):** Framework RC1 / Reifegrad-Statusübergang — Versionsgovernance-Frage, ob/wann ein formaler Statusübergang über den aktuellen „konsolidiert"-Zustand hinaus definiert wird
+- **OD-010 (neu):** Validierungs-Governance — einheitliche Policy, welches Instrument (Peer Review/Research Pack/Websuche) für welchen Evidenzlevel-Übergang gilt
+- **OD-011 (neu):** Literature-Governance — Verhältnis von `05_research/LITERATURE_INDEX.md` zu `SCIENTIFIC_DEBT.md` und `review_queue.md`
+
+**Governance-Reifegrad-Befund:** Vor dem Sprint waren laut `CODEX_AUDIT_2026-07.md` 0 von 8 Open Decisions als DONE markiert, obwohl mindestens vier objektiv bereits erledigt waren — reines Pflegeproblem. Nach dem Sprint: 4 DONE + 1 ERSETZT + 3 OFFEN (bestätigt) + 3 neu = 6 aktiv offene Entscheidungen, alle klar entscheidungsreif oder mit explizit benannter Begründung für Offenhaltung.
+
+**Keine neuen Wissensobjekte (ST/A/MEC/P/T/MOD), keine Framework-Änderungen, keine E-Level-Änderungen, keine neue Recherche, keine inhaltliche Priorität verschoben.**
+
+**Nächste Aktion:** Herausgeber-Entscheidungen zu OD-006 und OD-007 vor jeder weiteren inhaltlichen Arbeit einholen (vollständig entscheidungsreif). Danach unverändert `ACADEMIC_RECOVERY_PLAN.md` Tier 1 (AR-001, AR-002, AR-013). Details: `00_project/OPEN_DECISION_RESOLUTION_REPORT_2026-07.md` Abschnitt 7.
+
+---
+
+## 2026-07 — Codex Audit 2026-07 + Consistency Correction Sprint (Meilenstein 1)
+
+**Session-Typ:** Zwei gekoppelte Aufträge — (1) vollständiger, ausschließlich lesender wissenschaftlicher Repository-Audit; (2) Umsetzung von Meilenstein 1 aus Kapitel 11 des Audits (reine Konsistenzkorrektur, keine neue Recherche, keine neuen Wissensobjekte, keine Framework-Änderungen).
+
+**Auslöser:** Herausgeberauftrag „CODEX AUDIT 2026-07", gefolgt von „CODEX CONSISTENCY CORRECTION SPRINT 2026-07".
+
+**Deliverables:**
+- `00_project/CODEX_AUDIT_2026-07.md` — 12-Kapitel-Audit: Repository-Statistiken (368 Wissensobjekte, 10 Bücher), Canonicalisierungs-Bewertung, Evidenzverteilung, Literature Coverage, Scientific Debt (56 Einträge), Open Decisions (8, davon 0 „DONE"), Architektur, fehlende Bereiche, Readiness Assessment, Roadmap (5 Meilensteine), Herausgeberbewertung. **Gesamtnote: B+.**
+- `00_project/CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md` — Dokumentation aller im Correction Sprint durchgeführten Konsistenzkorrekturen.
+
+**Wichtigste Audit-Neubefunde:**
+- E5-Zähler-Diskrepanz: `WISSENSCHAFTLICHER_REIFEGRADSBERICHT.md` behauptet 5 E5-Mechanismen, tatsächlich tragen nur MEC-0015 und MEC-0021 E5 als Objekt-Rating (MEC-0002/0009/0012 sind E4).
+- Evidenzlevel-Desynchronisation: T-0012 (Mirroring) und T-0013 (Labeling) trugen weiterhin E3, obwohl ihre Basismechanismen MEC-0011/MEC-0010 bereits am 2026-07-01 (Peer Review Sprint 1) auf E2 herabgestuft wurden.
+- 20 Objekte (12 Techniken, 8 Prinzipien, überwiegend B-0006/JOLT und B-0007/Getting to Yes) ohne jedes Evidenzfeld.
+- 4 Meta-Prinzipien (P-S1-001–004) im Audit fälschlich als „ohne Evidenzfeld" gelistet — sie hatten bereits ein YAML-Frontmatter-Feld `e_level`, das die ursprüngliche Audit-Prüfmethodik (nur Markdown-Header) nicht erfasst hatte.
+- Leerer Duplikat-Ordner `04_book_analysis/Never_Split_The_Difference/` sowie zwei koexistierende Knowledge-Model-Dateien (`codex_knowledge_model.md` veraltet gegenüber `canonical_knowledge_model.md`).
+
+**Im Consistency Correction Sprint durchgeführt (30 Dateien, ausschließlich Konsistenzkorrekturen):**
+- T-0012, T-0013: Evidenzlevel E3 → E2 synchronisiert, mit Verweis auf MEC-0011/MEC-0010 und Audit.
+- T-0019, T-0020, T-0021, T-0026–T-0034 (12 Objekte): Evidenzlevel-Feld neu ergänzt — als Cross-Referenz auf bereits bestehende Evidenzwerte verlinkter MEC-/A-Objekte, ausdrücklich **ohne neue inhaltliche Bewertung**; eigenständige technikspezifische Einstufung als Empfehlung für künftigen Sprint dokumentiert.
+- T-0022–T-0025 (4 Objekte): Feldname „Evidenzgrad" → „Evidenzlevel" harmonisiert, Werte unverändert.
+- P-0027–P-0034 (8 Objekte): Evidenzklassifikations-Feld neu ergänzt, gleiche Methodik wie bei Techniken.
+- P-S1-001–004 (4 Objekte): Menschenlesbarer Spiegel-Abschnitt des bestehenden YAML-`e_level`-Werts ergänzt; Audit-Methodikfehler explizit richtiggestellt.
+- `codex_knowledge_model.md`: Veraltet-Banner ergänzt (nicht gelöscht), mit Empfehlung an Herausgeber (archivieren/löschen/als Kurzfassung erhalten).
+- E5-Zähler-Erratum: in `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md` dokumentiert; `WISSENSCHAFTLICHER_REIFEGRADSBERICHT.md` selbst **nicht** editiert (Grundsatz: nicht rückwirkend schönschreiben).
+- Leerer Duplikat-Ordner: zur Entfernung vorgemerkt, nicht gelöscht (Repository-Struktur wird nicht eigenständig verändert).
+
+**Keine neuen Wissensobjekte (ST/A/MEC/P/T/MOD) angelegt. Keine neue Recherche. Keine Framework-Änderungen.**
+
+**Nächste Aktion:** Herausgeber-Entscheidungen zu den in `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md` Abschnitt 8 dokumentierten offenen Empfehlungen (inhaltliche Bewertung der 20 Platzhalter-Objekte; repository-weite Feldnamen-Vereinheitlichung; Duplikat-Ordner- und Knowledge-Model-Bereinigung). Danach Fortsetzung `ACADEMIC_RECOVERY_PLAN.md` Tier 1 (AR-001, AR-002, AR-013).
+
+---
+
+## 2026-07-01 — Sprint-3-Review: Vier redaktionelle Einzelprüfungen (MEC-0011, MEC-0021, Scientific Debt, Literaturkandidaten)
+
+**Session-Typ:** Redaktionelle Einzelprüfung (kein Book Mode, kein Research-Pack-Sprint) — vier direkte Prüfaufträge von Felix.
+
+**Auslöser:** Herausgeberauftrag mit vier Einzelfragen: (1) Re-Prüfung MEC-0011 — Trennung motorische Mimikry vs. verbales Mirroring; (2) Re-Prüfung MEC-0021 — rechtfertigen neue Meta-Analysen eine Abwertung E5→E4; (3) Scientific-Debt-Ergänzung zur semantischen Trennung Mimikry/Voss-Mirroring, falls erforderlich; (4) Bewertung dreier neuer Literaturkandidaten (March & Simon, Plouffe et al., Tversky & Shafir) auf Tier-1-Status.
+
+**Deliverables:**
+- `MEC-0011_neural_coupling_durch_isopraxismus.md` — neue Sektion „Verbale Synchronität in Verhandlungen — Language Style Matching", 2 websuchverifizierte Quellen ergänzt (Taylor & Thomas 2008; Ireland & Henderson 2014), neue offene Frage, Status aktualisiert
+- `MEC-0021_anchoring_mechanismus.md` — neue Sektion „Sprint-3-Review: Prüfung Abwertung E5 → E4", Entscheidung: keine Abwertung
+- `SCIENTIFIC_DEBT.md` — 2 neue Zeilen unter B-0003 (Widersprüchliche Evidenz: LSM-Timing vs. Voss; Offene Forschungsfrage: Trennung bestätigt), neuer Abschnitt „Sprint-3-Review — Redaktionelle Einzelprüfungen"
+- `ACADEMIC_RECOVERY_PLAN.md` — AR-013 (Tversky & Shafir 1992, Tier 1, neu), AR-014 (March & Simon 1958, Tier 2, neu), Plouffe et al. (2013) als AR-001-Suchrichtung ergänzt
+- `review_queue.md` — neuer Abschnitt mit allen drei Literaturkandidaten-Entscheidungen
+
+**Wichtigste Befunde:**
+- MEC-0011: Bestehende Trennung (Chartrand & Bargh 1999/Lakin & Chartrand 2003 = motorische Mimikry, E4; Voss-Technik = verbales Mirroring, E1/E2) war korrekt, aber unvollständig — der eigentlich relevante Vergleichsmaßstab für *verbale* Synchronität ist die Language-Style-Matching-Literatur (Taylor & Thomas 2008: Feldstudie Geiselverhandlungen; Ireland & Henderson 2014), nicht die Mimicry-Literatur. Neuer Befund mit Spannungspotenzial: anhaltendes/spätes Mirroring korreliert mit Sackgassen-Risiko (Ireland & Henderson 2014) — im Widerspruch zu Voss' zeitlich unbeschränkter Empfehlung. Kein E-Level-Wechsel.
+- MEC-0021: Abwertung E5→E4 **abgelehnt**. Schley & Weingarten (2023) bestätigt den Kernbefund explizit nach Publication-Bias-Korrektur — das ist ein Stärkungs-, kein Schwächungssignal. Grenzbedingungen betreffen nur bestimmte Anker-Subtypen (incidental/random/dimensionsfremd), nicht das für Sales zentrale Kernphänomen.
+- Literaturkandidaten: Tversky & Shafir (1992, Choice under Conflict) → **Tier 1** (AR-013) — direkt relevant für AR-002 (Publication-Bias-Reduktion bei B-0006/JOLT-Indecision, aktuell rein proprietär über Tethr gestützt). Plouffe et al. (2013, JPSSM, Process-Based View of Sales Process) → Tier-1-**Kandidat**, Volltextprüfung aussstehend, ergänzt AR-001; Zitat-Identifikation mit ausdrücklichem Vorbehalt dokumentiert (Auftrag nannte nur „Plouffe et al." ohne Jahr/Titel). March & Simon (1958, *Organizations*) → **nicht Tier 1**, sondern Tier 2 (AR-014) — theoretisches Grundlagenwerk ohne direkten empirischen Test, aber relevante Theorie-Referenz für den bestehenden Buying-Center-Cluster.
+
+**Keine neuen Wissensobjekte (ST/A/MEC/P/T/MOD) erzeugt.** Nur Erweiterungen bestehender Objekte und Planungsdokumente (CKM-konform). Keine Framework-Änderungen.
+
+**Nächste Aktion:** Unverändert AR-001/AR-002, jetzt ergänzt um AR-013 (Tversky & Shafir Volltextverarbeitung für MEC-0016) als gleichrangige Priorität.
+
+---
+
 ## 2026-07-01 — Academic Recovery Sprint (ARS-0001), Phase 2: Research Pack 2, 3, 4 verarbeitet
 
 **Session-Typ:** ARS-0001 Phase 2 — Academic Recovery Sprint (kein Book Mode, kein neuer Buchanalyse-Sprint)

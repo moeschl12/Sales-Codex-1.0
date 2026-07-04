@@ -20,7 +20,7 @@ MEC-0019 (Unity) zeigt: Geteilte Gruppenidentität erzeugt Identitätsverschmelz
 
 SRC-0008 (Pre-Suasion, Cialdini 2016), Kap. 11–12
 
-## Evidenzklasse
+## Evidenzklassifikation
 
 E3 (Social Identity Theory E4; Sales-Anwendung E2)
 

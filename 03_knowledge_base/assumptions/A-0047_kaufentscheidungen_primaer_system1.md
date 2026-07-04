@@ -16,7 +16,7 @@ Kaufentscheidungen — auch in professionellen B2B-Kontexten — werden primär 
 
 Kahneman zeigt: System 2 übernimmt weitgehend die Outputs von System 1 ("endorsing"). In Kaufkontexten: Wenn der Käufer den Verkäufer nicht mag (S1), hilft das beste Argument nicht; wenn er ihn mag (S1), sucht System 2 aktiv nach Gründen für den Kauf. Bestätigt durch Neuroimaging-Studien zu Consumer Decision Making (McClure et al. 2004: Coca-Cola-blind-test), die zeigen, dass Markenwahrnehmung (S1) neuronale Reaktionen vor rationaler Kalkulation dominiert.
 
-## Evidenzlage
+## Evidenzstatus
 
 Diese Annahme ist gut empirisch gestützt im Consumer-Kontext (E4). Im B2B-Kontext mit strukturierten RFP-Prozessen, multiplen Entscheidern und langen Zyklen ist der S1-Anteil vermutlich geringer, aber nicht eliminiert. Die Annahme ist plausibel und konzeptionell gut verankert; direkte Kausalmessung im B2B-Sales-Entscheidungsprozess: E2.
 

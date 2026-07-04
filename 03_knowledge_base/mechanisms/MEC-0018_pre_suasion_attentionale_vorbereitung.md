@@ -52,19 +52,28 @@ Pre-Suasion nutzt die neurale Struktur des menschlichen Gedächtnisses (Spreadin
 ## Wissenschaftliche Grundlage
 
 - Collins, A.M. & Loftus, E.F. (1975): A spreading activation theory of semantic processing. *Psychological Review*, 82(6), 407–428.
-- Bargh, J.A. & Chartrand, T.L. (1999): The unbearable automaticity of being. *American Psychologist*, 54(7), 472–479.
+- Bargh, J.A. & Chartrand, T.L. (1999): The unbearable automaticity of being. *American Psychologist*, 54(7), 472–479. **[Replikationsvorbehalt: Siehe Abschnitt „Evidenzlevel" — diese Forschungslinie ist Teil des in `SCIENTIFIC_DEBT.md` dokumentierten Replikationsrisikos.]**
 - Kahneman, D. (2011): *Thinking, Fast and Slow*. Farrar, Straus and Giroux. (System-1-Mechanismus)
 - North, A.C., Hargreaves, D.J., & McKendrick, J. (1997): In-store music affects product choice. *Nature*, 390, 132.
 
 ## Evidenzlevel
 
-E4 (assoziative Priming-Forschung: extrem gut repliziert — Bargh, Dijksterhuis u.a.)
-E3 (Cialdinis Kombination zu "Pre-Suasion" als Konzept: gut unterstützt durch Studien-Integration)
-E2 (Sales-spezifische Anwendung: Cialdinis Feldbeobachtung; keine RCTs für B2B-Kontext)
+**[Korrigiert 2026-07-03, Final Pre-Release Sprint — Widerspruch zu `SCIENTIFIC_DEBT.md` behoben, siehe dortige Sektion B-0010 (Priorität Hoch) und B-0008]**
+
+Die vorherige Fassung dieses Abschnitts bewertete die zugrundeliegende Priming-Forschung pauschal als „extrem gut repliziert — Bargh, Dijksterhuis u.a." Das widersprach direkt einem bereits bestehenden, hochpriorisierten Scientific-Debt-Eintrag, der für exakt diese Studien ein Replikationsrisiko dokumentiert. Die Einstufung wird daher differenziert:
+
+- **E4 — Basale Spreading Activation / semantisches Priming** (Collins & Loftus 1975): Robust repliziert, nicht Teil der psychologischen Replikationskrise. Betrifft die Grundannahme, dass Konzeptaktivierung assoziativ verknüpfte Konzepte zugänglicher macht.
+- **E2 (nicht E4) — Sozial-/verhaltensbezogene Priming-Studien im Stil Bargh/Dijksterhuis**: Mehrere zentrale Studien dieser Art (u.a. die von Kahneman in *Thinking, Fast and Slow* Kap. 4 referenzierten) konnten in unabhängigen Replikationsversuchen nicht bestätigt werden; Kahneman selbst erkannte dies 2012 öffentlich an. Dieser Teil der Wissensbasis, auf den sich Cialdinis Pre-Suasion-Konzept mit stützt, ist deutlich schwächer belegt als zuvor dargestellt.
+- **E3 — Cialdinis Kombination zu "Pre-Suasion" als Gesamtkonzept**: Gut unterstützt durch Studien-Integration, aber mit dem oben genannten Vorbehalt bei einem Teil der zugrundeliegenden Einzelstudien.
+- **E2 — Sales-spezifische Anwendung**: Cialdinis Feldbeobachtung; keine RCTs für B2B-Kontext.
+
+**Gesamteinstufung unverändert E2–E3** (die Sales-Anwendung war bereits zuvor die praktisch maßgebliche, niedrigste Stufe; die Korrektur betrifft die Begründung der Basis-Evidenz, nicht die bereits konservative Endeinstufung für die Vertriebsanwendung).
 
 ## Vertriebsrelevanz
 
 **Sehr hoch.** Pre-Suasion adressiert direkt die bisher im Sales Codex unterrepräsentierte Frage: Was tue ich in den ersten Minuten eines Gesprächs, BEVOR ich mein Angebot präsentiere? Die Antwort hat messbare Auswirkungen auf die Wirksamkeit aller nachfolgenden Techniken.
+
+**⚠ Warnhinweis (Replikationsrisiko — siehe `SCIENTIFIC_DEBT.md`, Sektion B-0010, Priorität Hoch):** Dieser Mechanismus darf nicht unreflektiert als „wissenschaftlich gesichert" angewendet werden. Ein Teil der zugrundeliegenden Priming-Forschung — insbesondere die Bargh- und Dijksterhuis-Studien, auf die sich Kahneman in *Thinking, Fast and Slow* (Kap. 4) beruft und die auch dieses MEC mit fundieren — gehört zu den Befunden, die in der Replikationskrise der Psychologie nicht bestätigt werden konnten; Kahneman selbst hat dies 2012 öffentlich anerkannt. Siehe Abschnitt „Evidenzlevel" für die differenzierte Einstufung, die diesen Umstand jetzt abbildet (zuvor bestand hier ein Widerspruch zwischen diesem Objekt und `SCIENTIFIC_DEBT.md`).
 
 ## Grenzen
 
@@ -84,6 +93,7 @@ E2 (Sales-spezifische Anwendung: Cialdinis Feldbeobachtung; keine RCTs für B2B-
 - B-0002 (Influence): MEC-0005–0009 sind die Prinzipien, die Pre-Suasion pre-aktiviert
 - B-0010 (Thinking, Fast and Slow): System-1-Mechanismus ist der psychologische Unterbau
 - B-0003 (Never Split the Difference): Rapport-Aufbau (Spiegeln, Labeling) hat implizit Pre-Suasion-Funktion — aktiviert Vertrauen/Kooperation vor eigentlicher Technik
+- B-0015 (Made to Stick): MEC-0027 (Gap-Theorie der Neugier) ist ein EIGENSTÄNDIGER, komplementärer Aufmerksamkeitsmechanismus — geprüft und explizit ALS NICHT IDENTISCH mit MEC-0018 abgegrenzt (unterschiedlicher Zeitpfad: kurzes Privileged-Moment-Fenster vor der Botschaft bei MEC-0018 vs. anhaltende, spannungsartige Motivation während/über die gesamte Botschaftsdauer bei MEC-0027). Siehe MEC-0027, Canonicalization-Begründung, für die vollständige Abgrenzungsanalyse; siehe P-0036, Erweiterungsabschnitt, für die praktische Kombinationsmöglichkeit beider Mechanismen.
 
 ## Abgrenzung zu bestehenden MECs
 
@@ -93,6 +103,24 @@ E2 (Sales-spezifische Anwendung: Cialdinis Feldbeobachtung; keine RCTs für B2B-
 | MEC-0012 (Dual-Process) | Beschreibt S1→S2-Übergang; MEC-0018 beschreibt Opener-Vorbereitung vor diesem Übergang |
 | MEC-0013 (Insight Disruption, Challenger) | Challenger unterbricht Erwartungsrahmen IN der Botschaft; MEC-0018 = Vorbereitung VOR der Botschaft |
 
+## Erweiterung: Erwartung verändert die tatsächliche Erfahrung selbst — neuronale Evidenz (SRC-0012, Ariely 2008/2009)
+
+**[Ergänzt 2026-07-02 aus B-0012 — Predictably Irrational]**
+
+Ariely liefert mit den Bier-/Kaffee-/Coke-Pepsi-Experimenten eng verwandte, aber empirisch tiefere Belege für denselben Kausalpfad wie MEC-0018: Vorherige Information/Erwartung färbt nicht nur die Bewertung einer nachfolgenden Botschaft, sondern verändert nachweisbar die tatsächliche sensorische bzw. neuronale Verarbeitung der Erfahrung selbst.
+
+**Kausalpfad-Identitätsprüfung (CKM Schritt 2):** X (vorherige Information/Erwartung) = identisch mit MEC-0018s "Opener"; Y (attentionale/assoziative Voraktivierung) = identisch, jetzt zusätzlich neuronal spezifiziert (VMPFC/DLPFC-Aktivierung); Z (veränderte Bewertung/Erfahrung) = identisch. Erweiterung, kein neuer MEC.
+
+**Kernexperiment 1 — Bier-Essig-Experiment (ST-0235):** Ohne Vorwissen über einen Essig-Zusatz bevorzugte die Mehrheit der Probanden das "MIT Brew" (Essig-Bier); mit Vorwissen VOR der Verkostung lehnten die meisten es ab; wurde die Information ERST NACH der Verkostung mitgeteilt, blieb die positive Bewertung erhalten (identisch zur unwissenden Kontrollgruppe). Methodisch besonders wertvoll: zeigt kausale Richtung, da die zeitliche Sequenz (Information vor/nach Erfahrung) explizit variiert wird.
+
+**Kernexperiment 2 — Coke-vs-Pepsi-fMRT-Studie (ST-0236, externe Studie von McClure et al., sekundär referenziert):** Ohne Markenkenntnis war die Hirnaktivierung (VMPFC, Belohnungsverarbeitung) für Coke und Pepsi ähnlich. MIT Markenkenntnis wurde bei Coke zusätzlich der DLPFC (höhere kognitive Assoziationsverarbeitung) aktiviert — liefert einen neurowissenschaftlichen Beleg dafür, dass der "Opener"-Effekt (hier: Markenwissen) messbare zusätzliche Hirnaktivität erzeugt, nicht nur einen reinen Bewertungs-Bias.
+
+**Zusatzbelege:** Kaffee-Ambiente-Experiment (bessere Bewertung bei hochwertigerer Präsentation derselben Kaffeesorte); Stereotyp-Priming-Experimente (Asian-Women-Math-Test, Bargh-Höflichkeits-Priming) — zeigen, dass Priming-Effekte auch VERHALTEN (nicht nur Geschmacksurteil) messbar verändern.
+
+**Wissenschaftliche Grundlage (websuchverifiziert 2026-07-02):** McClure, S.M., Li, J., Tomlin, D., Cypert, K.S., Montague, L.M. & Montague, P.R. (2004). Neural Correlates of Behavioral Preference for Culturally Familiar Drinks. *Neuron*, 44(2), 379-387 (im Ariely-Text ohne vollständige Zitation referenziert, hier bibliographisch identifiziert). Diese Studie ist eine von Ariely UNABHÄNGIGE externe Forschungsgruppe — stärkt die Konvergenzevidenz für MEC-0018 zusätzlich zur bereits bestehenden Priming-Literatur (Bargh/Chartrand, Collins/Loftus).
+
+**Kein E-Level-Wechsel** — E3/E4 bleibt bestehen (die neue fMRT-Evidenz stärkt die neurowissenschaftliche Fundierung, verändert aber nicht die Grundeinstufung wegen weiterhin fehlendem direktem B2B-Sales-Transfer-Test).
+
 ## Status
 
-Neu — 2026-07-01 (SRC-0008 Pre-Suasion)
+Neu — 2026-07-01 (SRC-0008 Pre-Suasion); erweitert 2026-07-02 (SRC-0012 Predictably Irrational — Bier-Essig-Experiment, Coke-Pepsi-fMRT-Studie/McClure et al. 2004); **Widerspruch zu `SCIENTIFIC_DEBT.md` behoben — 2026-07-03 (Final Pre-Release Sprint):** Evidenzlevel-Abschnitt differenziert (Spreading Activation vs. Bargh/Dijksterhuis-Priming), Warnhinweis in Vertriebsrelevanz ergänzt, keine inhaltliche Neubewertung des Mechanismus selbst, keine neue Recherche.

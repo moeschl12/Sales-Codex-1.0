@@ -68,11 +68,13 @@ Discovery ist abgeschlossen, wenn alle fünf Elemente erschlossen sind:
 - Never Split (B-0003): Calibrated Questions ("What makes this a challenge?") haben ähnliche Funktion wie Probing-Fragen — offene Exploration ohne Verhör-Charakter
 - Challenger Sale (B-0004): In Commercial Teaching Pitch gibt es keine direkte Discovery-Fragetechnik — fundamentaler methodologischer Unterschied zu Gap Selling
 
-## ⚠ Widerspruch zu B-0004 (Challenger Sale)
+## ⚠ Widerspruch zu B-0004 (Challenger Sale) — kontextuell aufgelöst durch W-001
 
-Challenger Sale lehrt, Bedürfnisse proaktiv aufzudecken (Teach-Phase), bevor die Diagnose vollständig ist. Gap Selling Discovery Questioning setzt voraus, dass der Käufer auf Fragen antwortet, bevor die Lösung präsentiert wird. Beides sind valide Strategien für unterschiedliche Situationen; welche wann besser funktioniert, ist offen.
+Challenger Sale lehrt, Bedürfnisse proaktiv aufzudecken (Teach-Phase), bevor die Diagnose vollständig ist. Gap Selling Discovery Questioning setzt voraus, dass der Käufer auf Fragen antwortet, bevor die Lösung präsentiert wird. Beides sind valide Strategien für unterschiedliche Situationen. Die Editor Decision zu W-001 (`06_research_program/completed/W001/06_EDITOR_DECISION.md`, 2026-07-03) bestätigt: Welche Strategie wann besser funktioniert, hängt von Problemreife, Kontext, Sensemaking-Bedarf und Buying-Center-Dynamik ab — keine der beiden gilt universell. Technik selbst inhaltlich unverändert. Herkunft (ergänzend): W-001 (Research Program).
 
-## Evidenzgrad
+## Evidenzlevel
+
+*(Feldname vereinheitlicht 2026-07, Consistency Correction Sprint — vormals „Evidenzgrad", inhaltlich unverändert. Siehe `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
 
 E2 — Practitioner-Framework; Quantifizierungsregel ist psychologisch plausibel (konkrete Zahlen > abstrakte Beschreibungen erhöhen emotionale Wirkung). Kein direkter empirischer Beleg für die Fragetypologie.
 

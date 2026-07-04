@@ -242,6 +242,18 @@ Objekte, die vor diesem Dokument erstellt wurden (Pilot 001 — SPIN Selling), h
 
 Eine rückwirkende Ergänzung des Source-ID-Feldes in bestehenden Objekten ist sinnvoll, aber kein blockierender Schritt. Sie kann als separater Task aufgenommen werden, wenn der Herausgeber dies entscheidet.
 
+### 7.5 Source-ID bei Herkunft aus dem Research Program (RC-1)
+
+Objekte, die aus einem Forschungsprojekt des Research Program (`06_research_program/`) integriert werden, tragen im Pflichtfeld "Source ID" die Projekt-ID statt einer `SRC-ID`:
+
+```markdown
+## Source ID
+
+W-XXX (Research Program)
+```
+
+Wird ein Objekt sowohl durch eine Buchquelle als auch durch ein Forschungsprojekt gestützt, gilt Abschnitt 7.3 (kommagetrennte Mehrfachangabe) entsprechend: `SRC-0004, W-001`. Der vollständige Integrationsablauf ist beschrieben in `06_research_program/REPOSITORY_INTEGRATION.md`; die Kompatibilität mit der Objektidentitätslogik dieses Abschnitts ist in `01_framework/05_knowledge_model/canonical_knowledge_model.md`, Abschnitt 11 bestätigt.
+
 ---
 
 ## 8. Regeln für Task-Proposals

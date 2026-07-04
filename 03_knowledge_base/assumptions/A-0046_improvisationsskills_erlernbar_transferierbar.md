@@ -16,7 +16,7 @@ Die Kernfähigkeiten des Improvisationstheaters — Angebote hören, "Yes And" b
 
 Pink zitiert Second City Business Theatre und vergleichbare Programme, die Improv-Training in Unternehmenskontext anbieten. Annahme: Wer lernt, Partnerangebote zu hören, adaptiert sich besser an unvorhergesehene Gesprächswendungen als Verkäufer, die ausschließlich skriptbasiert trainieren.
 
-## Evidenzlage
+## Evidenzstatus
 
 - Schwach: Improv-Transfer auf Sales ist weitgehend analogisch (E2 Practitioner-Evidenz)
 - Kein RCT oder kontrolliertes Experiment, das Improv-Training direkt mit Verkaufsleistung verbindet

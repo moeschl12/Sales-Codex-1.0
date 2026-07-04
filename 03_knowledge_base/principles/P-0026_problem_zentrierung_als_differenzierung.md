@@ -37,7 +37,7 @@ Referenziert ≥ 2 Annahmen: A-0029 (Credibility als Discovery-Gate) + A-0026 (B
 - T-0023 (Gap Discovery Questioning: Qualität der Fragen = Credibility im Gespräch)
 - T-0022 (Gap-Demo: Impact-Hierarchie = Credibility in der Demonstration)
 
-## Evidenzgrad
+## Evidenzklassifikation
 
 E2 — Methodisches Prinzip aus Practitioner-Buch. Cross-Book-Konvergenz mit A-0018 (B-0004: Relationship Builder verliert) erhöht Konfidenz. Keine Primärstudie für die Differenzierungs-Behauptung.
 

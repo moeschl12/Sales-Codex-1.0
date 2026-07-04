@@ -48,16 +48,10 @@ Ein Opener ist eine gezielt platzierte Handlung, Frage, Zahl, Bild, Musik oder s
 - T-0036 (Commitment-Lock)
 - ST-0175, ST-0176, ST-0177, ST-0179
 
-## Evidenzklasse
+## Evidenzlevel
 
-E3 (Priming-Studien E4; Cialdinis Feldbeobachtungen E2; Kombination E3)
+E3 (Priming-Studien E2–E4 differenziert — siehe MEC-0018 Abschnitt „Evidenzlevel" **[korrigiert 2026-07-03, Final Pre-Release Sprint]**: Spreading Activation E4, sozial-behaviorale Bargh/Dijksterhuis-Priming-Studien E2 mit Replikationsvorbehalt; Cialdinis Feldbeobachtungen E2; Kombination unverändert E3)
 
-## Grenzen
+## ⚠ Warnhinweis (Replikationsrisiko)
 
-- Opener, die als Manipulation erkannt werden, lösen Reaktanz aus (A-0043, MEC-0003)
-- Zu viele Opener hintereinander → Saturation, Effekt verpufft
-- Kulturelle Unterschiede: In manchen Kulturkontexten sind subtile Opener-Cues weniger wirksam
-
-## Status
-
-Entwurf — 2026-07-01
+Diese Techn

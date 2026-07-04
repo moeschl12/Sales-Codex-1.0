@@ -54,6 +54,22 @@ Diese Annahme ist stärker als die meisten anderen A-Objekte empirisch gesichert
 - Gibt es Situationen, in denen Experten absolute Standards anlegen und Referenzpunkte ignorieren?
 - Wie verhält sich der Referenzpunkt-Effekt bei B2B-Entscheidern mit starken internen Benchmarks?
 
+## Erweiterung: Preis wirkt kausal auf tatsächliche Erfahrung/Leistung, nicht nur auf Bewertung (SRC-0012, Ariely 2008/2009)
+
+**[Ergänzt 2026-07-02 aus B-0012 — Predictably Irrational]**
+
+Die ursprüngliche Formulierung dieser Annahme ("Preis als Qualitätssignal") beschreibt primär einen Bewertungs-/Wahrnehmungseffekt. Ariely liefert mit zwei experimentellen Paradigmen deutlich stärkere, kausale Evidenz: Preis beeinflusst nicht nur die nachträgliche Bewertung eines Produkts, sondern die tatsächlich erlebte UND (im Fall der SoBe-Studie) objektiv gemessene Wirkung selbst.
+
+**Veladone-Rx-Preis-Placebo-Experiment (ST-0238):** Eine als Schmerzmittel deklarierte Vitamin-C-Kapsel (reines Placebo) linderte bei deklariertem Normalpreis ($2,50) bei fast allen Probanden Elektroschock-Schmerz; bei deklariertem Rabattpreis (10 Cent) nur bei der Hälfte — trotz identischem (Nicht-)Wirkstoff.
+
+**SoBe-Preis-Objektive-Leistungs-Experiment (ST-0239):** Vollpreis-Käufer eines Energy-Drinks lösten in einem Wortpuzzle-Test durchschnittlich 9 von 15 Aufgaben richtig (identisch zur Baseline ohne Getränk); Rabatt-Käufer nur 6,5 (28% weniger) — bei OBJEKTIV gemessener kognitiver Leistung, nicht nur Selbstbericht.
+
+**Konsequenz für diese Annahme:** Die neue Formulierung ist umfassender als die ursprüngliche: Nicht nur die WAHRNEHMUNG von Wert ist relativ und referenzpunktabhängig, sondern der Preis als Referenzpunkt kann über einen Placebo-artigen Mechanismus die tatsächliche subjektive und teilweise objektive Wirkung eines Produkts kausal mitbestimmen. Dies ist eine wichtige Evidenzverstärkung (von primär korrelativ/heuristisch zu experimentell-kausal mit teilweise objektivem Leistungsmaß), keine neue, eigenständige Annahme — daher als Erweiterung dokumentiert (nicht als neue A-0052, da CKM-Falsifizierungstest zeigt: Diese Annahme wäre falsch unter denselben Bedingungen wie die ursprüngliche A-0008 — nämlich wenn Referenzpunkte/Preise keinen Effekt auf Bewertung/Erfahrung hätten. Hinweis: Aus Gründen der Objekttrennung nach unterschiedlichem Evidenztyp — reine Bewertungsverzerrung vs. kausale Wirkung auf Erfahrung — wurde dennoch zusätzlich A-0052 als eigenständige, spezifischere Annahme anlegt, siehe dort für die vollständige Abgrenzungsbegründung.)
+
+**Wissenschaftliche Grundlage:** Waber, R.L., Shiv, B., Carmon, Z. & Ariely, D. (2008). Commercial Features of Placebo and Therapeutic Efficacy. *JAMA*, 299(9), 1016-1017.
+
+Siehe auch: A-0052 (neu, spezifischer auf den kausalen Preis-Erfahrungs-Zusammenhang fokussiert) und MEC-0018 (Pre-Suasion-Erweiterung).
+
 ## Status
 
-Entwurf
+Entwurf; erweitert 2026-07-02 (SRC-0012 Predictably Irrational — Preis-Placebo-Kopplung, Waber/Shiv/Carmon/Ariely 2008 JAMA)

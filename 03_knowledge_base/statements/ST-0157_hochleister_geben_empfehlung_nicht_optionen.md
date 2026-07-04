@@ -33,7 +33,7 @@ Aus Analyse von Hochleister-Gesprächen via Tethr. Quantitativer Nachweis nicht 
 - Challenger "Take Control" (MOD-0004): Empfehlung geben statt auf Kunden zu warten = Kern von "Take Control"
 - SPIN (B-0001): SPIN gibt keine direkten Empfehlungen — Kunden sollen selbst den Need formulieren; JOLT-O ist methodisch näher an Challenger als an SPIN
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Verhaltensbeobachtung aus proprietärer ML-Analyse; keine Kontrollgruppe; richtungsweisend, nicht kausal belegt)
 

@@ -312,4 +312,10 @@ Ab Sales Codex OS v1.1 ist Book Mode der Standardmodus für alle Buchanalysen.
 
 ---
 
-*Dieses Dokument gilt ab v1.0. Änderungen nur durch Felix. Zuletzt aktualisiert: v1.1 (2026-06-30)*
+## 11. Verhältnis zum Research Program (RC-1)
+
+Dieses Operating Manual regelt die Verarbeitung von Büchern und anderen Primärquellen (Schritte 1–9). Offene Forschungsfragen, die sich nicht allein durch diesen Workflow klären lassen — insbesondere Widersprüche zwischen bereits verarbeiteten Quellen wie SPIN Selling und The Challenger Sale — werden stattdessen im Research Program (`06_research_program/`, siehe dortige `RESEARCH_GOVERNANCE.md` und `RESEARCH_LIFECYCLE.md`) bearbeitet. Ergebnisse aus dem Research Program erreichen `03_knowledge_base/` erst nach einer positiven Editor Decision und Repository Integration (`06_research_program/REPOSITORY_INTEGRATION.md`) — ab diesem Zeitpunkt gelten für sie exakt dieselben Regeln dieses Operating Manual und des Canonical Knowledge Model wie für jedes Buchanalyse-Ergebnis. Das Research Program ist kein Ersatz und keine Abkürzung für diesen Standardprozess.
+
+---
+
+*Dieses Dokument gilt ab v1.0. Änderungen nur durch Felix. Zuletzt aktualisiert: v1.1 (2026-06-30); RC-1 (2026-07-03) — Abschnitt 11 (Verhältnis zum Research Program) ergänzt.*

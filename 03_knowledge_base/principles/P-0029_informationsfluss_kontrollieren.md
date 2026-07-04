@@ -32,6 +32,12 @@ SRC-0006 — The JOLT Effect, Chapter 5 (ST-0158, A-0034)
 - MEC-0008 (Autorität, B-0002): Experten-Positionierung aktiviert automatischen Deference-Mechanismus
 - Challenger "Teach" (B-0004): Der Challenger liefert proaktiv Expertise — P-0029 ist die Post-Status-quo-Anwendung desselben Grundprinzips
 
+## Evidenzklassifikation
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0008 (E4, Autorität), A-0034 (E2, Informationsüberwältigung erhöht Wert des Trusted Guide). Eine prinzipienspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 
 Entwurf — erstellt 2026-07-01 (SRC-0006)

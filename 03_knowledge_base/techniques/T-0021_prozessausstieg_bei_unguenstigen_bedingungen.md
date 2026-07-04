@@ -76,6 +76,12 @@ Gering — T-0021 ist intrinsisch ehrlich: Wer austritt, weil er nicht gewinnen 
 - T-0018 — Negotiation One Sheet: Prozessausstieg kann strategisch geplant werden (BATNA-Kalkulation, wann ist Ausstieg besser als schlechter Deal?)
 - T-0015 — Kalibrierte Fragen: In der Prozess-Qualifikation können kalibrierte Fragen helfen, echtes Interesse vs. Foil-Prozess zu identifizieren
 
+## Evidenzlevel
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0003 (E4, Reaktanz), MEC-0002 (E4, Verlustaversion). Eine technikspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0004)

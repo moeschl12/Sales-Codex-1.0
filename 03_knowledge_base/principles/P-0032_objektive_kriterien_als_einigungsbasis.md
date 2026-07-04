@@ -21,5 +21,11 @@ SRC-0007 — Getting to Yes, Chapter 5 (ST-0169)
 - MEC-0012 (Dual Process): Objektive Kriterien adressieren System 2 statt System 1
 - MEC-0003 (Reaktanz): Druck erzeugt Reaktanz; Prinzipien vermeiden sie
 
+## Evidenzklassifikation
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0012 (E4, Dual-Process System 1/2), MEC-0003 (E4, Reaktanz). Eine prinzipienspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 Entwurf — erstellt 2026-07-01 (SRC-0007)

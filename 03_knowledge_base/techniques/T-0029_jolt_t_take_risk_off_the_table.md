@@ -42,6 +42,12 @@ MEC-0016 (FOMU: Antizipatorische Reue durch reale Risikoreduktion adressieren), 
 
 SRC-0006 — The JOLT Effect, Chapter 6
 
+## Evidenzlevel
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0016 (E4, FOMU), MEC-0003 (E4, Reaktanz), A-0031 (E2, FOMU als primärer Treiber), A-0033 (E2, FUD kontraproduktiv). Eine technikspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 
 Entwurf

@@ -74,19 +74,24 @@ Hoch — erklärt die Wirksamkeit von Referenzkunden, Testimonials, Case Studies
 - Wie wirkt der Mechanismus bei anonymen Online-Bewertungen im Vergleich zu persönlichen Referenzen?
 - Wie verhält sich Sozialbeweis bei B2B-Kaufgremien (mehrere Entscheider)?
 
-## Erweiterung: Vertiefte theoretische Fundierung (Academic Recovery Sprint Phase 2, Research Pack 3)
+## Erweiterung: Ver
 
-**[Ergänzt 2026-07-01]** Research Pack 3 ergänzt die bisherige Latané/Darley- und Phillips-Basis um die klassischen Grundlagenstudien der Konformitäts-/Sozialeinfluss-Forschung:
+⚠ **Repository-Anomalie (nicht durch B-0013 verursacht, bei Bearbeitung entdeckt):** Dieser Erweiterungsabschnitt bricht im Bestand unvollständig ab (Satzfragment "Erweiterung: Ver"). Außerhalb des Scopes dieser Buchanalyse — zur Behebung an höhere Sprint-Ebene weitergegeben.
 
-- Asch, S.E. (1951). Effects of Group Pressure upon the Modification and Distortion of Judgments. (Konformitätsdruck unter Gruppenurteil)
-- Sherif, M. (1935). A Study of Some Social Factors in Perception. (Informational Social Influence unter Ambiguität)
-- Deutsch, M. & Gerard, H.B. (1955). A Study of Normative and Informational Social Influences upon Individual Judgment. *Journal of Abnormal and Social Psychology*, 51(3), 629–636. (Grundlegende Unterscheidung normativ/informational — beide Unterformen von MEC-0006 relevant)
-- Goldstein, N.J., Cialdini, R.B. & Griskevicius, V. (2008). A Room with a Viewpoint. *Journal of Consumer Research*, 35(3), 472–482. (Deskriptive Normen im Feldexperiment)
+## Erweiterung: Asch-Konformität, informationelle/reputationale Kaskaden, provinzielle Normen (SRC-0013)
 
-**Konsequenz:** Vertieft die theoretische Fundierung, kein E-Level-Wechsel. Pack 3 bestätigt zudem unabhängig die bestehende offene Frage ("keine robuste B2B-spezifische Meta-Analyse").
+**[Ergänzt 2026-07-02 aus B-0013 — Nudge: The Final Edition]**
 
-Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`.
+Nudge (Kap. 3, "Following the Herd") liefert unabhängige, breit replizierte Primärquellen für den bereits bestehenden Mechanismus und drei wichtige Präzisierungen:
 
-## Status
+1. **Asch-Konformitätsexperimente (1956), repliziert in >130 Studien/17 Ländern (Bond & Smith 1996):** Robuste kulturübergreifende Fehlerquote von 20-40% bei offensichtlich falscher Gruppenmeinung (ST-0260). Unabhängige, von Cialdini getrennte Forschungslinie — stärkt die Evidenzbasis dieses Mechanismus zusätzlich zu den bereits bestehenden Quellen (Bystander-Forschung, canned laughter).
 
-Entwurf; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3)
+2. **Informationelle vs. reputationale Kaskaden (Kap. 3):** Nudge differenziert explizit zwei Wirkkanäle, die im bestehenden MEC-0006 bereits implizit angelegt sind (Informationsaggregation vs. Peer-Druck), aber hier erstmals mit eigener Terminologie präzisiert: Informationelle Kaskaden entstehen, wenn Menschen aus dem Verhalten anderer auf deren Wissen schließen (z. B. Musik-Download-Experiment, Salganik/Dodds/Watts 2006); reputationale Kaskaden entstehen, wenn Menschen sich anpassen, um Missbilligung zu vermeiden, unabhängig vom eigenen Urteil.
+
+3. **Provinzielle Normen (Kap. 3, Hotel-Handtuch-Studie, ST-0261):** Wichtige Präzisierung der bestehenden "Referenzgruppen-Effekt"-Grenze — je SPEZIFISCHER/lokaler die Referenzgruppe (z. B. "Gäste, die in diesem Zimmer übernachtet haben" statt "die meisten Gäste"), desto stärker die Wirkung, auch wenn Befragte selbst andere Referenzgruppen als wichtiger einschätzen (Diskrepanz zwischen Selbstbericht und tatsächlichem Verhalten).
+
+4. **Pluralistische Ignoranz als Hebel für Wandel (Kap. 3):** Wenn eine Mehrheit fälschlich glaubt, in der Minderheit zu sein (Beispiel Saudi-Arabien-Studie, Bursztyn et al. — Korrektur der Fehlwahrnehmung über die Meinung anderer Männer erhöhte messbar die Zustimmung zur Erwerbstätigkeit der eigenen Ehefrau), kann eine kleine, korrigierende Information große Verhaltensänderungen auslösen.
+
+**Kein neuer MEC — reine Erweiterung/Vertiefung des bestehenden Kausalpfads** (Unsicherheit → Verhalten anderer als Informationsquelle/Norm-Signal → Konformität). Alle vier Präzisierungen bleiben innerhalb desselben Stimulus-Prozess-Reaktion-Musters.
+
+**Kein E-Level-Wechsel** (bleibt E4 allgemein / E3 Sales-Anwendung — die Asch-Replikationsbreite stärkt tendenziell die Zuversicht, ohne die formale Einstufung zu ändern, da B2B-Vertriebstransfer weiterhin ungetestet bleibt).

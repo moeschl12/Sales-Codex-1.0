@@ -16,7 +16,7 @@ SRC-0005 — Gap Selling, Keenan, 2018; Conclusion, p.85 ("the cost of waiting u
 
 Keenan demonstriert in der Schlussanekdote: Ein CEO mit Budget-Einwand ("erst nächstes Jahr") ändert seine Entscheidung, als der COI explizit gemacht wird. Die Logik: Jede Verzögerung akkumuliert die Kosten des aktuellen Problems. Wenn COI (jährliche Schadenskosten) > Investitionskosten, ist Abwarten irrational. Der Gap ist die Differenz; der COI ist das, was mit jedem Tag des Nicht-Handelns anfällt.
 
-## Evidenzgrad
+## Evidenzstatus
 
 E2 — Practitioner-Argument; kompatibel mit Prospect Theory (Kahneman/Tversky 1979): Verluste wiegen schwerer als äquivalente Gewinne (Loss Aversion Ratio ~2:1). COI ist ein Verlustvermeidungsargument, kein Gewinnversprechen.
 

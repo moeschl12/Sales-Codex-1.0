@@ -19,7 +19,7 @@ Bei Planungen und Prognosen — Projektkosten, Implementierungszeiten, ROI-Schä
 3. **Pre-mortem im Deal Review**: Vor Abschluss: "Was könnte nach dem Kauf schiefgehen?" Proaktive Planning-Fallacy-Korrektur erhöht Vertrauen und Deal-Qualität
 4. **"Conservative but credible" Versprechen**: Zu optimistische Versprechen sind mittelfristig verkaufsschädigend (Kundenunzufriedenheit, Referenzierbarkeit); conservative estimates mit realistischer Upside sind besser
 
-## Evidenzklasse (Prinzip)
+## Evidenzklassifikation
 
 E4 (Flyvbjerg-Infrastrukturforschung E4; Planning-Fallacy-Forschung E4/E5; Sales-Transfer E2)
 

@@ -21,5 +21,11 @@ A-0038, MEC-0002 (Verlustaversion als kognitiver Rahmen: BATNA definiert den Ver
 ## Quelle
 SRC-0007 — Getting to Yes, Chapter 6
 
+## Evidenzlevel
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: A-0038 (E3, BATNA schützt vor Über-/Unter-Einigung), MEC-0002 (E4, Verlustaversion). Eine technikspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 Entwurf

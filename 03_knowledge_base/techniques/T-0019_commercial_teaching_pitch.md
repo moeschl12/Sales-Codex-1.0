@@ -79,6 +79,16 @@ Needs_Discovery / Solution_Presentation (Hauptanwendung: erste Kundenpräsentati
 - T-0003 — Implication Questions (SPIN): ähnliches Ziel (Status-quo-Kosten bewusst machen), aber durch Fragen statt durch proaktive Teach-Sequenz
 - T-0015 — Kalibrierte Fragen (Voss): In Schritt 5 ("A New Way") können kalibrierte Fragen eingesetzt werden, um den Kunden selbst die Lösungskategorie formulieren zu lassen
 
+## Evidenzlevel
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0013 (E3, Insight-Disruption), MEC-0002 (E4, Verlustaversion). Eine technikspezifische Einstufung (wie direkt die konkrete sechsschrittige Sequenz — nicht nur die einzelnen zugrunde liegenden Mechanismen — empirisch getestet ist) erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
+## Erweiterung durch W-001 (Research Program) — 2026-07-03
+
+Der ursprünglich als Methodologiekonflikt geführte Bezug zu T-0023 (Gap Discovery Questioning, Gap Selling) wurde durch die Editor Decision zu W-001 (`06_research_program/completed/W001/06_EDITOR_DECISION.md`) kontextuell aufgelöst: Beide Techniken bleiben eigenständig gültig, jeweils kontextabhängig wirksam (Problemreife, Sensemaking-Bedarf, Buying-Center-Dynamik) — keine der beiden gilt als universell vorrangig. Technik selbst inhaltlich unverändert. Keine mathematische Formalisierung übernommen. Herkunft (ergänzend): W-001 (Research Program).
+
 ## Status
 
-Entwurf — erstellt 2026-06-30 (SRC-0004)
+Entwurf — erstellt 2026-06-30 (SRC-0004); Querverweis ergänzt 2026-07-03 (W-001, Research Program)

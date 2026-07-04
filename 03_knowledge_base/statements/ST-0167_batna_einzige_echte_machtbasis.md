@@ -22,7 +22,7 @@ Fisher/Ury unterscheiden BATNA von "Bottom Line" (Minimalforderung): Bottom Line
 - Voss (B-0003): BATNA implizit in Verhandlungslogik; Voss betont aber "anchoring" stärker als BATNA-Entwicklung
 - JOLT (B-0006): T-0021 (Frühzeitiger RFP-Exit, B-0004) = Sales-Anwendung von BATNA-Denken
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (BATNA-Konzept ist universell in Verhandlungslehre übernommen; theoretisch solide; keine Kausal-RCT)
 
 ## Status

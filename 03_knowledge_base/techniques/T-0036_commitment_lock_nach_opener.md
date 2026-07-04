@@ -43,7 +43,7 @@ Pre-Suasion erzeugt ein temporäres Fenster erhöhter Empfänglichkeit. Um die d
 - T-0035 (Opener-Technik — Vorstufe)
 - A-0041 (Pre-Suasion-Effekte temporär ohne Commitment)
 
-## Evidenzklasse
+## Evidenzlevel
 
 E4 (Konsistenz-Forschung gut belegt; Post-Suasion-Studien von Cialdini peer-reviewed)
 

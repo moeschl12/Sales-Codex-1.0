@@ -20,5 +20,11 @@ SRC-0007 — Getting to Yes, Chapter 2 (ST-0168, ST-0174, A-0037)
 - Voss Taktische Empathie (B-0003): Operationalisierung der Beziehungsebene durch Labeling + Mirroring
 - MEC-0010 (Amygdala-Regulation): Anerkennung von Emotionen reduziert Amygdala-Aktivierung
 
+## Evidenzklassifikation
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: A-0037 (E3, Beziehung und Inhalt müssen getrennt werden), MEC-0010 (E2, Amygdala-Regulation). Eine prinzipienspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 Entwurf — erstellt 2026-07-01 (SRC-0007)

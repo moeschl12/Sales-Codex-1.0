@@ -45,6 +45,7 @@ Gleiches Schema wie `research_agenda.md` (SPR-0001), zur Konsistenz:
 - "buyer problem awareness" ODER "problem recognition stage" as moderator sales approach
 - Weitz, B.A. (1981), "Effectiveness in Sales Interactions: A Contingency Framework", Journal of Marketing 45(1), 85–103 — Kandidat, noch nicht verifiziert; thematisch exakt einschlägig (Kontingenz-Rahmen für Verkaufseffektivität), zu prüfen als möglicher direkter Vorläufer der Problemreife-Logik
 - Rackham, N. & DeVincentis, J. (1999), *Rethinking the Sales Force* — Practitioner-akademischer Grenzfall (Rackham selbst), zu prüfen ob dort ein Kontingenzmodell für Sequenzwahl vorliegt
+- **Neu (Sprint-3-Review, 2026-07-01, websuchverifiziert):** Plouffe, C.R., Holmes Nelson, Y. et al. (2013), "Testing an Enhanced, Process-Based View of the Sales Process", *Journal of Personal Selling & Sales Management* 33(2), 141–163. Empirische B2B-Feldstudie (n=211 Key Account Manager, konsultative Dienstleistungsorganisation), testet ein erweitertes Prozessmodell des Verkaufsablaufs gegen Selbst- und Fremdrating-Performance-Maße. **Tier-1-Kandidat** — direkt einschlägig für den direkten-empirischen-Test-Anspruch von AR-001, da reale B2B-Verkaufsprozessdaten statt Laborkonstrukte verwendet werden. **Vorbehalt:** Nur Abstract-/Sekundärebene geprüft (kein Volltextzugriff in diesem Sprint); ob die Studie die spezifische Diagnose-vs-Insight-Sequenzfrage direkt misst oder nur allgemeine Prozessbehaviors/Verhandlungsstil (Subjective Value Inventory) mit Performance korreliert, ist ungeklärt. Volltextprüfung vor formaler Tier-1-Bestätigung erforderlich — siehe Sprint-3-Review-Abschnitt unten. **Zitationshinweis:** Der Redaktionsauftrag nannte nur „Plouffe et al." ohne Jahr/Titel; dies ist die plausibelste identifizierte Publikation basierend auf thematischer Passung, aber nicht die einzige Plouffe-Publikation zu B2B-Vertriebsleistung — bei Bedarf mit Felix verifizieren, ob eine andere Plouffe-Quelle gemeint war.
 
 **Ziel:** F-001 (research_agenda.md) im engeren Sinn beantworten oder explizit als "akademisch nicht direkt testbar mit aktuell verfügbarer Literatur" dokumentieren.
 
@@ -63,6 +64,22 @@ Gleiches Schema wie `research_agenda.md` (SPR-0001), zur Konsistenz:
 **Ziel:** SD-SYS-004 von "plausibel, aber nicht sales-spezifisch belegt" auf "konkret belegt oder widerlegt" bewegen.
 
 **Erwarteter Einfluss:** Direkt relevant für A-0019 (53%-Loyalitäts-Split) und die Generalisierbarkeits-Bewertung des gesamten B2B-Kerns.
+
+---
+
+### AR-013 — Tversky & Shafir (1992): Choice under Conflict — akademische Fundierung für Indecision (B-0006/JOLT)
+
+**Status:** Neu, Sprint-3-Review (2026-07-01) — nachträglich als Tier 1 eingestuft, daher Nummerierung außerhalb der ursprünglichen Sequenz.
+
+**Quelle (websuchverifiziert):** Tversky, A. & Shafir, E. (1992), "Choice under Conflict: The Dynamics of Deferred Decision", *Psychological Science* 3(6), 358–361. Klassischer, hochzitierter Befund: Die Tendenz, eine Entscheidung aufzuschieben, nach neuen Alternativen zu suchen oder die Default-Option zu wählen, steigt mit dem Konfliktgrad zwischen den Optionen — auch wenn das Angebot dadurch objektiv verbessert wird (Verstoß gegen klassische Wertmaximierungs-Theorie).
+
+**Warum Tier 1, nicht Tier 3/4:** Diese Studie adressiert direkt die in AR-002 benannte strukturelle Schwäche — die alleinige proprietäre, nicht peer-reviewte Datenbasis für „Indecision" als Kaufhemmnis (Tethr-ML-Klassifizierung, B-0006, ST-0151/MOD-0006, bereits als SD-SYS-004 Publication-Bias-Risiko dokumentiert). Tversky & Shafir liefern einen unabhängigen, peer-reviewten, akademisch etablierten Mechanismus für genau das Phänomen, das MEC-0016 (FOMU/Indecision) und der 44%/56%-Split bislang nur über kommerzielle Tethr-Daten stützen. Das ist kein Ersatz für eine direkte Replikation der Tethr-Klassifizierung, aber eine unabhängige akademische Grundlage für die zugrunde liegende psychologische Dynamik (Entscheidungsvermeidung unter Konflikt) — reduziert die alleinige Abhängigkeit von proprietären Daten für dieses Konstrukt spürbar.
+
+**Zielobjekte:** MEC-0016 (FOMU/Indecision-Treiber), A-0031, ST-0151, MOD-0006 (B-0006 JOLT Effect).
+
+**Vorgehen:** Vollwertige Quellenverarbeitung (nicht nur Abstract-Vermerk) empfohlen, da diese Quelle tragend für eine mögliche Aufwertung von MEC-0016 sein könnte (aktuell „Externe Validierung ausstehend", Mittel-Priorität in SCIENTIFIC_DEBT.md B-0006). Nach Volltextprüfung: Prüfen, ob „Choice under Conflict" als eigenständige Erweiterung von MEC-0016 oder als neue Theorie-Referenz dokumentiert wird (CKM Abschnitt 9 vor Neuanlage prüfen).
+
+**Erwarteter Einfluss:** Höchste Priorität unter den drei in diesem Sprint geprüften Literaturkandidaten — einzige der drei, die sowohl thematisch spezifisch (Indecision) als auch strukturell (Publication-Bias-Reduktion, AR-002-Ziel) direkt einschlägig ist.
 
 ---
 
@@ -103,6 +120,20 @@ Gleiches Schema wie `research_agenda.md` (SPR-0001), zur Konsistenz:
 **Quelle (verifiziert, ARS-0001):** Tuli, K.R., Kohli, A.K. & Bharadwaj, S.G. (2007), "Rethinking Customer Solutions: From Product Bundles to Relational Processes", Journal of Marketing 71(3), 1–17. Basis: 49+55 Interviews, zwei Fokusgruppen.
 
 **Zielobjekte:** Potenziell relevant für W-001 (liefert laut Gutachten "theoretische Basis für prozedurale Einbettung von Diagnose und Lösungsdesign") — Prüfung erforderlich, ob die dort beschriebene Prozesslogik (Requirements Definition → Customization → Deployment → Support) tatsächlich Diagnose-vs-Insight-Sequenzierung adressiert oder ein orthogonales Thema (Solution-Selling-Prozessarchitektur) ist. **Vorsicht:** Gutachten-Zuordnung zu W-001 nicht unkritisch übernehmen — eigenständige Prüfung in AR-001 erforderlich.
+
+---
+
+### AR-014 — March & Simon (1958): *Organizations* — theoretisches Fundament Buying-Center-Cluster
+
+**Status:** Neu, Sprint-3-Review (2026-07-01) — Tier 2, nicht Tier 1 (Begründung siehe unten).
+
+**Quelle (websuchverifiziert):** March, J.G. & Simon, H.A. (1958), *Organizations*, Wiley. Grundlagenwerk der Organisationstheorie: Bounded Rationality, Satisficing (Wahl der ersten hinreichend guten statt optimalen Option), organisationales Suchverhalten als Reaktion auf wahrgenommene Ziel-Erreichungs-Lücken, Routinen/Programme als Anpassungsmechanismus.
+
+**Warum Tier 2, nicht Tier 1:** March & Simon ist ein theoretisches Grundlagenwerk (1958), kein direkter empirischer Test von W-001 (Problemreife-Sequenzierung) oder von AR-002 (Publication Bias proprietärer B2B-Studien). Es erfüllt damit keines der beiden Tier-1-Kriterien im engeren Sinn. Es ist jedoch inhaltlich eng mit dem bestehenden Tier-2-Cluster (AR-003–006, Organisationale Kaufentscheidung/Buying Center/Principal-Agent) verwandt: „Suchverhalten ausgelöst durch wahrgenommene Ziel-Lücke" ist eine strukturelle Parallele zur Problemreife-Logik (Käufer sucht erst dann aktiv nach Lösungen, wenn eine Lücke wahrgenommen wird) — allerdings nur als **Analogie auf Organisationsebene**, nicht als direkter Beleg für individuelle Verkaufsgesprächs-Sequenzierung. Zudem liefert „Bounded Rationality" den historischen theoretischen Vorläufer von Eisenhardts Agency Theory (AR-005) — beide Werke gehören in denselben Theorie-Cluster.
+
+**Zielobjekte:** Potenziell MEC-0014 (Konsens als Kaufsicherheit), AR-005-Cluster (Principal-Agent), ggf. als zusätzliche Theorie-Referenz analog zu Webster & Wind (1972)/Sheth (1973) — nicht als Beleg für W-001 selbst.
+
+**Empfehlung:** Als Tier-2-Theoriereferenz vormerken, gemeinsam mit AR-003–006 zu verarbeiten, falls Herausgeber diesen Cluster fortsetzt. Keine eigenständige Priorität vor AR-001/AR-002/AR-013.
 
 ---
 

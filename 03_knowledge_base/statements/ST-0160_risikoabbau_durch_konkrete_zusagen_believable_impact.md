@@ -33,7 +33,7 @@ Verhaltensbeobachtung (Hochleister-Differenzierungsmerkmal)
 - Voss "Calibrated Questions" (B-0003): Voss reduziert auch Druck im Gespräch; ähnliche "Trust-First"-Logik
 - MEC-0014 (Konsens als Kaufsicherheit, B-0004): Gruppenentscheidungen brauchen ähnliche Risikoabsicherung — JOLT-T adressiert das auf Einzelentscheider-Ebene
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Beobachtungsdaten; "believable impact"-Konzept nicht separat gemessen; logisch konsistent mit Vertrauens- und Commitment-Forschung)
 

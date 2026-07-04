@@ -19,7 +19,7 @@ Taktisches Verfahren / Meta-Verhandlung
 - Voss (B-0003): Ähnlich — Voss benennt ebenfalls Taktiken explizit ("seems like" labeling); aber Voss nutzt taktische Elemente stärker als Antwort
 - MEC-0003 (Reaktanz): Benennen von Manipulation reduziert Reaktanz, weil Manipulation als Manipulation erkannt wird
 
-## Evidenzlevel
+## Evidenzklasse
 E2 (Qualitative Empfehlung; keine Kausal-Studie; plausibel aus Verhandlungspraxis)
 
 ## Status

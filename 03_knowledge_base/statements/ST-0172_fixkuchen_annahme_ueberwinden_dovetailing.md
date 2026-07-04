@@ -19,7 +19,7 @@ Konzeptuelle Grundlage (Anti-Zero-Sum-Annahme)
 - MEC-0002 (Verlustaversion): Fixkuchen-Annahme aktiviert automatisch Verlust-Framing; Dovetailing überschreibt sie
 - JOLT-O (B-0006): Direkter Kontrast — wenn Optionsmenu Lähmung erzeugt, ist Empfehlung besser; wenn Joint Gain möglich ist, braucht man Kreativität
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (Game-Theory-Grundlage gut belegt; Dovetailing als Verhandlungsstrategie gut dokumentiert; keine Sales-spezifischen Daten)
 
 ## Status

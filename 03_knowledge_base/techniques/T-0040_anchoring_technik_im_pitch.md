@@ -40,7 +40,7 @@ Willkürliche oder übertriebene Anker zerstören Vertrauen. Wert-Anker sollten:
 - Konservativ geschätzt sein (Käufer kann eigene Berechnung machen)
 - Vom Käufer selbst im Discovery-Prozess validiert worden sein (Selbst-Verbalisierung → MEC-0001)
 
-## Evidenzklasse
+## Evidenzlevel
 
 E4 (Anchoring E5; spezifische Sales-Pitch-Anwendung E3; Kombination mit ROI-Kommunikation: E2)
 

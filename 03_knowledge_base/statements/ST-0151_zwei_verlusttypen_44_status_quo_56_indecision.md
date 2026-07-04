@@ -34,9 +34,13 @@ Aus der Tethr-ML-Analyse. Die 44/56-Aufteilung ist der zentrale Forschungsbefund
 - SPIN (B-0001), Challenger (B-0004), Gap Selling (B-0005): alle adressieren das 44%-Problem (Status quo); JOLT adressiert das 56%-Problem (Indecision)
 - W-001: Implikation: Selbst wenn W-001 zugunsten einer Methode gelöst würde, bliebe das Indecision-Problem unberührt
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Proprietäre Datenbasis, Klassifizierungsmethodik unklar; keine externe Replikation)
+
+## ⚠ Hinweis: Publication Bias (Kommerzielle Quelle)
+
+Dieses Objekt beruht (mit) auf der proprietaeren Tethr-ML-Klassifizierung (44%/56%-Split), durchgefuehrt von einem kommerziellen Analytics-Anbieter. Die Klassifizierungsmethodik ist nicht offengelegt; keine unabhaengige Replikation bekannt. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
 
 ## Status
 

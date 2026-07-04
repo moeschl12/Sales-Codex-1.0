@@ -82,6 +82,42 @@ Hoch — erklärt, warum Feature-Dumping in Demos kontraproduktiv ist und warum 
 - P-S1-004 (Cross-Sprint Synthesis): "Weniger ist mehr" als Verkaufsprinzip taucht strukturell in allen Verkaufsmethodologien auf
 - B-0006 JOLT Effect: Choice Overload als zweite Ausprägung des Mechanismus hinzugefügt (erweitert 2026-07-01)
 
+## Erweiterung: Schwedisches Rentenfonds-System — longitudinaler Realwelt-Beleg für Choice Overload trotz aktiver Förderung (SRC-0013)
+
+**[Ergänzt 2026-07-02 aus B-0013 — Nudge: The Final Edition]**
+
+Nudge (Kap. 10, "Do Nudges Last Forever? Perhaps in Sweden") liefert den bislang stärksten longitudinalen (16 Jahre) Realwelt-Beleg für diesen Mechanismus: Das schwedische Premium-Pension-System startete 2000 mit 456 zur Wahl stehenden Fonds, wuchs bis 2017 auf fast 900 Fonds (ST-0259). Trotz massiver, staatlich UND privatwirtschaftlich finanzierter Werbekampagnen zur aktiven Fondswahl sank der Anteil aktiv wählender Neueinsteiger von 9,4% (2003) auf unter 1% (jüngste Jahre) — die überwiegende Mehrheit verblieb im unveränderten Default-Fonds, auch über Jahrzehnte und selbst nach einem öffentlich bekannt gewordenen Betrugsskandal bei einem der wählbaren Fonds (nur 1,4% verkauften ihre Anteile in der ersten Woche nach Bekanntwerden).
+
+**Neuer Aspekt gegenüber der bestehenden Feature-/Choice-Overload-Dokumentation:** Das schwedische Beispiel zeigt Choice Overload nicht nur als MOMENTANE Entscheidungslähmung (wie beim Marmeladen-Experiment oder JOLT-Choice-Overload), sondern als PERSISTENTEN Zustand — einmal getroffene (oder durch Nichthandeln vermiedene) Entscheidungen werden über sehr lange Zeiträume nicht revidiert, selbst wenn neue, entscheidungsrelevante Informationen auftauchen (z. B. Betrugsskandal, drastische Änderung der Risikostruktur des Default-Fonds durch nachträglich eingeführte 50%-Hebelung).
+
+**Verbindung zu MEC-0002 (Status-quo-Bias):** Choice Overload und Status-quo-Bias wirken hier zusammen — die Optionsüberflutung selbst erhöht die Wahrscheinlichkeit, dass die Default-Trägheit (MEC-0002) überhaupt zum Tragen kommt (Kuratierungsverzicht erhöht Verweildauer im Status quo). Beide Mechanismen bleiben aber kausal getrennt (Choice Overload wirkt auch OHNE Default-Option, z. B. bei erzwungener aktiver Wahl aus zu vielen Optionen; Status-quo-Bias wirkt auch bei nur zwei Optionen).
+
+**Kein E-Level-Wechsel** (E5 Miller's Law bleibt, E4 Paradox of Choice bleibt — der neue Beleg ist ein weiterer, besonders starker Feldbeleg auf E2-Sales-Transfer-Ebene, ändert die formale Einstufung nicht, da weiterhin kein direkter B2B-Vertriebstest vorliegt).
+
+## Cross-Book-Bezug (Ergänzung)
+
+- B-0013 Nudge: Schwedisches Rentenfonds-System als extremer, longitudinaler Choice-Overload-Beleg (erweitert 2026-07-02); Kap. 6 "But Wait, There's More" liefert die Gegenmaßnahme Kuratierung als Bestandteil von MOD-0011 (Choice Architecture).
+
+## Erweiterung: Entscheidungslähmung durch irrelevante Unsicherheit und durch zusätzliche gute Optionen (SRC-0015)
+
+**[Ergänzt 2026-07-02 aus B-0015 — Made to Stick]**
+
+Made to Stick (Kap. 1 "Simple") liefert zwei weitere, von Iyengar/Lepper (Marmeladen-Studie) und dem schwedischen Rentenfonds-Beispiel UNABHÄNGIGE experimentelle Belege für denselben Grundmechanismus (Entscheidungslähmung durch Optionsstruktur), erweitert diesen jedoch um eine wichtige neue Facette: Lähmung kann bereits durch reine WAHRGENOMMENE UNSICHERHEIT entstehen, nicht nur durch reine Optionsanzahl.
+
+**Neuer Beleg 1 — Irrelevante Unsicherheit (Tversky & Shafir 1992, ST-0305):** In einem Hawaii-Reise-Entscheidungsexperiment (Prüfungsergebnis-Szenario) entschieden sich Probanden bei bekanntem Bestehen (57%) UND bei bekanntem Nichtbestehen (54%) mehrheitlich für die Reise — bei UNBEKANNTEM Ergebnis zahlten jedoch 61% lieber eine Gebühr, um die Entscheidung aufzuschieben. Dies verletzt das "Sure-Thing-Prinzip" (Savage 1954): Wenn eine Handlung unter BEIDEN möglichen Zuständen der Welt gewählt würde, sollte sie auch bei Unsicherheit über den Zustand gewählt werden. Die bloße Existenz irrelevanter Unsicherheit erzeugt Vermeidungsverhalten — ein von reiner Optionsanzahl unabhängiger Auslöser derselben Kernreaktion (Entscheidungsvermeidung).
+
+**Neuer Beleg 2 — Zusätzliche gute Optionen erhöhen Rückkehr zur Standardoption (Redelmeier & Shafir 1995, ST-0305):** Bei der Wahl zwischen "Vorlesung besuchen" und "lernen" entschieden sich nur 21% fürs Lernen. Wurde eine DRITTE gute Alternative (Auslandsfilm) hinzugefügt, stieg der Anteil der Lernenden auf 40% — mehr attraktive Alternativen erhöhen paradoxerweise die Wahrscheinlichkeit, dass die unattraktivste, aber "sicherste" Standardoption gewählt wird. Redelmeier/Shafir zeigen zusätzlich, dass auch ÄRZTE bei mehreren guten Behandlungsoptionen eher gar keine Behandlung verordnen.
+
+**Kausalpfad-Identitätsprüfung (CKM Schritt 2):** X (Konfrontation mit mehreren Optionen ODER Unsicherheit über Zustände) = im Kern verwandt mit dem bestehenden Choice-Overload-Pfad; Y (Arbeitsgedächtnis-/Entscheidungslast, hier zusätzlich präzisiert um die "Sure-Thing-Prinzip"-Verletzung als spezifischeren kognitiven Mechanismus bei Unsicherheit statt bei reiner Mengenüberflutung); Z (Vermeidung/Aufschub/Rückkehr zum Status quo) = identisch. Die Erweiterung präzisiert MEC-0015 um einen zusätzlichen, empirisch unabhängigen Auslösepfad (Unsicherheit selbst, nicht nur Optionsmenge), bleibt aber im selben kausalen Grundmuster (Entscheidungskomplexität → Vermeidung statt Wahl) — daher Erweiterung, kein neuer MEC.
+
+**Wissenschaftliche Grundlage (websuchverifiziert 2026-07-02):** Tversky, A. & Shafir, E. (1992). The Disjunction Effect in Choice Under Uncertainty. *Psychological Science*, 3(5), 305-309. Redelmeier, D.A. & Shafir, E. (1995). Medical Decision Making in Situations That Offer Multiple Alternatives. *JAMA*, 273(4), 302-306.
+
+**Kein E-Level-Wechsel** — E4/E5 bleibt bestehen (beide neuen Studien sind gut etablierte, in Fachzeitschriften publizierte Einzelstudien ohne bekannte Multi-Labor-Replikation im Sales-Codex-Bestand, stärken aber die Konvergenzevidenz für den Gesamtmechanismus zusätzlich zu Miller 1956 und Iyengar/Lepper 2000).
+
+## Cross-Book-Bezug (Ergänzung 2)
+
+- B-0015 Made to Stick: Tversky/Shafir-Disjunction-Effect und Redelmeier/Shafir-Multiple-Alternatives-Studie als zusätzliche, unabhängige experimentelle Belege für Entscheidungslähmung (erweitert 2026-07-02).
+
 ## Status
 
-Entwurf — erweitert 2026-07-01 (SRC-0006 JOLT Effect: Choice Overload als zweite Ausprägung)
+Entwurf — erweitert 2026-07-01 (SRC-0006 JOLT Effect: Choice Overload als zweite Ausprägung); erweitert 2026-07-02 (SRC-0015 Made to Stick — Tversky/Shafir Decision-Paralysis-Experimente)

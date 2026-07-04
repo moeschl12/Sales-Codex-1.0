@@ -96,6 +96,10 @@ Komplexe, erklärungsbedürftige, risiko- oder investitionsintensive Verkäufe. 
 - **Gap Selling (Keenan):** Ähnlicher Problem-Fokus, anderer konzeptueller Rahmen. Zu vergleichen.
 - **MEDDIC/MEDDPICC:** Fokus auf Qualifikation und Entscheidungsprozess, nicht auf Fragetechnik. Ergänzend zu SPIN.
 
+## Evidenzlevel
+
+E2-E3 (je nach Prinzip): Gut fundiert durch interne Forschung und partiell gestützt durch allgemeine Psychologieforschung, aber ohne unabhängige, peer-reviewte Replikation im Vertriebskontext. **[Header ergänzt 2026-07-04, External Audit Resolution Sprint — Bewertung war bereits unter „Codex-Interpretation" vorhanden, hier nur strukturell ausgewiesen.]**
+
 ## Codex-Interpretation
 
 SPIN ist kein einzelnes Prinzip, sondern ein vollständiges Gesprächsmodell, das mehrere Prinzipien, Mechanismen und Techniken in einer kohärenten Logik verbindet. Es ist Klasse-B-Fachliteratur (vorläufig B+) und dient als Pilotquelle für die Codex-Methodik.

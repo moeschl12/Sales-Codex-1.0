@@ -37,7 +37,7 @@ Basis: ML-Analyse von Hunderttausenden virtueller Verkaufsgespräche via Tethr-P
 - Komplementär zu MOD-0004 (Challenger): The Challenger Sale dokumentiert Status-quo-Bias als Hauptproblem; JOLT ergänzt: Nach Status-quo-Überwindung folgt das Unentschlossenheitsproblem
 - Ergänzt P-S1-001 (Cost of Inaction): Nicht-Entscheidung ist die häufigste Kaufbarriere — JOLT quantifiziert das
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Proprietäre Datenbasis, nicht peer-reviewed; keine externe Replikation; plausibel, aber nicht unabhängig validiert)
 

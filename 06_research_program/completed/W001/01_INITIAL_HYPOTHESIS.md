@@ -1,0 +1,3 @@
+# Initial Hypothesis
+
+Ausgangshypothese dokumentieren.

@@ -35,7 +35,7 @@ Käufer: "Ihr Preis ist 30% über Wettbewerb."
 - Perspektivübernahme (MEC-0020): "And" muss im Frame des Käufers ansetzen, nicht im Frame des Verkäufers
 - Keine geheuchelte Zustimmung: "Yes" muss ehrlich sein — erkenne valide Punkte tatsächlich an
 
-## Evidenzklasse
+## Evidenzlevel
 
 E2 (Practitioner-Evidenz: Improv-Praxis; Verbindung zur Reaktanz-Forschung behauptet nicht direkt gemessen)
 

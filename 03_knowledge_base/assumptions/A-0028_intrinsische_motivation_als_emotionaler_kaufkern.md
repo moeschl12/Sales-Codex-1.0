@@ -16,7 +16,7 @@ SRC-0005 — Gap Selling, Keenan, 2018; Kapitel 10, p.54–56 ("The why is the m
 
 Keenan beobachtet, dass quantifizierte Ziele (z.B. "20% Umsatzwachstum") nicht ihre eigene Erklärung tragen. Die Spezifität des Ziels verrät die tiefere Motivation: Warum 20%? Warum nicht 10% oder 50%? Die Antwort erschließt, was der Käufer wirklich fürchtet oder ersehnt — Konkurrenzangst, Vorstandsdruck, persönlicher Ehrgeiz, Überlebenssicherung. Der Verkäufer, der das "Why" kennt, kann seine Argumentation auf die eigentliche Motivationsebene ausrichten.
 
-## Evidenzgrad
+## Evidenzstatus
 
 E2 — Practitioner-Modell. Kompatibel mit Dual-Process-Theorie (Kahneman): System 1 (emotional, intuitiv) trifft Entscheidungen; System 2 (rational) rationalisiert sie nachträglich. "The Why" ist System-1-Zugang. Nicht durch Keenan empirisch belegt.
 

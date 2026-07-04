@@ -16,7 +16,7 @@ SRC-0006 — The JOLT Effect, Chapter 4. Gestützt auf Schwartz (2004) Paradox o
 
 Begründet JOLT-O (Offer Your Recommendation) als Gegenstrategie: Nicht mehr Optionen anbieten, sondern die Entscheidung abnehmen.
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 
 E4 (Schwartz 2004, Iyengar/Lepper 2000 — peer-reviewed, repliziert). E2 für spezifische Anwendung auf B2B-Kaufsituationen.
 

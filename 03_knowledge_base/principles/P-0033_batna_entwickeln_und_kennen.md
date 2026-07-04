@@ -20,5 +20,11 @@ SRC-0007 — Getting to Yes, Chapter 6 (ST-0167, A-0038)
 - Voss (B-0003): Voss betont "Anchoring" als Machtmittel — komplementär zu BATNA (BATNA ist Untergrenze; Anchor ist Startwert)
 - T-0021 (Frühzeitiger RFP-Exit, B-0004): Sales-Anwendung von BATNA-Logik
 
+## Evidenzklassifikation
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: A-0038 (E3, BATNA schützt vor Über-/Unter-Einigung). Eine prinzipienspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 Entwurf — erstellt 2026-07-01 (SRC-0007)

@@ -20,5 +20,11 @@ SRC-0007 — Getting to Yes, Chapter 3 (ST-0166, A-0036, MEC-0017)
 - SPIN (B-0001): Strukturell ähnlich — Implicit Needs hinter expliziten Aussagen durch Fragen erschließen
 - Gap Selling (B-0005): PIC erschließt Root Causes und Business-Impact — Interessen unter Symptom-Positionen
 
+## Evidenzklassifikation
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0017 (E4, Positions-Interessen-Divergenz), A-0036 (E3, Positionen und Interessen sind verschieden). Eine prinzipienspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 Entwurf — erstellt 2026-07-01 (SRC-0007)

@@ -16,7 +16,7 @@ SRC-0005 — Gap Selling, Keenan, 2018; Kapitel 7, p.15–17 ("Credibility is ev
 
 Keenan stellt Credibility als sequenzielles Gate dar: Erst wenn der Käufer dem Verkäufer Expertise zuschreibt, ist er bereit, sich zu öffnen. Dieser Öffnungsprozess ist Voraussetzung für eine vollständige Discovery. Ohne Discovery kein Gap. Ohne Gap kein Kauf. Die Kette Credibility → Discovery → Gap → Lösung ist damit unauflöslich. Sympathie (Likability) kann Credibility nicht ersetzen — sie ist allenfalls unterstützend.
 
-## Evidenzgrad
+## Evidenzstatus
 
 E2 — Practitioner-Modell. Kompatibel mit sozialpsychologischer Autoritätsforschung (Cialdini, MEC-0008: Autorität als Compliance-Trigger). Keine primäre Studie bei Keenan.
 

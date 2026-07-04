@@ -32,6 +32,12 @@ SRC-0006 — The JOLT Effect, Chapter 4 (ST-0156, ST-0157, A-0032, MEC-0015)
 - Challenger "Take Control" (MOD-0004): methodische Nähe — beide betonen Führung statt Folgen in der Abschlussphase
 - SPIN (B-0001): Bewusst gegenläufig — SPIN lässt Käufer Need selbst formulieren; P-0028 übernimmt die Lösungsempfehlung
 
+## Evidenzklassifikation
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0015 (E5, Choice Overload), MEC-0016 (E4, FOMU), A-0032 (E4, Optionsvielfalt verschlechtert Kaufentscheidungen). Eine prinzipienspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 
 Entwurf — erstellt 2026-07-01 (SRC-0006)

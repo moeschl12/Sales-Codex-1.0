@@ -16,7 +16,7 @@ SRC-0005 — Gap Selling, Keenan, 2018; Kapitel 8, p.38–40 (Technical vs. Busi
 
 Keenan führt eine explizite Drei-Ebenen-Hierarchie ein: Technisches Problem → Business Problem → Existenzielles Problem. Ein Reporting-System ist das technische Problem. "Wir können nicht effektiv vermarkten" ist das Business Problem. "Das Unternehmen wächst nicht und könnte pleite gehen" ist die existenzielle Konsequenz. Je höher man in dieser Hierarchie argumentiert, desto stärker ist die Kaufmotivation. Verkäufer, die auf der technischen Ebene bleiben, adressieren den falschen Motivationskanal.
 
-## Evidenzgrad
+## Evidenzstatus
 
 E2 — Practitioner-Modell. Kompatibel mit SPIN Selling (Rackham, 1988): Implication Questions erschließen dieselbe Kette (technisches Problem → Business-Konsequenz). Auch konsistent mit CSO Insights-Daten (SRC-0005, Anmerkung i: 2017 World Class Sales Practices Report), die zeigen, dass "Value Messaging" ein Top-Differenziator ist.
 

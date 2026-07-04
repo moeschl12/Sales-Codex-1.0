@@ -20,7 +20,7 @@ Taktisches Verfahren / Verhandlungsjudo
 - MEC-0003 (Reaktanz): Jujitsu verhindert Reaktanz durch Nicht-Drücken
 - MEC-0010 (Amygdala-Regulation): Weiterführung — Deeskalation durch Nicht-Angriff
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (Breit in Mediation und Verhandlungspraxis; akademisch fundiert; keine Wirksamkeits-RCT)
 
 ## Status

@@ -21,5 +21,11 @@ MEC-0012 (System 2 Aktivierung durch rationale Kriterien), MEC-0017 (Positions-F
 ## Quelle
 SRC-0007 — Getting to Yes, Chapter 5
 
+## Evidenzlevel
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0012 (E4, Dual-Process System 1/2), MEC-0017 (E4, Positions-Interessen-Divergenz). Eine technikspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 Entwurf

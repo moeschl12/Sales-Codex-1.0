@@ -9,7 +9,7 @@ Die bekundete Position einer Verhandlungspartei ist nicht identisch mit ihren zu
 ## Woher stammt diese Annahme?
 SRC-0007 — Getting to Yes, Fisher/Ury, Chapters 1 & 3. Kern-Axiom der Harvard-Verhandlungsmethode.
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 E3 — Breit in Verhandlungstheorie und Mediation akzeptiert; gut dokumentiert durch Fallbeispiele; keine experimentelle Kausal-Validation, aber institutionell gut verankert.
 
 ## Verbundene Objekte

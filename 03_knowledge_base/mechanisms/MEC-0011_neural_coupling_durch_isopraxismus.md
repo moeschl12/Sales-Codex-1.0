@@ -89,14 +89,44 @@ Sehr hoch — Mirroring ist eine der am leichtesten erlernbaren Techniken mit br
 
 Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`.
 
+## Erweiterung: Verbale Synchronität in Verhandlungen — Language Style Matching (Sprint-3-Review, 2026-07-01)
+
+**[Ergänzt 2026-07-01, Anlass: Redaktionsauftrag „Prüfe MEC-0011 erneut — Trennung motorische Mimikry vs. verbales Mirroring"]**
+
+**Befund der erneuten Prüfung:** Die bisherige Ergänzung (Research Pack 3/4) stützt die Abgrenzung „allgemeine Mimicry vs. Voss-spezifisches verbales Mirroring" ausschließlich auf Chartrand & Bargh (1999) und Lakin & Chartrand (2003) — beides Studien zu **motorischer** Nachahmung (Sitzhaltung, Gestik, Mimik). Das ist der richtige Beleg dafür, dass diese Literatur *nicht* Voss' verbale Technik stützt — aber es ist der falsche Vergleichsmaßstab, um zu prüfen, ob *verbale* Synchronität selbst untersucht wurde. Diese Lücke wird hiermit geschlossen.
+
+**Websuchverifizierte Ergänzung — Linguistic/Language Style Matching (LSM):**
+
+- Taylor, P.J. & Thomas, S. (2008). Linguistic Style Matching and Negotiation Outcome. *Negotiation and Conflict Management Research*, 1(3), 263–281. Feldstudie: 9 Polizei-Geiselverhandlungen, 6 Zeitphasen, 18 linguistische Kategorien. Befund: Erfolgreiche Verhandlungen zeigen höheres UND stabileres LSM als gescheiterte; gescheiterte Verhandlungen zeigen starke LSM-Fluktuation statt kontinuierlicher Angleichung.
+- Ireland, M.E. & Henderson, M.D. (2014). Language Style Matching, Engagement, and Impasse in Negotiations. *Negotiation and Conflict Management Research*, 7(1), 1–16. Befund: Hohes LSM über die gesamte Verhandlung korreliert mit mehr sozialem Engagement, aber auch mit geringerem Aufgabenfokus und höherer Sackgassen-Wahrscheinlichkeit. Nur *frühes*, nicht spätes/anhaltendes Style Matching sagt positive, sozial abgestimmte Interaktionen vorher.
+
+**Warum dies der methodisch relevantere Vergleichsmaßstab ist:** Beide Studien messen (a) **verbale** statt motorische Synchronität und (b) wurden explizit in Verhandlungskontexten erhoben — Taylor & Thomas (2008) sogar im Geiselverhandlungskontext, Voss' eigenem Praxisfeld. Sie sind damit näher an MEC-0011s tatsächlichem Gegenstand als die bisher zitierte Mimicry-Literatur.
+
+**Grenze dieser Ergänzung — kein direkter Test von Voss' Technik:** LSM misst aggregierte Funktionswort-Konvergenz über ein gesamtes Gespräch, nicht eine diskrete 1–3-Wort-Wiederholungstaktik. Die Konstrukte sind verwandt (beide „verbale Angleichung"), aber nicht identisch. Diese Literatur bestätigt daher nicht Voss' spezifische Technik — sie liefert lediglich einen näheren, aber weiterhin indirekten Beleg.
+
+**Dokumentationswürdiger Spannungspunkt:** Ireland & Henderson (2014) zeigen, dass *anhaltendes* verbales Mirroring über eine ganze Verhandlung mit erhöhtem Sackgassen-Risiko einhergeht — nur früh einsetzendes Matching wirkt positiv. Voss empfiehlt Mirroring dagegen ohne zeitliche Einschränkung als durchgehend anwendbare Technik. Dieser Widerspruch ist in `SCIENTIFIC_DEBT.md` dokumentiert (Kategorie „Widersprüchliche Evidenz").
+
+**Evidenzeinordnung dieser Ergänzung:** E3 — zwei unabhängige, aber kleine Feldstudien (N=9 Verhandlungen bzw. moderate Stichprobe bei Ireland & Henderson), keine Meta-Analyse, keine experimentelle Manipulation (korrelational/beobachtend).
+
+**Begründete Entscheidung:** Kein E-Level-Wechsel für MEC-0011 (bleibt E2 gesamt / E1 Spiegelneuronen-Anteil). Die bestehende Trennung motorische Mimikry (E4, aber falscher Vergleichsmaßstab) vs. Voss-spezifisches verbales Mirroring (E1/E2, kein direkter Test) ist konzeptionell korrekt und bleibt bestehen. Diese Ergänzung präzisiert lediglich, welche Literatur der richtige Vergleichsmaßstab für „verbale Synchronität" ist, und deckt eine zuvor ungenaue Aussage auf: Der Satz „Kaum kontrollierte Studien zu Mirroring-Effekten in Verkaufs- oder Verhandlungssituationen" trifft auf LSM-Forschung nicht mehr zu — er trifft weiterhin auf Voss' spezifische 1–3-Wort-Technik zu, die von keiner der beiden Literaturlinien (Mimicry oder LSM) direkt getestet wird.
+
+Siehe auch: `00_project/SCIENTIFIC_DEBT.md` (neuer Eintrag B-0003, Sprint-3-Review).
+
 ## Offene Fragen
 
 - Gibt es quantitative Belege für Mirroring-Effekte in echten Verhandlungsexperimenten?
 - Wie interagiert Mirroring mit Machtasymmetrien? (Spiegelt der Mächtigere den Schwächeren oder umgekehrt?)
 - Wie lange hält Neural Coupling nach einer Interaktion an?
+- Gilt Ireland & Hendersons (2014) Befund „frühes Matching positiv, spätes/anhaltendes Matching Sackgassen-Risiko" auch für Voss' diskrete 1–3-Wort-Wiederholungstechnik, oder nur für aggregiertes LSM? (Nicht direkt getestet — neue offene Frage aus Sprint-3-Review.)
+
+## Abgrenzung zu MEC-0022 (Emotional Contagion durch Facial-/Motor-Mimikry, B-0011)
+
+**[Ergänzt 2026-07-02]** Im Zuge der Analyse von SRC-0011 (Goleman, Emotional Intelligence) wurde geprüft, ob die dort beschriebene "Emotional Contagion" (unbewusste Übernahme von Gesichtsausdruck/Stimmung, Hatfield/Cacioppo/Rapson 1993/1994) eine Erweiterung von MEC-0011 oder ein eigenständiger Mechanismus ist. Ergebnis: **Eigenständiger Mechanismus, angelegt als MEC-0022** — nicht als Erweiterung hier. Begründung (vollständig in MEC-0022 dokumentiert): Emotional Contagion ist ein unwillkürlicher, nicht strategisch eingesetzter Wahrnehmungs-Reaktions-Mechanismus (Facial-Feedback-Schleife), während MEC-0011 explizit die BEWUSST eingesetzte Voss-Technik (verbales 1–3-Wort-Mirroring als strategisches Werkzeug) sowie die allgemeinere Neural-Coupling-Hypothese bei Kommunikation beschreibt. Diese Trennung bestätigt und präzisiert die bereits in der Research-Pack-3/4-Erweiterung (2026-07-01) angelegte Unterscheidung zwischen "allgemeiner unbewusster Mimicry" (Chartrand & Bargh 1999, Lakin & Chartrand 2003 — dort als außerhalb von MEC-0011s spezifischem Gegenstand liegend markiert) und Voss' spezifischer Technik. MEC-0022 ist der MEC, der diese "allgemeine Mimicry/Contagion"-Seite jetzt formal abbildet. Siehe MEC-0022 für vollständige Canonicalization-Begründung.
 
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0003)  
 **E-Level-Korrektur 2026-07-01:** E3 → E2 (gesamt) / E1 (Spiegelneuronen-Basis). Entscheidung dokumentiert in PEER_REVIEW_DECISION_REPORT_SPRINT_001.md.  
-**Erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 & 4):** Mimicry- und Rapport-Literatur ergänzt (Chartrand & Bargh 1999, Lakin & Chartrand 2003, Tickle-Degnen & Rosenthal 1990, Gremler & Gwinner 2000). Kein E-Level-Wechsel.
+**Erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 & 4):** Mimicry- und Rapport-Literatur ergänzt (Chartrand & Bargh 1999, Lakin & Chartrand 2003, Tickle-Degnen & Rosenthal 1990, Gremler & Gwinner 2000). Kein E-Level-Wechsel.  
+**Sprint-3-Review 2026-07-01:** Trennung motorische Mimikry vs. verbales Mirroring erneut geprüft und bestätigt (konzeptionell korrekt); LSM-Literatur als methodisch relevanterer Vergleichsmaßstab ergänzt (Taylor & Thomas 2008, Ireland & Henderson 2014); Widerspruch zu Voss' zeitlich unbeschränkter Mirroring-Empfehlung in SCIENTIFIC_DEBT.md dokumentiert. Kein E-Level-Wechsel.  
+**Erweitert 2026-07-02 (B-0011, Goleman):** Abgrenzung zu neu angelegtem MEC-0022 (Emotional Contagion) dokumentiert. Kein E-Level-Wechsel.

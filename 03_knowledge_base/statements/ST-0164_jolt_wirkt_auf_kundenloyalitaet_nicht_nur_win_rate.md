@@ -28,7 +28,7 @@ Bezug auf "The Effortless Experience" (Dixon et al., 2013) — ein früheres Buc
 
 - P-S1-001 (Cost of Inaction): Loyalität ist der Post-Sale-Aspekt des Langfrist-Werts; JOLT adressiert Kaufprozess-Qualität als Loyalitätstreiber
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Konzeptuelle Argumentation; "Effortless Experience"-Forschung separat, Dixon ist Co-Autor; Verbindung zu JOLT-Verhalten nicht direkt empirisch gemessen)
 

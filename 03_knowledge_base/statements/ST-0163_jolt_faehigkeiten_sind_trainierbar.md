@@ -32,7 +32,7 @@ Spiegelt dieselbe Debatte wie The Challenger Sale: "Are Challengers born or made
 
 - A-0023 (B-0004, TTC-Trainierbarkeit): Challenger Sale macht dieselbe Aussage; JOLT bestätigt für JOLT-Kontext
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Normative Behauptung, aus Beobachtung abgeleitet; keine Längsschnitt-Trainingsdaten veröffentlicht)
 

@@ -16,7 +16,7 @@ In einer Welt mit Informationsparität (Caveat Venditor) ist eine langfristig eh
 
 Pink argumentiert, dass das historische Täuschungsgleichgewicht — Caveat Emptor (Käufer aufpassen!) — durch Informationsparität zu Caveat Venditor (Verkäufer aufpassen!) gekippt ist. Beispiel: Autoverkäufer können nicht mehr über Autopreise täuschen, weil Käufer in der Dealership-Ausstellung am Handy nachschlagen. Folge: Täuschung wird sofort entlarvt → Vertrauensbruch → Verkäufer-Reputation zerstört. Pink empfiehlt: radikale Transparenz über Produktmängel kann als Vertrauenssignal wirken.
 
-## Evidenzlage
+## Evidenzstatus
 
 Diese Annahme ist plausibel aber empirisch schwach belegt:
 - Information Asymmetry-Forschung stützt die Prämisse (Informationsparität ist real)

@@ -42,6 +42,10 @@ Direkte Implikation für die Tailor-Dimension: Tailoring bedeutet nicht nur, die
 - Gibt es Industrien oder Unternehmensgrößen, in denen der Einzel-Champion noch ausreicht?
 - Wie verändert sich das Bild in Startups oder kleineren Unternehmen ohne komplexe Hierarchien?
 
+## ⚠ Hinweis: Publication Bias (Kommerzielle Quelle)
+
+Dieses Objekt beruht (mit) auf der proprietaeren CEB-Befragungsstudie (N≈ 6.000, Vertriebsmitarbeiter aus 90+ Unternehmen). Die Rohdaten, Faktorladungen und Signifikanztests sind nicht oeffentlich einsehbar; ein unabhaengiges akademisches Peer-Review-Verfahren ist nicht nachgewiesen. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-001 (Replikationsrisiko) und SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
+
 ## Status
 
 Entwurf

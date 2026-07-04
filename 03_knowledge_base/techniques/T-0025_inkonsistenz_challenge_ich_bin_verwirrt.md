@@ -52,7 +52,9 @@ Eine Gesprächstechnik für den Umgang mit Inkonsistenzen zwischen dem stated Fu
 - B-0004 (Challenger Sale, Constructive Tension): Challenger verkörpert das Prinzip, Käuferdenken zu challengen — dieselbe DNA, aber im Challenger durch Insight-Reframing (T-0019), hier durch Discovery-basierte Inkonsistenz-Benennung
 - B-0003 (Never Split, Voss): "I'm confused, you said..." ist strukturell ein Label ("It seems like...") ohne Fragezeichen — Voss'sche Sprachstruktur in einem anderen Anwendungskontext
 
-## Evidenzgrad
+## Evidenzlevel
+
+*(Feldname vereinheitlicht 2026-07, Consistency Correction Sprint — vormals „Evidenzgrad", inhaltlich unverändert. Siehe `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
 
 E2 — Practitioner-Technik; die Gesichtswahrungslogik ist psychologisch gut fundiert (Goffman's Face Theory); keine empirische Studie zur spezifischen Formulierungs-Wirkung.
 

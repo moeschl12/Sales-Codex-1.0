@@ -120,6 +120,10 @@ Cialdinis Modell ist konzeptionell eng verwandt mit Kahnemans Dual-Process-Theor
 - Replikationskrise: Einzelne zitierte Studien (z.B. zum Priming) sind in der Sozialpsychologie umstritten — Gemini-Validierung ausstehend (TASK-0009)
 - Käufer-Perspektive: Das Modell beschreibt Compliance-Triggers aus der Anwender-Perspektive (Compliance-Profi). Direkte Käufer-Perspektive (wie wirken Trigger in tatsächlichen B2B-Kaufprozessen?) ist nicht explizit untersucht
 
+## Evidenzlevel
+
+E3 (Modell als Integration: Kern-Mechanismen MEC-0005, MEC-0006, MEC-0007, MEC-0008 und MEC-0019 sind jeweils E4 laut zugehörigem Objekt — allgemeine, gut replizierte psychologische Mechanismen; die Sales-spezifische Anwendung und Kombination als Gesamtmodell ist E3, analog zur Konvention in MOD-0008. Einschränkend: Replikationskrise bei einzelnen Priming-Studien (siehe „Grenzen des Modells"), keine unabhängige Validierung der Gesamtintegration im Vertriebskontext.) **[Header ergänzt 2026-07-04, External Audit Resolution Sprint — abgeleitet aus den bereits bestehenden Evidenzlevel-Angaben der Komponentenmechanismen, keine neue Bewertung erfunden.]**
+
 ## Codex-Interpretation
 
 Das Cialdini-Modell ist für den Sales Codex eine der wichtigsten Quellen zur Erklärung von Käufer-Compliance-Psychologie. Es ergänzt SPIN Selling (SRC-0001) um eine zweite, komplementäre Ebene: Während SPIN die Gesprächsarchitektur beschreibt, beschreibt Cialdini die psychologischen Auslöser, die Kaufbereitschaft unabhängig von der Gesprächsarchitektur beeinflussen.

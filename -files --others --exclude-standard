@@ -1,0 +1,644 @@
+warning: in the working copy of '00_project/ACADEMIC_RECOVERY_PLAN.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/ACADEMIC_RECOVERY_REPORT.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/COWORK_EXECUTION_PROTOCOL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/NEXT_ACTION.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/OPEN_DECISIONS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/POST_MORTEM_B0002.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/POST_MORTEM_INFLUENCE_PLAN.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/RELEASE_NOTES_v1.1.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/REPOSITORY_KPIS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/SALES_CODEX_OPERATING_MANUAL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/SCIENTIFIC_DEBT.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/SESSION_LOG.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/SPRINT_2_ABSCHLUSSBERICHT.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/VALIDIERUNGSSPRINT_MEC0010-0012.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/WISSENSCHAFTLICHER_REIFEGRADSBERICHT.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/backlog.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/changelog.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_002.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/peer_review/decisions/RELEASE_REPORT_SPRINT_001_PEER_REVIEW.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/review_queue.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_project/task_rules.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/00_charter/project_charter.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/01_methodology/codex_methodology.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/02_evidence_system/evidence_system.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/03_source_standard/codex_source_standard.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/04_principle_extraction/principle_extraction_standard.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/05_knowledge_model/canonical_knowledge_model.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/06_process_system/sales_process_decision_system.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/07_agent_protocols/chatgpt_architect_protocol.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/07_agent_protocols/claude_editor_protocol.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/07_agent_protocols/gemini_validation_protocol.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/07_agent_protocols/master_agent_protocol.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/07_agent_protocols/perplexity_research_protocol.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/assumption_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/book_analysis_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/book_review_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/comparison_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/competency_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/decision_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/mechanism_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/meeting_notes_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/meta_model_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/model_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/principle_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/research_question_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/source_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/statement_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/technique_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_framework/08_templates/validation_report_template.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '02_sources/SRC-0010_thinking_fast_and_slow.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '02_sources/book_catalog.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '02_sources/books/SRC-0001_SPIN_Selling.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0001_complex_sales_differ_from_simple_sales.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0002_sales_behavior_is_observable_and_codeable.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0003_purchase_decision_requires_solution_urgency.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0004_buyer_stated_needs_stronger_than_seller_observed.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0005_cognitive_capacity_limited_heuristics_necessary.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0006_compliance_triggered_by_single_features_automatically.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0007_compliance_principles_evolutionarily_anchored.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0008_perception_of_value_is_relative_not_absolute.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0009_commitment_changes_self_image_creates_consistency_pressure.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0010_social_signals_transfer_to_nonsocial_judgments.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0011_compliance_agents_redirect_existing_forces.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0012_restriction_of_availability_increases_desire.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0013_emotionen_sind_das_primaere_verhandlungsmedium.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0014_verlustangst_ueberwiegt_gewinnerwartung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0015_sicherheit_und_kontrolle_als_primaere_beduerfnisse.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0016_unbekannte_information_existiert_in_jeder_verhandlung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0017_verbale_zustimmung_und_commitment_divergieren.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0018_relationship_building_verliert_in_komplexem_vertrieb.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0019_kundenloyalitaet_entsteht_durch_sales_experience.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0020_kunden_wollen_gelehrt_nicht_nur_befragt_werden.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0021_konstruktive_spannung_ist_produktiv_in_b2b_verkauf.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0022_konsensbasierter_kauf_ist_strukturelle_realitaet_im_b2b.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0023_vertriebsverhalten_ist_trainierbar_nicht_persoenlichkeitsgebunden.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0024_gap_als_notwendige_kaufvoraussetzung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0025_budget_ist_funktion_der_gap_groesse.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0026_business_impact_treibt_kaufentscheidungen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0027_cost_of_inaction_als_primaeres_kaufargument.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0028_intrinsische_motivation_als_emotionaler_kaufkern.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0029_expertise_credibility_als_discovery_gate.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0030_kundenunentschlossenheit_ist_eigenstaendiges_problem.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0031_fomu_ist_primaerer_treiber_nach_statusquo_ueberwmdung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0032_optionsvielfalt_verschlechtert_kaufentscheidungen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0033_fud_ist_kontraproduktiv_bei_fomu.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0034_informationsueberwältigung_erhoht_wert_des_trusted_guide.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0035_jolt_faehigkeiten_sind_trainierbar.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0036_positionen_und_interessen_sind_verschieden.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0037_beziehung_und_inhalt_muessen_getrennt_werden.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0038_batna_schuetzt_vor_ueber_und_unter_einigung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0039_principled_negotiation_uebertrifft_positionelles_feilschen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0040_frame_before_message_equals_message.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0041_presuasion_effects_temporary_without_commitment.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0042_shared_identity_categorically_different_from_similarity.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0043_unrecognized_priming_is_more_effective.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0044_ehrlichkeit_effektiver_als_taeuschung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0045_prosozialmotivation_uebertrifft_eigennutz.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0046_improvisationsskills_erlernbar_transferierbar.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0047_kaufentscheidungen_primaer_system1.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/assumptions/A-0048_anker_sollten_proaktiv_gesetzt_werden.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0001_self_persuasion_through_verbalization.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0002_loss_aversion_and_status_quo_cost.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0003_reactance_from_control_loss.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0004_cognitive_consistency_explicit_need.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0005_reciprocation_obligation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0006_social_proof_correctness_signal.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0007_liking_transfer_to_product_judgment.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0008_authority_automatic_deference.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0009_perceptual_contrast.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0010_amygdala_regulation_durch_labeling.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0011_neural_coupling_durch_isopraxismus.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0012_dual_process_system1_zu_system2.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0013_insight_disruption_durch_reframing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0014_konsens_als_kaufsicherheit_in_gruppen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0015_kognitive_ueberlastung_durch_feature_overload.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0016_fomu_entscheidungsangst_durch_fehlerrisiko.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0017_positions_interessen_divergenz.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0018_pre_suasion_attentionale_vorbereitung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0019_unity_we_identity_compliance.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0020_perspektivuebernahme_asymmetrie_macht.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/mechanisms/MEC-0021_anchoring_mechanismus.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0001_SPIN_Selling.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0002_cialdini_six_principles.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0003_bcsm_voss_verhandlungssystem.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0004_challenger_sale_ttc_modell.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0005_gap_selling_modell.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0006_jolt_modell.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0007_principled_negotiation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0008_pre_suasion_modell.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0009_pink_abc_modell.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/models/MOD-0010_kahneman_kognitive_bias_karte.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0001_self_verbalized_insight.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0002_solution_value_follows_problem_weight.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0003_technique_context_dependency.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0004_need_development.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0005_benefit_need_linkage.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0006_objection_prevention.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0007_commitment_securing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0008_trigger_design_meta_principle.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0009_vorab_leistung_reziprozitaet.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0010_commitment_sequenzierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0011_soziale_beweise_bedingungen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0012_rapport_als_kaufpraediktor.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0013_autoritaet_durch_positionierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0014_referenzrahmen_kontrolle.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0015_knappheit_zwei_kanaele.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0016_tactical_empathy_emotionale_regulation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0017_autonomie_illusion_durch_fragen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0018_loss_framing_vor_gain_framing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0019_commitment_verifikation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0020_black_swan_orientierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0021_commercial_teaching_pitch_als_wirkungssequenz.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0022_ttc_dreiklang_als_notwendige_kombination.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0023_champion_als_internen_mobilizer_befahigen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0024_vertriebstransformation_als_organisationale_systemfahigkeit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0025_vollstaendige_gap_diagnose_vor_loesung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0026_problem_zentrierung_als_differenzierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0027_entscheidungsfahigkeits_qualifikation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0028_empfehlung_statt_optionen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0029_informationsfluss_kontrollieren.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0030_risikoabbau_statt_risikoaktivierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0031_interessen_statt_positionen_fokussieren.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0032_objektive_kriterien_als_einigungsbasis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0033_batna_entwickeln_und_kennen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0034_menschen_vom_problem_trennen_in_verhandlungen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0035_rahmen_zuerst_pre_suasion.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0036_aufmerksamkeit_strategisch_lenken.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0037_unity_kontext_vor_bitte.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0038_problem_finding_vor_problem_solving.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0039_buoyancy_erklaerungsstil.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0040_purposeful_serving.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0041_system1_kompatible_darstellung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0042_ankerkontrolle_im_preisgespraech.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-0043_outside_view_referenzklassen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-S1-001_cost_of_inaction_universeller_kaufmotivator.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-S1-002_mikro_commitment_sequenz_als_kaufstruktur.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-S1-003_problemzentrierung_als_universelles_differenzierungsprinzip.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/principles/P-S1-004_informationssparsamkeit_als_wirkungsverstaerker.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0001_small_vs_major_sale_distinction.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0002_huthwaite_research_methodology.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0003_classic_techniques_fail_in_major_sales.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0004_four_call_outcomes.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0005_closing_frequency_negative_correlation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0006_commitment_securing_replaces_closing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0007_closing_works_via_discomfort_mechanism.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0008_implied_vs_explicit_needs.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0009_implied_needs_insufficient_major_sales.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0010_seller_must_develop_needs.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0011_situation_questions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0012_problem_questions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0013_implication_questions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0014_need_payoff_questions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0015_features_advantages_benefits.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0016_benefits_outperform_advantages_major_sales.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0017_objections_are_seller_caused.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0018_value_objections_from_premature_solutions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0019_objection_prevention_over_handling.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0020_opening_has_low_impact_major_sales.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0021_four_stages_of_sales_call.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0022_spin_is_flexible_not_rigid_sequence.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0023_deliberate_practice_one_skill_at_a_time.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0024_six_principles_of_compliance.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0025_research_methodology_field_study.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0026_automatic_compliance_increasing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0027_fixed_action_patterns_trigger_features.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0028_expensive_equals_good_heuristic.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0029_langer_because_experiment.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0030_contrast_principle.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0031_heuristics_cognitive_shortcuts_necessity.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0032_compliance_professionals_exploit_triggers.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0033_reciprocity_rule_universal.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0034_reciprocity_overrides_liking.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0035_uninvited_gifts_trigger_reciprocity.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0036_rejection_then_retreat.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0037_commitment_consistency_drive.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0038_foot_in_the_door_self_image.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0039_written_commitments_especially_powerful.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0040_lowballing_technique.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0041_social_proof_principle.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0042_bystander_effect_pluralistic_ignorance.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0043_liking_principle_compliance.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0044_similarity_triggers_liking.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0045_authority_milgram_obedience.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0046_authority_symbols_titles_trappings.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0047_scarcity_principle_availability_value.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0048_psychological_reactance_restriction_desire.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0049_epilog_six_principles_as_shortcuts.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0050_kalibrierte_fragen_illusion_der_kontrolle.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0051_menschen_als_irrationale_tiere.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0052_harvard_modell_vier_prinzipien.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0053_gefuehl_als_denkform_kahneman.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0054_system1_system2_dual_process.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0055_system1_manipulation_steuert_system2.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0056_emotionale_krisen_dominieren_verhandlungspraxis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0057_zuhoeren_guenstigste_konzession.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0058_gehoert_werden_reduziert_defensivitaet.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0059_tactical_empathy_definition.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0060_verhandlung_informationsgewinn_und_verhaltenseinfluss.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0061_verlustangst_und_kognitive_verzerrungen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0062_annahmen_vs_hypothesen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0063_wants_vs_needs.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0064_stimme_als_primaeres_einflussinstrument.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0065_mirroring_definition_und_mechanismus.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0066_mirroring_studie_trinkgeld.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0067_verhandlung_als_entdeckungsprozess.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0068_verlangsamen_als_verhandlungstool.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0069_emotionen_als_mittel_nicht_hindernis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0070_tactical_empathy_erweiterte_definition.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0071_labeling_definition_und_amygdala.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0072_labeling_format_und_regeln.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0073_negative_labeln_positive_verstaerken.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0074_accusation_audit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0075_hindernisse_staerker_als_gruende.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0076_drei_arten_von_ja.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0077_nein_als_verhandlungsbeginn.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0078_primaere_beduergnisse_sicherheit_und_kontrolle.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0079_ueberzeugen_in_der_welt_des_gegenuebers.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0080_das_ist_richtig_vs_sie_haben_recht.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0081_summary_als_trigger_fuer_das_stimmt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0082_bcsm_behavioral_change_stairway.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0083_kompromiss_fuehrt_zu_schlechten_ergebnissen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0084_deadlines_sind_meist_flexibel.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0085_fair_als_verhandlungswaffe.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0086_ankern_prospect_theory_realitaet_biegen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0087_unbelief_widerstand_suspendieren.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0088_kalibrierte_fragen_bauprinzipien.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0089_selbstkontrolle_als_verhandlungspraemisse.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0090_zuhoerer_kontrolliert_gespraech.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0091_team_auf_der_gegenseite.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0092_yes_ist_nichts_ohne_how.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0093_rule_of_three.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0094_sieben_38_55_regel_mehrabian.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0095_pinocchio_effekt_und_pronomen_analyse.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0096_multi_step_no.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0097_drei_verhandlungstypen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0098_ackerman_modell.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0099_extreme_anker_und_zopa_kritik.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0100_strategische_assertion_und_grenzsetzung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0101_black_swans_unbekannte_unbekannte.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0102_drei_hebelarten_positiv_negativ_normativ.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0103_know_their_religion_weltbild.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0104_they_are_crazy_drei_fehlschluesse.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0105_aehnlichkeitsprinzip_und_face_time.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0106_negotiation_one_sheet.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0107_vier_durchbrueche_in_der_vertriebsgeschichte.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0108_fuenf_profile_statistisch_abgeleitet.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0109_beziehungsaufbauer_schlechtestes_profil.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0110_krisenverkaeuferstudie_ausgangslage.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0111_drei_kernerkenntnisse_ceb.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0112_solution_selling_dominiert_b2b.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0113_vier_kauftrends_solutions_fatigue.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0114_performance_gap_transaktional_vs_solution.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0115_fuenf_profile_definitionen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0116_challenger_40_prozent_top_performer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0117_challenger_komplex_50_prozent_rb_null.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0118_challenger_spannung_rb_entspannung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0119_challenger_werden_gemacht_nicht_geboren.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0120_ttc_kombination_notwendig.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0121_challenger_ist_organisationale_faehigkeit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0122_53_prozent_kundenloyalitaet_durch_sales_experience.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0123_top5_loyalitaetsattribute_sind_lehrattribute.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0124_sechs_schritte_commercial_teaching_pitch.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0125_lead_to_not_lead_with.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0126_konsensbasierter_kauf_entscheider_brauchen_teamrueckhalt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0127_zwei_drittel_lieferanten_extrahieren_statt_lehren.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0128_taking_control_nicht_nur_verhandlung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0129_63_prozent_manager_ohne_notwendige_faehigkeiten.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0130_beste_manager_kommen_aus_challenger_reihen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0131_lone_wolf_nicht_skalierbar.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0132_inaktive_challengers_faehigkeiten_ohne_anwendung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0133_gap_formel_future_minus_current.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0134_current_state_fuenf_elemente.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0135_root_cause_arzt_analogie.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0136_future_state_als_veraenderungsmagnet.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0137_beziehungen_erzeugen_keine_kaeufe.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0138_bant_ist_falsch_problem_zuerst.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0139_problem_identification_chart_pic.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0140_technische_vs_business_probleme.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0141_discovery_fragetypen_probing_provoking_validating.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0142_gap_qualifikation_lohnt_sich_der_wechsel.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0143_the_why_intrinsische_motivation_hinter_zielen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0144_demo_muss_pic_folgen_6_features_kein_if.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0145_yes_als_mikro_commitments_im_kaufprozess.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0146_credibility_vor_helping_vertrauen_vor_loesung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0147_entscheidungskriterien_challenge_ich_bin_verwirrt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0148_gap_prospecting_problem_zuerst_in_outreach.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0149_kernthese_verkauf_als_veraenderungsfazilitation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0150_no_decision_verlustrate_40_bis_60_prozent.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0151_zwei_verlusttypen_44_status_quo_56_indecision.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0152_drei_quellen_kundenunentschlossenheit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0153_jolt_akronym_vier_elemente.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0154_qualifikation_nach_entscheidungsfahigkeit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0155_fomo_zu_fomu_shift.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0156_mehr_optionen_mehr_lahmung_paradox_of_choice.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0157_hochleister_geben_empfehlung_nicht_optionen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0158_informationsfluss_kontrollieren_experten_positionierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0159_fud_verstaerkt_ergebnisunsicherheit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0160_risikoabbau_durch_konkrete_zusagen_believable_impact.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0161_buyers_agent_trusted_guide_positionierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0162_87_prozent_der_gespraeche_zeigen_unentschlossenheit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0163_jolt_faehigkeiten_sind_trainierbar.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0164_jolt_wirkt_auf_kundenloyalitaet_nicht_nur_win_rate.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0165_positionelles_feilschen_produziert_schlechte_ergebnisse.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0166_interessen_nicht_positionen_sind_der_schluessel.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0167_batna_einzige_echte_machtbasis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0168_menschen_vom_problem_trennen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0169_objective_criteria_yield_to_principle_not_pressure.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0170_negotiation_jujitsu_dont_push_back.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0171_optionen_erfinden_vor_entscheiden_brainstorming.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0172_fixkuchen_annahme_ueberwinden_dovetailing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0173_dirty_tricks_benennen_und_verhandeln.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0174_wahrnehmung_put_yourself_in_their_shoes.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0175_top_performers_invest_in_pre_message_moment.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0176_attention_equals_importance_heuristic.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0177_focal_is_causal_effect.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0178_privileged_moments_temporary_receptivity.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0179_all_mental_activity_is_associative.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0180_six_principles_as_presuasion_openers.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0181_unity_of_us_vs_like_us.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0182_synchronous_action_creates_unity.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0183_post_suasion_commitment_locks_change.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0184_system1_system2_matching_for_persuasion.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0185_persuasive_environments_prime_behavior.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0186_wir_alle_sind_im_vertrieb.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0187_caveat_venditor_informationsparitat.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0188_perspektivubernahme_schlaegt_empathie.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0189_ambiverts_beste_verkaeufer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0190_interrogative_self_talk.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0191_problem_finding_vor_problem_solving.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0192_prosociales_framing_verdoppelt_leistung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0193_yes_and_improv_regel.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0194_system1_dominiert_kaufentscheidungen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0195_anchoring_effekt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0196_wysiati_kohaerenz_statt_vollstaendigkeit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0197_cognitive_ease_erhoert_glaubwuerdigkeit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0198_prospect_theory_verluste_wiegen_doppelt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0199_framing_effekt_logisch_aequivalente_optionen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0200_expert_intuition_valide_umgebungen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/statements/ST-0201_planning_fallacy_optimismus_bias.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0001_situation_questions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0002_problem_questions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0003_implication_questions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0004_need_payoff_questions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0005_vorab_leistung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0006_rejection_then_retreat.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0007_foot_in_the_door.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0008_sell_down_preisanker.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0009_branchenreferenz_einbindung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0010_credential_positionierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0011_legitime_knappheitssignale.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0012_mirroring.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0013_labeling.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0014_akkusationsaudit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0015_kalibrierte_fragen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0016_rule_of_three.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0017_ackerman_modell.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0018_negotiation_one_sheet.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0019_commercial_teaching_pitch.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0020_stakeholder_tailoring.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0021_prozessausstieg_bei_unguenstigen_bedingungen.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0022_gap_demo_methode.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0023_gap_discovery_questioning.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0024_problem_identification_chart.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0025_inkonsistenz_challenge_ich_bin_verwirrt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0026_jolt_j_judge_the_indecision.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0027_jolt_o_offer_your_recommendation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0028_jolt_l_limit_the_exploration.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0029_jolt_t_take_risk_off_the_table.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0030_buyers_agent_positionierung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0031_batna_entwicklung.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0032_interessen_exploration.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0033_negotiation_jujitsu.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0034_objective_criteria_framing.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0035_opener_technik_pre_suasion.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0036_commitment_lock_nach_opener.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0037_unity_signale_und_co_creation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0038_interrogative_self_talk.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0039_yes_and_improv_technik.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0040_anchoring_technik_im_pitch.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_knowledge_base/techniques/T-0041_cognitive_ease_praesentation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Gap Selling/BOOK_REVIEW_REPORT_B0005.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Gap Selling/VAL-0005_consistency_review_b0005.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Gap Selling/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Getting to Yes/BOOK_REVIEW_REPORT_B0007.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Getting to Yes/VAL-0007_consistency_review_b0007.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Getting to Yes/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Influence/BOOK_REVIEW_REPORT_B0002.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Influence/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Never Split the Difference/BOOK_REVIEW_REPORT_B0003.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Never Split the Difference/VAL-0003_consistency_review_b0003.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Never Split the Difference/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Pre-Suasion/BOOK_REVIEW_REPORT_B0008.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Pre-Suasion/VAL-0008_consistency_review_b0008.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Pre-Suasion/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/SPIN_Selling/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/The Challenger Sale/BOOK_REVIEW_REPORT_B0004.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/The Challenger Sale/VAL-0004_consistency_review_b0004.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/The Challenger Sale/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/The JOLT Effect/BOOK_REVIEW_REPORT_B0006.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/The JOLT Effect/VAL-0006_consistency_review_b0006.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/The JOLT Effect/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Thinking, Fast and Slow/BOOK_REVIEW_REPORT_B0010.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Thinking, Fast and Slow/VAL-0010_consistency_review_b0010.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/Thinking, Fast and Slow/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/To Sell Is Human/BOOK_REVIEW_REPORT_B0009.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/To Sell Is Human/VAL-0009_consistency_review_b0009.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_book_analysis/To Sell Is Human/analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_synthesis/SPR-0001_Sales_Core_Synthesis/canonicalization_report.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_synthesis/SPR-0001_Sales_Core_Synthesis/emerging_principles.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_synthesis/SPR-0001_Sales_Core_Synthesis/evidence_upgrade_report.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_synthesis/SPR-0001_Sales_Core_Synthesis/research_agenda.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_synthesis/SPR-0001_Sales_Core_Synthesis/synthesis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '04_synthesis/SPR-0002_Research_Synthesis/SPR-0002_SYNTHESEBERICHT.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '05_research/LITERATURE_INDEX.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '07_scripts/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '99_archive/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'CLAUDE_BOOTSTRAP.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'CONTRIBUTING.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'CURRENT_STATE.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'INDEX.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'LANGUAGE_POLICY.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'PROJECT_BOOTSTRAP.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'SETUP.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'VISION.md', LF will be replaced by CRLF the next time Git touches it
+ 00_project/ACADEMIC_RECOVERY_PLAN.md               |   31 [32m+[m
+ 00_project/NEXT_ACTION.md                          |  232 [32m+++[m[31m-[m
+ 00_project/OPEN_DECISIONS.md                       |  143 [32m++[m[31m-[m
+ 00_project/PILOT_001_ABSCHLUSSBERICHT.md           |  178 [31m---[m
+ 00_project/REPOSITORY_KPIS.md                      |  281 [32m+++[m[31m-[m
+ 00_project/SALES_CODEX_OPERATING_MANUAL.md         |    8 [32m+[m[31m-[m
+ 00_project/SCIENTIFIC_DEBT.md                      |  120 [32m+[m[31m-[m
+ 00_project/SESSION_LOG.md                          |  334 [32m+++++[m
+ 00_project/VAL-0001_consistency_review_pilot001.md |  116 [31m--[m
+ .../VAL-0002_consistency_review_influence.md       |  174 [31m---[m
+ 00_project/changelog.md                            |  118 [32m++[m
+ 00_project/decision_log.md                         |   32 [31m-[m
+ 00_project/review_queue.md                         |   24 [32m+[m
+ 00_project/roadmap.md                              |   43 [31m-[m
+ 00_project/task_proposal_B-0002_influence.md       |  433 [31m-------[m
+ 00_project/task_rules.md                           |   12 [32m+[m
+ .../canonical_knowledge_model.md                   |    8 [32m+[m[31m-[m
+ .../05_knowledge_model/codex_knowledge_model.md    |   69 [31m-[m
+ 02_sources/book_catalog.md                         |  122 [32m+[m[31m-[m
+ ...perception_of_value_is_relative_not_absolute.md |   18 [32m+[m[31m-[m
+ ...otionen_sind_das_primaere_verhandlungsmedium.md |   19 [32m+[m[31m-[m
+ ...enloyalitaet_entsteht_durch_sales_experience.md |    4 [32m+[m
+ ...nden_wollen_gelehrt_nicht_nur_befragt_werden.md |   16 [32m+[m[31m-[m
+ .../A-0024_gap_als_notwendige_kaufvoraussetzung.md |    2 [32m+[m[31m-[m
+ .../A-0025_budget_ist_funktion_der_gap_groesse.md  |    2 [32m+[m[31m-[m
+ ...26_business_impact_treibt_kaufentscheidungen.md |    2 [32m+[m[31m-[m
+ ..._cost_of_inaction_als_primaeres_kaufargument.md |    2 [32m+[m[31m-[m
+ ...insische_motivation_als_emotionaler_kaufkern.md |    2 [32m+[m[31m-[m
+ ...029_expertise_credibility_als_discovery_gate.md |    2 [32m+[m[31m-[m
+ ...entschlossenheit_ist_eigenstaendiges_problem.md |    2 [32m+[m[31m-[m
+ ...primaerer_treiber_nach_statusquo_ueberwmdung.md |    2 [32m+[m[31m-[m
+ ...nsvielfalt_verschlechtert_kaufentscheidungen.md |    2 [32m+[m[31m-[m
+ .../A-0033_fud_ist_kontraproduktiv_bei_fomu.md     |    2 [32m+[m[31m-[m
+ ...03\244ltigung_erhoht_wert_des_trusted_guide.md" |    2 [32m+[m[31m-[m
+ .../A-0035_jolt_faehigkeiten_sind_trainierbar.md   |    2 [32m+[m[31m-[m
+ ...6_positionen_und_interessen_sind_verschieden.md |    2 [32m+[m[31m-[m
+ ...beziehung_und_inhalt_muessen_getrennt_werden.md |    2 [32m+[m[31m-[m
+ ..._batna_schuetzt_vor_ueber_und_unter_einigung.md |    2 [32m+[m[31m-[m
+ ...otiation_uebertrifft_positionelles_feilschen.md |    2 [32m+[m[31m-[m
+ .../A-0040_frame_before_message_equals_message.md  |    2 [32m+[m[31m-[m
+ ...suasion_effects_temporary_without_commitment.md |    2 [32m+[m[31m-[m
+ ...tity_categorically_different_from_similarity.md |    2 [32m+[m[31m-[m
+ ...-0043_unrecognized_priming_is_more_effective.md |    2 [32m+[m[31m-[m
+ ...A-0044_ehrlichkeit_effektiver_als_taeuschung.md |    2 [32m+[m[31m-[m
+ ...45_prosozialmotivation_uebertrifft_eigennutz.md |    2 [32m+[m[31m-[m
+ ...mprovisationsskills_erlernbar_transferierbar.md |    2 [32m+[m[31m-[m
+ .../A-0047_kaufentscheidungen_primaer_system1.md   |    2 [32m+[m[31m-[m
+ ...A-0048_anker_sollten_proaktiv_gesetzt_werden.md |    9 [32m+[m[31m-[m
+ .../MEC-0002_loss_aversion_and_status_quo_cost.md  |   41 [32m+[m[31m-[m
+ .../MEC-0005_reciprocation_obligation.md           |   25 [32m+[m[31m-[m
+ .../MEC-0006_social_proof_correctness_signal.md    |   25 [32m+[m[31m-[m
+ .../MEC-0008_authority_automatic_deference.md      |   18 [32m+[m[31m-[m
+ .../mechanisms/MEC-0009_perceptual_contrast.md     |   37 [32m+[m[31m-[m
+ .../MEC-0010_amygdala_regulation_durch_labeling.md |   29 [32m+[m[31m-[m
+ .../MEC-0011_neural_coupling_durch_isopraxismus.md |   32 [32m+[m[31m-[m
+ .../MEC-0013_insight_disruption_durch_reframing.md |   14 [32m+[m[31m-[m
+ ...ognitive_ueberlastung_durch_feature_overload.md |   38 [32m+[m[31m-[m
+ ...C-0018_pre_suasion_attentionale_vorbereitung.md |   38 [32m+[m[31m-[m
+ ...C-0020_perspektivuebernahme_asymmetrie_macht.md |   16 [32m+[m[31m-[m
+ .../mechanisms/MEC-0021_anchoring_mechanismus.md   |   48 [32m+[m[31m-[m
+ 03_knowledge_base/models/MOD-0001_SPIN_Selling.md  |    4 [32m+[m
+ .../models/MOD-0002_cialdini_six_principles.md     |    4 [32m+[m
+ .../models/MOD-0004_challenger_sale_ttc_modell.md  |    4 [32m+[m
+ .../models/MOD-0005_gap_selling_modell.md          |    4 [32m+[m
+ 03_knowledge_base/models/MOD-0006_jolt_modell.md   |    4 [32m+[m
+ .../models/MOD-0008_pre_suasion_modell.md          |    2 [32m+[m[31m-[m
+ .../models/MOD-0009_pink_abc_modell.md             |    2 [32m+[m[31m-[m
+ .../MOD-0010_kahneman_kognitive_bias_karte.md      |   60 [32m+[m[31m-[m
+ .../principles/P-0014_referenzrahmen_kontrolle.md  |    4 [32m+[m[31m-[m
+ ...-0016_tactical_empathy_emotionale_regulation.md |   21 [32m+[m[31m-[m
+ ...ommercial_teaching_pitch_als_wirkungssequenz.md |   13 [32m+[m[31m-[m
+ ...-0025_vollstaendige_gap_diagnose_vor_loesung.md |   23 [32m+[m[31m-[m
+ ...0026_problem_zentrierung_als_differenzierung.md |    2 [32m+[m[31m-[m
+ ...P-0027_entscheidungsfahigkeits_qualifikation.md |    6 [32m+[m
+ .../principles/P-0028_empfehlung_statt_optionen.md |    6 [32m+[m
+ .../P-0029_informationsfluss_kontrollieren.md      |    6 [32m+[m
+ .../P-0030_risikoabbau_statt_risikoaktivierung.md  |    6 [32m+[m
+ ...0031_interessen_statt_positionen_fokussieren.md |    6 [32m+[m
+ ...-0032_objektive_kriterien_als_einigungsbasis.md |    6 [32m+[m
+ .../P-0033_batna_entwickeln_und_kennen.md          |    6 [32m+[m
+ ...enschen_vom_problem_trennen_in_verhandlungen.md |    6 [32m+[m
+ .../principles/P-0035_rahmen_zuerst_pre_suasion.md |   15 [32m+[m[31m-[m
+ .../P-0036_aufmerksamkeit_strategisch_lenken.md    |   16 [32m+[m[31m-[m
+ .../principles/P-0037_unity_kontext_vor_bitte.md   |    2 [32m+[m[31m-[m
+ .../P-0038_problem_finding_vor_problem_solving.md  |    2 [32m+[m[31m-[m
+ .../principles/P-0039_buoyancy_erklaerungsstil.md  |    2 [32m+[m[31m-[m
+ .../principles/P-0040_purposeful_serving.md        |    2 [32m+[m[31m-[m
+ .../P-0041_system1_kompatible_darstellung.md       |    2 [32m+[m[31m-[m
+ .../P-0042_ankerkontrolle_im_preisgespraech.md     |   22 [32m+[m[31m-[m
+ .../P-0043_outside_view_referenzklassen.md         |    2 [32m+[m[31m-[m
+ ..._cost_of_inaction_universeller_kaufmotivator.md |    6 [32m+[m
+ ...02_mikro_commitment_sequenz_als_kaufstruktur.md |    6 [32m+[m
+ ...ung_als_universelles_differenzierungsprinzip.md |    6 [32m+[m
+ ...ormationssparsamkeit_als_wirkungsverstaerker.md |    6 [32m+[m
+ ...vier_durchbrueche_in_der_vertriebsgeschichte.md |    4 [32m+[m
+ ...ST-0108_fuenf_profile_statistisch_abgeleitet.md |    4 [32m+[m
+ ...0109_beziehungsaufbauer_schlechtestes_profil.md |    4 [32m+[m
+ .../ST-0110_krisenverkaeuferstudie_ausgangslage.md |    4 [32m+[m
+ .../ST-0111_drei_kernerkenntnisse_ceb.md           |    4 [32m+[m
+ .../ST-0112_solution_selling_dominiert_b2b.md      |    4 [32m+[m
+ .../ST-0113_vier_kauftrends_solutions_fatigue.md   |    4 [32m+[m
+ ...14_performance_gap_transaktional_vs_solution.md |    4 [32m+[m
+ .../ST-0115_fuenf_profile_definitionen.md          |    4 [32m+[m
+ .../ST-0116_challenger_40_prozent_top_performer.md |    4 [32m+[m
+ ...T-0117_challenger_komplex_50_prozent_rb_null.md |    4 [32m+[m
+ .../ST-0118_challenger_spannung_rb_entspannung.md  |    4 [32m+[m
+ ...0119_challenger_werden_gemacht_nicht_geboren.md |    4 [32m+[m
+ .../ST-0120_ttc_kombination_notwendig.md           |    4 [32m+[m
+ ...21_challenger_ist_organisationale_faehigkeit.md |    4 [32m+[m
+ ...zent_kundenloyalitaet_durch_sales_experience.md |    4 [32m+[m
+ ...top5_loyalitaetsattribute_sind_lehrattribute.md |    4 [32m+[m
+ ...124_sechs_schritte_commercial_teaching_pitch.md |    4 [32m+[m
+ .../statements/ST-0125_lead_to_not_lead_with.md    |    4 [32m+[m
+ ...rter_kauf_entscheider_brauchen_teamrueckhalt.md |    4 [32m+[m
+ ...drittel_lieferanten_extrahieren_statt_lehren.md |    4 [32m+[m
+ ...ST-0128_taking_control_nicht_nur_verhandlung.md |    4 [32m+[m
+ ...prozent_manager_ohne_notwendige_faehigkeiten.md |    4 [32m+[m
+ ...0_beste_manager_kommen_aus_challenger_reihen.md |    4 [32m+[m
+ .../ST-0131_lone_wolf_nicht_skalierbar.md          |    4 [32m+[m
+ ...tive_challengers_faehigkeiten_ohne_anwendung.md |    4 [32m+[m
+ ...50_no_decision_verlustrate_40_bis_60_prozent.md |    2 [32m+[m[31m-[m
+ ...wei_verlusttypen_44_status_quo_56_indecision.md |    6 [32m+[m[31m-[m
+ ...T-0152_drei_quellen_kundenunentschlossenheit.md |    2 [32m+[m[31m-[m
+ .../ST-0153_jolt_akronym_vier_elemente.md          |    2 [32m+[m[31m-[m
+ ...54_qualifikation_nach_entscheidungsfahigkeit.md |    2 [32m+[m[31m-[m
+ .../statements/ST-0155_fomo_zu_fomu_shift.md       |    2 [32m+[m[31m-[m
+ ...mehr_optionen_mehr_lahmung_paradox_of_choice.md |    2 [32m+[m[31m-[m
+ ..._hochleister_geben_empfehlung_nicht_optionen.md |    2 [32m+[m[31m-[m
+ ...sfluss_kontrollieren_experten_positionierung.md |    2 [32m+[m[31m-[m
+ .../ST-0159_fud_verstaerkt_ergebnisunsicherheit.md |    2 [32m+[m[31m-[m
+ ...bau_durch_konkrete_zusagen_believable_impact.md |    2 [32m+[m[31m-[m
+ ...61_buyers_agent_trusted_guide_positionierung.md |    2 [32m+[m[31m-[m
+ ...ent_der_gespraeche_zeigen_unentschlossenheit.md |    2 [32m+[m[31m-[m
+ .../ST-0163_jolt_faehigkeiten_sind_trainierbar.md  |    2 [32m+[m[31m-[m
+ ...irkt_auf_kundenloyalitaet_nicht_nur_win_rate.md |    2 [32m+[m[31m-[m
+ ...es_feilschen_produziert_schlechte_ergebnisse.md |    2 [32m+[m[31m-[m
+ ...eressen_nicht_positionen_sind_der_schluessel.md |    2 [32m+[m[31m-[m
+ .../ST-0167_batna_einzige_echte_machtbasis.md      |    2 [32m+[m[31m-[m
+ .../ST-0168_menschen_vom_problem_trennen.md        |    2 [32m+[m[31m-[m
+ ...ive_criteria_yield_to_principle_not_pressure.md |    2 [32m+[m[31m-[m
+ .../ST-0170_negotiation_jujitsu_dont_push_back.md  |    2 [32m+[m[31m-[m
+ ...ionen_erfinden_vor_entscheiden_brainstorming.md |    2 [32m+[m[31m-[m
+ ...72_fixkuchen_annahme_ueberwinden_dovetailing.md |    2 [32m+[m[31m-[m
+ ...ST-0173_dirty_tricks_benennen_und_verhandeln.md |    2 [32m+[m[31m-[m
+ ...0174_wahrnehmung_put_yourself_in_their_shoes.md |    2 [32m+[m[31m-[m
+ .../ST-0179_all_mental_activity_is_associative.md  |    2 [32m+[m[31m-[m
+ 03_knowledge_base/techniques/T-0012_mirroring.md   |    8 [32m+[m[31m-[m
+ 03_knowledge_base/techniques/T-0013_labeling.md    |    8 [32m+[m[31m-[m
+ .../techniques/T-0019_commercial_teaching_pitch.md |   12 [32m+[m[31m-[m
+ .../techniques/T-0020_stakeholder_tailoring.md     |    6 [32m+[m
+ ...prozessausstieg_bei_unguenstigen_bedingungen.md |    6 [32m+[m
+ .../techniques/T-0022_gap_demo_methode.md          |    4 [32m+[m[31m-[m
+ .../techniques/T-0023_gap_discovery_questioning.md |    8 [32m+[m[31m-[m
+ .../T-0024_problem_identification_chart.md         |    4 [32m+[m[31m-[m
+ ...0025_inkonsistenz_challenge_ich_bin_verwirrt.md |    4 [32m+[m[31m-[m
+ .../T-0026_jolt_j_judge_the_indecision.md          |    6 [32m+[m
+ .../T-0027_jolt_o_offer_your_recommendation.md     |    6 [32m+[m
+ .../T-0028_jolt_l_limit_the_exploration.md         |    6 [32m+[m
+ .../T-0029_jolt_t_take_risk_off_the_table.md       |    6 [32m+[m
+ .../T-0030_buyers_agent_positionierung.md          |    6 [32m+[m
+ .../techniques/T-0031_batna_entwicklung.md         |    6 [32m+[m
+ .../techniques/T-0032_interessen_exploration.md    |    6 [32m+[m
+ .../techniques/T-0033_negotiation_jujitsu.md       |    6 [32m+[m
+ .../T-0034_objective_criteria_framing.md           |    6 [32m+[m
+ .../T-0035_opener_technik_pre_suasion.md           |   14 [32m+[m[31m-[m
+ .../T-0036_commitment_lock_nach_opener.md          |    2 [32m+[m[31m-[m
+ .../T-0037_unity_signale_und_co_creation.md        |    2 [32m+[m[31m-[m
+ .../techniques/T-0038_interrogative_self_talk.md   |    2 [32m+[m[31m-[m
+ .../techniques/T-0039_yes_and_improv_technik.md    |    2 [32m+[m[31m-[m
+ .../T-0040_anchoring_technik_im_pitch.md           |    2 [32m+[m[31m-[m
+ .../T-0041_cognitive_ease_praesentation.md         |    2 [32m+[m[31m-[m
+ 05_research/LITERATURE_INDEX.md                    |   78 [32m+[m[31m-[m
+ CURRENT_STATE.md                                   |  267 [32m+++[m[31m-[m
+ INDEX.md                                           |    2 [32m+[m[31m-[m
+ SCRP-0001_Sales_Core.md                            | 1339 [31m--------------------[m
+ 175 files changed, 2581 insertions(+), 2642 deletions(-)

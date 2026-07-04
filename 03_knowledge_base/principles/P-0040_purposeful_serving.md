@@ -25,7 +25,7 @@ Warnung vor Missverständnis: Purposeful Serving ist kein Euphemismus für "der 
 3. Ablehnung erleichtern: Wenn das Produkt nicht passt, aktiv darauf hinweisen ("Serving" bedeutet auch, Zeit des Käufers zu respektieren)
 4. Purpose-Rahmen intern kommunizieren: Teams, die Kundennutzen als Mission verstehen, zeigen höhere Ausdauer
 
-## Evidenzklasse (Prinzip)
+## Evidenzklassifikation
 
 E4 (Grant-Studien peer-reviewed; Self-Determination Theory stützt intrinsisch-prosoziale Motivation)
 

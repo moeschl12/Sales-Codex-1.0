@@ -121,6 +121,30 @@ Zwei verschiedene Stimuli mit zwei verschiedenen Reaktionen. CKM-Regel: „Gleic
 
 ---
 
+## Neue Literaturkandidaten aus Sprint-3-Review (2026-07-01)
+
+**Auftrag:** Bewertung dreier neuer Literaturkandidaten (Felix), Entscheidung ob Tier-1 (`ACADEMIC_RECOVERY_PLAN.md`). Details und vollständige Begründung siehe dort (AR-013, AR-014) und `SCIENTIFIC_DEBT.md` (Sprint-3-Review-Abschnitt).
+
+### Tversky & Shafir (1992) — Tier 1
+
+**Quelle:** Tversky, A. & Shafir, E. (1992). Choice under Conflict: The Dynamics of Deferred Decision. *Psychological Science*, 3(6), 358–361. Websuchverifiziert.
+
+**Entscheidung:** Tier 1 (AR-013) — direkt relevant für AR-002 (Publication-Bias-Reduktion bei B-0006/JOLT-Indecision-Konstrukt, aktuell proprietär über Tethr-ML gestützt). Liefert unabhängige akademische Grundlage für Entscheidungsvermeidung unter Konfliktbedingungen. Zielobjekte: MEC-0016, A-0031, ST-0151, MOD-0006. Volltextverarbeitung empfohlen, keine formale Objektanlage in diesem Sprint (kein Primärtextzugriff).
+
+### Plouffe et al. (2013) — Tier-1-Kandidat, Volltextprüfung ausstehend
+
+**Quelle:** Plouffe, C.R., Holmes Nelson, Y. et al. (2013). Testing an Enhanced, Process-Based View of the Sales Process. *Journal of Personal Selling & Sales Management*, 33(2), 141–163. Websuchverifiziert (Abstract-Ebene) — plausibelste Identifikation eines nur als „Plouffe et al." benannten Kandidaten; bei Bedarf mit Felix abgleichen, falls andere Publikation gemeint war.
+
+**Entscheidung:** Vorläufig Tier-1-Kandidat, ergänzt AR-001-Suchrichtungen (empirische B2B-Feldstudie, n=211 Key Account Manager, reale Performance-Maße). Nicht abschließend als Tier 1 bestätigt, da unklar (nur Abstract-Ebene), ob die Studie die Diagnose-vs-Insight-Sequenzfrage direkt misst oder primär Verhandlungsstil/Prozessverhalten allgemein mit Performance korreliert. Volltextprüfung vor endgültiger Einordnung erforderlich.
+
+### March & Simon (1958) — nicht Tier 1
+
+**Quelle:** March, J.G. & Simon, H.A. (1958). *Organizations*. Wiley. Websuchverifiziert.
+
+**Entscheidung:** Tier 2 (AR-014), nicht Tier 1. Theoretisches Grundlagenwerk (Bounded Rationality, Satisficing, organisationales Suchverhalten), kein direkter empirischer Test von W-001 oder AR-002. Strukturelle Parallele zur Problemreife-Logik nur auf Analogie-Ebene (Organisationssuche bei Ziel-Lücke ↔ Käufer-Problemwahrnehmung). Empfohlen als Theorie-Referenz für den bestehenden Buying-Center-Cluster (AR-003–006), analog zu Webster & Wind (1972)/Sheth (1973).
+
+---
+
 ## Später prüfen
 
 - Obsidian-Kompatibilität

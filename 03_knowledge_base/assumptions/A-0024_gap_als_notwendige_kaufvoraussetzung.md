@@ -16,7 +16,7 @@ SRC-0005 — Gap Selling, Keenan, 2018; Kernformel: Future State – Current Sta
 
 Keenan leitet die gesamte Gap-Selling-Methodik aus dieser Prämisse ab: Kaufentscheidungen entstehen aus der Diskrepanz zwischen Wo-der-Kunde-ist und Wo-der-Kunde-sein-will. Ohne diese Diskrepanz gibt es keine Kaufmotivation. Die Konsequenz für den Verkäufer: Wenn der Kunde keinen Gap wahrnimmt, ist die Aufgabe zunächst das Aufdecken (nicht das Verkaufen). Der Verkäufer muss den Gap erschließen, bevor er eine Lösung präsentieren kann.
 
-## Evidenzgrad
+## Evidenzstatus
 
 E2 — Practitioner-Modell; keine empirische Primärforschung. Logisch konsistent mit etablierten Motivationstheorien (Festinger's kognitive Dissonanz, Maslow's Mangelmotivation). Von Keenan nicht durch Studien belegt.
 

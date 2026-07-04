@@ -70,3 +70,9 @@ Referenziert MEC-0015 (Miller's Law, E5) als wissenschaftlichen Anker. P-0005 un
 - Die "max. 6 Features"-Regel (Keenan) ist eine praktische Extrapolation von Miller's Law auf Demo-Kontexte — kein Verkaufsexperiment repliziert diese Zahl direkt
 - Miller's Law (1956) wurde inzwischen auf 4±1 Chunks revidiert (Cowan, 2001) — der genaue Grenzwert für Verkaufspräsentationen ist unklar
 - Die Wirkung von "mehr Informationen = weniger Überzeugungswirkung" ist in B2B-Langzyklus-Kontexten nicht systematisch gemessen
+
+## Evidenzklassifikation
+
+*(Abschnitt ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+E5 (Miller's Law) + E2 (methodologische Konvergenz, QK-4) — identisch mit dem `e_level`-Feld im YAML-Frontmatter dieses Objekts. Diese Ergänzung ist eine reine Sichtbarkeits-/Formatharmonisierung: Der Audit CODEX_AUDIT_2026-07.md hatte dieses Objekt fälschlich als „Evidenzfeld fehlt" gelistet, weil die Prüfung nur nach Markdown-Überschriften (`## Evidenz...`) gesucht und das bereits vorhandene YAML-Frontmatter-Feld `e_level` nicht erfasst hatte. Das Frontmatter-Feld war die ganze Zeit korrekt vorhanden — dies wird hier als Korrektur zum Audit-Befund festgehalten, keine neue Bewertung.

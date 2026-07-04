@@ -19,7 +19,7 @@ Verhaltensprinzip + Strategieempfehlung
 - MEC-0012 (Dual Process): Objektive Kriterien aktivieren System 2 (langsames, rationales Denken) statt System 1 (Emotions-/Reaktions-basiert)
 - MEC-0003 (Reaktanz): Druck erzeugt Reaktanz; Prinzipien nicht
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (Theoretisch gut fundiert; in Mediations- und Rechtspraxis weit verbreitet; keine RCT)
 
 ## Status

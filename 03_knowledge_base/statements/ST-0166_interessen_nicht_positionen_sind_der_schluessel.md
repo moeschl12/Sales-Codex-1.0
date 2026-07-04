@@ -26,7 +26,7 @@ Das Orange-Beispiel ist das bekannteste Illustration im Buch. Die Unterscheidung
 - Gap Selling (B-0005): PIC-Discovery erschließt Root Causes (Interessen hinter Symptomen)
 - Voss (B-0003, Widerspruch): Voss betont Taktik/Emotion über Interessen-Exploration
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (Theoretisch gut fundiert; breit gelehrt; keine Controlled Studies; Orange-Beispiel anekdotisch)
 
 ## Status

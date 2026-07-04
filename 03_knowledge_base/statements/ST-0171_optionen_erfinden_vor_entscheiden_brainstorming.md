@@ -19,7 +19,7 @@ Verhaltensprinzip / Problemlösungsstrategie
 - Gap Selling Discovery (B-0005): PIC exploriert alle Dimensionen vor Lösungsvorschlag — strukturell ähnlich
 - JOLT-O (B-0006): Empfehlung statt Optionen — Kontrast zu diesem Prinzip (JOLT gibt weniger Optionen; Getting to Yes erfinden mehr zuerst, aber vor Entscheidung)
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (Kreativitäts- und Brainstorming-Forschung gut belegt; spezifische Verhandlungs-Anwendung weniger direkt gemessen)
 
 ## Status

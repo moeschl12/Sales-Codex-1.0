@@ -30,7 +30,7 @@ Das JOLT-Akronym ist die zentrale Vermarktungsstruktur des Buches. Die vier Elem
 - JOLT-J (Judge the Indecision) korrespondiert methodisch mit SPIN's Discovery-Ansatz
 - JOLT-L (Limit the Exploration) steht in Spannung mit SPIN's ausführlicher Fragephase — aber in anderem zeitlichen Kontext
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Framework aus proprietärer ML-Analyse; keine externe Validierung der vier Elemente als eigenständige Interventionen)
 

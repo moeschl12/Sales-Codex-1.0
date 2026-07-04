@@ -85,6 +85,10 @@ E2 (Proprietäre ML-Datenbasis, nicht peer-reviewed; gut replizierbare Einzelmec
 - Mechanismen: MEC-0015 (erweitert), MEC-0016 (neu)
 - Statements: ST-0150–ST-0164
 
+## ⚠ Hinweis: Publication Bias (Kommerzielle Quelle)
+
+Dieses Objekt beruht (mit) auf der proprietaeren Tethr-ML-Klassifizierung (44%/56%-Split), durchgefuehrt von einem kommerziellen Analytics-Anbieter. Die Klassifizierungsmethodik ist nicht offengelegt; keine unabhaengige Replikation bekannt. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
+
 ## Status
 
 Entwurf — erstellt 2026-07-01 (SRC-0006)

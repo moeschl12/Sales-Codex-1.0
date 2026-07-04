@@ -38,7 +38,7 @@ Die FOMO/FOMU-Unterscheidung ist das konzeptuelle Herzstück des Buches. Sie erk
 - MEC-0002 (Verlustaversion): FOMO ist eine Form der Verlustaversion (Verlust des Nicht-Handelns); FOMU ist eine andere Form (Verlust durch falsches Handeln). Beide sind Verlustaversions-Ausprägungen, aber mit entgegengesetzter Handlungslogik
 - Challenger (B-0004): FUD (fear-based closing) = FOMO-Taktik. JOLT zeigt, warum FUD nach Status-quo-Überwindung schadet
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Konzeptuell aus Beobachtungsdaten; die FOMO/FOMU-Unterscheidung ist eine Eigen-Taxonomie von Dixon/McKenna, nicht aus akademischer Psychologie entlehnt; konzeptuell kompatibel mit antizipatorischer Reue-Forschung, aber nicht direkt belegt)
 

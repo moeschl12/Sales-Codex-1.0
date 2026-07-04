@@ -51,7 +51,9 @@ Nach abgeschlossener Discovery und PIC-Vervollständigung; nie vor vollständige
 - T-0019 (Commercial Teaching Pitch, B-0004): Beide Techniken strukturieren die Lösung nach Relevanz für den Käufer; Challenger baut auf Commercial Insight, Gap Demo auf Discovery-Ergebnis
 - P-0005 (Benefit-Need-Linkage, B-0001): SPIN-Prinzip "Benefit muss auf explizitem Bedarf basieren" — Gap Demo erweitert das auf den vollständigen Discovery-Gap
 
-## Evidenzgrad
+## Evidenzlevel
+
+*(Feldname vereinheitlicht 2026-07, Consistency Correction Sprint — vormals „Evidenzgrad", inhaltlich unverändert. Siehe `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
 
 E2 — Practitioner-Empfehlung; Miller's Law (E5) liefert wissenschaftliche Grundlage für die 6-Feature-Regel. Keine Studie zu Demo-Effektivität für die Gesamtmethode.
 

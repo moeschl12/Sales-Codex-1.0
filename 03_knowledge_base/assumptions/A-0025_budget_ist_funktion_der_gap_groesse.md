@@ -16,7 +16,7 @@ SRC-0005 — Gap Selling, Keenan, 2018; Kapitel 8, p.22–23 ("People find the b
 
 Keenan argumentiert anhand eines existenziellen Beispiels: Eine Person findet sofort Budget, wenn sie weiß, dass sie ohne eine Ausgabe sterben würde. Das gleiche Prinzip gilt in Organisationen: wenn der Gap quantifiziert ist und der Cost of Inaction (COI) die Investitionskosten überwiegt, wird Budget aktiv gesucht und gefunden. B.A.N.T. ist daher ein falsches Qualifikationsmodell, weil es Budget als feste Vorbedingung behandelt, statt als Konsequenz der Gap-Analyse.
 
-## Evidenzgrad
+## Evidenzstatus
 
 E2 — Practitioner-Modell; logisch plausibel, aber keine empirische Studie für die Kausalbeziehung. Kompatibel mit Prospect Theory (Kahneman/Tversky): Verlustvermeidung ist stärker motivierend als Gewinnanreiz — wenn COI als Verlust geframt wird, erhöht sich die Zahlungsbereitschaft.
 

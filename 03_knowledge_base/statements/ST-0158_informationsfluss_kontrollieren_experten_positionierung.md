@@ -33,7 +33,7 @@ Powell-Regel explizit im Buch genannt: Entscheide, wenn du 40–70% der benötig
 - MEC-0008 (Autorität, B-0002): Selbst-Positionierung als Experte aktiviert automatischen Autoritäts-Deference
 - Challenger "Teach" (B-0004): Der Challenger liefert auch proaktiv Expertise — aber vor dem Status-quo-Überwindungsschritt; JOLT-L ist dasselbe Prinzip nach Status-quo-Überwindung
 
-## Evidenzlevel
+## Evidenzklasse
 
 E2 (Beobachtungsdaten aus ML-Analyse; Powell-Regel E1 — erfahrungsbasierte Heuristik, nicht empirisch validiert)
 

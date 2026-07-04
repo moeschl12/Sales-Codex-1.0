@@ -18,7 +18,7 @@ Cialdini integriert kognitionswissenschaftliche Grundlagen (Spreading Activation
 
 ## Evidenzklasse
 
-E4 (Spreading Activation und Priming sind starke, gut replizierte kognitionswissenschaftliche Befunde; Sales-spezifische Anwendung E2)
+E2–E4, differenziert **[korrigiert 2026-07-03, Final Pre-Release Sprint — vormals pauschal E4, siehe MEC-0018 Abschnitt „Evidenzlevel" für vollständige Begründung]**: Spreading Activation (Collins & Loftus 1975) ist ein starker, gut replizierter kognitionswissenschaftlicher Befund (E4). Die Bargh-Priming-Forschung, auf die dieses Statement sich ebenfalls stützt, gehört dagegen zu den durch die Replikationskrise betroffenen Befunden (E2) — siehe `SCIENTIFIC_DEBT.md`, Sektion B-0010, Priorität Hoch. Sales-spezifische Anwendung weiterhin E2.
 
 ## QK-Rating
 

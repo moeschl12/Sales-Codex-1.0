@@ -16,7 +16,7 @@ Verkäufer, die ihre Arbeit als Beitrag zum Wohlergehen anderer (Käufer, Gemein
 
 Grant-Callcenter-Studie (ST-0192): Prosoziales Framing verdoppelte Leistung, aber Kausalrichtung könnte sein: Grant-Studie misst kurzfristigen Effekt (1 Woche nach Lesen einer Stipendiatengeschichte). Ob prosoziale Grundmotivation vs. kurzfristige prosoziale Aktivierung derselbe Mechanismus ist: unklar. Pink interpretiert Studie als Beweis für die stärkere Grundannahme.
 
-## Evidenzlage
+## Evidenzstatus
 
 - Grant-Studie (E4): Stützt prosoziales Framing als kurzfristigen Leistungsverstärker (ST-0192)
 - Self-Determination Theory (Deci/Ryan): Intrinsische Motivation übertrifft extrinsische langfristig — stützt Richtung

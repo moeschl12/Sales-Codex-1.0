@@ -31,7 +31,7 @@ Die Frage aktiviert:
 
 Wichtig: Interrogativer Self-Talk ist wirkungslos, wenn die Kompetenz fehlt. Die Frage aktiviert Ressourcen, schafft aber keine, die nicht vorhanden sind.
 
-## Evidenzklasse
+## Evidenzlevel
 
 E4 (Senay et al. peer-reviewed; Selbstregulationsforschung stützt Mechanismus)
 

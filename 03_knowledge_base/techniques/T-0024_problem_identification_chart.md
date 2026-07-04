@@ -52,7 +52,9 @@ Das PIC ist ein strukturiertes Vor-Gesprächs-Vorbereitungswerkzeug. Es wird dur
 - SPIN Pre-Call Planning: SPIN empfiehlt ebenfalls Gesprächsvorbereitung; PIC ist eine strukturiertere, spaltenbasierte Version
 - Synthesis: Alle drei Methodologien des Sprints betonen Vorbereitung — aber mit unterschiedlichem Inhalt: SPIN (Ziele setzen), Challenger (Insight-Agenda), Gap Selling (Problem-Hypothesen)
 
-## Evidenzgrad
+## Evidenzlevel
+
+*(Feldname vereinheitlicht 2026-07, Consistency Correction Sprint — vormals „Evidenzgrad", inhaltlich unverändert. Siehe `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
 
 E2 — Practitioner-Werkzeug; die Wirkung von strukturierter Vorbereitung auf Gesprächsqualität ist intuitiv plausibel und konsistent mit allgemeiner Meeting-Vorbereitung-Forschung.
 

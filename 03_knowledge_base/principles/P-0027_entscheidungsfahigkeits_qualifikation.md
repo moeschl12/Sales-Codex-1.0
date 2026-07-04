@@ -35,6 +35,12 @@ Zusammen mit BANT (B-0001) und Gap-Qualifikation (B-0005) bildet P-0027 einen dr
 2. Gap-Größe (Gap Selling)
 3. Entscheidungsfähigkeit (JOLT)
 
+## Evidenzklassifikation
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: A-0030 (E2, Unentschlossenheit als eigenständiges Problem, proprietäre Tethr-Datenbasis), MEC-0016 (E4, FOMU). Eine prinzipienspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 
 Entwurf — erstellt 2026-07-01 (SRC-0006)

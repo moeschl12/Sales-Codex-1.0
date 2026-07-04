@@ -16,7 +16,7 @@ Pre-Suasion erzeugt eine zeitlich begrenzte Verschiebung in der Empfänglichkeit
 
 Wahlstudie: Flag-Exposition → temporärer Shift; nur Survey-Commitment-Gruppe: 8-Monate-Effekt. Gemälde-Studie: Kurzzeit-Stimmung erzeugt Präferenz, aber nur wenn während der Stimmung aktiv bewertet → ohne Bewertung: kein Effekt nach 5 Tagen.
 
-## Evidenzklasse
+## Evidenzstatus
 
 E4 (gut belegte Studien; Konsistenz-Effekt nach Commitment gut repliziert)
 

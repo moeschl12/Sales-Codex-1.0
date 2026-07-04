@@ -50,6 +50,10 @@ Grundlage der gesamten Buchargumentation. Die fünf Profile sind das Ergebnis de
 - Kann ein Lone Wolf trainiert werden, zum Challenger zu werden? Oder kollidiert das mit Persönlichkeit?
 - Gibt es in bestimmten Branchen (z.B. FMCG, Pharma) andere dominante Profile?
 
+## ⚠ Hinweis: Publication Bias (Kommerzielle Quelle)
+
+Dieses Objekt beruht (mit) auf der proprietaeren CEB-Befragungsstudie (N≈ 6.000, Vertriebsmitarbeiter aus 90+ Unternehmen). Die Rohdaten, Faktorladungen und Signifikanztests sind nicht oeffentlich einsehbar; ein unabhaengiges akademisches Peer-Review-Verfahren ist nicht nachgewiesen. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-001 (Replikationsrisiko) und SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
+
 ## Status
 
 Entwurf

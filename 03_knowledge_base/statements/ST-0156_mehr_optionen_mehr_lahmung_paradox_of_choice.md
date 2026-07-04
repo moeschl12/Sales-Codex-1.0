@@ -34,7 +34,7 @@ Dixon/McKenna referenzieren Schwartz (2004) explizit. Schwartz zeigt: Mehr Wahl 
 - MEC-0015 (B-0005, Kognitive Überlastung durch Feature-Overload): Verwandter Mechanismus im Demo-Kontext; JOLT erweitert auf Kaufoptions-Kontext
 - P-S1-004 (Informationssparsamkeit): Übergeordnetes Prinzip — weniger Information/Optionen = mehr Wirkung
 
-## Evidenzlevel
+## Evidenzklasse
 
 E4 (Schwartz 2004 und Iyengar/Lepper 2000 sind peer-reviewed, repliziert; Übertragung auf B2B-Kaufkontext ist E2 — keine direkten B2B-Sales-Studien)
 

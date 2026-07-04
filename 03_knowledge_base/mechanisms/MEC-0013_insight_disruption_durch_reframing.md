@@ -78,6 +78,18 @@ Sehr hoch — erklärt den Kernmechanismus der Challenger-Sell-Methodik ("Teach"
 - Gibt es Persönlichkeitstypen (Need for Cognition, Openness to Experience), die resistenter gegen Frame-Disruption sind?
 - Wie verhält sich der Mechanismus in digitalen Verkaufsinteraktionen ohne persönlichen Kontakt?
 
+## Erweiterung durch W-001 (Research Program) — 2026-07-03
+
+**Geprüfter Sachverhalt:** Verhältnis von MEC-0013 (Insight-Disruption durch Reframing, Fremd-Perspektive) zu MEC-0001 (Selbstüberzeugung durch Verbalisierung, Eigen-Perspektive) — beide erklären, wie neue Problemsicht beim Käufer entsteht, über unterschiedliche kausale Pfade. Dieses Verhältnis war seit `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md` (Eintrag "W-001", Offene Frage 3: "Widerspricht A-0020 im Kern dem Befund, dass Selbstverbalisierung (MEC-0001) stärker wirkt als Fremdaussagen?") ungeklärt.
+
+**Ergebnis (Editor Decision W-001, `06_research_program/completed/W001/06_EDITOR_DECISION.md`, 2026-07-03, Option "Teilweise annehmen"):** MEC-0013 und MEC-0001 stehen **nicht** in einem konkurrierenden Verhältnis, in dem einer der beiden Mechanismen den anderen ersetzt oder generell übertrifft. Es handelt sich um zwei eigenständige, kontextabhängig koexistierende Sensegiving-Pfade — MEC-0013 wirkt über Fremd-Reframing (Challenger-Kontext), MEC-0001 über Selbstverbalisierung (SPIN/Gap-Selling-Kontext). Welcher Pfad in einer gegebenen Kaufsituation stärker wirkt, hängt laut `04_THEORY_LANDSCAPE.md` (Abschnitt 3) von Problemreife, Kontext, Sensemaking-Bedarf und Buying-Center-Dynamik ab — keine universelle Überlegenheit eines der beiden Mechanismen wird aus diesem Ergebnis abgeleitet. Die kausale Struktur von MEC-0013 selbst (Frame-Conflict → Dissonanz → Handlungsimpuls) bleibt unverändert.
+
+**Nicht übernommen:** Keine mathematische Formalisierung (SCSM, Äquivokalitäts-Variable Ω), kein neues Modell-Objekt, keine Differentialgleichung.
+
+**Offene Anschlussfrage (an OD-012 übergeben, siehe `00_project/OPEN_DECISIONS.md`):** Ob dieses Koexistenz-Verhältnis künftig als formale "Kontextspezialisierung" im Sinne von `canonical_knowledge_model.md`, Abschnitt 8 strukturell markiert werden soll, ist eine eigenständige, hier nicht entschiedene Frage.
+
+**Herkunft:** W-001 (Research Program).
+
 ## Status
 
-Entwurf — erstellt 2026-06-30 (SRC-0004)
+Entwurf — erstellt 2026-06-30 (SRC-0004); erweitert 2026-07-03 (W-001, Research Program)

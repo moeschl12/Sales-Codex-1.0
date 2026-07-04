@@ -9,7 +9,7 @@ Ohne klare BATNA (Best Alternative to a Negotiated Agreement) kann ein Verhandle
 ## Woher stammt diese Annahme?
 SRC-0007 — Getting to Yes, Chapter 6.
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 E3 — BATNA-Konzept ist in Verhandlungstheorie, Ökonomietheorien (Reservation Price) und Spieltheorie fundiert.
 
 ## Verbundene Objekte

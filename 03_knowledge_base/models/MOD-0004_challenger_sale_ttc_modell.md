@@ -181,6 +181,10 @@ Das TTC-Modell operiert auf zwei Ebenen:
 - **Schwächen:** Proprietäre Daten (keine externe Replikation); kein RCT für TTC-Wirksamkeit; Generalisierbarkeit über US/westliche Enterprise-B2B fraglich; Kanon-Status durch Marketing-Erfolg des Buches verzerrt
 - **Evidenzklassifikation gesamt:** E3 (B+, SRC-0004)
 
+## Evidenzlevel
+
+E3 (B+, SRC-0004). **[Header ergänzt 2026-07-04, External Audit Resolution Sprint — Bewertung war bereits unter „Wissenschaftliche Bewertung" vorhanden, hier nur strukturell ausgewiesen.]**
+
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0004)

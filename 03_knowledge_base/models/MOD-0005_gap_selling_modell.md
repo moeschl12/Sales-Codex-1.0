@@ -188,6 +188,10 @@ Quellenklasse B (Practitioner-Buch, keine Primärforschung)
 - **Kein empirischer Beleg** für die Gap-Selling-Methodik als Ganzes; einzelne Bausteine sind psychologisch gut belegt (MEC-0002, MEC-0004, MEC-0015)
 - **Widerspruch zu A-0020 ungelöst** (Kunden wollen gelehrt vs. befragt werden)
 
+## Evidenzlevel
+
+E2 — Einzelquelle (Keenan, 2018), Quellenklasse B, kein empirischer Beleg für die Gap-Selling-Methodik als Gesamtmodell (siehe „⚠ Einschränkungen"); entspricht der Definition von E2 in `evidence_system.md` ("Aussage stammt aus einer einzelnen Quelle oder Schule und ist plausibel, aber noch nicht breit validiert"). Einzelne Bausteine (MEC-0002, MEC-0004, MEC-0015) sind unabhängig davon höher eingestuft. **[Ergänzt 2026-07-04, External Audit Resolution Sprint — abgeleitet aus bereits dokumentierten Fakten (Quellenklasse, Einschränkungen), keine neue Bewertung erfunden.]**
+
 ## Status
 
 Entwurf

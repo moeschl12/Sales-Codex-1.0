@@ -16,7 +16,7 @@ SRC-0006 — The JOLT Effect, Chapter 6. Kernthese von JOLT-T.
 
 Die meisten Verkaufsschulungen lehren FUD als Abschlusstechnik. Wenn A-0033 stimmt, ist ein großer Teil der Abschluss-Ausbildung nicht nur nutzlos, sondern aktiv schädlich — insbesondere bei den 56% der Kunden, die aus Indecision-Gründen nicht kaufen.
 
-## Wie gut ist sie belegt?
+## Evidenzstatus
 
 E2 — Aus ML-Beobachtungsdaten; keine kontrollierten Experimente. Aber konzeptuell kompatibel mit Reaktanzforschung (MEC-0003) und Angst-Vermeidungs-Motivation (Higgins 1997 Regulatory Focus Theory).
 

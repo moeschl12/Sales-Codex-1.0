@@ -22,7 +22,7 @@ Drei Dimensionen des Personenproblems: Wahrnehmung ("Put yourself in their shoes
 - Voss (B-0003): MEC-0010 (Labeling) = Methode zur Emotions-Anerkennung — kongruent mit Fisher/Ury's "acknowledge emotions"
 - MEC-0010 (Amygdala-Regulation durch Labeling): direkte Anwendung auf die Emotionen-Dimension
 
-## Evidenzlevel
+## Evidenzklasse
 E3 (Breit in Mediation, Konfliktlösung, Psychologie verankert; keine Sales-spezifische Kausal-Studie)
 
 ## Status

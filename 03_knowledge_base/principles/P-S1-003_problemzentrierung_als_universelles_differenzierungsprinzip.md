@@ -69,3 +69,9 @@ Dieser Widerspruch ist dokumentiert (W-001) und ungeklärt. P-S1-003 beschreibt 
 
 - A-0019 (53% Loyalität durch Sales Experience) basiert auf einer proprietären CEB-Studie — keine Replikation durch unabhängige Forschung bekannt
 - Challenger-Insight (externale Perspektive) vs. SPIN-Discovery (Selbstverbalisierung) bleibt empirisch ungeklärt (W-001)
+
+## Evidenzklassifikation
+
+*(Abschnitt ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+E3 (CEB-Studie, B-0004, proprietär) + E2 (methodologische Konvergenz, QK-4) — identisch mit dem `e_level`-Feld im YAML-Frontmatter dieses Objekts. Diese Ergänzung ist eine reine Sichtbarkeits-/Formatharmonisierung: Der Audit CODEX_AUDIT_2026-07.md hatte dieses Objekt fälschlich als „Evidenzfeld fehlt" gelistet, weil die Prüfung nur nach Markdown-Überschriften (`## Evidenz...`) gesucht und das bereits vorhandene YAML-Frontmatter-Feld `e_level` nicht erfasst hatte. Das Frontmatter-Feld war die ganze Zeit korrekt vorhanden — dies wird hier als Korrektur zum Audit-Befund festgehalten, keine neue Bewertung. Der aktive Widerspruch W-001 (siehe Abschnitt oben) bleibt unverändert bestehen.

@@ -75,6 +75,12 @@ Needs_Discovery / Solution_Evaluation (Anwendung bei jedem Stakeholder-Gespräch
 - T-0019 — Commercial Teaching Pitch: Tailoring ist die Anpassungsschicht über T-0019
 - T-0015 — Kalibrierte Fragen: Geeignet zur persönlichen Prioritäten-Exploration im Tailoring-Schritt 3
 
+## Evidenzlevel
+
+*(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
+
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0014 (E3, Konsens im Buying Center), MEC-0013 (E3, Insight-Disruption). Eine technikspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0004)

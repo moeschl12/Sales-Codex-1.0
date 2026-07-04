@@ -79,6 +79,29 @@ Hoch — erklärt die Wirksamkeit von kostenlosen Leistungen vor dem Verkaufsges
 
 Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`.
 
+## Erweiterung: Grenzbedingung — Marktnormen deaktivieren Reziprozitätsnormen (SRC-0012, Ariely 2008/2009)
+
+**[Ergänzt 2026-07-02 aus B-0012 — Predictably Irrational]**
+
+Ariely (mit Heyman) liefert eine wichtige, bislang im Codex nicht dokumentierte Randbedingung für MEC-0005: Reziprozitätsnormen wirken NUR innerhalb eines "Social-Norm"-Rahmens. Sobald ein "Market-Norm"-Rahmen aktiviert wird (auch nur durch Erwähnung eines Geldbetrags, ohne tatsächlichen Geldfluss), kollabiert die Reziprozitätswirkung — Reziprozität und Marktdenken sind demnach keine additiven, sondern sich gegenseitig ausschließende Rahmungen.
+
+**Kein neuer Kausalpfad, sondern Grenzbedingung:** Der bestehende MEC-0005-Pfad (Gabe/Gefallen → Verpflichtungsgefühl → Gegenleistung) bleibt gültig, jedoch nur unter der bislang unausgesprochenen Randbedingung "Social-Norm-Rahmen aktiv, kein Market-Norm-Signal vorhanden".
+
+**Kernexperiment — Kreis-Zieh-Experiment (ST-0240):** Bei einer langweiligen Computeraufgabe leisteten Probanden ohne Bezahlung ("Gefallen", Social-Norm-Rahmen) durchschnittlich MEHR (168 Kreise) als Probanden mit geringer Bezahlung (50 Cent, Market-Norm-Rahmen: 101 Kreise) — sogar mehr als Probanden mit hoher Bezahlung ($5: 159 Kreise). Bei Ersetzung durch Sachgeschenke (Snickers, Godiva-Pralinen) blieb der Social-Norm-Effekt erhalten — ABER sobald der Geldwert des Geschenks EXPLIZIT genannt wurde ("50-Cent-Snickers-Riegel"), kollabierte der Effekt wieder auf Marktniveau.
+
+**Irreversibilität — Tageskrippen-Bußgeld-Studie (ST-0246, extern: Gneezy & Rustichini):** Eine externe Feldstudie zeigt zusätzlich, dass der Übergang von Sozial- zu Marktnorm NICHT ohne Weiteres reversibel ist: Nach Einführung einer Verspätungsstrafe in einer Kindertagesstätte stiegen Verspätungen (Marktnorm ersetzte Schuldgefühl); nach Rücknahme der Strafe blieb das erhöhte Verspätungsniveau bestehen (keine Rückkehr zur ursprünglichen Sozialnorm). Diese Erweiterung ist als neue Annahme A-0051 dokumentiert.
+
+**Praxisrelevanz für P-0009 (Vorab-Leistung als Compliance-Instrument):** Diese Grenzbedingung ist eine wichtige Warnung für die praktische Anwendung von MEC-0005 im Vertrieb — eine als "kostenlose Beratung" gerahmte Vorab-Leistung erzeugt Reziprozitätsdruck; dieselbe Leistung mit explizit genanntem Geldwert ("Sie erhalten hiermit eine Beratung im Wert von 500€ kostenlos") könnte die Reziprozitätswirkung paradoxerweise SCHWÄCHEN, indem sie eine Marktrahmung statt einer sozialen Rahmung aktiviert.
+
+**Wissenschaftliche Grundlage (websuchverifiziert 2026-07-02):** Die theoretische Grundlage (Social Norms vs. Market Norms als zwei getrennte Beziehungsdomänen) geht auf Clark, M.S., Mills, J. & Fiske, A.P. zurück (im Ariely-Text erwähnt, vollständige Einzelzitation nicht im Fließtext angegeben). Gneezy, U. & Rustichini, A. (2000). A Fine is a Price. *Journal of Legal Studies*, 29(1), 1-17 (Tageskrippen-Studie, websuchverifiziert als Standardzitation dieses Befunds).
+
+**Kein E-Level-Wechsel** — E4/E3 bleibt bestehen. Die Grenzbedingung präzisiert die Anwendungsbedingungen, ohne den Kernmechanismus zu widerlegen.
+
+## Grenzen (Ergänzung 2026-07-02)
+
+- **Neue zentrale Grenze:** Reziprozitätsnormen wirken nicht additiv zu Marktnormen, sondern werden durch deren Aktivierung vollständig verdrängt (nicht nur abgeschwächt). Bereits die Erwähnung eines Geldwerts (ohne Geldfluss) genügt zur Deaktivierung.
+- Der Übergang von Sozial- zu Marktnorm ist empirisch als schwer reversibel dokumentiert (siehe A-0051) — ein einmal aktivierter Marktrahmen lässt sich vermutlich nicht durch bloße Rücknahme des monetären Elements rückgängig machen.
+
 ## Status
 
-Entwurf; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 — Konvergenzbestätigung)
+Entwurf; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 — Konvergenzbestätigung); erweitert 2026-07-02 (SRC-0012 Predictably Irrational — Social-vs-Market-Norms-Grenzbedingung, Gneezy & Rustichini 2000 Irreversibilitäts-Beleg)

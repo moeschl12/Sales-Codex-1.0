@@ -38,7 +38,7 @@ Kognitive Leichtigkeit (Cognitive Ease) erhöht automatisch Glaubwürdigkeit, Sy
 - [ ] Komplexe Informationen nach emotionalem Rapport einführen (S1 ist dann im positiven Modus)
 - [ ] Keine Informationsüberlastung früh im Gespräch (S1 reagiert defensiv auf Strain)
 
-## Evidenzklasse
+## Evidenzlevel
 
 E4 (Cognitive Ease experimentell gut belegt; Illusion of Truth durch Wiederholung E4; direkte Sales-Anwendung E2)
 

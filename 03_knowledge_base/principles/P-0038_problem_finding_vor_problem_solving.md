@@ -23,7 +23,7 @@ Wenn die Problemidentifikation fehlt, ist die beste Lösung wertlos (Lösung fü
 3. Unbequeme Fragen stellen: Fragen, die den Käufer zwingen, seine Problemdefinition zu überdenken
 4. Konkurrenzprodukte einbeziehen: Beste Verkäufer empfehlen manchmal Konkurrenzlösungen — Vertrauen durch Ehrlichkeit
 
-## Evidenzklasse (Prinzip)
+## Evidenzklassifikation
 
 E3 (abgeleitet aus ST-0191; kompatibel mit Challenger Sale Teaching-Pitch-Forschung)
 

@@ -107,9 +107,9 @@ Verkäufer nennt den günstigsten Einstiegspreis zuerst → Käufer hat nun den 
 
 ## Offene Fragen
 
-- Wie eng ist die Verwandtschaft mit dem Anchoring-Effekt bei Tversky & Kahneman? Sind Kontrast und Anchoring operationell identisch oder unterschiedliche Effekte?
+- ~~Wie eng ist die Verwandtschaft mit dem Anchoring-Effekt bei Tversky & Kahneman? Sind Kontrast und Anchoring operationell identisch oder unterschiedliche Effekte?~~ **Beantwortet 2026-07-02 (SRC-0014, siehe MEC-0009-Erweiterung "Psychophysikalische Grundlagen"):** Historisch verwandt über den Begriffsursprung "Anker" (Helson 1947, Adaptationsniveau-Theorie), operational jedoch unterschiedlich — MEC-0009/P-0014 ist ein reiner Kontrast-/Adaptationseffekt (kontinuierlich, nicht-sozial), MEC-0021/P-0042 enthält zusätzlich einen assoziativ-kognitiven (S1-Priming) und bewusst-adjustierenden (S2) Pfad.
 - Wie wirkt der Mechanismus in mehrstufigen Verhandlungen, wo beide Seiten aktiv Referenzpunkte setzen?
 
 ## Status
 
-Entwurf
+Entwurf; Quervergleich mit MEC-0021/P-0042 abgeschlossen 2026-07-02 (SRC-0014 Priceless)
