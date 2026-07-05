@@ -12,11 +12,11 @@ Dieses Dokument ist der Einstiegspunkt für neue KI-Sessions (Claude, ChatGPT, G
 Minimale Pflichtlektüre (in dieser Reihenfolge):
 
 1. `PROJECT_BOOTSTRAP.md` ← du bist hier
-2. `CURRENT_STATE.md` — aktueller Stand, was erledigt ist, was als nächstes kommt
+2. `SESSION_BRIEF.md`, falls vorhanden — sonst nur der Statusblock am Anfang von `CURRENT_STATE.md`, nicht die vollständige Sprint-Historie darunter
 3. `00_project/NEXT_ACTION.md` — exakt eine nächste Aktion
 4. Nur die direkt betroffenen Arbeitsdateien (nicht das gesamte Repository)
 
-Nicht unnötig das gesamte Repository lesen. Nur laden, was der aktuelle Job erfordert.
+Nicht unnötig das gesamte Repository lesen. Nur laden, was der aktuelle Job erfordert. Kein rekursiver Scan über `00_project/` oder `03_knowledge_base/` ohne explizite Freigabe im Auftrag (siehe Dokumentklassifizierung unten).
 
 ---
 
@@ -118,15 +118,23 @@ Keine langen Zwischenberichte. Ergebnisse gehören in Dateien, nicht in den Chat
 
 ---
 
-## Dokumentklassifizierung (v1.1)
+## Dokumentklassifizierung (v1.2 — präzisiert 2026-07-05, Cowork Token Optimization Sprint 1)
 
-Alle Dokumente im Repository haben eine Klasse. Die Klasse bestimmt, wann eine KI-Session das Dokument lesen muss.
+Alle Dokumente im Repository haben eine Klasse. Die Klasse bestimmt, wann eine KI-Session das Dokument lesen muss. Die vorherige v1.1-Fassung dieser Tabelle deklarierte acht Dateien als „liest KI in jeder Session" unabhängig vom Aufgabentyp (≈ 71.000 Token) — das widersprach der obigen Regel „nicht unnötig das gesamte Repository lesen". Diese Fassung löst den Widerspruch auf, indem „Operational" in zwei Unterklassen aufgeteilt wird.
 
-| Klasse | Bedeutung | Beispiele |
+| Klasse | Bedeutung | Dateien |
 |---|---|---|
-| **Operational** | Aktiv genutzt — KI liest diese in jeder Session | `backlog.md`, `CURRENT_STATE.md`, `NEXT_ACTION.md`, `SESSION_LOG.md`, `OPEN_DECISIONS.md`, `task_rules.md`, `SCIENTIFIC_DEBT.md`, `REPOSITORY_KPIS.md` |
-| **Reference** | Bei Bedarf nachschlagen — nur wenn relevant | Operating Manual, Execution Protocol, alle Templates, agent_protocols/, codex_methodology.md, canonical_knowledge_model.md, evidence_system.md |
-| **Archived** | Historisch, nicht mehr aktiv — nicht löschen | `CLAUDE_BOOTSTRAP.md`, `roadmap.md`, `review_queue.md` |
+| **Operational — jede Session** | Tatsächlich sessionsunabhängig nötig | `CURRENT_STATE.md` (nur der Statusblock am Dateianfang, nicht die vollständige Sprint-Historie darunter), `00_project/NEXT_ACTION.md`, `SESSION_BRIEF.md` (kompakter Ersatz für den Statusblock, falls vorhanden) |
+| **Operational — aufgabenabhängig** | Nur laden, wenn der konkrete Aufgabentyp zutrifft | `00_project/backlog.md` (Task-Auswahl), `00_project/task_rules.md` (Buchanalyse-Start), `00_project/OPEN_DECISIONS.md` (Entscheidungs-/Governance-Arbeit), `00_project/SCIENTIFIC_DEBT.md` (Evidenz-/Qualitätsarbeit), `00_project/REPOSITORY_KPIS.md` (Reporting/Release) |
+| **Reference** | Bei Bedarf nachschlagen — nur wenn fachlich relevant | Operating Manual, Execution Protocol, alle Templates, agent_protocols/, codex_methodology.md, canonical_knowledge_model.md, evidence_system.md |
+| **Reference — nur bei Historienfrage** | Nur bei expliziter Nachfrage nach vergangenen Sessions, nicht routinemäßig | `00_project/SESSION_LOG.md`, `00_project/changelog.md` |
+| **Archived** | Historisch, nicht mehr aktiv — nicht löschen, nicht standardmäßig laden | `99_archive/` (inkl. `CLAUDE_BOOTSTRAP.md`, `99_archive/v1.0_release/`), einmalige Sprint-/Freeze-/Audit-/Release-Berichte nach Abschluss des jeweiligen Sprints |
+
+**Suchgrenze (verbindlich):** Kein rekursiver Scan (Volltextsuche, `find`, Mehrfach-Dateizugriff über einen ganzen Ordner) über `00_project/` oder `03_knowledge_base/` ohne explizite Freigabe im Auftrag für genau diesen einen Scan. Bei Unsicherheit über den Umfang: Rückfrage statt Breitscan.
+
+## Task-Type-Routing
+
+`TASK_TYPES.md` ist die Reference-Datei für aufgabenbezogenes Routing (12 Task-Typen, je mit fester Dateiladestrategie, Suchgrenze, Ausgabeformat und Arbeitsmodus). Nennt ein Auftrag ein `TASK_TYPE`-Feld, gilt direkt die dortige Routing-Definition — kein weiteres Abwägen nötig. Nennt ein Auftrag keinen Task-Typ, leitet Claude den wahrscheinlichsten Typ aus der Aufgabe ab und benennt ihn kurz im Chat; bei echter Mehrdeutigkeit wird stattdessen rückgefragt. Kein Task-Typ hebt die in diesem Dokument definierten Such- und Änderungsgrenzen automatisch auf — `TASK_TYPES.md` ergänzt `PROJECT_BOOTSTRAP.md`, ersetzt es nicht.
 
 ---
 
@@ -148,4 +156,4 @@ Alle Dokumente im Repository haben eine Klasse. Die Klasse bestimmt, wann eine K
 
 ---
 
-*Zuletzt aktualisiert: 2026-06-30*
+*Zuletzt aktualisiert: 2026-07-05 (Task-Type-Routing ergänzt, Decision Architecture Sprint 2 — siehe `00_project/DECISION_ARCHITECTURE_SPRINT_2_REPORT.md`; Dokumentklassifizierung präzisiert, Cowork Token Optimization Sprint 1 — siehe `00_project/COWORK_TOKEN_OPTIMIZATION_SPRINT_1_REPORT.md`)*
