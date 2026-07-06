@@ -2,7 +2,7 @@
 
 **Dokumentklasse:** Reference (Generierter Analyse-Output)
 **Erzeugt von:** `08_knowledge_atlas/scripts/compile_atlas.py`
-**Erzeugt am:** 2026-07-05
+**Erzeugt am:** 2026-07-06
 **Grundlage:** `08_knowledge_atlas/ATLAS_MANIFEST.md`, Abschnitt 2 (Knoten-Basis, Kanten-Basis, Analyse-Fokus)
 **Hinweis:** Rein lesend erzeugt. Keine Wissensobjekte in `03_knowledge_base/` wurden verändert. Dieser Report wird nur erzeugt, wenn keine Duplicate-IDs vorliegen (H-01) — siehe Abschnitt 5.
 
@@ -14,28 +14,28 @@
 |---|---|---|
 | `ST` | Statement | 309 |
 | `A` | Annahme | 60 |
-| `MEC` | Mechanismus | 29 |
+| `MEC` | Mechanismus | 30 |
 | `P` | Prinzip | 57 |
 | `T` | Technik | 47 |
 | `MOD` | Modell | 12 |
-| **Gesamt** | | **514** |
+| **Gesamt** | | **515** |
 | davon Sonder-ID-Format (z. B. `P-S1-XXX`) | | 4 |
 
 ## 2. Edges
 
-Anzahl gerichteter, deduplizierter expliziter Referenzen: **2071**
+Anzahl gerichteter, deduplizierter expliziter Referenzen: **2111**
 
 Eine Kante `(source_id -> target_id)` bedeutet: Die Datei von `source_id` enthält im Volltext (außerhalb von Code-Blöcken, Inline-Code und HTML-Kommentaren) eine explizite Nennung von `target_id`. Keine semantische Typisierung, keine Gewichtung (Manifest Abschnitt 2.2). Seit v0.1.2 enthält jede Kante zusätzlich die Zeilennummer der (ersten) Fundstelle (`edges.csv`, Spalte `line_number`). Seit v0.1.3 kann `target_id` auch das Ergebnis einer konservativen Genitiv-Normalisierung sein (H-02, siehe Abschnitt 6.3).
 
 ## 3. Reference Orphans
 
-Anzahl Reference Orphans (Knoten ohne jede eingehende oder ausgehende explizite Referenz): **18** von 514 Knoten
+Anzahl Reference Orphans (Knoten ohne jede eingehende oder ausgehende explizite Referenz): **18** von 515 Knoten
 
 | ID-Präfix | Objekttyp | Orphans | Nodes gesamt | Anteil |
 |---|---|---|---|---|
 | `ST` | Statement | 18 | 309 | 5.8% |
 | `A` | Annahme | 0 | 60 | 0.0% |
-| `MEC` | Mechanismus | 0 | 29 | 0.0% |
+| `MEC` | Mechanismus | 0 | 30 | 0.0% |
 | `P` | Prinzip | 0 | 57 | 0.0% |
 | `T` | Technik | 0 | 47 | 0.0% |
 | `MOD` | Modell | 0 | 12 | 0.0% |
@@ -88,8 +88,8 @@ Ein zweites, unabhängiges Architecture Audit (`SECOND_INDEPENDENT_ARCHITECTURE_
 
 | Kennzahl | v0.1.2 (vor Hardening) | v0.1.3 (aktueller Lauf) |
 |---|---|---|
-| Nodes gesamt | 514 | 514 |
-| Edges | 2071 | 2071 |
+| Nodes gesamt | 514 | 515 |
+| Edges | 2071 | 2111 |
 | Reference Orphans | 18 | 18 |
 | Unaufgelöste Referenzen | 7 | 2 |
 | Duplikat-IDs | 0 | 0 |

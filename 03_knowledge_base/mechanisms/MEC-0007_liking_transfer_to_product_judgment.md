@@ -6,7 +6,7 @@ MEC-0007
 
 ## Source ID
 
-SRC-0002
+SRC-0002, W-002
 
 ## Name
 
@@ -139,6 +139,34 @@ Kein E-Level-Wechsel.
 
 Siehe auch: `05_research/LITERATURE_INDEX.md`.
 
+## Erweiterung: ELM-Boundary-Condition — Periphere Route und Konvergenz mit der Challenger-Grenze (Research Program W-002)
+
+**[Ergänzt 2026-07-05 aus W-002 — Persuasion Architecture Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W002/06_EDITOR_DECISION.md`]**
+
+Das Elaboration Likelihood Model (ELM, Petty & Cacioppo 1986; siehe MEC-0012, Erweiterungsabschnitt) ordnet Sympathieübertragung als peripheres Cue ein (affektiver Halo statt inhaltlicher Argumentprüfung). Diese Klassifikation steht in bemerkenswerter Konvergenz mit der bereits in diesem Objekt dokumentierten Challenger-Sale-Grenze (Abschnitt „Grenzfall: Challenger Sale — Liking als Nicht-Prädiktor für Star-Performance", SRC-0004): In komplexen, stakeholderreichen B2B-Käufen mit hohem Involvement und Reframing-Bedarf sinkt der Differenzierungsbeitrag von Liking auf nahe null.
+
+**Boundary Condition (Konvergenzbefund, kein neuer Test):** ELM liefert eine plausible theoretische Erklärung für diese bereits empirisch dokumentierte Grenze: Hohes Involvement/hohe Kaufkomplexität erhöht typischerweise die Motivation zur zentralen Verarbeitung, wodurch periphere Cues wie Sympathie ihre relative Differenzierungskraft gegenüber inhaltlichen Faktoren (Argumentqualität, Nutzenbeleg) verlieren. Dies bestätigt und kontextualisiert die bestehende Challenger-Grenze, ohne sie zu erweitern oder empirisch neu zu belegen — die zugrunde liegende CEB-Forschung (N=6.000) bleibt die alleinige empirische Stütze dieser Grenze.
+
+**Wichtiger Vorbehalt:** Diese Konvergenz ist theoretisch plausibel, aber selbst nicht direkt getestet (kein Experiment prüft ELM-Elaborationsgrad und Liking-Wirkung gemeinsam in B2B-Kontexten). Sie wird hier als Konvergenzbeobachtung, nicht als zusätzlicher empirischer Beleg dokumentiert.
+
+**Kein neuer Kausalpfad.** Kein E-Level-Wechsel (E4/E3 bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
+## Erweiterung: Abgrenzung zu MEC-0030 (Trust Formation) — Liking ≠ Trust (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Der bereits weiter oben in diesem Objekt dokumentierte „Trust-Kreuzverweis (Strukturlücke, nicht aufgelöst)" ist durch W-003 aufgelöst: MEC-0030 („Vertrauensbildung aus wahrgenommener Vertrauenswürdigkeit") bildet den dort vermissten Mechanismus (Ability/Benevolence/Integrity → Trustworthiness → Trust) ab.
+
+**Begriffliche Abgrenzung:** Sympathieübertragung (dieses Objekt) und Trust (MEC-0030) sind kausal unterscheidbar, nicht nur terminologisch verschieden: MEC-0007 beschreibt einen rein affektiven Halo-Transfer (positive Einstellung zur Person → positive Beurteilung von deren Angebot), der **kein** Vulnerabilitätselement voraussetzt. MEC-0030 setzt hingegen definitorisch voraus, dass der Käufer bereit ist, sich gegenüber der anderen Partei verwundbar zu machen (Rousseau, Sitkin, Burt & Camerer 1998) — ein Element, das bei reiner Sympathie fehlen kann (man kann jemanden sympathisch finden, ohne ihm in einer risikobehafteten Angelegenheit zu vertrauen).
+
+**Konvergenz statt Redundanz:** Beide Mechanismen können gleichzeitig wirken und sich gegenseitig verstärken (Liking als peripheres Cue, das die Ability/Benevolence/Integrity-Wahrnehmung positiv färben kann), sind aber nicht austauschbar. Die sales-spezifische Meta-Analyse zu Salesperson-Trust (Swan, Bowers & Richardson 1999) identifiziert „Likeability/Similarity" sogar als eigene, von Competence/Benevolence unterscheidbare Dimension des Salesperson-Trust-Urteils — dies deutet darauf hin, dass Liking im Sales-Kontext möglicherweise eine eigenständige, vierte Antezedenz-Kategorie neben der allgemeinen ABI-Triade darstellt (offene Frage, siehe MEC-0030, Abschnitt „Offene Fragen").
+
+**Kein neuer Kausalpfad in diesem Objekt.** Kein E-Level-Wechsel (E4/E3 bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, Repository Impact Analysis.
+
 ## Status
 
-Entwurf — erweitert 2026-06-30 (SRC-0003, SRC-0004); erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3)
+Entwurf — erweitert 2026-06-30 (SRC-0003, SRC-0004); erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3); erweitert 2026-07-05 (W-002 — ELM-Boundary-Condition, Konvergenz mit Challenger-Grenze, Editor Decision Teilweise annehmen); erweitert 2026-07-05 (W-003 — Abgrenzung zu MEC-0030/Trust Formation, Editor Decision Teilweise annehmen)

@@ -6,7 +6,7 @@ MEC-0012
 
 ## Source ID
 
-SRC-0003
+SRC-0003, W-002
 
 ## Name
 
@@ -133,8 +133,32 @@ Research Pack 2 bestätigt unabhängig die bereits in diesem Objekt dokumentiert
 
 Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`.
 
+## Erweiterung: Elaboration Likelihood Model als persuasionsspezifische Klassifikationsebene (Research Program W-002)
+
+**[Ergänzt 2026-07-05 aus W-002 — Persuasion Architecture Research Project. Editor Decision 2026-07-05: Teilweise annehmen — siehe `06_research_program/completed/W002/06_EDITOR_DECISION.md`]**
+
+Das Elaboration Likelihood Model (ELM, Petty, R.E. & Cacioppo, J.T. (1986). *Communication and Persuasion: Central and Peripheral Routes to Attitude Change*. Springer-Verlag) wird als persuasionsspezifischer Klassifikationsrahmen INNERHALB der hier beschriebenen Dual-Process-Architektur behandelt — **MEC-0012 bleibt der übergeordnete, allgemeine kognitive Rahmen (System 1/System 2); ELM ersetzt ihn nicht, sondern verfeinert ihn für den Spezialfall der Persuasion.**
+
+**Kernunterscheidung:** ELM unterscheidet eine **zentrale Route** (hohe Elaboration: hohe Motivation und Fähigkeit zur inhaltlichen Prüfung, argumentqualitätsgetrieben, resultierende Einstellungen sind dauerhafter und veränderungsresistenter) von einer **peripheren Route** (niedrige Elaboration: cue-getrieben — z. B. durch Quellenglaubwürdigkeit, Sympathie, Autorität, Sozialbeweis —, resultierende Einstellungen sind flüchtiger).
+
+**Warum diese Ebene eine echte, aber begrenzte Ergänzung ist (editorische Sparsamkeitsentscheidung, keine zwingende CKM-Ableitung):** ELM benennt mit Argumentqualität und Quellenglaubwürdigkeit persuasionsspezifische Moderatoren, die im hier beschriebenen allgemeinen System-1/2-Rahmen nicht vorkommen — insofern ist ELM kein bloßes Duplikat. Ein eigenständiges neues MEC wird dennoch **nicht** angelegt: Diese Entscheidung ist ausdrücklich eine editorische Abwägung zwischen zusätzlicher theoretischer Präzision und Repository-Ökonomie, keine zwingende Ableitung aus dem Canonical Knowledge Model (Editor Decision W-002, Abschnitt 1). ELM wird stattdessen als Klassifikationsebene geführt, die erklärt, warum verschiedene bereits bestehende Mechanismen unterschiedlich stabil/dauerhaft wirken:
+
+- **Überwiegend periphere Route:** MEC-0005 (Reziprozität), MEC-0006 (Soziale Bewährtheit), MEC-0007 (Sympathie), MEC-0008 (Autorität) — siehe jeweilige Erweiterungsabschnitte „ELM-Boundary-Condition"; MEC-0018 (Pre-Suasion) — siehe dortiger Erweiterungsabschnitt (mit explizitem Vorbehalt gegen Evidenzaufwertung); MOD-0002 (Cialdini 6+1) — siehe dortiger Syntheseabschnitt.
+- **MEC-0009 (Perzeptueller Kontrast):** Bewusst **nicht** in diese Klassifikation einbezogen — der Mechanismus operiert auf psychophysikalischer Ebene (Weber-Fechner-Stevens-Helson, siehe MEC-0009) und damit auf einer der ELM-Elaborationsebene vorgelagerten Verarbeitungsstufe. Eine Zuordnung würde eine nicht belegbare Beziehung konstruieren (vollständige Begründung: `06_research_program/completed/W002/REPOSITORY_INTEGRATION_LOG.md`).
+
+**Minimaler Cross-Link zum Reflective-Impulsive Model:** Das in dieser Datei bereits dokumentierte Reflective-Impulsive Model (Strack, F. & Deutsch, R. (2004), siehe Erweiterungsabschnitt „Formale Bestätigung der Dichotomie-Einschränkung" oben) ist ein weiteres, differenzierteres Alternativmodell zur strikten System-1/2-Dichotomie — es ist wie das hier beschriebene allgemeine Modell nicht persuasionsspezifisch und steht damit inhaltlich näher an MEC-0012 selbst als an ELM. Es liefert eine dritte, von ELM unabhängige Bestätigung dafür, dass die Abgrenzung zwischen einem allgemeinen kognitiven Rahmen (MEC-0012, ggf. Reflective-Impulsive Model) und einer persuasionsspezifischen Verfeinerung (ELM) sinnvoll ist. Kein eigenständiger neuer Abschnitt für das Reflective-Impulsive Model — dieser Verweis ist bewusst minimal gehalten (Editor Decision W-002, Abschnitt 2).
+
+**Evidenzbasis:** Der ELM-Kernbefund (Argumentqualität × Verarbeitungstyp-Interaktion) ist meta-analytisch gestützt (Carpenter, C.J. (2015). *Human Communication Research*, 41(4), 501–534, k=134 Effekte). Eine dokumentierte, nicht abschließend aufgelöste Replikationskontroverse zu einem klassischen Moderatoreffekt (Need for Cognition × Argumentqualität: Cacioppo, Petty & Morris 1983 vs. Ebersole et al. 2016; methodische Einordnung: Luttrell, Petty & Xu 2017) wird hier **nicht zugunsten einer Seite aufgelöst** und darf nicht zur pauschalen Auf- oder Abwertung von ELM herangezogen werden (Editor Decision W-002, Abschnitt 4). Vollständige Quellenlage: `06_research_program/completed/W002/REFERENCES.md`.
+
+**Ausdrücklich nicht Teil dieser Erweiterung:** Eine gesicherte Übertragung auf komplexe B2B-/Buying-Center-/Multi-Stakeholder-Kaufentscheidungen — W-002 fand hierfür keine direkte Evidenz. Diese Lücke ist als eigener Scientific-Debt-Eintrag dokumentiert (`00_project/SCIENTIFIC_DEBT.md`), nicht in dieses Objekt integriert.
+
+**Kein neuer Kausalpfad, keine Änderung der bestehenden Kausalstruktur.** Kein E-Level-Wechsel (E4/E3 dieses Objekts bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MASTER_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, `05_DECISION_BRIEF.md`, `06_EDITOR_DECISION.md`.
+
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0003)  
 **MacLean-Bereinigung 2026-07-01:** Triune-Brain-Terminologie aus Erklärungspfad entfernt. Nur Kahneman-Dual-Process-Rahmen (E4/E3) verbleibt. Entscheidung dokumentiert in PEER_REVIEW_DECISION_REPORT_SPRINT_001.md.  
 **Erweitert 2026-07-01 (SRC-0010):** Kanonische Primärquelle ergänzt; Cognitive Ease, WYSIATI und Halo-Effekt als System-1-Phänomene eingetragen.
+**Erweitert 2026-07-05 (W-002):** ELM als persuasionsspezifische Klassifikationsebene ergänzt, minimaler Cross-Link zum Reflective-Impulsive Model, Editor Decision Teilweise annehmen.

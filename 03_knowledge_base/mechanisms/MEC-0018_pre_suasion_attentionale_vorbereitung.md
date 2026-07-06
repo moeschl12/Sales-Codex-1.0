@@ -121,6 +121,20 @@ Ariely liefert mit den Bier-/Kaffee-/Coke-Pepsi-Experimenten eng verwandte, aber
 
 **Kein E-Level-Wechsel** — E3/E4 bleibt bestehen (die neue fMRT-Evidenz stärkt die neurowissenschaftliche Fundierung, verändert aber nicht die Grundeinstufung wegen weiterhin fehlendem direktem B2B-Sales-Transfer-Test).
 
+## Erweiterung: ELM-Klassifikation — Periphere Route, ausdrücklich ohne Evidenzaufwertung (Research Program W-002)
+
+**[Ergänzt 2026-07-05 aus W-002 — Persuasion Architecture Research Project. Editor Decision 2026-07-05: Teilweise annehmen — siehe `06_research_program/completed/W002/06_EDITOR_DECISION.md`]**
+
+Das Elaboration Likelihood Model (siehe MEC-0012, Erweiterungsabschnitt „Elaboration Likelihood Model als persuasionsspezifische Klassifikationsebene") ordnet Pre-Suasion als überwiegend periphere Verarbeitungsroute ein: Ein Opener aktiviert assoziative Konzepte in einem kurzen Zeitfenster (Privileged Moment), ohne dass dabei eine inhaltliche, zentrale Argumentprüfung stattfindet.
+
+**Ausdrücklicher Vorbehalt (bindend, siehe Editor Decision W-002, Abschnitt 2):** Diese Klassifikation bezieht sich ausschließlich auf den PROZESSTYP (peripher vs. zentral) dieses Mechanismus. Sie sagt **nichts** über die Replikationsfähigkeit der zugrunde liegenden Priming-Forschung aus und darf **nicht** als Aufwertung der oben in Abschnitt „Evidenzlevel" dokumentierten, differenzierten Evidenzeinstufung (insbesondere des E2-Anteils der Bargh-/Dijksterhuis-Priming-Studien, `SCIENTIFIC_DEBT.md` B-0010, Priorität Hoch) gelesen werden. Die Prozesstyp-Klassifikation (dieser Abschnitt) und die Evidenzstärke der zugrunde liegenden Forschung (Abschnitt „Evidenzlevel") sind zwei unabhängige Fragen. Diese Trennung wurde im Rahmen von W-002 explizit geprüft (Red Team Review, Kriterium 5: „erfüllt" — der am gründlichsten abgesicherte Teil des Reviews) und ist bindender Bestandteil dieser Integration.
+
+**Kein neuer Kausalpfad, keine Änderung der bestehenden Kausalstruktur oder Evidenzeinstufung.**
+
+**Kein E-Level-Wechsel** — Abschnitt „Evidenzlevel" bleibt vollständig unverändert (E4 Spreading Activation / E2 Bargh-Dijksterhuis-Priming / E3 Cialdinis Gesamtkonzept / E2 Sales-Anwendung, Gesamteinstufung E2–E3).
+
+Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MASTER_REVIEW.md`, `03_RED_TEAM_REVIEW.md` Kriterium 5.
+
 ## Status
 
-Neu — 2026-07-01 (SRC-0008 Pre-Suasion); erweitert 2026-07-02 (SRC-0012 Predictably Irrational — Bier-Essig-Experiment, Coke-Pepsi-fMRT-Studie/McClure et al. 2004); **Widerspruch zu `SCIENTIFIC_DEBT.md` behoben — 2026-07-03 (Final Pre-Release Sprint):** Evidenzlevel-Abschnitt differenziert (Spreading Activation vs. Bargh/Dijksterhuis-Priming), Warnhinweis in Vertriebsrelevanz ergänzt, keine inhaltliche Neubewertung des Mechanismus selbst, keine neue Recherche.
+Neu — 2026-07-01 (SRC-0008 Pre-Suasion); erweitert 2026-07-02 (SRC-0012 Predictably Irrational — Bier-Essig-Experiment, Coke-Pepsi-fMRT-Studie/McClure et al. 2004); **Widerspruch zu `SCIENTIFIC_DEBT.md` behoben — 2026-07-03 (Final Pre-Release Sprint):** Evidenzlevel-Abschnitt differenziert (Spreading Activation vs. Bargh/Dijksterhuis-Priming), Warnhinweis in Vertriebsrelevanz ergänzt, keine inhaltliche Neubewertung des Mechanismus selbst, keine neue Recherche. Erweitert 2026-07-05 (W-002 — ELM-Klassifikation periphere Route, ausdrücklich ohne Evidenzaufwertung, Editor Decision Teilweise annehmen).

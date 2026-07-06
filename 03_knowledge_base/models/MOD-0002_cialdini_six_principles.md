@@ -4,6 +4,7 @@
 
 SRC-0002 — Influence: The Psychology of Persuasion, Robert B. Cialdini, Ausgabe 2007 (Revised Edition; Erstausgabe 1984)
 SRC-0008 — Pre-Suasion, Robert B. Cialdini, 2016 (Unity als 7. Prinzip; erweitert 2026-07-01)
+W-002 (Research Program) — ELM-Synthese, ergänzt 2026-07-05
 
 ## Zweck
 
@@ -113,6 +114,22 @@ Cialdinis Modell ist konzeptionell eng verwandt mit Kahnemans Dual-Process-Theor
 
 → Gemini-Validierung für Kahneman-Cialdini-Quervergleich ausstehend.
 
+## Erweiterung: Synthese — Die sieben Prinzipien als überwiegend periphere Route (ELM, Research Program W-002)
+
+**[Ergänzt 2026-07-05 aus W-002 — Persuasion Architecture Research Project. Editor Decision 2026-07-05: Teilweise annehmen — siehe `06_research_program/completed/W002/06_EDITOR_DECISION.md`]**
+
+Das oben dokumentierte konzeptionelle Verhältnis zu Kahnemans Dual-Process-Modell wird durch das Elaboration Likelihood Model (ELM, Petty & Cacioppo 1986; siehe MEC-0012, Erweiterungsabschnitt) präzisiert: ELM ist — anders als Kahnemans allgemeines System-1/2-Modell — eine persuasionsspezifische Theorie mit eigenen Moderatoren (Motivation, Fähigkeit, Argumentqualität, Quellenglaubwürdigkeit) und bietet damit eine genauere Einordnung dafür, warum die sieben Cialdini-Prinzipien überwiegend System-1-Prozesse aktivieren.
+
+**Synthese:** Alle sieben in diesem Modell zusammengefassten Prinzipien (Reziprozität, Commitment & Konsistenz, Soziale Bewährtheit, Sympathie, Autorität, Knappheit, Unity) sind nach ELM-Klassifikation überwiegend der **peripheren Verarbeitungsroute** zuzuordnen: Sie wirken als Cues, die Compliance ohne notwendige inhaltliche Argumentprüfung auslösen — konsistent mit der Kernthese dieses Modells selbst („Trigger-Design ist Argumentationsarchitektur überlegen, wenn kognitive Kapazität des Käufers begrenzt ist"). Individuelle Boundary Conditions für MEC-0005, MEC-0006, MEC-0007 und MEC-0008 sind in den jeweiligen Objekten dokumentiert (Erweiterungsabschnitt „ELM-Boundary-Condition").
+
+**Praktische Implikation (aus Repository Impact Analysis übernommen, nicht neu erhoben):** Die erwartbare Grenze aller sieben Prinzipien ist dieselbe — hohe Elaboration (hohe Motivation/Fähigkeit des Käufers zur zentralen Verarbeitung, typisch bei komplexen, hochpreisigen oder professionell geprüften B2B-Käufen) sollte die Wirksamkeit von Trigger-Design gegenüber Argumentationsarchitektur (vgl. MOD-0001, SPIN Selling) tendenziell verringern. Diese Erwartung ist theoretisch aus ELM abgeleitet und für MEC-0006/MEC-0007/MEC-0008 durch bereits bestehende empirische Grenzen konvergent gestützt (siehe dortige Objekte); für MEC-0005 und für das Gesamtmodell ist sie **nicht direkt getestet**.
+
+**Ausdrücklich nicht Teil dieser Synthese:** Eine gesicherte Übertragung auf komplexe B2B-/Buying-Center-Kaufentscheidungen wird nicht behauptet — W-002 fand hierfür keine direkte Evidenz (siehe `00_project/SCIENTIFIC_DEBT.md`, neuer Eintrag zu W-002/ELM-B2B-Transfer).
+
+**Kein neuer Kausalpfad, keine Änderung der sieben Einzelmechanismen.** Kein E-Level-Wechsel (E3 Gesamtmodell bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MASTER_REVIEW.md`, `05_DECISION_BRIEF.md`.
+
 ## Grenzen des Modells
 
 - Kulturelle Generalisierbarkeit: Stärke der Prinzipien variiert kulturell (kollektivistisch vs. individualistisch), aber Richtung scheint robust (vgl. A-0007)
@@ -132,4 +149,4 @@ Reifegrad des Modells: M2 (gut verstanden, alle Kernmechanismen extrahiert, Gren
 
 ## Status
 
-Entwurf — TASK-0008 abgeschlossen 2026-06-30
+Entwurf — TASK-0008 abgeschlossen 2026-06-30; erweitert 2026-07-05 (W-002 — ELM-Synthese: sieben Prinzipien als überwiegend periphere Route, Editor Decision Teilweise annehmen)

@@ -57,6 +57,18 @@ CEB-Studie, Enterprise-B2B-Kontext. Zahl wurde auf zahlreichen Vertriebskonferen
 
 Dieses Objekt beruht (mit) auf der proprietaeren CEB-Befragungsstudie (N≈ 6.000, Vertriebsmitarbeiter aus 90+ Unternehmen). Die Rohdaten, Faktorladungen und Signifikanztests sind nicht oeffentlich einsehbar; ein unabhaengiges akademisches Peer-Review-Verfahren ist nicht nachgewiesen. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-001 (Replikationsrisiko) und SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
 
+## Erweiterung: Evidenzkalibrierung durch Relationship-Marketing-Meta-Evidenz (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Palmatier, Dant, Grewal & Evans (2006, *Journal of Marketing*, 70(4), 136–153) — eine unabhängige, methodisch transparentere Meta-Analyse zu Relationship-Marketing-Effektivität — liefert eine präzisere Aufschlüsselung dessen, was in der CEB-Studie pauschal als „Sales Experience" firmiert: Relationship Investment (gezielte anbieterseitige Ressourcenaufwendung für eine Kundenbeziehung) zeigt einen großen direkten Effekt auf Verkäuferperformance; Relationship Quality (Komposit aus Trust, Satisfaction, Commitment) ist der stärkste, Commitment der schwächste relationale Prädiktor.
+
+**Ausdrückliche Grenze dieser Kalibrierung:** Diese Meta-Analyse **bestätigt nicht** die spezifische 53/38/9-Prozent-Aufteilung der CEB-Studie — sie prüft eine andere Kategorisierung (Relationship Investment/Relationship Quality/Commitment statt Sales-Experience/Produkt/Preis) und wurde in dieser Sitzung nur über verifizierte Sekundärzusammenfassungen erschlossen, nicht über eigenen Volltextzugriff auf die zugrunde liegenden Effektstärken-Tabellen. Sie liefert daher eine **komplementäre, granularere Perspektive** auf denselben allgemeinen Befund (der Verkaufsprozess/die Beziehungsgestaltung trägt substanziell zu Loyalität/Performance bei), **löst SD-SYS-001 (Replikationsrisiko der CEB-Studie) jedoch nicht auf** — die dort dokumentierte Diskrepanz zu Verbeke, Dietz & Verwaal (die die CEB-Taxonomie ebenfalls nicht bestätigt) bleibt unverändert bestehen. Diese Ergänzung ist eine Einordnung, keine Bestätigung oder Widerlegung der ursprünglichen 53-Prozent-Zahl.
+
+**Kein E-Level-Wechsel** (bleibt E3, Publication-Bias-Vorbehalt gemäß SD-SYS-001/SD-SYS-004 bleibt unverändert bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, `04_THEORY_LANDSCAPE.md` (Streitpunkt 6), Repository Impact Analysis.
+
 ## Status
 
-Entwurf
+Entwurf; ergänzt 2026-07-05 (W-003 — Evidenzkalibrierung durch Palmatier et al. 2006, SD-SYS-001 bleibt unverändert offen)

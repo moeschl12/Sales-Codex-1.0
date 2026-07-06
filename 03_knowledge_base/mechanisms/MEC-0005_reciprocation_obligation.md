@@ -6,7 +6,7 @@ MEC-0005
 
 ## Source ID
 
-SRC-0002
+SRC-0002, W-002
 
 ## Name
 
@@ -102,6 +102,20 @@ Ariely (mit Heyman) liefert eine wichtige, bislang im Codex nicht dokumentierte 
 - **Neue zentrale Grenze:** Reziprozitätsnormen wirken nicht additiv zu Marktnormen, sondern werden durch deren Aktivierung vollständig verdrängt (nicht nur abgeschwächt). Bereits die Erwähnung eines Geldwerts (ohne Geldfluss) genügt zur Deaktivierung.
 - Der Übergang von Sozial- zu Marktnorm ist empirisch als schwer reversibel dokumentiert (siehe A-0051) — ein einmal aktivierter Marktrahmen lässt sich vermutlich nicht durch bloße Rücknahme des monetären Elements rückgängig machen.
 
+## Erweiterung: ELM-Boundary-Condition — Periphere Route (Research Program W-002)
+
+**[Ergänzt 2026-07-05 aus W-002 — Persuasion Architecture Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W002/06_EDITOR_DECISION.md`]**
+
+Das Elaboration Likelihood Model (ELM, Petty & Cacioppo 1986; siehe MEC-0012, Erweiterungsabschnitt „Elaboration Likelihood Model als persuasionsspezifische Klassifikationsebene") ordnet den Reziprozitätsmechanismus überwiegend der peripheren Verarbeitungsroute zu: Die Verpflichtungsreaktion auf eine Gabe wirkt als automatischer, cue-basierter Auslöser, nicht als Ergebnis inhaltlicher Argumentprüfung.
+
+**Boundary Condition (theoretisch abgeleitet, nicht direkt für diesen Mechanismus getestet):** Nach ELM-Logik sollte die Wirkung der Reziprozitätsnorm unter hoher Elaboration (hohe Motivation und Fähigkeit zur zentralen Verarbeitung, z. B. bei professionellen Einkäufern mit explizitem Prüfauftrag) tendenziell schwächer ausfallen als unter geringer Elaboration, weil periphere Cues bei zentraler Verarbeitung an Gewicht gegenüber argumentbasierten Faktoren verlieren. Diese Erwartung ist konsistent mit der bereits bestehenden Grenze „bei sehr großem Ungleichgewicht ... kann die Norm kippen" und mit der Ariely-Grenzbedingung (Social- vs. Market-Norm-Rahmen, siehe oben), ist aber selbst **nicht direkt empirisch getestet** — sie ist eine plausible, aus der ELM-Theorie abgeleitete Erwartung, kein neuer Befund.
+
+**Kein neuer Kausalpfad, keine Änderung der bestehenden Kausalstruktur.** Diese Ergänzung klassifiziert den bereits etablierten Mechanismus innerhalb der ELM-Prozessarchitektur, ohne dessen Definition, Evidenzlevel oder Kernaussage zu verändern.
+
+**Kein E-Level-Wechsel** (E4/E3 bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
 ## Status
 
-Entwurf; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 — Konvergenzbestätigung); erweitert 2026-07-02 (SRC-0012 Predictably Irrational — Social-vs-Market-Norms-Grenzbedingung, Gneezy & Rustichini 2000 Irreversibilitäts-Beleg)
+Entwurf; erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 — Konvergenzbestätigung); erweitert 2026-07-02 (SRC-0012 Predictably Irrational — Social-vs-Market-Norms-Grenzbedingung, Gneezy & Rustichini 2000 Irreversibilitäts-Beleg); erweitert 2026-07-05 (W-002 — ELM-Boundary-Condition, periphere Route, Editor Decision Teilweise annehmen)

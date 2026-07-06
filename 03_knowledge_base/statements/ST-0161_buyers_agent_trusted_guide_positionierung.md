@@ -38,6 +38,16 @@ Travel-Agent-Metapher ist zentrales Narrativ-Element des Buches. Zahl: US-Reiseb
 
 E2 (Metaphorisches Rahmenmodell; Reisebüro-Comeback-Daten faktisch, aber Übertragung auf Sales ist konzeptuell, nicht empirisch belegt)
 
+## Erweiterung: Citation Enrichment — Cross-Link zu MEC-0030 (Trust Formation, Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Die „Buyer's Agent"/„Trusted Guide"-Positionierung setzt implizit ein Trustworthiness-Urteil des Käufers voraus, das durch MEC-0030 (Ability/Benevolence/Integrity → Trustworthiness → Trust) mechanistisch gefasst werden kann. Diese Ergänzung ist reine Citation Enrichment, keine inhaltliche Änderung dieses Statements.
+
+**Kein E-Level-Wechsel** (bleibt E2).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
 ## Status
 
-Entwurf
+Entwurf; ergänzt 2026-07-05 (W-003 — Citation Enrichment, Cross-Link zu MEC-0030)

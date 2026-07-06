@@ -33,6 +33,18 @@ ANNAHME — konzeptionell plausibel, empirisch stärker als A-0044 aber noch nic
 - P-0040 (Purposeful Serving)
 - MOD-0009 (Serve-Komponente)
 
+## Erweiterung: Rückverweis zu MEC-0030 (Trust Formation) — Ist-Motivation als Benevolence-Signal, nicht Benevolence selbst (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Wie bei P-0040 (dessen Verknüpfung dokumentiert diese Annahme bereits) gilt: Die hier beschriebene Prosozialmotivation ist eine **Ist-Eigenschaft des Verkäufers**, nicht identisch mit der vom Käufer **wahrgenommenen** Benevolence, die im neu angelegten Trust-Formation-Mechanismus (MEC-0030) als eine von drei Trustworthiness-Antezedenzien modelliert wird. Diese Annahme liefert damit ein plausibles, aber nicht hinreichendes Antezedenz-Signal für Benevolence-Wahrnehmung — keinen Beweis, dass Käufer diese Motivation auch tatsächlich zuschreiben. Diese Klarstellung übernimmt ausdrücklich die vom Red-Team-Review geforderte und vom Editor bestätigte Korrektur: Die ursprüngliche, unkalibrierte Formulierung eines "Benevolence-Gaps" im Sales Codex wird nicht unverändert übernommen, da Objekte wie dieses und P-0040 bereits verwandte Konstrukte dokumentieren.
+
+Der bereits in dieser Annahme dokumentierte Vorbehalt (kurzfristige Aktivierung vs. stabile Grundmotivation; Pinks Schlussfolgerung geht über die Grant-Daten hinaus) bleibt unverändert bestehen und wird durch W-003 nicht aufgelöst.
+
+**Kein E-Level-Wechsel** (bleibt unterhalb E3, wie in dieser Annahme bereits dokumentiert).
+
+Vollständige Herleitung: `06_research_program/completed/W003/03_RED_TEAM_REVIEW.md`, `06_research_program/completed/W003/06_EDITOR_DECISION.md`, `03_knowledge_base/mechanisms/MEC-0030_vertrauensbildung_aus_wahrgenommener_vertrauenswuerdigkeit.md` (Abgrenzungstabelle).
+
 ## Status (Datei)
 
-Entwurf — 2026-07-01
+Entwurf — 2026-07-01; ergänzt 2026-07-05 (W-003 — Rückverweis zu MEC-0030, Ist-Motivation vs. wahrgenommene Benevolence)

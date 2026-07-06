@@ -38,6 +38,16 @@ Keenan positioniert Credibility als Gate: Ohne sie ist Discovery nicht möglich.
 - Never Split the Difference (B-0003): Voss' "Tactical Empathy" baut Vertrauen über Emotions-Verständnis — andere Methode, aber dieselbe Prämisse: Vertrauen ist Voraussetzung für Einfluss
 - Synthesis-Konflikt: Cialdini (B-0002) MEC-0007 (Liking Transfer) zeigt, dass Sympathie Kaufentscheidungen beeinflusst — Gap Selling und Challenger Sale bestreiten nicht, dass Liking wirkt, aber degradieren es: nützlich, aber nicht hinreichend und kein Differenziator
 
+## Erweiterung: Cross-Link zu MEC-0030 (Trust Formation) — Credibility als Ability-Teilkomponente (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Die hier beschriebene Credibility ("Trust" im Sinne von Keenan) entspricht im neu angelegten Trust-Formation-Mechanismus (MEC-0030) primär der **Ability-Komponente** von Trustworthiness — nicht der vollständigen Ability/Benevolence/Integrity-Struktur. Die Aussage "Being liked is nice. Being trusted is essential" ist mit der in MEC-0030 dokumentierten Abgrenzung Liking (MEC-0007, affektiv, ohne Vulnerability-Element) vs. Trustworthiness (kognitiv, Ability/Benevolence/Integrity) konsistent — Keenan beschreibt faktisch überwiegend die Ability-Dimension, nicht Trust im vollen ABI-Sinn. Diese Ergänzung präzisiert die Begrifflichkeit, ändert aber nichts an der inhaltlichen Kernaussage dieses Statements.
+
+**Kein E-Level-Wechsel.**
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
 ## Status
 
-Entwurf
+Entwurf; ergänzt 2026-07-05 (W-003 — Cross-Link zu MEC-0030)

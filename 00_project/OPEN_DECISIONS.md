@@ -193,7 +193,7 @@ Dies ist eine Einschätzung, keine Entscheidung. Beide Wege (Einführung vs. Nic
 
 ## OD-008 — Priorisierung eines Recherche-/Buchanalyse-Sprints für ELM, Trust Formation, Persuasion Knowledge Model
 
-**Status:** Offen — Herausgeber-Entscheidung erforderlich
+**Status:** ~~Offen — Herausgeber-Entscheidung erforderlich~~ → **TEILWEISE ENTSCHIEDEN (2026-07-05, aktualisiert 2026-07-05)** — ELM priorisiert, als Forschungsprojekt W-002 bearbeitet und teilweise integriert; Trust Formation priorisiert, als Forschungsprojekt W-003 bearbeitet, teilweise integriert und abgeschlossen (siehe „Editor Decision und Abschluss (W-003, 2026-07-05)" unten); Persuasion Knowledge Model bleibt offen
 **Eingetragen:** 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 2–4)
 
 **Ausgangspunkt:** Die Verarbeitung von Research Pack 3 (Sozialpsychologie/Persuasion) hat drei strukturelle Lücken im Sales Codex identifiziert, die nicht formalisiert wurden, weil kein Primärtextzugriff vorlag (siehe `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`, Abschnitt 5):
@@ -209,6 +209,35 @@ Dies ist eine Einschätzung, keine Entscheidung. Beide Wege (Einführung vs. Nic
 ### Auflösung (Governance-Sprint 2026-07)
 
 **Status: OFFEN — weiterhin relevant.** Keine implizite Entscheidung seit 2026-07-01: `NEXT_ACTION.md` referenziert OD-008 unverändert als offene Priorisierungsfrage, AR-001/AR-002/AR-013 bleiben laut Editor-Empfehlung vorrangig, ohne dass Felix bislang priorisiert hätte. Diese OD ist keine der in der Sprintvorgabe genannten OD-001–005 (kein automatischer Schluss zulässig) und wurde auch nicht implizit durch spätere Entwicklungen beantwortet — der Kandidatenstatus (ELM/Trust/PKM vs. Tier-1-Fortsetzung) ist unverändert. Bleibt offen.
+
+### Herausgeberentscheidung (RP-001 Activation, 2026-07-05)
+
+**Status: TEILWEISE ENTSCHIEDEN.** Im Rahmen der Research Portfolio Initialization Sprint (2026-07-05, `06_research_program/RESEARCH_PORTFOLIO.md`, Theme RP-001) wurde ELM als seit dem Academic Recovery Sprint dokumentierte und bislang offene Top-Priorität unter den drei OD-008-Kandidaten identifiziert. Felix hat daraufhin mit dem Auftrag „RP-001 Activation — ELM Persuasion Architecture Research Project" (2026-07-05) verbindlich entschieden:
+
+1. **ELM wird vor Trust Formation priorisiert** und als reguläres Forschungsprojekt **W-002** („Persuasion Architecture — Elaboration Likelihood Model in Complex Sales Contexts") im Research Program aktiviert (`06_research_program/active/W002/`).
+2. **Trust Formation (Mayer, Davis & Schoorman 1995) wird dadurch nicht abgelehnt oder zurückgestellt im Sinne einer Ablehnung** — es bleibt als bevorzugter nächster Kandidat validiert geführt (`RESEARCH_PORTFOLIO.md`, Theme RP-002, Status weiterhin „Validated", mit Vermerk „bevorzugter nächster Kandidat nach W-002").
+3. **Persuasion Knowledge Model** (Friestad & Wright 1994) bleibt unverändert unpriorisiert — von dieser Entscheidung nicht berührt.
+
+W-002 hat zum Zeitpunkt dieses Eintrags Stufe 6 (Decision Brief) des Research Lifecycle erreicht und wartet auf die Editor Decision (Stufe 7) — siehe `06_research_program/active/W002/05_DECISION_BRIEF.md`. Diese OD-008-Aktualisierung dokumentiert ausschließlich die Priorisierungsentscheidung (welcher Kandidat zuerst bearbeitet wird), nicht das inhaltliche Forschungsergebnis selbst und nicht die noch ausstehende Entscheidung über eine etwaige Repository-Integration.
+
+**Für den Gesamtstatus von OD-008 relevant:** OD-008 ist damit nicht vollständig geschlossen — die ursprüngliche Frage betraf drei Kandidaten, von denen bislang nur einer (ELM) priorisiert wurde. OD-008 bleibt als Eintrag bestehen, bis auch über Trust Formation und Persuasion Knowledge Model entschieden ist oder diese Entscheidung durch ein Nachfolgeverfahren (analog zum Research Portfolio) strukturell abgelöst wird.
+
+### Herausgeberentscheidung (RP-002 Activation, 2026-07-05)
+
+**Status: TEILWEISE ENTSCHIEDEN — Trust Formation jetzt ebenfalls priorisiert.** W-002 (RP-001/ELM) wurde am 2026-07-05 vollständig bearbeitet: Editor Decision „Teilweise annehmen" liegt vor, sieben Wissensobjekte wurden erweitert (MEC-0012, MEC-0005–0008, MEC-0018, MOD-0002), zwei begründet unverändert gelassen (MEC-0009, MOD-0008); Repository Integration abgeschlossen (`06_research_program/completed/W002/REPOSITORY_INTEGRATION_LOG.md`). Mit dem Herausgeberauftrag „RP-002 Activation — Trust Formation & Relationship Marketing Research Project" (2026-07-05) hat Felix verbindlich entschieden:
+
+1. **Trust Formation (Mayer, Davis & Schoorman 1995; Palmatier et al. 2006) wird als nächster Research-Investment-Kandidat aktiviert** und als reguläres Forschungsprojekt **W-003** („Trust Formation & Relationship Marketing in Complex Sales Relationships") im Research Program eröffnet (`06_research_program/active/W003/`).
+2. Das Projekt wird gemäß bestehendem Research Lifecycle vollständig bis Status `AWAITING_EDITOR_DECISION` bearbeitet. **Keine Wissensbasis-Integration vor Herausgeberentscheidung.**
+3. Ergebnisoffenheit ist verbindlich — insbesondere ist es zulässig, dass kein neues MEC, mehrere getrennte Konstrukte statt eines einheitlichen Trust-Mechanismus, eine strukturelle Trennung von Trust Formation und Relationship Marketing, reine Objekterweiterungen oder ein geringerer Grenznutzen als angenommen empfohlen werden.
+4. **Persuasion Knowledge Model** (Friestad & Wright 1994) bleibt unverändert unpriorisiert — von dieser Entscheidung nicht berührt.
+
+**Für den Gesamtstatus von OD-008 relevant:** Mit dieser Entscheidung sind zwei der ursprünglich drei OD-008-Kandidaten priorisiert (ELM → integriert via W-002; Trust Formation → aktiv via W-003). OD-008 bleibt als Eintrag bestehen, bis auch über das Persuasion Knowledge Model entschieden ist oder diese Restfrage durch ein Nachfolgeverfahren strukturell abgelöst wird.
+
+### Editor Decision und Abschluss (W-003, 2026-07-05)
+
+**Status: TEILWEISE ENTSCHIEDEN — Trust Formation abgeschlossen.** W-003 wurde am 2026-07-05 vollständig bearbeitet: Felix hat mit „Editor Decision — W-003" **teilweise angenommen** — Option E (strukturelle Trennung von Trust Formation und Relationship Marketing) angenommen; genau ein eng geschnittenes neues Mechanismus-Objekt (MEC-0030, „Vertrauensbildung aus wahrgenommener Vertrauenswürdigkeit") für die Ability/Benevolence/Integrity→Trustworthiness→Trust-Kette angelegt, unter ausdrücklicher, vom Herausgeber selbst korrigierter Einbeziehung von P-0040/A-0045; kein separates Cognitive-/Affective-Trust-MEC; kein neues MOD für Relationship Marketing — stattdessen 13 bestehende Wissensobjekte erweitert (MEC-0007, MEC-0008, MEC-0006, MEC-0014, MOD-0003, MOD-0007, A-0019, A-0029, A-0034, ST-0161, ST-0146, P-0012, P-0040, A-0045); Relationship Marketing als eigenständiges MEC/MOD, mehrere Trust-MECs und direkte High-Ticket-B2C-/Fertighaus-Techniken nicht integriert. Repository Integration und Health Check (Stufe 8–9) abgeschlossen, Projekt nach `06_research_program/completed/W003/` verschoben; `RESEARCH_PORTFOLIO.md` (RP-002 → `Integrated`) und `RESEARCH_STATUS.md` entsprechend aktualisiert. Neun offene Fragen als Scientific Debt dokumentiert (`00_project/SCIENTIFIC_DEBT.md`, Sektion „W-003"), kein automatisches Folgeprojekt.
+
+**Für den Gesamtstatus von OD-008 relevant:** Mit dieser Entscheidung sind zwei der ursprünglich drei OD-008-Kandidaten vollständig bearbeitet und abgeschlossen (ELM → integriert via W-002; Trust Formation → integriert via W-003). OD-008 bleibt als Eintrag bestehen, bis auch über das Persuasion Knowledge Model entschieden ist oder diese Restfrage durch ein Nachfolgeverfahren strukturell abgelöst wird.
 
 ---
 
@@ -268,4 +297,4 @@ Dies ist eine Einschätzung, keine Entscheidung. Beide Wege (Einführung vs. Nic
 
 ---
 
-*Zuletzt aktualisiert: 2026-07-03 (Research Project W-001 Repository Integration Sprint — OD-012 neu angelegt). Zuvor: 2026-07-02 (Open Decisions Resolution Sprint — OD-001 bis OD-004 auf DONE gesetzt, OD-005 auf ERSETZT gesetzt [→ OD-010], OD-006/OD-007/OD-008 geprüft und als weiterhin OFFEN bestätigt, OD-009/OD-010/OD-011 neu angelegt). Vollständiger Bericht (2026-07-02): `00_project/OPEN_DECISION_RESOLUTION_REPORT_2026-07.md`.*
+*Zuletzt aktualisiert: 2026-07-05 (RP-001 Activation — OD-008 auf TEILWEISE ENTSCHIEDEN gesetzt: ELM priorisiert und als W-002 aktiviert, Trust Formation/PKM unberührt). Zuvor: 2026-07-03 (Research Project W-001 Repository Integration Sprint — OD-012 neu angelegt). Davor: 2026-07-02 (Open Decisions Resolution Sprint — OD-001 bis OD-004 auf DONE gesetzt, OD-005 auf ERSETZT gesetzt [→ OD-010], OD-006/OD-007/OD-008 geprüft und als weiterhin OFFEN bestätigt, OD-009/OD-010/OD-011 neu angelegt). Vollständiger Bericht (2026-07-02): `00_project/OPEN_DECISION_RESOLUTION_REPORT_2026-07.md`.*

@@ -20,6 +20,22 @@ Nicht unnötig das gesamte Repository lesen. Nur laden, was der aktuelle Job erf
 
 ---
 
+
+## Version 1.1 Control Plane
+
+Für Version-1.1-Arbeit gilt zusätzlich:
+
+- `00_project/ROADMAP_V1_1.md` ist die strategische Source of Truth für Makroprojekte, Status und Dependencies.
+- `00_project/NEXT_ACTION.md` ist nur der operative Launcher für das aktive Makroprojekt, kein Backlog.
+- Jedes Makroprojekt hat einen `PROJECT_BRIEF.md` unter `00_project/projects/`.
+- Abschluss und Audit werden über `COMPLETION_REPORT.md` und `AUDIT_REPORT.md` dokumentiert.
+- Autonomie- und Auditregeln: `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`.
+- Release-Kriterien: `00_project/V1_1_RELEASE_CRITERIA.md`.
+
+Grundsatz: Felix steuert Priorität, Reserved Decisions und Release Gates. Der Agent steuert die operative Arbeit innerhalb des aktiven Projektbriefs. Interne Checkpoints sind still; Rückfragen nur bei Hard Block, Reserved Decision oder Irreversible High-Impact Change.
+
+---
+
 ## Projektziel
 
 Der **Sales Codex** ist ein evidenzbasiertes Wissenssystem über Vertrieb, Verkauf, Verhandlung, Kommunikation und Käuferpsychologie.
@@ -156,4 +172,4 @@ Alle Dokumente im Repository haben eine Klasse. Die Klasse bestimmt, wann eine K
 
 ---
 
-*Zuletzt aktualisiert: 2026-07-05 (Task-Type-Routing ergänzt, Decision Architecture Sprint 2 — siehe `00_project/DECISION_ARCHITECTURE_SPRINT_2_REPORT.md`; Dokumentklassifizierung präzisiert, Cowork Token Optimization Sprint 1 — siehe `00_project/COWORK_TOKEN_OPTIMIZATION_SPRINT_1_REPORT.md`)*
+*Zuletzt aktualisiert: 2026-07-06 (Task-Type-Routing ergänzt, Decision Architecture Sprint 2 — siehe `00_project/DECISION_ARCHITECTURE_SPRINT_2_REPORT.md`; Dokumentklassifizierung präzisiert, Cowork Token Optimization Sprint 1 — siehe `00_project/COWORK_TOKEN_OPTIMIZATION_SPRINT_1_REPORT.md`)*

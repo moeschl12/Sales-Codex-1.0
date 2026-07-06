@@ -86,6 +86,46 @@ Hoch — erklärt, warum ein "überzeugte Champion"-Strategie im modernen B2B zu
 - Gibt es Branchen oder Unternehmensgrößen, in denen Konsens-Anforderungen systematisch geringer sind?
 - Wie misst man den "Konsens-Grad" innerhalb eines Kauf-Accounts als Lead-Scoring-Signal?
 
+## Erweiterung: Citation Enrichment — Formale Absicherung vs. relationales Vertrauen (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+W-003 prüfte diesen Mechanismus gegen den neu angelegten Trust-Formation-Mechanismus (MEC-0030) und fand **keinen direkten inhaltlichen Überlappungsbedarf**: MEC-0014 erklärt organisationale Risikodiffusion durch geteilte Verantwortung in Gruppenentscheidungen (eine strukturelle/soziale Absicherungsstrategie), während MEC-0030 ein individuelles, dyadisches Trustworthiness-Urteil beschreibt — unterschiedliche Erklärungsebenen. Ergänzend zur bereits oben dokumentierten Agency-Theory-Referenz (Eisenhardt 1989) sei auf Poppo, L. & Zenger, T. (2002), *Strategic Management Journal*, 23(8), 707–725, verwiesen: Die dort empirisch (in einer Stichprobe der Informationsdienstleistungsbranche) gestützte Komplementarität von formalen Verträgen und relationalem Vertrauen liefert eine mögliche ergänzende theoretische Linie dafür, warum Konsens-Aufbau (dieses Objekt) und individuelles Trust (MEC-0030) als unterschiedliche, einander ergänzende Absicherungsmechanismen im Buying Center koexistieren können, statt sich gegenseitig zu ersetzen.
+
+**Keine Änderung des Kausalpfads oder Evidenzlevels erforderlich** — diese Ergänzung ist reine Citation Enrichment, keine strukturelle Erweiterung.
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
+## Erweiterung: Buying-Center-Koalitionsforschung und ausgearbeiteter Agency-Theory-Pfad (Research Program W-004)
+
+**[Ergänzt 2026-07-06 aus W-004 — Buying Center Social Dynamics & Organisationale Risikoverteilung Research Project. Editor Decision 2026-07-06: Teilweise annehmen, siehe `06_research_program/completed/W004/06_EDITOR_DECISION.md`.]**
+
+**1. Koalitionsbildung und Machtbasen — bislang nicht abgebildete Ergänzung.** Dieses Objekt modellierte bislang ausschließlich Konsens-Aufbau als Risikodiffusions-/Sicherheitsstrategie, nicht die vorgelagerte oder begleitende Koalitionsbildung zwischen konkurrierenden Buying-Center-Fraktionen selbst. Eine seit den späten 1970er-Jahren bestehende, unabhängig verifizierte marketingwissenschaftliche Forschungslinie schließt diese Lücke:
+
+- Spekman, R.E. & Stern, L.W. (1979). Environmental Uncertainty and Buying Group Structure: An Empirical Investigation. *Journal of Marketing*, 43(2), 54–64. Die Studie hypothetisierte eine negative Beziehung zwischen einkaufsbezogener Unsicherheit und Buying-Center-Zentralisierung/Formalisierung, fand dafür jedoch **keine empirische Unterstützung** — dies ist ein wichtiger, im Codex explizit zu haltender Vorbehalt, kein positiver Befund.
+- McCabe, D.L. (1987). Buying Group Structure: Constriction at the Top. *Journal of Marketing*, 51(4), 89–98. Diese spätere, eigenständige Studie fand eine **positive** Beziehung zwischen Unsicherheit und Zentralisierung ("Constriction" der Entscheidungsbefugnis nach oben) bei gleichzeitig **negativer** Beziehung zu Formalisierung. **Wichtige Zitationskorrektur:** Der "Constriction"-Befund ist McCabe (1987) zuzuschreiben, nicht Spekman & Stern (1979) — beide Studien wurden im Rahmen von W-004 zunächst ungenau referenziert (Master Review bzw. Red Team Review) und erst in der Theory-Landscape-Stufe korrekt getrennt (siehe `06_research_program/completed/W004/04_THEORY_LANDSCAPE.md`, Streitpunkt 1).
+- Mummalaneni, V. (1984). Group Decision-Making in the Buying Center: A Political-Coalitional Perspective. *Advances in Consumer Research*, 11, 159–164.
+- Morris, M.H. & Freedman, S. (1984). Coalitions in Organizational Buying. *Industrial Marketing Management*, 13(2), 123–132.
+- Morris, M.H., Stanton, W.W. & Calantone, R.J. (1985). Measuring coalitions in the industrial buying center. *Journal of the Academy of Marketing Science*, 13(4), 18–39.
+- Farrell, M. & Schroder, B. (1999). Power and influence in the buying centre. *European Journal of Marketing*, 33(11/12), 1161–1170.
+- Kohli, A. (1989). Determinants of Influence in Organizational Buying: A Contingency Approach. *Journal of Marketing*, 53(3), 50–65. (Nur über Sekundärquellen erschlossen, kein Volltextzugriff — siehe offene Frage unten.)
+
+**Wichtiger Einordnungsvorbehalt (Cabanelas, Mora Cortez & Charterina, 2023, *Industrial Marketing Management*, 108, 65–78):** Die vorstehende Koalitionsliteratur ist akademisch etabliert und methodisch divers (Soziometrie, Multidimensionale Skalierung, Feldbefragung), repräsentiert aber laut dieser aktuellen Übersichtsarbeit kein aktiv wachsendes Forschungsfeld — Publikationszahlen zum Buying-Center-Konzept sind seit den späten 2000er-Jahren rückläufig. Diese Erweiterung stützt sich damit auf eine etablierte, aber überwiegend historische (1979–1999) Evidenzbasis, nicht auf eine sich weiterentwickelnde Forschungsfront.
+
+**2. Ausgearbeiteter Agency-Theory-Pfad.** Die bereits seit ARS-0001 (2026-07-01) als "ergänzende Theorie-Referenz" geführte, aber nie extrahierte Eisenhardt (1989)-Quelle wird hier erstmals zu einem expliziten Kausalpfad ausgearbeitet: Der Champion tritt gegenüber der eigenen Organisation als **Agent** auf, der ein individuelles Reputationsrisiko trägt, das der **Prinzipal** (die Organisation) nicht symmetrisch teilt. Dieser Agency-Pfad ergänzt, ersetzt aber nicht die bereits bestehende Kernaussage dieses Objekts (Konsens als Risikodiffusion) — er liefert eine zusätzliche, strukturelle Begründung dafür, warum Konsens-Aufbau für den Champion individuell rational ist, unabhängig vom tatsächlichen Organisationsnutzen.
+
+**3. Cross-Link zu MEC-0002 (Prospect Theory/Verlustaversion).** Warum der Champion das eigene Karriererisiko stärker gewichtet als den ungewissen Organisationsnutzen, erklärt sich zusätzlich durch Verlustaversion (Kahneman & Tversky 1979; bereits im Codex über MEC-0002 geführt): Ein potenzieller Verlust (Karriereschaden) wird stärker gewichtet als ein gleich großer potenzieller Gewinn (Unternehmensnutzen). Diese Kombination aus Agency-Theory-Struktur (Punkt 2) und Prospect-Theory-Gewichtung (dieser Punkt) ersetzt die im Rahmen von W-004 geprüfte, aber nicht zur Integration empfohlene Neuanlage eines eigenständigen Meta-Prinzips "Asymmetrische Risikoverteilung" (`00_project/review_queue.md`) — der dort postulierte Kausalpfad ist vollständig als Kombination dieser beiden bereits vorhandenen bzw. jetzt ausgearbeiteten Erklärungen rekonstruierbar, ohne dass ein dritter, eigenständiger Prozess erforderlich wäre.
+
+**4. Cross-Link zu MEC-0030 (Verkäufer–Champion–Organisation-Dreiecksbeziehung) — ausdrücklich als offene, ungetestete Kopplung markiert.** MEC-0030 (Vertrauensbildung aus wahrgenommener Vertrauenswürdigkeit, W-003) dokumentiert bereits in seiner eigenen Abgrenzungstabelle eine thematische Nähe zu diesem Objekt über dieselbe Agency-Theory-Referenz. Die im Rahmen von W-004 durch die Peer Review identifizierte, in der Theory Landscape bestätigte offene Frage: Ein Champion, der gegenüber dem Verkäufer ein Trustworthiness-Urteil bildet (MEC-0030), könnte dadurch eher bereit sein, das hier beschriebene organisationale Risiko einzugehen. Diese Kopplung ist plausibel, aber durch keine in W-003 oder W-004 gesichtete Quelle direkt getestet — sie wird hier als Cross-Link dokumentiert, nicht als empirisch bestätigter Kausalpfad.
+
+**Nicht integriert (Editor Decision W-004, Einzelentscheidung 2):** Der Meta-Prinzip-Kandidat "Asymmetrische Risikoverteilung im Buying Center" wird nicht als eigenständiges Wissensobjekt angelegt — siehe Punkt 3 oben. Ebenfalls nicht integriert: Social Identity Theory (kein direkter Beleg für Buying-Center-Transfer identifiziert), Groupthink (schwache empirische Bestätigung, Esser 1998; Mullen et al. 1994), Group Polarization (keine ausdrückliche Freigabe).
+
+**Kein E-Level-Wechsel der bestehenden Kernaussage** (bleibt E3 für den Challenger-Kontext, E3 für den allgemeinen Mechanismus). Die neu ergänzte Koalitionsliteratur wird eigenständig als E3 geführt (Feldstudien, kein Multi-Labor-Replikationsstandard); der ausgearbeitete Agency-Theory-Pfad als E3–E4 (starke allgemeine Theorie, plausibler, aber nicht direkt getesteter Buying-Center-Transfer); der Prospect-Theory-Cross-Link als E4–E5 für den allgemeinen Mechanismus (bereits in MEC-0002), E2 für den spezifischen Champion-Transfer.
+
+**Offene Frage:** Volltextprüfung von Kohli (1989) sowie von Cabanelas et al. (2023) steht aus (siehe `00_project/SCIENTIFIC_DEBT.md`, Sektion "W-004").
+
+Vollständige Herleitung: `06_research_program/completed/W004/02_SCIENTIFIC_MASTER_REVIEW.md`, `03_RED_TEAM_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, `05_DECISION_BRIEF.md`, `06_EDITOR_DECISION.md`.
+
 ## Status
 
-Entwurf — erstellt 2026-06-30 (SRC-0004)
+Entwurf — erstellt 2026-06-30 (SRC-0004); ergänzt 2026-07-05 (W-003 — Citation Enrichment, keine strukturelle Änderung); ergänzt 2026-07-06 (W-004 — Buying-Center-Koalitionsforschung, ausgearbeiteter Agency-Theory-Pfad, Cross-Links zu MEC-0002 und MEC-0030, kein E-Level-Wechsel der Kernaussage)

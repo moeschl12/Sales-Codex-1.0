@@ -1,13 +1,81 @@
+# Current State — V1.1 Program Opening Note
+
+**Stand: 2026-07-06**
+
+Sales Codex Version 1.1 wurde durch Herausgeberentscheidung als autonomes Makroprojekt-Programm eröffnet. Strategische Source of Truth ist `00_project/ROADMAP_V1_1.md`; operativer Launcher ist `00_project/NEXT_ACTION.md`. Version-1.0-Inhalte bleiben unverändert/frozen; V1.1-Arbeit erfolgt über projektbezogene Briefs, interne stille Checkpoints, exception-based escalation und unabhängige Audits. **Stand 2026-07-06:** `V11-01 — Baseline & Control Plane Consolidation` ist aus Executor-Sicht abgeschlossen (COMPLETED — Audit ausstehend; `00_project/projects/V11-01_baseline_control_plane/COMPLETION_REPORT.md`); ein dokumentierter, nicht-inhaltlicher Git-Hard-Block (`index.lock` auf dem Dateisystem-Mount nicht entfernbar, blockiert Commit/Clean-Working-Tree) ist im Completion Report festgehalten. Nächster Schritt: unabhängiger Audit von V11-01, danach `V11-02 — Evidence Architecture Resolution`.
+
+---
+
 # Current State
 
-Stand: 2026-07-04  
+Stand: 2026-07-06  
 Workspace-Version (Framework): **1.1** (freigegeben 2026-06-30)  
-Sales-Codex-Version (Gesamtinhalt/Governance): **1.0 — OFFIZIELL VERÖFFENTLICHT am 2026-07-04**, siehe `00_project/SALES_CODEX_VERSION_1_0_RELEASE.md` und `00_project/VERSION_1_0_CLOSING_REPORT.md`. Die Entwicklungsphase von Version 1.0 ist damit abgeschlossen. **Version 1.1 wurde noch NICHT begonnen.** Vorgeschichte: Programm zur Erreichung von Version 1.0 aktiv seit 2026-07-02, siehe `00_project/SALES_CODEX_1_0_PROGRAM.md`; Phase "Scientific Completion" — Behavioral Science Expansion Sprint 1 (5/5 Bücher) am 2026-07-02 abgeschlossen; Behavioral Science Review Sprint (externes Gutachten + Editor Decision + Umsetzung) am 2026-07-02 abgeschlossen; Research Program Finalization Sprint (RC-1) am 2026-07-03 abgeschlossen; Research Project W-001 Repository Integration Sprint (Post Editor Decision) am 2026-07-03 abgeschlossen; Sales Codex 1.0 Final Pre-Release Sprint am 2026-07-03 abgeschlossen (READY FOR RC-1 AUDIT); External Audit Resolution Sprint am 2026-07-04 abgeschlossen (READY FOR FINAL RC-1 AUDIT); Sales Codex Version 1.0 RC-1 Release Candidate Freeze am 2026-07-04 abgeschlossen (READY FOR FINAL RC-1 AUDIT); **Repository Closing & Release Sprint am 2026-07-04 abgeschlossen — Finaler RC-1-Audit (drei externe Gutachten) validiert, formale Herausgeber-Freigabe vollzogen, Version 1.0 veröffentlicht, siehe unten**  
+Sales-Codex-Version (Gesamtinhalt/Governance): **1.0 — OFFIZIELL VERÖFFENTLICHT am 2026-07-04.** Version 1.1 wurde weiterhin **nicht formal eröffnet.** Vorgeschichte: Programm zur Erreichung von Version 1.0 aktiv seit 2026-07-02, siehe `00_project/SALES_CODEX_1_0_PROGRAM.md`; Phase "Scientific Completion" — Behavioral Science Expansion Sprint 1 (5/5 Bücher) am 2026-07-02 abgeschlossen; Behavioral Science Review Sprint am 2026-07-02 abgeschlossen; Research Program Finalization Sprint (RC-1) am 2026-07-03 abgeschlossen; Research Project W-001 Repository Integration Sprint am 2026-07-03 abgeschlossen; Sales Codex 1.0 Final Pre-Release Sprint am 2026-07-03 abgeschlossen; External Audit Resolution Sprint am 2026-07-04 abgeschlossen; Sales Codex Version 1.0 RC-1 Release Candidate Freeze am 2026-07-04 abgeschlossen; Repository Closing & Release Sprint am 2026-07-04 abgeschlossen — Version 1.0 veröffentlicht. **2026-07-05:** Research Portfolio Initialization Sprint abgeschlossen; RP-001 Activation — Forschungsprojekt **W-002** (ELM) eröffnet und bis Stufe 6 durchlaufen; Editor Decision W-002 (Teilweise annehmen) erhalten und vollständig umgesetzt — Stufen 7–9 abgeschlossen, W-002 nach `06_research_program/completed/W002/` verschoben. Im weiteren Verlauf desselben Tages: RP-002 Activation — Forschungsprojekt **W-003** (Trust Formation & Relationship Marketing) eröffnet, vollständig durchlaufen, Editor Decision „Teilweise annehmen" erhalten und umgesetzt (1 neues Objekt MEC-0030, 13 erweiterte Objekte), Health Check bestanden, nach `06_research_program/completed/W003/` verschoben. **2026-07-06:** RP-004 Activation — Forschungsprojekt **W-004** (Buying Center Social Dynamics & Organisationale Risikoverteilung) eröffnet, vollständig durchlaufen, Editor Decision „Teilweise annehmen" erhalten und umgesetzt (2 erweiterte Objekte: MEC-0014, MEC-0030), Health Check bestanden, nach `06_research_program/completed/W004/` verschoben. Im Anschluss: **Research Portfolio Checkpoint 1** (`00_project/RESEARCH_PORTFOLIO_CHECKPOINT_1.md`) — programmebener, rein lesender Audit über W-001 bis W-004 — abgeschlossen; empfohlene nächste Programmebene-Maßnahme: **Compact Evidence Architecture Check** (Checkpoint 1, Abschnitt 9/11), kein neues W-Projekt, kein Architecture Freeze. **Aktuell kein aktives Forschungsprojekt** (`06_research_program/active/` leer, `RESEARCH_STATUS.md`, Abschnitt 1). Diese Integrationen sind weiterhin die einzigen inhaltlichen Änderungen an `03_knowledge_base/`-Objekten seit der Version-1.0-Veröffentlichung — jede ausdrücklich auf Basis einer expliziten, scope-begrenzten Herausgeber-Freigabe je Projekt, keine Wiedereröffnung von Version 1.1 oder des allgemeinen Entwicklungsmodus.  
 Architektur: Stateless Agent Architecture (seit 2026-06-30)
 
 ---
 
 ## Projektstand
+
+### Research Portfolio Checkpoint 1 — abgeschlossen; W-002, W-003, W-004 COMPLETED
+
+**Stand: 2026-07-06**
+
+Nach Abschluss von W-004 (siehe unten) wurde ein programmebener, rein lesender Checkpoint über W-001 bis W-004 durchgeführt: `00_project/RESEARCH_PORTFOLIO_CHECKPOINT_1.md`. Ergebnis (Kurzfassung, vollständige Begründung im Dokument selbst): Alle vier Forschungsprojekte sind ordnungsgemäß `COMPLETED`, Editor Decisions und Repository-Integrationen konsistent mit `RESEARCH_STATUS.md` und `RESEARCH_PORTFOLIO.md`. Der Checkpoint identifiziert ein cross-projekt-konvergentes Scientific-Debt-Cluster (B2B-/Vertikal-Transfer-Lücke, unabhängig in W-002, W-003 und W-004 bestätigt) sowie mehrere, inzwischen behobene Dokumentationsinkonsistenzen (siehe Session Log/Änderungsvermerk dieser Datei). Empfehlung des Checkpoints: **Compact Evidence Architecture Check** als nächste Programmebene-Maßnahme — kein neues W-Projekt, kein Architecture Freeze. Diese Empfehlung ist noch nicht beauftragt; `RESEARCH_STATUS.md` weist aktuell kein aktives Forschungsprojekt aus.
+
+**Keine neue Herausgeberentscheidung durch den Checkpoint selbst.** Der Checkpoint hat keine Wissensobjekte, keine Scientific-Debt-Einträge, keine Open Decisions und keinen Research-Portfolio-Status verändert — reine Analyse-/Auditebene.
+
+---
+
+### Editor Decision W-002 (ELM) — Repository Integration abgeschlossen, Projekt COMPLETED
+
+**Stand: 2026-07-05**
+
+Auslöser: Herausgeberauftrag „Editor Decision — W-002" (Felix, 2026-07-05) auf Basis von `06_research_program/completed/W002/05_DECISION_BRIEF.md`. Entscheidung: **Teilweise annehmen.**
+
+**Kernpunkte der Entscheidung:** Kein eigenständiges neues MEC für ELM — dies ist ausdrücklich eine editorische Sparsamkeitsentscheidung, keine zwingende Ableitung aus dem Canonical Knowledge Model. ELM wird als persuasionsspezifischer Klassifikationsrahmen innerhalb der bestehenden Dual-Process-Architektur (MEC-0012) integriert. Freigegeben: ELM-Cross-Link in MEC-0012 (inkl. minimalem Cross-Link zum bereits dokumentierten Reflective-Impulsive Model); evidenzkalibrierte Boundary Conditions in MEC-0005, MEC-0006, MEC-0007, MEC-0008; Boundary Condition in MEC-0018 mit ausdrücklichem, bindendem Vorbehalt gegen jede Evidenzaufwertung der Pre-Suasion-Forschung; Syntheseabschnitt in MOD-0002. Für MEC-0009 und MOD-0008 wurde eine unabhängige Prüfung verlangt statt automatischer Übernahme — Ergebnis für beide: **keine Änderung**, mit eigenständiger wissenschaftlicher Begründung (MEC-0009: andere Erklärungsebene, psychophysikalisch statt elaborationsabhängig; MOD-0008: Inhalt bereits transitiv über MEC-0018/MOD-0002 abgedeckt) — keine Änderung wurde allein zur Herstellung formaler Symmetrie vorgenommen. Keine Integration einer B2B-/Buying-Center-Transferaussage (unzureichende Evidenz); stattdessen neuer Scientific-Debt-Eintrag, ohne automatisches Folgeforschungsprojekt. Die Replikationskontroverse zum NFC×Argumentqualität-Effekt bleibt bewusst unaufgelöst dokumentiert.
+
+**Umgesetzt (Stufen 7–9):** `06_EDITOR_DECISION.md` erstellt. `REPOSITORY_INTEGRATION_LOG.md` erstellt — sieben Wissensobjekte erweitert (MEC-0012, MEC-0005, MEC-0006, MEC-0007, MEC-0008, MEC-0018, MOD-0002), durchgängig ohne neuen Kausalpfad und ohne E-Level-Wechsel. `00_project/SCIENTIFIC_DEBT.md`: neue Sektion „W-002" (drei Einträge: B2B-/Buying-Center-Transferlücke, Replikationskontroverse, offene Theory-Competition-Frage). `OPEN_QUESTIONS.md`: alle fünf Fragen auf `übergeben` oder `beantwortet` gesetzt. `HEALTH_CHECK.md`: alle neun Prüfpunkte erfüllt, bestanden. Projektordner von `06_research_program/active/W002/` nach `06_research_program/completed/W002/` verschoben. `RESEARCH_STATUS.md` und `RESEARCH_PORTFOLIO.md` (RP-001 → `Integrated`, Version 1.2) aktualisiert.
+
+**Ergebnis:** W-002 ist das zweite Forschungsprojekt, das den vollständigen neunstufigen Research Lifecycle durchlaufen hat. Dies ist zugleich die erste inhaltliche Integration in `03_knowledge_base/` seit der Version-1.0-Veröffentlichung — ausdrücklich scope-begrenzt auf die in der Editor Decision benannten sieben Objekte, keine Wiedereröffnung des allgemeinen Entwicklungsmodus.
+
+**Keine Neuanlage von Wissensobjekten. Keine Framework-Änderung. Keine Änderung am Canonical Knowledge Model oder Operating Manual. Keine Integration über den von der Editor Decision autorisierten Umfang hinaus.**
+
+**Nächster Schritt:** Kein unmittelbarer Folgeschritt für W-002. Verbleibende Punkte (B2B-/Buying-Center-Transferlücke, Trust-Formation-Aktivierung als bevorzugter nächster Portfolio-Kandidat) liegen bei künftiger Herausgeber-/Portfolio-Priorisierung.
+
+---
+
+### RP-001 Activation — ELM Persuasion Architecture Research Project (W-002) — STUFE 6 ABGESCHLOSSEN, WARTET AUF EDITOR DECISION (historisch — siehe Abschnitt oben für den aktuellen, abgeschlossenen Stand)
+
+**Stand: 2026-07-05**
+
+Auslöser: Herausgeberauftrag „RP-001 Activation — ELM Persuasion Architecture Research Project" — verbindliche Editor-Entscheidungen: ELM vor Trust Formation priorisieren, RP-001 als reguläres Forschungsprojekt aktivieren (ohne Vorwegnahme einer Integration), RP-002 (Trust Formation) unverändert als bevorzugten nächsten Kandidaten führen, RP-004 unverändert lassen. Forschungsauftrag: nicht bloß ELM erklären, sondern klären, unter welchen Bedingungen ELM dem Sales Codex eigenständigen, robusten Mehrwert liefert — ausdrücklich ergebnisoffen, nicht auf Bestätigung der Portfoliohypothese ausgerichtet.
+
+**Umgesetzt:** Projekt **W-002** eröffnet (`06_research_program/active/W002/`), vollständiger neunstufiger Research Lifecycle bis Stufe 6 durchlaufen: Research Question (RQ-W002-0 bis -5), Initial Hypothesis (mit drei Alternativhypothesen A/B/C), Scientific Master Review (vier Hypothesen systematisch geprüft, Evidence Map über 12 Konstrukte, Theory Competition Map ELM/HSM/Unimodel/MEC-0012, Repository Impact Analysis über 9 Objekte, Practical Translation Assessment), unabhängige Red Team Review (per separatem Subagenten-Kontext, 8 Prüfkriterien, Gesamturteil „Überarbeiten" bei vollständiger Bestätigung der Kernaussagen), Theory Landscape (5 Präzisierungspunkte der Red Team Review konsolidiert, keiner ungelöst an Editor Decision durchgereicht), Decision Brief (Empfehlung „Teilweise annehmen", nicht bindend).
+
+**Zentrales wissenschaftliches Ergebnis:** ELM liefert keinen neuen, im Codex unbekannten Kausalmechanismus, wohl aber eine bislang fehlende persuasionsspezifische Klassifikationsebene (zentral/peripher) mit nachvollziehbarem Bezug zu MEC-0005–0009, MEC-0012, MEC-0018, MOD-0002, MOD-0008. Empfehlung: Integration ausschließlich über Boundary Conditions/Cross-Links, kein neues MEC. Kein direkter Beleg für Transfer auf B2B-/Buying-Center-Kontexte gefunden (Ein-Sitzungs-Recherche, nicht systematisch) — als offene Frage dokumentiert, nicht stillschweigend generalisiert. Replikationskontroverse zum NFC×Argumentqualität-Effekt (Cacioppo/Petty/Morris 1983 vs. Ebersole et al. 2016, Reanalyse Luttrell/Petty/Xu 2017) offen dokumentiert.
+
+**Governance-Aktualisierungen:** `RESEARCH_PORTFOLIO.md` (RP-001 → Active Research, RP-002 mit Vermerk „bevorzugter nächster Kandidat"), `OPEN_DECISIONS.md` OD-008 (→ TEILWEISE ENTSCHIEDEN: ELM priorisiert/aktiviert, Trust Formation/PKM unberührt), `RESEARCH_STATUS.md` (W-002 als `AWAITING_EDITOR_DECISION` registriert).
+
+**Keine Integration in `03_knowledge_base/` erfolgt oder vorweggenommen. Keine Änderung an MEC/P/T/MOD-Objekten, am Framework, am Canonical Knowledge Model oder an Version-1.0-Inhalten. Editor Decision (Stufe 7) ausdrücklich nicht simuliert.**
+
+**Nächster Schritt:** Editor Decision zu W-002 durch Felix, auf Basis von `06_research_program/active/W002/05_DECISION_BRIEF.md`.
+
+---
+
+### Research Portfolio Initialization Sprint — ABGESCHLOSSEN
+
+**Stand: 2026-07-05**
+
+Auslöser: Herausgeberauftrag „Research Portfolio Initialization Sprint" — Konsolidierung bereits im Repository dokumentierter Forschungsbedarfe (Open Decisions, Scientific Debt, Research Agenda, Knowledge-Atlas-Befunde, externe Peer-Review-Empfehlungen) in eine neue Governance-/Priorisierungsebene, ohne selbst neue Forschung zu betreiben.
+
+**Umgesetzt:** `06_research_program/RESEARCH_PORTFOLIO.md` (neu) — acht konsolidierte Research Themes (RP-001 bis RP-008) mit standardisierten Theme Cards, Fünf-Dimensionen-Scoring (Scientific Gap, Strategic Relevance, Practical Leverage, Integration Leverage, Research Cost), Priorisierung in Top 3/Secondary/Watchlist/Excluded, First Investment Recommendation (RP-001, Persuasion Architecture/ELM). `00_project/RESEARCH_PORTFOLIO_INITIALIZATION_REPORT.md` (neu) — vollständiger Methodenbericht. Inhalt von MEC-0020/0021/0025 gegen zugelieferte Gemini-Behauptungen verifiziert (Abweichungen dokumentiert, nicht geglättet).
+
+**Keine Forschung durchgeführt, keine neuen Wissensobjekte, keine Änderung an bestehenden Wissensobjekten, Framework-Dateien, Buchanalysen, Knowledge Atlas, Scientific Debt, Open Decisions, Literature Index, Research Agenda oder Version 1.0.**
+
+**Nächster Schritt:** Herausgeber-Priorisierungsentscheidung zum First Investment Recommendation (RP-001) — umgesetzt durch den nachfolgenden Auftrag „RP-001 Activation" (siehe oben).
+
+---
 
 ### Sales Codex Version 1.0 — Repository Closing & Release Sprint — ABGESCHLOSSEN
 

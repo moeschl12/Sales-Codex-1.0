@@ -6,7 +6,7 @@ MEC-0008
 
 ## Source ID
 
-SRC-0002
+SRC-0002, W-002
 
 ## Name
 
@@ -93,3 +93,25 @@ Thaler & Sunstein (Introduction, Kap. 5) beschreiben, dass eine voreingestellte 
 **Kein neuer MEC, keine Duplizierung:** Diese Erweiterung dupliziert nicht die MEC-0002-Erweiterung, sondern präzisiert die dortige Feststellung aus der MEC-0008-Perspektive: das Autoritätssignal ist eine von drei Teilursachen des Default-Effekts, hier mit eigenem Anwendungsfall dokumentiert.
 
 **Kein E-Level-Wechsel.**
+
+## Erweiterung: ELM-Boundary-Condition — Periphere Route (Research Program W-002)
+
+**[Ergänzt 2026-07-05 aus W-002 — Persuasion Architecture Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W002/06_EDITOR_DECISION.md`]**
+
+Das Elaboration Likelihood Model (ELM, Petty & Cacioppo 1986; siehe MEC-0012, Erweiterungsabschnitt) ordnet Autoritätssignale (Titel, Kleidung, Trappings) als klassisches peripheres Cue ein — Compliance erfolgt auf Basis des Signals, nicht auf Basis geprüfter Expertise, was der Definition dieses Mechanismus selbst entspricht.
+
+**Boundary Condition:** Die bereits dokumentierte Grenze „Bei professionellen Einkäufern ... ist die unreflektierte Autorität-Compliance geringer" (Abschnitt „Grenzen") ist mit der ELM-Klassifikation konsistent: Professionelle Einkäufer verarbeiten Angebote typischerweise mit höherer Motivation/Fähigkeit zentral (Berufsauftrag zur Prüfung), wodurch periphere Autoritätssignale an Gewicht verlieren. Wie bei MEC-0006 handelt es sich um eine theoretische Einordnung einer bereits bestehenden, empirisch beobachteten Grenze, nicht um einen neuen Befund.
+
+**Kein neuer Kausalpfad.** Kein E-Level-Wechsel (E4/E3 bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
+## Erweiterung: Abgrenzung zu MEC-0030 (Trust Formation) — Autorität als Ability-Teilsignal (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Autoritätssignale (Titel, Kleidung, Trappings) decken einen Teilaspekt der Ability-Komponente des in MEC-0030 modellierten Trustworthiness-Urteils ab — sie signalisieren Kompetenz, jedoch **ohne** Prüfung tatsächlicher Expertise (siehe Definition dieses Objekts oben: „Die Legitimität der Autorität wird nicht geprüft"). MEC-0030 erfordert zusätzlich eine Benevolence- und Integrity-Wahrnehmung, die durch reine Autoritätssignale nicht abgedeckt wird. Dieses Objekt bleibt daher als eigenständiger, engerer Mechanismus (peripheres Ability-Signal ohne Benevolence/Integrity-Komponente) bestehen — keine Zusammenführung mit MEC-0030, da unterschiedlicher Kausalumfang.
+
+**Kein neuer Kausalpfad in diesem Objekt.** Kein E-Level-Wechsel (E4/E3 bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.

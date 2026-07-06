@@ -5,6 +5,72 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-06 — V11-01 Baseline & Control Plane Consolidation — Executor-Durchlauf abgeschlossen
+
+**Session-Typ:** Ausführung des V1.1-Makroprojekts V11-01 gemäß `00_project/projects/V11-01_baseline_control_plane/PROJECT_BRIEF.md`, autonom bis DONE bzw. Hard Block (Auftrag: `00_project/V11_01_CLAUDE_EXECUTION_PROMPT.md`). Rolle: Executor Agent, keine Herausgeberentscheidung, keine neue Forschung, keine neuen Wissensobjekte.
+
+**Erfasster Ist-Zustand:** Git — Branch `main`, up to date mit `origin/main` (`1658e56`), 85 uncommittete Pfade (staged/unstaged/untracked), darunter die vollständigen `completed/W002|W003|W004/`-Ordner, das gesamte V1.1-Control-Plane-Regelwerk (`ROADMAP_V1_1.md`, `V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `V1_1_RELEASE_CRITERIA.md`, `V1_1_REVIEW_SYNTHESIS.md`, acht `PROJECT_BRIEF.md`, drei Templates) und der bereits vorhandene V1.1-Opening-Abschnitt in `CURRENT_STATE.md`. Atlas-Compiler (`compile_atlas.py` v0.1.3) dreimal ausgeführt, durchgängig Exit Code 0, 515 Nodes / 2111 Edges / 0 Duplicate IDs / 2 unaufgelöste Referenzen (`T-0048`) / 18 Reference Orphans (alle ST); Determinismus explizit durch Vergleich zweier aufeinanderfolgender Läufe verifiziert (byte-identisch). Compact Evidence Architecture Check bestätigt vorhanden (`00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`). W-002/W-003/W-004 konsistent `COMPLETED` in `RESEARCH_STATUS.md`, `RESEARCH_PORTFOLIO.md` (v1.6) und den jeweiligen `README.md`-Dateien bestätigt.
+
+**Hard Block (dokumentiert, nicht eskaliert):** `.git/index.lock` bereits zu Sessionbeginn vorhanden, lässt sich auf dem FUSE-Mount nicht entfernen (`rm`/`lsattr` scheitern mit "Operation not permitted"/"not supported"); verifiziert durch fehlgeschlagenen `git add`/`git restore`-Testversuch (exit 128). Damit war in dieser Session kein Commit und kein Staging/Unstaging möglich. Klassifiziert gemäß `V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §4.1 als Hard Block für Git-Schreiboperationen, aber als non-blocking für den inhaltlichen/lesenden Teil der Mission — daher dokumentiert und fortgearbeitet, nicht an Felix eskaliert (rein technischer, kein inhaltlicher oder Governance-Befund).
+
+**Aktualisierte Dateien:** `00_project/projects/V11-01_baseline_control_plane/COMPLETION_REPORT.md` (neu), `00_project/ROADMAP_V1_1.md` (Program Board + Abschnitt 7: V11-01 → COMPLETED — Audit ausstehend), `00_project/NEXT_ACTION.md` (Launcher ersetzt: zeigt jetzt auf V11-01-Audit, danach V11-02), `SESSION_BRIEF.md` (ersetzt), `CURRENT_STATE.md` (Opening-Note um Stand 2026-07-06 ergänzt), dieser Eintrag.
+
+**Eingehaltene Leitplanken:** Keine Wissensobjekte angelegt oder verändert (`03_knowledge_base/` nur lesend geprüft). Kein neues W-Projekt eröffnet. Keine Open Decision geschlossen. Keine Framework-Änderung. Ausschließlich Control-Plane-/Status-Dateien und ein neuer Completion Report erzeugt — alles innerhalb des in `PROJECT_BRIEF.md` Abschnitt 2 definierten Scopes.
+
+**Bedeutung:** Erstes vollständig durchlaufenes V1.1-Makroprojekt. Nächster Schritt liegt beim unabhängigen Audit (Autonomy-Policy §5.2), danach V11-02 — Evidence Architecture Resolution.
+
+---
+
+## 2026-07-05 — Editor Decision W-002 (ELM) — Repository Integration, Health Check, Projektabschluss
+
+**Session-Typ:** Umsetzung einer bereits getroffenen Herausgeberentscheidung („Editor Decision — W-002", Felix, 2026-07-05) — Stufen 7 bis 9 des Research Lifecycle. Rolle: Research Lead, ausschließlich Umsetzung der wörtlich erteilten Entscheidung, keine eigene inhaltliche Erweiterung oder Umdeutung.
+
+**Editor Decision (Stufe 7):** Wörtlich in `06_research_program/completed/W002/06_EDITOR_DECISION.md` überführt. Entscheidung: **Teilweise annehmen.** Kein neues MEC für ELM (editorische Sparsamkeitsentscheidung, keine zwingende CKM-Ableitung); ELM als persuasionsspezifische Klassifikationsebene in die bestehende Dual-Process-Architektur (MEC-0012) integriert; MEC-0009 und MOD-0008 erfordern eigenständige Begründung statt automatischer Übernahme; keine Integration einer B2B-/Buying-Center-Transferaussage; Replikationskontroverse bleibt unaufgelöst dokumentiert; alle fünf offenen Fragen erhalten eine explizite Disposition.
+
+**Repository Integration (Stufe 8):** Sieben Wissensobjekte erweitert — durchgängig ohne neuen Kausalpfad, ohne E-Level-Wechsel: `MEC-0012` (ELM-Klassifikationsebene + minimaler Cross-Link zum bereits dokumentierten Reflective-Impulsive Model), `MEC-0005`, `MEC-0006`, `MEC-0007`, `MEC-0008` (je eine evidenzkalibrierte Boundary Condition, für MEC-0006/0007/0008 als theoretische Kontextualisierung bereits bestehender empirischer Grenzen, nicht als neuer Befund), `MEC-0018` (Boundary Condition mit ausdrücklichem, bindendem Vorbehalt: die Prozesstyp-Klassifikation berührt nicht die Evidenzeinstufung der zugrunde liegenden Priming-Forschung), `MOD-0002` (Syntheseabschnitt: sieben Prinzipien als überwiegend periphere Route). Für **MEC-0009** und **MOD-0008** wurde unabhängig geprüft und begründet dokumentiert, dass keine Änderung wissenschaftlich gerechtfertigt ist — MEC-0009 operiert auf einer der ELM-Elaborationsebene vorgelagerten psychophysikalischen Erklärungsebene (Weber-Fechner-Stevens-Helson); MOD-0008 dupliziert als reines Verweismodell keinen eigenständigen Inhalt, der nicht bereits über MEC-0018 und MOD-0002 transitiv zugänglich wäre. Keine Änderung wurde allein zur Herstellung formaler Symmetrie vorgenommen (ausdrückliche Anforderung der Editor Decision). Neue Sektion „W-002" in `00_project/SCIENTIFIC_DEBT.md` angelegt (B2B-/Buying-Center-Transferlücke, NFC×Argumentqualität-Replikationskontroverse, offene Theory-Competition-Frage ELM/HSM/Unimodel) — kein automatisches Folgeforschungsprojekt eröffnet. `OPEN_QUESTIONS.md` vollständig disponiert: OQ-1 bis OQ-3 übergeben, OQ-4 und OQ-5 beantwortet.
+
+**Health Check (Stufe 9):** Alle neun Prüfpunkte erfüllt, keine blockierenden Restlücken — `HEALTH_CHECK.md`. Projektordner von `06_research_program/active/W002/` nach `06_research_program/completed/W002/` verschoben. `RESEARCH_STATUS.md` (W-002 in `completed/`-Tabelle, Ergebnis „Teilweise angenommen") und `RESEARCH_PORTFOLIO.md` (RP-001-Status `Active Research` → `Integrated`, Version 1.2) aktualisiert.
+
+**Eingehaltene Leitplanken:** Ausschließlich die in der Editor-Decision-Tabelle „Geplante Integration" namentlich benannten sieben Objekte erweitert — keine Neuanlage von Wissensobjekten, keine Framework-Änderung, keine Änderung am Canonical Knowledge Model oder Operating Manual, keine Integration über den autorisierten Umfang hinaus, keine Auflösung der Replikationskontroverse zugunsten einer Seite.
+
+**Bedeutung:** W-002 ist das zweite Forschungsprojekt, das den vollständigen neunstufigen Research Lifecycle bis zum Abschluss durchläuft. Dies ist zugleich die erste inhaltliche Integration in `03_knowledge_base/` seit der Version-1.0-Veröffentlichung (2026-07-04) — ausdrücklich scope-begrenzt auf eine explizite Herausgeber-Freigabe, keine Wiedereröffnung des allgemeinen Entwicklungsmodus oder von Version 1.1.
+
+---
+
+## 2026-07-05 — RP-001 Activation — ELM Persuasion Architecture Research Project (W-002)
+
+**Session-Typ:** Forschungsprojekt-Sprint innerhalb des Research Program, auf ausdrücklichen, expliziten Herausgeberauftrag (Ausnahme vom Standard-Arbeitsmodus „ohne gegenteiligen Auftrag nur lesend/vorbereitend" aus `NEXT_ACTION.md`). Verbindliche Editor-Entscheidungen vorab: ELM vor Trust Formation priorisieren; RP-001 als reguläres `W-XXX`-Forschungsprojekt aktivieren, ohne automatische Integration zu autorisieren; RP-002 unverändert als bevorzugten nächsten Kandidaten führen; RP-004 unverändert lassen; volle Forschung/Synthese/Impact-Analyse/Entscheidungsvorbereitung zulässig, aber keine Änderung an bestehenden Wissensobjekten/Framework ohne separate künftige Editor Decision; Editor Decision selbst nicht simulieren; Forschung ausdrücklich ergebnisoffen (nicht auf Bestätigung der Portfoliohypothese ausgerichtet).
+
+**Governance-Aktivierung:** Nächste freie Projekt-ID W-002 bestätigt (W-001 bereits abgeschlossen). Vor Beginn der inhaltlichen Arbeit wurde ein zuvor in `RESEARCH_PORTFOLIO.md` selbst verursachter Datumsfehler korrigiert (RP-001-Theme-Card behauptete fälschlich „seit über einem Jahr" dokumentierte Priorität, obwohl OD-008 erst seit 2026-07-01 bestand — durch Herausgeber bemerkt und mit vorgegebener Formulierung „seit dem Academic Recovery Sprint dokumentierte und bislang offene Top-Priorität" ersetzt).
+
+**Recherche:** Neun betroffene Codex-Objekte (MEC-0005–0009, MEC-0012, MEC-0018, MOD-0002, MOD-0008) vollständig gelesen. Reale Websuche zu ELM durchgeführt (Originaltheorie Petty & Cacioppo 1986, Carpenter-2015-Meta-Analyse, Kitchen-et-al.-2014-Kritik, Kruglanski/Thompson-Unimodel, Chaiken-HSM, Cacioppo/Petty/Morris-1983 vs. Ebersole-et-al.-2016-Replikationskontroverse, Moradi-2022/Shahab-2021-Konsumentenkontext-Reviews) — bewusst niedrigwertige Quellen (Vertriebs-Blogs) trotz verlockender, aber unverifizierbarer B2B-Behauptung nicht übernommen.
+
+**Stufen 1–6 des Research Lifecycle vollständig durchlaufen** (`06_research_program/active/W002/`): Research Question (RQ-W002-0 Hauptfrage + RQ-W002-1 bis -5), Initial Hypothesis (Ausgangshypothese + 3 Alternativhypothesen A/B/C), Scientific Master Review (vier Hypothesen systematisch nach Erklärungskraft/Parsimonie/Plausibilität/Falsifizierbarkeit/Anschlussfähigkeit geprüft; Evidence Map über 12 Konstrukte; Theory Competition Map ELM/HSM/Unimodel/MEC-0012; Repository Impact Analysis über alle 9 Zielobjekte; Practical Translation Assessment), unabhängige Red Team Review (durchgeführt durch separaten Subagenten-Kontext via Agent-Tool, um die Unabhängigkeitsanforderung aus `RESEARCH_GOVERNANCE.md` §4.4 anzunähern — Einschränkung dieser Annäherung dokumentiert; 8 Prüfkriterien, davon 2 erfüllt/5 teilweise/1 nicht erfüllt, Gesamturteil „Überarbeiten" bei vollständiger inhaltlicher Bestätigung der MR-Kernaussagen; eigene Websuchverifikation identifizierte eine zuvor ungeklärte Zitatlücke, Luttrell/Petty/Xu 2017, zur Ebersole-Reanalyse), Theory Landscape (fünf von der Red Team Review benannte Präzisierungspunkte konsolidiert — bewusst ohne den bereits abgeschlossenen Master Review nachträglich zu verändern, gemäß `RESEARCH_LIFECYCLE.md` §6 wird ein Widerspruch zwischen Stufe 3 und 4 unverändert an Stufe 5 weitergereicht), Decision Brief (Empfehlung „Teilweise annehmen", ausdrücklich nicht bindend, vier offene Punkte für die Editor Decision benannt). Begleitdokumente `OPEN_QUESTIONS.md` (5 offene Fragen), `REFERENCES.md` (11 neu recherchierte externe Quellen + 1 bereits repositoryintern vorhandene, per Grep gegen `LITERATURE_INDEX.md` geprüft) und `RESEARCH_LOG.md` (projektinternes Protokoll) erstellt.
+
+**Zentrales wissenschaftliches Ergebnis:** ELM liefert keinen neuen Kausalmechanismus gegenüber MEC-0012/Cialdini-Familie, aber eine bislang fehlende persuasionsspezifische Klassifikationsebene (zentral/peripher) mit konkretem, nachvollziehbarem Bezug zu allen neun Zielobjekten. Strukturempfehlung: Boundary Conditions/Cross-Links, kein neues MEC (als editorische Sparsamkeitsentscheidung gekennzeichnet, nicht als zwingende CKM-Ableitung — Präzisierung durch Theory Landscape). Kein direkter Beleg für ELM-Transfer auf B2B-/Buying-Center-Kontexte gefunden (nicht-systematische Ein-Sitzungs-Recherche — als Wissenslücke dokumentiert, nicht stillschweigend generalisiert). MEC-0018/Pre-Suasion: Klassifikation ausdrücklich getrennt von dessen ungelöstem Replikationsrisiko (B-0010) gehalten — von der Red Team Review als der am gründlichsten abgesicherte Teil des Reviews bestätigt.
+
+**Governance-Aktualisierungen:** `RESEARCH_PORTFOLIO.md` (RP-001 Status → Active Research mit Herausgeber-Freigabe-Vermerk, W-002-ID, Aktivierungsdatum, No-Auto-Integration-Vorbehalt; RP-002 unverändert Validated mit Vermerk „bevorzugter nächster Kandidat nach W-002"; RP-004 unverändert; Versionsvermerk 1.0 → 1.1 im Kopf); `OPEN_DECISIONS.md` OD-008 (neuer Abschnitt „Herausgeberentscheidung (RP-001 Activation, 2026-07-05)" — Status TEILWEISE ENTSCHIEDEN: ELM priorisiert und aktiviert, Trust Formation nicht abgelehnt, PKM unberührt; OD-008 bleibt als Eintrag bestehen); `RESEARCH_STATUS.md` (W-002 in die `active/`-Tabelle mit Status `AWAITING_EDITOR_DECISION` aufgenommen).
+
+**Eingehaltene Leitplanken:** Keine Änderung an MEC-/P-/T-/MOD-Objekten; keine Neuanlage von Wissensobjekten direkt in `03_knowledge_base/`; keine Änderung an Framework, Buchanalysen oder Version-1.0-Inhalten; Integration Proposal ausdrücklich nicht mit tatsächlicher Integration verwechselt; Editor Decision (Stufe 7) nicht simuliert — bleibt vollständig bei Felix.
+
+**Bedeutung:** W-002 hat Stufe 6 (Decision Brief) erreicht und wartet auf die Editor Decision. Zweites Forschungsprojekt, das den Research Lifecycle vollständig bis zur Entscheidungsvorlage durchläuft (nach W-001) — erste praktische Erprobung der RC-1-Research-Program-Architektur inklusive einer Subagenten-basierten Annäherung an die Stufe-4-Unabhängigkeitsanforderung.
+
+---
+
+## 2026-07-05 — Research Portfolio Initialization Sprint
+
+**Session-Typ:** Governance-/Priorisierungssprint, kein Forschungssprint. Rolle: Research Portfolio Architect — ausschließlich Konsolidierung bereits im Repository dokumentierter Forschungsbedarfe, keine eigene Forschung, keine neuen Wissensobjekte. Auftrag: aus Open Decisions, Scientific Debt, Research Agenda, Knowledge-Atlas-Befunden und externen Peer-Review-Empfehlungen 6–10 standardisierte Research Themes bilden, scoren, priorisieren und genau eine First Investment Recommendation vorschlagen, ohne automatisch Forschung auszulösen.
+
+**Umgesetzt:** `06_research_program/RESEARCH_PORTFOLIO.md` (neu, Version 1.0) — acht Theme Cards (RP-001 bis RP-008) mit standardisierten Feldern (Portfolio-ID, Research Theme, Problem Definition, Repository Evidence, Strategic/Practical/Integration Leverage, Known Source Candidates, Dependencies, Status, Next Decision), Fünf-Dimensionen-Scoring, Kategorisierung Top 3/Secondary/Watchlist/Excluded, First Investment Recommendation RP-001 (Persuasion Architecture/ELM). `00_project/RESEARCH_PORTFOLIO_INITIALIZATION_REPORT.md` (neu) — vollständiger Methodenbericht. Inhalt von MEC-0020, MEC-0021, MEC-0025 direkt gelesen und gegen zugelieferte Gemini-Behauptungen verifiziert, Abweichungen dokumentiert statt geglättet. Nach Fertigstellung ein von der Sitzung selbst verursachter Datumsfehler in der RP-001-Theme-Card entdeckt (nicht vom Herausgeber, sondern durch nachfolgende eigene Prüfung) und korrigiert.
+
+**Verifikation:** `git status`/Timestamp-Prüfung bestätigte, dass ausschließlich die zwei neu erstellten Dateien verändert wurden — alle übrigen scheinbaren Änderungen (`D`/`??`-Markierungen) sind ein vorbestehendes, bereits dokumentiertes Sandbox-Git-Index-Problem, keine Folge dieser Session.
+
+**Eingehaltene Leitplanken:** Keine Forschung durchgeführt, keine neuen Wissensobjekte, keine Änderung an bestehenden Wissensobjekten, Framework-Dateien, Buchanalysen, Knowledge Atlas, Scientific Debt, Open Decisions, Literature Index, Research Agenda oder Version 1.0.
+
+**Bedeutung:** Neue, additive Priorisierungsebene oberhalb des bestehenden Research Program etabliert. Unmittelbare Folge: Herausgeberauftrag „RP-001 Activation" (siehe Eintrag oben), der die First Investment Recommendation dieses Sprints tatsächlich aktiviert.
+
+---
+
 ## 2026-07-04 — Sales Codex Version 1.0 — Repository Closing & Release Sprint
 
 **Session-Typ:** Letzter Sprint für Version 1.0. Rolle ausdrücklich Editor-in-Chief / Release Manager / Repository Curator — nicht Forscher, Autor, Reviewer oder Framework-Architekt. Entwicklungsmodus beendet: Zweck ist die finale wissenschaftliche Dokumentation des Zustands, der formale Repository-Abschluss und die offizielle Veröffentlichung von Version 1.0, nicht deren Weiterentwicklung. Auftrag: alle drei zugestellten externen Gutachten ("Wissenschaftliche Prüfung des Sales Codex", "Wissenschaftliche Begutachtung des Behavioral Science Sprints", "Sales Codex Release Audit" — zusammen der im Release Plan definierte Finale RC-1-Audit) vollständig verarbeiten, das Repository abschließen und Version 1.0 formal freigeben.
@@ -836,3 +902,24 @@ PDF-Extraktion: pdfplumber (Python), alle Kapitel + Appendix, kein Modellwissen 
 **Geänderte Dateien:**
 - NEU: VAL-0001, PILOT_001_ABSCHLUSSBERICHT
 - AKTUALISIERT: Diverse ST/A/MEC/P/T/MOD-Objekte aus Pilot-001
+
+---
+
+## 2026-07-06 — V1.1 Program Control Plane Bootstrap
+
+Herausgeberentscheidung: Version 1.1 wird als autonomes Makroprojekt-Programm eröffnet.
+
+Umsetzung:
+- `00_project/ROADMAP_V1_1.md` angelegt.
+- `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md` angelegt.
+- `00_project/V1_1_RELEASE_CRITERIA.md` angelegt.
+- `00_project/V1_1_REVIEW_SYNTHESIS.md` angelegt.
+- Projektbriefs für V11-01 bis V11-08 angelegt.
+- `00_project/NEXT_ACTION.md` als minimaler V1.1 Launcher ersetzt.
+- `SESSION_BRIEF.md` auf V1.1-Programmstart aktualisiert.
+- `PROJECT_BOOTSTRAP.md` um V1.1 Control Plane ergänzt.
+- `CURRENT_STATE.md` um V1.1 Opening Note ergänzt.
+
+Keine neuen Wissensobjekte, keine neue Forschung, keine Änderungen an Version-1.0-Inhalten.
+
+Nächste Aktion: V11-01 — Baseline & Control Plane Consolidation gemäß `00_project/projects/V11-01_baseline_control_plane/PROJECT_BRIEF.md` ausführen.

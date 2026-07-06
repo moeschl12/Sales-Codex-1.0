@@ -56,6 +56,16 @@ Sequenzielle Voraussetzungsannahme / Verkäufer-Kompetenzmodell
 - Wie wird Expertise vom Käufer wahrgenommen und attribuiert? (Perception of Expertise Literature)
 - Ist Credibility-Schwelle kontextabhängig (Branche, Dealsize, Stakeholder-Ebene)?
 
+## Erweiterung: Cross-Link zu MEC-0030 (Trust Formation) — Credibility als Ability-Teilkomponente (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Die hier beschriebene Credibility entspricht im neu angelegten Trust-Formation-Mechanismus (MEC-0030) der **Ability-Komponente** von Trustworthiness — nicht der vollständigen Ability/Benevolence/Integrity-Struktur. Diese Annahme bleibt als eigenständige, engere Aussage zur Ability-Komponente bestehen; sie wird durch MEC-0030 nicht ersetzt, sondern als Teilaspekt eines umfassenderen Trustworthiness-Urteils eingeordnet. Die in dieser Annahme dokumentierte Aussage „Sympathie kann Credibility nicht ersetzen" ist mit MEC-0030 konsistent: Liking (MEC-0007) ist von Trustworthiness kausal unterscheidbar.
+
+**Kein E-Level-Wechsel** (bleibt E2).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
 ## Status
 
-Aktiv
+Aktiv; ergänzt 2026-07-05 (W-003 — Cross-Link zu MEC-0030)

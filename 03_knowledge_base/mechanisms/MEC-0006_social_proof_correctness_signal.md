@@ -6,7 +6,7 @@ MEC-0006
 
 ## Source ID
 
-SRC-0002
+SRC-0002, W-002
 
 ## Name
 
@@ -95,3 +95,25 @@ Nudge (Kap. 3, "Following the Herd") liefert unabhängige, breit replizierte Pri
 **Kein neuer MEC — reine Erweiterung/Vertiefung des bestehenden Kausalpfads** (Unsicherheit → Verhalten anderer als Informationsquelle/Norm-Signal → Konformität). Alle vier Präzisierungen bleiben innerhalb desselben Stimulus-Prozess-Reaktion-Musters.
 
 **Kein E-Level-Wechsel** (bleibt E4 allgemein / E3 Sales-Anwendung — die Asch-Replikationsbreite stärkt tendenziell die Zuversicht, ohne die formale Einstufung zu ändern, da B2B-Vertriebstransfer weiterhin ungetestet bleibt).
+
+## Erweiterung: ELM-Boundary-Condition — Periphere Route (Research Program W-002)
+
+**[Ergänzt 2026-07-05 aus W-002 — Persuasion Architecture Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W002/06_EDITOR_DECISION.md`]**
+
+Das Elaboration Likelihood Model (ELM, Petty & Cacioppo 1986; siehe MEC-0012, Erweiterungsabschnitt „Elaboration Likelihood Model als persuasionsspezifische Klassifikationsebene") ordnet soziale Bewährtheit als klassisches peripheres Cue ein: Verhalten anderer wird als Korrektheitssignal genutzt, wenn Motivation oder Fähigkeit zur eigenständigen (zentralen) Prüfung fehlt oder gering ist.
+
+**Boundary Condition:** Die bereits in diesem Objekt dokumentierte Grenze „Effekt schwächer bei Experten, die eigene Evaluationskriterien haben" (Abschnitt „Grenzen") ist mit dieser ELM-Klassifikation theoretisch konsistent: Experten verarbeiten typischerweise mit höherer Motivation/Fähigkeit zentral, wodurch periphere Cues wie Sozialbeweis an relativer Bedeutung verlieren. ELM liefert damit eine mögliche theoretische Einordnung für eine bereits empirisch beobachtete, nicht neu behauptete Grenze — kein neuer Befund, sondern eine nachträgliche Kontextualisierung.
+
+**Kein neuer Kausalpfad.** Kein E-Level-Wechsel (E4/E3 bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
+## Erweiterung: „Transference"-Nahtstelle zu MEC-0030 (Trust Formation, Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Doney & Cannon (1997, *Journal of Marketing*, 61(2), 35–51) beschreiben neben vier mit dem neuen Trust-Formation-Mechanismus (MEC-0030) kompatiblen kognitiven Prozessen einen fünften Prozess, „Transference": Vertrauensübertragung von einer bereits als vertrauenswürdig geltenden dritten Partei (z. B. Referenz, gemeinsamer Bekannter, Referral-Kontakt) auf den Verkäufer, ohne eigenständige Ability/Benevolence/Integrity-Beurteilung durch den Käufer selbst. Dieser Prozess ist strukturell näher an diesem Objekt (Informationsaggregation aus dem Verhalten/Urteil anderer) als an MEC-0030 und wird **ausdrücklich hier verortet, nicht im neuen Trust-Formation-Mechanismus**, um Doppelmodellierung derselben Beobachtung zu vermeiden. Praktisch überschneidet sich „Transference" zudem mit der in MEC-0007 dokumentierten Referral-Kette (Shaklee „Endless Chain") — beide beschreiben, wie Vertrauen/Sympathie zu einer Mittelsperson auf einen bislang unbekannten Dritten übertragen wird.
+
+**Kein neuer Kausalpfad in diesem Objekt.** Kein E-Level-Wechsel (E4/E3 bleibt bestehen).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, `03_RED_TEAM_REVIEW.md` (Kriterium 19), Repository Impact Analysis.

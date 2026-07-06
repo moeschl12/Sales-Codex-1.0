@@ -1,46 +1,74 @@
-# Next Action
+# Next Action — V1.1 Launcher
 
-*Genau eine nächste Aktion. Kein Backlog. Kein Mehrfach-Eintrag. Diese Datei wird bei jedem Sprintabschluss ersetzt, nicht ergänzt — vollständige Historie ausschließlich in `00_project/SESSION_LOG.md`.*
-
----
-
-## Aktuelle Aktion (Stand: 2026-07-04)
-
-Sales Codex Version 1.0 ist offiziell veröffentlicht und gilt als unveränderlich (`CURRENT_STATE.md`, `99_archive/v1.0_release/VERSION_1_0_CLOSING_REPORT.md`). Es gibt keine offene Aktion für Version 1.0. Version 1.1 wurde noch nicht begonnen.
-
-**Nächste Aktion:** Entscheidung des Herausgebers, wann und mit welchem Auftrag ein Version-1.1-Programm eröffnet wird. Bekannte, an Version 1.1 übergebene Restpunkte: OD-006/007-Implementierung, OD-008–012, Statement-Evidenzfeld-Lücke, Terminologie-Nachziehung, SRC-0010-Ordnerplatzierung, Git-Index-Reparatur, Academic Recovery Plan Tier 1 (siehe `99_archive/v1.0_release/SALES_CODEX_VERSION_1_0_RELEASE.md`, Abschnitt „Ausblick auf Version 1.1", sowie `00_project/OPEN_DECISIONS.md`).
-
-## Arbeitsmodus
-
-Kein aktiver Entwicklungssprint. Bis ein Version-1.1-Programm formal durch den Herausgeber eröffnet wird, arbeitet jede Session ohne gegenteiligen expliziten Auftrag ausschließlich lesend/vorbereitend, nicht verändernd.
-
-## Erlaubte Dateien
-
-Ohne expliziten Herausgeberauftrag: nur lesender Zugriff auf `CURRENT_STATE.md`, `00_project/OPEN_DECISIONS.md`, `99_archive/v1.0_release/SALES_CODEX_VERSION_1_0_RELEASE.md` (Abschnitt „Ausblick auf Version 1.1") zur Vorbereitung einer Herausgeberentscheidung.
-
-## Verbotene Dateien / Aktionen
-
-Bis zur formalen Eröffnung eines Version-1.1-Programms: keine Änderungen an Version-1.0-Inhalten (Wissensobjekte, Quellen, Framework, Canonical Knowledge Model, abgeschlossene Forschungsprojekte, Editor Decisions), keine neuen Wissensobjekte, keine neue Forschung, keine Repository-Umstrukturierung. Grundlage: Unveränderlichkeitserklärung in `CURRENT_STATE.md` und `99_archive/v1.0_release/RC1_FREEZE_DECLARATION.md`.
-
-## Abbruchbedingungen
-
-Nur anhalten wenn:
-- Primärquelle fehlt oder nicht zugänglich
-- Repository-Dateien beschädigt
-- Canonicalisierungsentscheidung eindeutig nicht möglich
-- Framework-Widerspruch blockiert produktives Weiterarbeiten
-- Herausgeberentscheidung zwingend erforderlich
-
-Normale Unsicherheit → ⚠ dokumentieren, weiterarbeiten.
+Status: Active
+Updated: 2026-07-06
 
 ---
 
-## Pflichtabschluss jeder Session
+## Active Step
 
-1. `CURRENT_STATE.md` aktualisieren
-2. `00_project/NEXT_ACTION.md` **ersetzen** (nicht anhängen) — genau eine aktuelle Aktion
-3. `00_project/SESSION_LOG.md` Eintrag ergänzen
+**V11-01 Independent Audit** — Baseline & Control Plane Consolidation
+
+V11-01 execution is complete from the executor side. Before V11-02 starts, an independent audit should verify the completion report against the actual repository state, per `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, Section 5.2 (cross-family audit preferred).
+
+Read in this order:
+
+1. `00_project/projects/V11-01_baseline_control_plane/PROJECT_BRIEF.md`
+2. `00_project/projects/V11-01_baseline_control_plane/COMPLETION_REPORT.md`
+3. `00_project/ROADMAP_V1_1.md`
+
+The audit should independently verify (not merely trust the completion narrative):
+
+- Git status as documented (branch, staged/unstaged/untracked counts, the `.git/index.lock` Hard Block),
+- Atlas compiler result (515 nodes / 2111 edges / 0 duplicate IDs / exit 0 / deterministic),
+- that W-002/W-003/W-004 are consistently `COMPLETED` across `RESEARCH_STATUS.md`, `RESEARCH_PORTFOLIO.md`, and their `completed/W0XX/README.md` files,
+- that the V1.1 control-plane files agree on status,
+- that no knowledge object or new research project was started outside V11-01 scope.
 
 ---
 
-*Hinweis (2026-07-05): Frühere, gestapelte Sprint-Zwischenstände dieser Datei wurden im Rahmen des Cowork Token Optimization Sprint 1 entfernt. Jeder entfernte Stand ist bereits vollständig und inhaltsgleich in `00_project/SESSION_LOG.md` dokumentiert (per Abgleich verifiziert, keine Information ging verloren). Details: `00_project/COWORK_TOKEN_OPTIMIZATION_SPRINT_1_REPORT.md`.*
+## After the Audit
+
+If the audit confirms the baseline is acceptable (with or without the Git Hard Block being resolved — Felix decides whether resolving it is a precondition):
+
+**V11-02 — Evidence Architecture Resolution**
+
+Execution brief: `00_project/projects/V11-02_evidence_architecture_resolution/PROJECT_BRIEF.md`
+Input available: `00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`
+
+---
+
+## Autonomy Rule
+
+Work autonomously until DONE or until one of these escalation conditions occurs:
+
+- Hard Block
+- Reserved Decision
+- Irreversible High-Impact Change
+
+Normal uncertainty: document and continue.
+
+---
+
+## Non-Scope (unchanged from V11-01)
+
+Do not start:
+
+- new book analysis,
+- new W-project (beyond processing the existing Evidence Architecture Check in V11-02),
+- new knowledge-object creation outside an accepted evidence disposition,
+- broad framework redesign,
+- delivery prototype,
+- Research Portfolio Wave 2.
+
+---
+
+## Required Finish (for the audit step)
+
+When the V11-01 audit is complete:
+
+1. create `00_project/projects/V11-01_baseline_control_plane/AUDIT_REPORT.md`,
+2. update `00_project/ROADMAP_V1_1.md` (V11-01 → COMPLETED, audited),
+3. replace this file with the V11-02 launcher,
+4. update `SESSION_BRIEF.md`,
+5. append `00_project/SESSION_LOG.md`.

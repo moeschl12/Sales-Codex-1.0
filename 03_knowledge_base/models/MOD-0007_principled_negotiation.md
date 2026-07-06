@@ -103,5 +103,15 @@ Kein E-Level-Wechsel (bleibt E3).
 
 Siehe auch: `05_research/LITERATURE_INDEX.md`, `00_project/ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`.
 
+## Erweiterung: Benevolence-/Integrity-nahe Annahmen explizit benannt (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Dieses Modell setzt implizit zwei Erwartungen an die Verhandlungspartei voraus, die W-003 als Anschlussstellen zum neu angelegten Trust-Formation-Mechanismus (MEC-0030) identifiziert: „Guter Glaube" (Element 1, „Separate the People from the Problem") entspricht konzeptionell einer **Benevolence**-Erwartung (die Gegenseite handelt nicht rein eigennützig-schädigend); „Insist on Objective Criteria" (Element 4) entspricht konzeptionell einer **Integrity**-Erwartung (Standards werden konsistent angewendet, nicht situativ zugunsten der eigenen Position verändert). Diese Verbindung ergänzt die oben bereits dokumentierte Fairness/Equity-Lücke (Adams 1965; Thibaut & Walker 1975) um die Trust-Perspektive, löst sie aber nicht auf — MOD-0007 bleibt ohne mechanistische Fundierung, warum Verhandlungsparteien einander Benevolence/Integrity zuschreiben oder nicht; MEC-0030 liefert hierfür einen möglichen, aber nicht in dieser Sitzung an Verhandlungskontexten getesteten Erklärungsrahmen.
+
+**Kein E-Level-Wechsel** (bleibt E3).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
 ## Status
-Entwurf — erstellt 2026-07-01 (SRC-0007); erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 4)
+Entwurf — erstellt 2026-07-01 (SRC-0007); erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 4); erweitert 2026-07-05 (W-003 — Benevolence-/Integrity-nahe Annahmen benannt, Cross-Link zu MEC-0030)

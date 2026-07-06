@@ -105,6 +105,16 @@ Verkäufer setzt ausschließlich auf Produktargumente ohne persönliche Verbindu
 - Gibt es Käufertypen, die Sympathie und Produkturteil strikt trennen?
 - Wie wirkt Rapport in Gremienentscheidungen, wo Teilnehmer unterschiedliche Beziehungen zum Verkäufer haben?
 
+## Erweiterung: Citation Enrichment — Rapport als affektives Liking, nicht ABI-Trust (Research Program W-003)
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Das in diesem Prinzip beschriebene "Rapport" ist im Sinne der W-003-Construct-Separation als **affektives Liking** (MEC-0007: Sympathie, wahrgenommene Ähnlichkeit, Vertrautheit) zu verstehen — nicht als kognitives Trustworthiness-Urteil (Ability/Benevolence/Integrity, MEC-0030). Beide Konstrukte sind empirisch und konzeptionell unterscheidbar: Liking enthält kein Vulnerability-/Risiko-Element, während Trust (MEC-0030) die Bereitschaft voraussetzt, sich einem Risiko auszusetzen. Diese Klärung ändert nichts an der Kernaussage des Prinzips (Rapport ist kaufentscheidend); sie präzisiert lediglich, welches der beiden benachbarten Konstrukte hier gemeint ist.
+
+**Kein E-Level-Wechsel** (bleibt vorläufig E3).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, Repository Impact Analysis.
+
 ## Status
 
-Entwurf
+Entwurf; ergänzt 2026-07-05 (W-003 — Citation Enrichment, Abgrenzung Liking vs. Trust)

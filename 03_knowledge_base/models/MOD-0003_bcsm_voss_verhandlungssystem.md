@@ -167,6 +167,18 @@ Die drei Modelle zusammen:
 - **BCSM:** In welchem emotionalen Zustand ist das Gegenüber und wie wird er kooperativ? (Emotion)
 - **Cialdini:** Welche automatischen Compliance-Trigger kann ich auf Stufe 4 nutzen? (Automatische Reaktion)
 
+## Erweiterung: Präzisierung von „Vertrauen" in Stufe 3 (Rapport) — Research Program W-003
+
+**[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
+
+Der Begriff „Vertrauensaufbau" in Stufe 3 des BCSM (siehe Kausallogische Struktur oben: „STUFE 3: RAPPORT ... → Similarity-Sympathie (MEC-0007 ext.) ... → Reaktanz deaktiviert (MEC-0003)") wurde bislang ohne mechanistische Fundierung verwendet. W-003 präzisiert: Diese Stufe entspricht überwiegend einer **affektiven** Trust-Bildung (im Sinne der bei MEC-0030 dokumentierten internen Differenzierung Cognitive/Affective Trust nach McAllister 1995) — aufgebaut über Mirroring, aktives Zuhören und Labeling, also über wiederholte, positiv erlebte Interaktion, nicht primär über explizite Kompetenz- oder Integritätsprüfung. Die in Stufe 4 (Einfluss) einsetzende Kalibrierte-Fragen-/Ackerman-Technik setzt demgegenüber bereits implizit eine gewisse **kognitive** Ability-Wahrnehmung voraus (der Verhandler wird als kompetent genug wahrgenommen, um komplexere Einflussversuche zu akzeptieren).
+
+**Cross-Link:** MEC-0030 (Vertrauensbildung aus wahrgenommener Vertrauenswürdigkeit) liefert die mechanistische Grundlage, auf die sich „Vertrauen" in diesem Modell künftig präziser beziehen kann — insbesondere die dortige Ability/Benevolence/Integrity-Struktur. Dies ist eine begriffliche Präzisierung, keine inhaltliche Änderung der BCSM-Stufenlogik selbst.
+
+**Kein E-Level-Wechsel** (bleibt E3/E2 gemäß bestehender Einstufung).
+
+Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MASTER_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, Repository Impact Analysis.
+
 ## Status
 
-Entwurf — erstellt 2026-06-30 (SRC-0003)
+Entwurf — erstellt 2026-06-30 (SRC-0003); ergänzt 2026-07-05 (W-003 — Präzisierung „Vertrauen" in Stufe 3, Cross-Link zu MEC-0030)
