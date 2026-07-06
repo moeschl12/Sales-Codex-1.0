@@ -5,36 +5,32 @@ Updated: 2026-07-06
 
 ---
 
-## Active Step
+## Active Project
 
-**V11-01 Independent Audit** — Baseline & Control Plane Consolidation
+**V11-04 — Early Delivery Vertical Slice**
 
-V11-01 execution is complete from the executor side. Before V11-02 starts, an independent audit should verify the completion report against the actual repository state, per `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, Section 5.2 (cross-family audit preferred).
+Execute autonomously according to:
 
-Read in this order:
-
-1. `00_project/projects/V11-01_baseline_control_plane/PROJECT_BRIEF.md`
-2. `00_project/projects/V11-01_baseline_control_plane/COMPLETION_REPORT.md`
+1. `PROJECT_BOOTSTRAP.md`
+2. `SESSION_BRIEF.md`
 3. `00_project/ROADMAP_V1_1.md`
-
-The audit should independently verify (not merely trust the completion narrative):
-
-- Git status as documented (branch, staged/unstaged/untracked counts, the `.git/index.lock` Hard Block),
-- Atlas compiler result (515 nodes / 2111 edges / 0 duplicate IDs / exit 0 / deterministic),
-- that W-002/W-003/W-004 are consistently `COMPLETED` across `RESEARCH_STATUS.md`, `RESEARCH_PORTFOLIO.md`, and their `completed/W0XX/README.md` files,
-- that the V1.1 control-plane files agree on status,
-- that no knowledge object or new research project was started outside V11-01 scope.
+4. `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`
+5. `00_project/V1_1_RELEASE_CRITERIA.md`
+6. `00_project/projects/V11-04_early_delivery_vertical_slice/PROJECT_BRIEF.md`
 
 ---
 
-## After the Audit
+## Open Item Carried Forward (not a launcher, a standing reminder)
 
-If the audit confirms the baseline is acceptable (with or without the Git Hard Block being resolved — Felix decides whether resolving it is a precondition):
+V11-01 was independently audited before V11-02 started — result **PASS WITH CONDITIONS**; commit and push were subsequently performed and the condition was fulfilled. V11-02 and V11-03 are completed from the executor side but **do not yet have an independent audit report**. Felix instructed to proceed directly through V11-02 and V11-03 ahead of any audit for those two — a valid exercise of editorial priority, not a governance violation, but `V1_1_RELEASE_CRITERIA.md`, Section 7, requires an audit report per completed macro-project before the final V1.1 release. The executor recommends bundling this audit work before or alongside V11-04, but does not block on it. See the three completion reports under `00_project/projects/V11-0{1,2,3}_*/COMPLETION_REPORT.md`.
 
-**V11-02 — Evidence Architecture Resolution**
+The Git Hard Block from V11-01 (`.git/index.lock`) was resolved after the V11-01 audit via commit and push.
 
-Execution brief: `00_project/projects/V11-02_evidence_architecture_resolution/PROJECT_BRIEF.md`
-Input available: `00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`
+---
+
+## Mission (V11-04)
+
+Test whether the existing knowledge architecture can produce high-quality delivery artifacts before expanding the research corpus further — one topic cluster, one publication-section fragment, one workbook exercise, one training sequence, gap classification, and a delivery-scaling recommendation. Per `00_project/projects/V11-04_early_delivery_vertical_slice/PROJECT_BRIEF.md`.
 
 ---
 
@@ -50,25 +46,26 @@ Normal uncertainty: document and continue.
 
 ---
 
-## Non-Scope (unchanged from V11-01)
+## Non-Scope
 
-Do not start:
+Do not:
 
-- new book analysis,
-- new W-project (beyond processing the existing Evidence Architecture Check in V11-02),
-- new knowledge-object creation outside an accepted evidence disposition,
-- broad framework redesign,
-- delivery prototype,
-- Research Portfolio Wave 2.
+- write a full book chapter or build a full product/app,
+- invent new sales techniques not grounded in the repository,
+- hide uncertainty for readability,
+- perform broad knowledge consolidation,
+- start a new W-project or new book analysis,
+- perform Research Portfolio Wave 2.
 
 ---
 
-## Required Finish (for the audit step)
+## Required Finish
 
-When the V11-01 audit is complete:
+When V11-04 is complete:
 
-1. create `00_project/projects/V11-01_baseline_control_plane/AUDIT_REPORT.md`,
-2. update `00_project/ROADMAP_V1_1.md` (V11-01 → COMPLETED, audited),
-3. replace this file with the V11-02 launcher,
+1. create `00_project/projects/V11-04_early_delivery_vertical_slice/COMPLETION_REPORT.md`,
+2. update `00_project/ROADMAP_V1_1.md`,
+3. replace this file with the next launcher,
 4. update `SESSION_BRIEF.md`,
-5. append `00_project/SESSION_LOG.md`.
+5. append `00_project/SESSION_LOG.md`,
+6. leave a clean Git working tree or document exactly why not (the Git Hard Block from V11-01 was resolved via commit/push after the V11-01 audit — re-verify current Git status rather than assuming either way).

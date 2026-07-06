@@ -5,6 +5,42 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-06 — Korrektur der Projektchronologie V11-01/V11-02
+
+**Session-Typ:** Redaktionelle Korrektur auf expliziten Herausgeberauftrag. Frühere Einträge in dieser Session (V11-01-, V11-02- und V11-03-Completion-Reports, `ROADMAP_V1_1.md`, `NEXT_ACTION.md`, `SESSION_BRIEF.md`, `CURRENT_STATE.md`, `SESSION_LOG.md`) behaupteten fälschlich, V11-02 sei vor dem unabhängigen Audit von V11-01 gestartet worden. Richtiggestellt: **V11-01 wurde vor Start von V11-02 unabhängig auditiert — Ergebnis PASS WITH CONDITIONS.** Anschließend wurden Commit und Push durchgeführt; die Bedingung ist damit erfüllt, und der zuvor dokumentierte Git-Hard-Block (`index.lock`) ist aufgelöst. V11-02 wurde regulär im Anschluss an den bestandenen V11-01-Audit gestartet. Unverändert bleibt: V11-03 wurde direkt im Anschluss an V11-02 gestartet, ohne eigenen zwischengeschalteten Audit für V11-02 oder V11-03 — dieser Teil der Chronologie war korrekt und wurde nicht verändert.
+
+**Korrigierte Dateien:** `00_project/projects/V11-01_baseline_control_plane/COMPLETION_REPORT.md` (keine Änderung nötig — enthielt die falsche Aussage nicht), `00_project/projects/V11-02_evidence_architecture_resolution/COMPLETION_REPORT.md`, `00_project/projects/V11-03_governance_integrity_atlas/COMPLETION_REPORT.md`, `00_project/ROADMAP_V1_1.md`, `00_project/NEXT_ACTION.md`, `SESSION_BRIEF.md`, `CURRENT_STATE.md`, `00_project/SESSION_LOG.md` (diese und die beiden vorangehenden Einträge).
+
+---
+
+## 2026-07-06 — V11-03 Governance + Repository Integrity + Atlas Operationalization — Executor-Durchlauf abgeschlossen
+
+**Session-Typ:** Ausführung des V1.1-Makroprojekts V11-03 gemäß `00_project/projects/V11-03_governance_integrity_atlas/PROJECT_BRIEF.md`, auf expliziten Herausgeberauftrag „Starte V11-03" — direkt im Anschluss an V11-02, ohne zwischengeschalteten Audit für V11-02/V11-03. V11-01 war zu diesem Zeitpunkt bereits unabhängig auditiert (PASS WITH CONDITIONS, Bedingung durch Commit/Push erfüllt). Zweites und drittes Makroprojekt in Folge ohne eigenen unabhängigen Audit; dokumentiert, nicht verschwiegen (siehe `NEXT_ACTION.md`).
+
+**Bearbeitet:** OD-006, OD-007, OD-009, OD-010, OD-011, OD-012 geprüft und mit explizitem DoD-Status versehen (implemented/partially implemented/deferred/needs Editor Decision) — keine OD geschlossen, keine neue Herausgeberentscheidung getroffen. OD-006/OD-007: bereits vorliegende Editor Decisions, Umsetzung weiterhin auf künftigen Framework Integration Sprint verschoben → „Deferred". OD-009/OD-010/OD-011/OD-012: unverändert „Needs Editor Decision", mit kontextuellen (nicht entscheidenden) Anmerkungen zum Verhältnis zu V1.1-Artefakten. `KNOWLEDGE_ATLAS_GOVERNANCE.md` (bereits Editor-freigegeben, 2026-07-05) um zwei rein additive Trigger-Zeilen („Research Program Integration", einzeln/kumuliert) und einen zweiten, real durchgeführten KPI-Zyklus ergänzt: Compiler-Lauf (515 Nodes, 2111 Edges, 0 Duplicate IDs, 2 unaufgelöste Referenzen, 18 Reference Orphans unverändert) plus unabhängig neu berechnete Connected-Components-Kennzahl (Union-Find über `edges.csv`, 206 konzeptuelle Knoten ohne ST, 1067 interne Kanten, 1 Komponente — unverändert gegenüber Sprint 1). `CURRENT_STATE.md`-Statusinkonsistenz behoben (Opening-Note verwies noch auf ausstehenden V11-01-Audit als nächsten Schritt, ohne V11-02/V11-03 zu erwähnen). `PROJECT_BOOTSTRAP.md`, `TASK_TYPES.md`, `SALES_CODEX_OPERATING_MANUAL.md` auf Widersprüche zum V1.1-Kontrollmodell geprüft — keine gefunden, keine Änderung vorgenommen.
+
+**Aktualisierte Dateien:** `00_project/OPEN_DECISIONS.md`, `00_project/KNOWLEDGE_ATLAS_GOVERNANCE.md`, `CURRENT_STATE.md`, `00_project/projects/V11-03_governance_integrity_atlas/COMPLETION_REPORT.md` (neu), `00_project/ROADMAP_V1_1.md` (V11-03 → COMPLETED, V11-04 → READY), `00_project/NEXT_ACTION.md` (Launcher → V11-04), `SESSION_BRIEF.md` (ersetzt).
+
+**Eingehaltene Leitplanken:** Keine Framework-Neuschreibung, kein neuer Wissensobjekttyp, keine Wissensbasis-Änderung, keine externen Watchdog-/Router-Systeme, keine Kategorie-Änderung ohne Reserved Decision, keine automatische Umsetzung von OD-006/OD-007 (bleibt Framework-Änderung außerhalb des V11-03-Dateiscopes). Keine Code-Änderung an `compile_atlas.py`.
+
+**Bedeutung:** Drittes vollständig durchlaufenes V1.1-Makroprojekt in Folge. Governance-, Integritäts- und Atlas-Betriebsfragen sind jetzt für die weiteren V1.1-Phasen operationalisiert. Unabhängige Audits für V11-02 und V11-03 stehen jetzt aus (V11-01 bereits auditiert, PASS WITH CONDITIONS, Bedingung erfüllt) — vom Executor als offener Punkt vor dem finalen Release-Gate empfohlen, nicht als Blockade für V11-04.
+
+---
+
+## 2026-07-06 — V11-02 Evidence Architecture Resolution — Executor-Durchlauf abgeschlossen
+
+**Session-Typ:** Ausführung des V1.1-Makroprojekts V11-02 gemäß `00_project/projects/V11-02_evidence_architecture_resolution/PROJECT_BRIEF.md`, auf expliziten Herausgeberauftrag „Starte V11-02". V11-01 wurde zuvor unabhängig auditiert — Ergebnis **PASS WITH CONDITIONS**; Commit und Push wurden durchgeführt und die Bedingung erfüllt (dokumentiert im V11-02-Completion-Report, Abschnitt 1, korrigiert 2026-07-06). V11-02 startete damit regulär nach bestandenem V11-01-Audit, nicht davor.
+
+**Bearbeitet:** `00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md` (vollständig, 418 Zeilen) gelesen und disponiert. Sieben tabellierte Befunde (Abschnitt 13) plus Programme Recommendation (Abschnitt 14) geprüft: A1 (ELM→B2B), A2 (ABI-Trust→High-Ticket-B2C), A3 (Social Identity Theory→Buying Center) — je „angenommen (präzisiert)", neue Kategorie-2-Quellen dokumentiert, kein direkter Beleg integriert; W-004/OQ-3 (Cabanelas et al. 2023 Volltextprüfung) — „angenommen, als beantwortet geschlossen"; W-004/OQ-4 (Kohli 1989) — „angenommen (präzisiert), nicht geschlossen"; B-0004/A-0019/SD-SYS-001 (CEB-53/38/9-Split) — „angenommen (präzisiert), Priorität Hoch bestätigt", Rapp et al. (2014) als verifizierte akademische Kritik ergänzt; SD-SYS-001 allgemein — unverändert. Programme Recommendation (kein W-005, kein Freeze) angenommen.
+
+**Aktualisierte Dateien:** `00_project/SCIENTIFIC_DEBT.md` (neuer Präzisierungs-Abschnitt vor „Schuldenabbau-Prioritäten", nach dem bereits etablierten Addendum-Muster von ARS-0001), `00_project/projects/V11-02_evidence_architecture_resolution/COMPLETION_REPORT.md` (neu), `00_project/ROADMAP_V1_1.md` (V11-02 → COMPLETED), `00_project/NEXT_ACTION.md` (Launcher → V11-03), `SESSION_BRIEF.md` (ersetzt).
+
+**Eingehaltene Leitplanken:** Keine Änderung an `03_knowledge_base/`-Objekten (MEC-/MOD-Präzisierungen bewusst nicht ausgeführt — außerhalb des V11-02-Dateiscopes, als Evidence-Backlog-Punkt 1 an eine künftige, Editor-freizugebende T3/T11-Aufgabe übergeben). Kein neues W-Projekt aktiviert. `RESEARCH_PORTFOLIO.md` und `OPEN_DECISIONS.md` bewusst unverändert gelassen (Begründung im Completion Report, Abschnitt 4). Dreiteiliger Evidence Backlog erstellt (max. 3 Kandidaten, DoD-konform).
+
+**Bedeutung:** Zweites vollständig durchlaufenes V1.1-Makroprojekt, direkt im Anschluss an V11-01 ohne zwischengeschalteten Audit (Herausgeberentscheidung). Zwei unabhängige Audits (V11-01, V11-02) stehen jetzt aus.
+
+---
+
 ## 2026-07-06 — V11-01 Baseline & Control Plane Consolidation — Executor-Durchlauf abgeschlossen
 
 **Session-Typ:** Ausführung des V1.1-Makroprojekts V11-01 gemäß `00_project/projects/V11-01_baseline_control_plane/PROJECT_BRIEF.md`, autonom bis DONE bzw. Hard Block (Auftrag: `00_project/V11_01_CLAUDE_EXECUTION_PROMPT.md`). Rolle: Executor Agent, keine Herausgeberentscheidung, keine neue Forschung, keine neuen Wissensobjekte.

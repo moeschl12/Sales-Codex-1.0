@@ -8,9 +8,15 @@
 
 Sales Codex Version 1.0 ist offiziell veröffentlicht und bleibt unveränderlich. Version 1.1 wurde durch Herausgeberentscheidung als autonomes Makroprojekt-Programm eröffnet.
 
-**V11-01 — Baseline & Control Plane Consolidation ist aus Executor-Sicht abgeschlossen (COMPLETED — Audit ausstehend).** Vollständiger Befund: `00_project/projects/V11-01_baseline_control_plane/COMPLETION_REPORT.md`. Ein dokumentierter, nicht-inhaltlicher Hard Block (Git-`index.lock` auf dem Dateisystem-Mount lässt sich nicht entfernen, blockiert Commit/Clean-Working-Tree) — Details im Completion Report, Abschnitt 5. Inhaltlich ist der Repository-Zustand konsistent: Git-Status, Atlas-Compiler-Lauf (515 Nodes, 2111 Edges, 0 Duplicate IDs, deterministisch), Compact Evidence Architecture Check und W-002/W-003/W-004-Konsistenz sind vollständig erfasst und dokumentiert.
+**Drei Makroprojekte abgeschlossen:**
 
-Nächster Schritt: unabhängiger Audit von V11-01 (siehe `00_project/NEXT_ACTION.md`), danach V11-02.
+- V11-01 — Baseline & Control Plane Consolidation: Git-/Atlas-/Evidence-Check-/W-002-004-Status vollständig erfasst. Vor Start von V11-02 unabhängig auditiert — Ergebnis **PASS WITH CONDITIONS**; anschließend Commit und Push durchgeführt, Bedingung erfüllt, der zuvor dokumentierte Git-Hard-Block (`index.lock`) damit aufgelöst.
+- V11-02 — Evidence Architecture Resolution (gestartet nach bestandenem V11-01-Audit, auf explizite Herausgeberanweisung): alle 7 Befunde des Compact Evidence Architecture Check disponiert, `SCIENTIFIC_DEBT.md` präzisiert, kein W-005, 3-Punkte-Evidence-Backlog.
+- V11-03 — Governance + Repository Integrity + Atlas Operationalization (auf explizite Herausgeberanweisung direkt im Anschluss an V11-02, ohne zwischengeschalteten Audit): OD-006/007/009–012 mit explizitem DoD-Status versehen (2× Deferred, 4× Needs Editor Decision); `KNOWLEDGE_ATLAS_GOVERNANCE.md` um Research-Program-Integration-Trigger und einen real gemessenen zweiten KPI-Zyklus ergänzt; Statusinkonsistenz in `CURRENT_STATE.md` behoben.
+
+**Offener Punkt:** V11-02 und V11-03 haben bislang keinen unabhängigen Audit-Report — gültige Herausgeber-Priorisierung, aber vor dem finalen V1.1-Release-Gate nachzuholen (`V1_1_RELEASE_CRITERIA.md`, Abschnitt 7).
+
+Nächster Schritt: **V11-04 — Early Delivery Vertical Slice** (noch nicht gestartet).
 
 Strategische Source of Truth:
 
@@ -19,12 +25,6 @@ Strategische Source of Truth:
 Operativer Launcher:
 
 `00_project/NEXT_ACTION.md`
-
-Nächstes Makroprojekt (nach Audit):
-
-**V11-02 — Evidence Architecture Resolution**
-
-`00_project/projects/V11-02_evidence_architecture_resolution/PROJECT_BRIEF.md`
 
 ## Aktuelle Arbeitsregel
 
