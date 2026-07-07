@@ -250,7 +250,7 @@ Kein echter Widerspruch: Man kann beide kombinieren — zuerst Quantifizierung f
 
 **Zusätzlich weiterhin gültig (unverändert durch diese Korrektur):** `MOD-0008` dokumentiert seit seiner Anlage (2026-07-01) einen eigenen Abschnitt „W-001-Status", der Pre-Suasion als orthogonal zu W-001 einordnet — dies bleibt richtig und unabhängig von der obigen Korrektur bestehen.
 
-**Korrigierter Status:** W-001 ist **COMPLETED / TEILWEISE ANGENOMMEN / KONTEXTUELL INTEGRIERT**. Der frühere Kernwiderspruch gilt nicht mehr als universeller, ungelöster Gegensatz, sondern als kontextabhängig aufgelöst durch Editor Decision und Repository Integration. Offen bleibt ausschließlich die engere empirische Moderator-Validierung (OQ-2/Problemreife als Kontextvariable, direkt kausal getestet). W-001 wird durch diese Korrektur nicht wiedereröffnet; keine neue Forschung wurde ausgelöst; keine bereits getroffene Editor Decision wird hier reinterpretiert oder erweitert.
+**Korrigierter Status:** W-001 ist **COMPLETED / TEILWEISE ANGENOMMEN / KONTEXTUELL INTEGRIERT**. Der frühere Kernwiderspruch gilt nicht mehr als universeller, ungelöster Gegensatz, sondern als kontextabhängig aufgelöst durch Editor Decision und Repository Integration. Offen bleibt ausschließlich die engere empirische Frage **OQ-2** (kanonisch: Omission-Kipppunkt im Buying Center — ab welchem Komplexitätsgrad, operationalisiert über Anzahl Buying-Center-Mitglieder und Menge bereitgestellter Produktspezifikationen, verschiebt sich die kognitive Dominanz von Verlustvermeidung zu Entscheidungslähmung; siehe oben). **Korrektur (Focused Re-Audit, Finding C-01, 2026-07-07):** Problemreife ist ein Kontextfaktor des akzeptierten W-001-Kernbefunds (neben Kontext, Sensemaking-Bedarf, Buying-Center-Dynamik) — sie ist NICHT die Identität von OQ-2 und darf nicht mit OQ-2 gleichgesetzt werden. Ein künftiger direkter empirischer Test der Problemreife könnte als eigenständige, von OQ-2 getrennte Forschungsfrage bestehen, sofern repositorygestützt. W-001 wird durch diese Korrektur nicht wiedereröffnet; keine neue Forschung wurde ausgelöst; keine bereits getroffene Editor Decision wird hier reinterpretiert oder erweitert.
 
 ## W-007 — Pre-Suasion (MEC-0018) vs. FOMU-Effekt (MEC-0016) (Nachtrag V11-05, Ursprung SPR-0002; umbenannt von W-006 im Rework 2026-07-07)
 
@@ -271,7 +271,7 @@ Kein echter Widerspruch: Man kann beide kombinieren — zuerst Quantifizierung f
 
 | ID | Typ | Status | Priorität |
 |---|---|---|---|
-| W-001 | Methodologisch | **COMPLETED / Teilweise angenommen / kontextuell integriert** (Editor Decision 2026-07-03; residuale empirische Moderator-Frage OQ-2 offen, siehe `SCIENTIFIC_DEBT.md`) | Kernkonflikt gelöst; Restfrage Niedrig-Mittel |
+| W-001 | Methodologisch | **COMPLETED / Teilweise angenommen / kontextuell integriert** (Editor Decision 2026-07-03; residuale empirische Frage OQ-2 — Omission-Kipppunkt im Buying Center, NICHT Problemreife — offen, siehe `SCIENTIFIC_DEBT.md`) | Kernkonflikt gelöst; Restfrage Niedrig-Mittel |
 | W-002 | Kontextuell | Teilaufgelöst | Mittel |
 | W-003 | Methodologisch | Scheinkonflikt (phasengebunden) | Mittel |
 | W-004 | Methodologisch | Kontextgebunden | Niedrig |
@@ -281,4 +281,4 @@ Kein echter Widerspruch: Man kann beide kombinieren — zuerst Quantifizierung f
 
 ## Status
 
-Kern (W-001 bis W-005) abgeschlossen — 2026-06-30. W-001-Nachtrag ergänzt 2026-07-07, **korrigiert 2026-07-07** (V11-05-Rework, Finding F-01 — W-001 ist tatsächlich COMPLETED, nicht ungelöst). W-007 (vormals fälschlich W-006) ergänzt und korrigiert 2026-07-07 (V11-05-Rework, Finding F-02).
+Kern (W-001 bis W-005) abgeschlossen — 2026-06-30. W-001-Nachtrag ergänzt 2026-07-07, **korrigiert 2026-07-07** (V11-05-Rework, Finding F-01 — W-001 ist tatsächlich COMPLETED, nicht ungelöst). W-007 (vormals fälschlich W-006) ergänzt und korrigiert 2026-07-07 (V11-05-Rework, Finding F-02). **OQ-2-Identität präzisiert 2026-07-07** (Focused Re-Audit, Condition C-01 — OQ-2 war fälschlich mit „Problemreife als Moderator" gleichgesetzt; kanonische Identität ist der Omission-Kipppunkt im Buying Center gemäß `06_research_program/completed/W001/OPEN_QUESTIONS.md`; Problemreife bleibt Kontextfaktor des W-001-Kernbefunds, nicht OQ-2 selbst). Condition C-01: CLOSED.

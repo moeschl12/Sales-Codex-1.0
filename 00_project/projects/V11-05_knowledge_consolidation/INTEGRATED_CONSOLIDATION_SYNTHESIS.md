@@ -1,10 +1,12 @@
 # V11-05 — Integrated Consolidation & Synthesis
 
-Status: Completed — Reworked 2026-07-07 (siehe `REWORK_REPORT.md` und `AUDIT_REPORT.md`)
-Date: 2026-07-07 (ursprünglich); Rework: 2026-07-07
+Status: Completed — Audited — PASS WITH CONDITIONS — CONDITION CLOSED (2026-07-07; siehe `REWORK_REPORT.md`, `AUDIT_REPORT.md`, `RE_AUDIT_REPORT.md`)
+Date: 2026-07-07 (ursprünglich); Rework: 2026-07-07; Focused Re-Audit Closure (C-01): 2026-07-07
 Executor: Claude (Cowork-Session)
 
 **Korrekturhinweis (Rework, Finding F-01/F-02/F-03):** Dieses Dokument wurde nach einem unabhängigen Audit (`AUDIT_REPORT.md`, Verdict REWORK REQUIRED) an drei Stellen korrigiert: (1) Abschnitt 2/3.2/5/6/7 — W-001 wurde ursprünglich fälschlich als zwischen SPR-0002/SPR-0003 „orphaned" und weiterhin ungelöst dargestellt; tatsächlich ist W-001 ein am 2026-07-03 abgeschlossenes, „teilweise angenommenes" Forschungsprojekt. (2) Abschnitt 3.3/4/5 — der Widerspruch „Pre-Suasion vs. FOMU" wurde fälschlich als W-006 geführt; W-006 ist historisch bereits für „Kognitive Leichtigkeit vs. Rational Drowning" vergeben (`SCIENTIFIC_DEBT.md`, 2026-07-01) — korrigiert auf W-007. (3) Abschnitt 4 — P-0040 wurde mit veraltetem Atlas-Status („0 MEC-Verbindungen, vollständig isoliert") beschrieben; das aktuelle Objekt trägt seit 2026-07-05 (W-003) eine explizite MEC-0030-Verlinkung. Details: `REWORK_REPORT.md`.
+
+**Korrekturhinweis (Focused Re-Audit, Condition C-01, 2026-07-07):** Der Rework selbst hatte die residuale W-001-Frage OQ-2 an mehreren Stellen (Abschnitte 3.2, 5, 6, 7) fälschlich mit „Problemreife als Moderator" gleichgesetzt. Die kanonische OQ-2-Identität (`06_research_program/completed/W001/OPEN_QUESTIONS.md`) ist der Omission-Kipppunkt im Buying Center (Komplexitätsgrad/Produktspezifikationsmenge als Kipppunktfaktoren zwischen Verlustvermeidung und Entscheidungslähmung) — nicht Problemreife. Problemreife bleibt als Kontextfaktor des akzeptierten W-001-Kernbefunds bestehen, ist aber nicht mit OQ-2 identisch. Alle betroffenen Stellen wurden korrigiert. Details: `RE_AUDIT_REPORT.md`, `00_project/CLOSURE_REPORT_V11-05_2026-07-07.md`.
 
 ---
 
@@ -57,7 +59,7 @@ Der Atlas-Sprint-1-Report (Abschnitt 3.2) formulierte als offene Frage, ob P-003
 
 **Editor Decision (2026-07-03, `06_research_program/completed/W001/06_EDITOR_DECISION.md`): Teilweise annehmen.** Kernbefund: Diagnose- und Teaching-/Sensemaking-orientierte Vertriebsansätze stehen **nicht in einem universellen Widerspruch**; ihre relative Angemessenheit ist kontextabhängig (Problemreife, Kontext, Sensemaking-Bedarf, Buying-Center-Dynamik). Die mathematische SCSM-Formalisierung wurde **abgelehnt** (Red-Team-Kritik gefolgt: 11/13 Prüfkriterien nicht erfüllt). Sechs Objekte wurden kontextbezogen erweitert (A-0020, P-0021, P-0025, MEC-0013, T-0019, T-0023). Health Check bestanden; Projekt abgeschlossen.
 
-**Residuale, tatsächlich offene Frage:** OQ-2 (`06_research_program/completed/W001/OPEN_QUESTIONS.md`) — die direkte empirische Quantifizierung des Kipppunkts zwischen Verlustvermeidung und Entscheidungslähmung im Buying Center als Funktion der Problemreife — wurde an `00_project/SCIENTIFIC_DEBT.md` übergeben und bleibt als eigenständige empirische Forschungsfrage offen. Dies ist NICHT gleichbedeutend mit einem weiterhin ungelösten Kernwiderspruch.
+**Residuale, tatsächlich offene Frage:** OQ-2 (`06_research_program/completed/W001/OPEN_QUESTIONS.md`) — die direkte empirische Quantifizierung des Kipppunkts, ab welchem Komplexitätsgrad (Anzahl Buying-Center-Mitglieder, Menge bereitgestellter Produktspezifikationen) sich die kognitive Dominanz von Verlustvermeidung zu Entscheidungslähmung (Omission Bias) verschiebt — wurde an `00_project/SCIENTIFIC_DEBT.md` übergeben und bleibt als eigenständige empirische Forschungsfrage offen. Dies ist NICHT gleichbedeutend mit einem weiterhin ungelösten Kernwiderspruch. **Korrektur (Focused Re-Audit, Condition C-01, 2026-07-07):** OQ-2 ist NICHT „Problemreife als Moderator" — Problemreife ist ein Kontextfaktor des akzeptierten W-001-Kernbefunds (siehe oben), nicht die Identität von OQ-2. Beide dürfen nicht gleichgesetzt werden.
 
 Gleichzeitig dokumentiert `MOD-0008` bereits seit seiner Anlage (2026-07-01, vor SPR-0002) einen eigenen Abschnitt „W-001-Status", der Pre-Suasion als orthogonal zu W-001 einordnet — dieser Befund bleibt unverändert gültig und unabhängig von der obigen Korrektur.
 
@@ -98,7 +100,7 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 
 | Punkt | Status | Wo dokumentiert |
 |---|---|---|
-| W-001 (Teach First vs. Diagnose First) | **Korrigiert im Rework:** COMPLETED / Teilweise angenommen / kontextuell integriert (Editor Decision 2026-07-03). Kernkonflikt nicht mehr als universeller Widerspruch geführt. Residuale, tatsächlich offene Frage: OQ-2 (empirische Moderator-Validierung der Problemreife im Buying Center) | `contradiction_matrix.md`, Nachtrag (korrigiert); `06_research_program/completed/W001/`; `00_project/SCIENTIFIC_DEBT.md` |
+| W-001 (Teach First vs. Diagnose First) | **Korrigiert im Rework, OQ-2-Identität präzisiert im Re-Audit (Condition C-01):** COMPLETED / Teilweise angenommen / kontextuell integriert (Editor Decision 2026-07-03). Kernkonflikt nicht mehr als universeller Widerspruch geführt. Residuale, tatsächlich offene Frage: OQ-2 — Omission-Kipppunkt im Buying Center (Komplexitätsgrad/Produktspezifikationsmenge), NICHT Problemreife | `contradiction_matrix.md`, Nachtrag (korrigiert); `06_research_program/completed/W001/`; `00_project/SCIENTIFIC_DEBT.md` |
 | W-002 (Liking in B2B) | Teilaufgelöst, kein Schwellenwert bekannt | `contradiction_matrix.md` (unverändert) |
 | W-006 (Kognitive Leichtigkeit vs. Rational Drowning) | Bestehender Kandidat seit 2026-07-01, unverändert — **nicht** Gegenstand dieses V11-05-Projekts | `00_project/SCIENTIFIC_DEBT.md` |
 | W-007 (Pre-Suasion vs. FOMU, vormals fälschlich W-006) | Kontextgebunden, nicht abschließend geprüft | `contradiction_matrix.md`, neu formal nachgetragen, ID korrigiert im Rework |
@@ -113,7 +115,7 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 
 | Kategorie | Punkte |
 |---|---|
-| **Research** (neue W-Projekte — nicht in V11-05 gestartet) | **Korrigiert im Rework:** Nicht mehr „W-001 empirisch prüfen" (W-001 ist abgeschlossen) — stattdessen die engere residuale Frage OQ-2 (direkte empirische Quantifizierung des Problemreife-Moderators im Buying Center, bereits an `SCIENTIFIC_DEBT.md` übergeben); B2B-Transfer für MEC-0020/Machtperspektive in Buying-Center-Kontexten (nur als Kandidat, keine Aktivierung) |
+| **Research** (neue W-Projekte — nicht in V11-05 gestartet) | **Korrigiert im Rework, OQ-2-Identität präzisiert im Re-Audit:** Nicht mehr „W-001 empirisch prüfen" (W-001 ist abgeschlossen) — stattdessen die engere residuale Frage OQ-2 (kanonisch: Omission-Kipppunkt im Buying Center, operationalisiert über Anzahl Buying-Center-Mitglieder und Produktspezifikationsmenge; NICHT Problemreife; bereits an `SCIENTIFIC_DEBT.md` übergeben); B2B-Transfer für MEC-0020/Machtperspektive in Buying-Center-Kontexten (nur als Kandidat, keine Aktivierung) |
 | **Maintenance/Scientific Debt** | MEC-0002/P-0002-Harmonisierung (bereits registriert, V11-04); MOD-0002-Terminologiepräzisierung |
 | **Governance** | T12/Status-„Validiert"-Grundsatzfrage (deferred, Felix vorbehalten) |
 | **Delivery** (informiert künftige V11-04-artige Slices, nicht in V11-05 ausgeführt) | Technik-Lücke MEC-0002 (3 NSTD-Kandidaten) als nächster sinnvoller Kandidat für eine künftige T-Objekt-Anlage, sofern Editor freigibt |
@@ -129,7 +131,7 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 | 1 | T12/Status-„Validiert"-Grundsatzfrage entscheiden | Governance | Hoch | Editor-Entscheidung (Reserved Decision — nicht durch V11-05 selbst getroffen) |
 | 2 | MEC-0002/P-0002-Evidenzlevel-Harmonisierung umsetzen | Maintenance/Scientific Debt | Mittel | T3_WARTUNG/T11_SCIDEBT-Folgeauftrag (bereits vorgemerkt) |
 | 3 | MEC-0002s drei NSTD-Technik-Kandidaten prüfen (Anchoring, Negative Leverage, Ackerman-Modell) | Synthesis/Research | Mittel | Canonicalization-Prüfung gegen bestehende T-Objekte, sofern Editor freigibt |
-| 4 | **Korrigiert im Rework:** Nicht „W-001 erneut lösen" (W-001 ist COMPLETED, Editor Decision 2026-07-03) — sondern: residuale empirische Moderator-/Transferfrage OQ-2 (Problemreife als Kipppunkt-Variable im Buying Center) eigenständig prüfen | Research | Niedrig-Mittel (bereits als Scientific-Debt-Punkt übergeben, keine Dringlichkeitseskalation) | Künftiges, eigenständiges W-Projekt zu OQ-2, kein automatischer Start; W-001 selbst bleibt geschlossen und wird nicht wiedereröffnet |
+| 4 | **Korrigiert im Rework, OQ-2-Identität präzisiert im Re-Audit (Condition C-01):** Nicht „W-001 erneut lösen" (W-001 ist COMPLETED, Editor Decision 2026-07-03) — sondern: residuale empirische Frage OQ-2 (kanonisch: Omission-Kipppunkt im Buying Center — Komplexitätsgrad/Produktspezifikationsmenge als Kipppunktfaktoren zwischen Verlustvermeidung und Entscheidungslähmung; NICHT Problemreife) eigenständig prüfen | Research | Niedrig-Mittel (bereits als Scientific-Debt-Punkt übergeben, keine Dringlichkeitseskalation) | Künftiges, eigenständiges W-Projekt zu OQ-2, kein automatischer Start; W-001 selbst bleibt geschlossen und wird nicht wiedereröffnet |
 | 5 | MEC-0021 (Anchoring, E5) und MEC-0020 (Machtperspektive, E4) auf zusätzliche P-Ableitungen prüfen | Synthesis | Mittel-Niedrig | Inhaltliche Prüfung, ob neue P-Objekte sachlich gerechtfertigt sind — kein automatisches Anlegen |
 | 6 | Deadline-/Tempo-Thema (ST-0084, ST-0228) als mögliches gemeinsames Prinzip prüfen | Synthesis | Niedrig | Inhaltliche Prüfung bei künftigem Synthese-Sprint |
 | 7 | 4 Orphan-STs mit plausibler Verlinkung (ST-0068, ST-0084, ST-0152, ST-0171) | Graph Modeling Review | Niedrig | Herausgeberentscheidung, ob ID-Referenzen nachträglich ergänzt werden |
@@ -158,3 +160,11 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 - Kein Atlas-Compiler-Lauf erzwungen.
 - W-006-Kandidat „Kognitive Leichtigkeit vs. Rational Drowning" nicht zu einem vollwertigen Matrixeintrag ausgebaut (außerhalb des Rework-Scopes).
 - Engen Relevanzscan W-001–W-004 durchgeführt (siehe `REWORK_REPORT.md`, Abschnitt 3) — keine Master-Review-Wiederholung, keine neue Theory Competition, keine neue Literaturrecherche.
+
+**Focused-Re-Audit-Ergänzung (2026-07-07, Condition C-01, siehe `RE_AUDIT_REPORT.md` und `00_project/CLOSURE_REPORT_V11-05_2026-07-07.md`):**
+
+- Nur die OQ-2-Identitätsbezeichnung korrigiert, kein neuer Rework-Zyklus, kein neues Audit durchgeführt.
+- W-001-Projektakten (`06_research_program/completed/W001/`) nicht verändert.
+- Kein Wissensobjekt verändert.
+- W-006/W-007 und P-0039/P-0040 nicht erneut bearbeitet (außerhalb des C-01-Scopes).
+- MEC-0018 nicht erneut analysiert.

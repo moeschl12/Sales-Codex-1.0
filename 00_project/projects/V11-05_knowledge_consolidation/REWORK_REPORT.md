@@ -30,7 +30,9 @@ Der Executor (diese Session) hat das Verdict nicht selbst erzeugt und klassifizi
 
 **Tatsächlicher Repository-Zustand (verifiziert über `06_research_program/completed/W001/README.md`, `06_EDITOR_DECISION.md`, `OPEN_QUESTIONS.md`, `REPOSITORY_INTEGRATION_LOG.md`):** W-001 ist ein am 2026-07-03 vollständig abgeschlossenes Forschungsprojekt — zeitlich NACH beiden Sprints, konnte also von ihnen gar nicht referenziert werden; es wurde nicht „verloren", sondern schlicht nie in die Widerspruchsmatrix zurückgespiegelt. Editor Decision: „Teilweise annehmen" — die SCSM-Formalisierung wurde verworfen (11/13 Red-Team-Kriterien nicht bestanden), der Kernbefund jedoch angenommen: diagnose- und teaching-/sensemaking-orientierte Ansätze stehen NICHT in universellem Widerspruch; ihre relative Angemessenheit ist kontextabhängig (Problemreife, Kontext, Sensemaking-Bedarf, Buying-Center-Dynamik). Sechs Objekte erweitert (A-0020, P-0021, P-0025, MEC-0013, T-0019, T-0023), kein neues Objekt, kein MOD, keine Differentialgleichung.
 
-**Residuale offene Frage:** OQ-2 (direkte empirische Prüfung der Problemreife als Moderator) bleibt als eigenständige, engere Frage offen und ist bereits an `SCIENTIFIC_DEBT.md` übergeben. Dies ist NICHT gleichbedeutend mit einem unberührten, ungelösten W-001-Kernkonflikt.
+**Residuale offene Frage:** OQ-2 (kanonisch, `06_research_program/completed/W001/OPEN_QUESTIONS.md`: Omission-Kipppunkt im Buying Center — ab welchem Komplexitätsgrad, operationalisiert über Anzahl Buying-Center-Mitglieder und Menge bereitgestellter Produktspezifikationen, verschiebt sich die kognitive Dominanz von Verlustvermeidung zu Entscheidungslähmung) bleibt als eigenständige, engere Frage offen und ist bereits an `SCIENTIFIC_DEBT.md` übergeben. Dies ist NICHT gleichbedeutend mit einem unberührten, ungelösten W-001-Kernkonflikt.
+
+**Nachträgliche Korrektur (Focused Re-Audit, Condition C-01, 2026-07-07):** Diese Zeile bezeichnete OQ-2 im ursprünglichen Rework fälschlich als „Problemreife als Moderator". Ein unabhängiges fokussiertes Re-Audit stellte fest, dass dies nicht der kanonischen OQ-2-Identität entspricht — Problemreife ist ein Kontextfaktor des W-001-Kernbefunds, nicht die Identität von OQ-2. Korrigiert in `RE_AUDIT_REPORT.md` und `00_project/CLOSURE_REPORT_V11-05_2026-07-07.md`; der ursprüngliche Fehler wird hier zur Nachvollziehbarkeit dokumentiert, nicht rückwirkend verborgen.
 
 **Durchgeführte Korrekturen (additiv, ohne W-001 wiederzueröffnen oder die Editor Decision zu reinterpretieren):**
 
@@ -39,7 +41,7 @@ Der Executor (diese Session) hat das Verdict nicht selbst erzeugt und klassifizi
 | `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md` | W-001-Nachtrag vollständig neu gefasst: COMPLETED/„Teilweise angenommen"/kontextuell integriert statt „ungelöst"; Audit-Trail-Korrekturhinweis ergänzt; Zusammenfassungstabelle aktualisiert |
 | `INTEGRATED_CONSOLIDATION_SYNTHESIS.md` (Abschnitte 2, 3.2, 5, 6, 7, 8) | Herleitung, Kernaussage, Widerspruchstabelle, Research/Maintenance-Zeile, Backlog-Punkt #4 und Non-Scope-Abschnitt korrigiert |
 | `COMPLETION_REPORT.md` (Header, Abschnitte 1, 2, 3, 5, 6, 7) | Statuszeile, Mission Result, Files Changed, DoD-Tabelle, Decisions/Escalations, Remaining Risk, Next Launcher korrigiert |
-| Backlog-Punkt #4 | Reformuliert: nicht „W-001 erneut lösen", sondern residuale empirische Moderator-/Transferfrage (OQ-2) als künftiges, eigenständiges W-Projekt — kein automatischer Start; W-001 selbst bleibt geschlossen |
+| Backlog-Punkt #4 | Reformuliert: nicht „W-001 erneut lösen", sondern residuale empirische Forschungsfrage (Omission-Kipppunkt im Buying Center) als künftiges, eigenständiges W-Projekt — kein automatischer Start; W-001 selbst bleibt geschlossen |
 | `00_project/SESSION_LOG.md` | V11-05-Phase-B-Eintrag durch Korrekturvermerk ergänzt (nicht rückwirkend überschrieben); neuer eigener Rework-Eintrag angelegt |
 | `00_project/ROADMAP_V1_1.md`, `NEXT_ACTION.md`, `SESSION_BRIEF.md`, `CURRENT_STATE.md` | W-001-Status auf allen Ebenen korrigiert, konsistent mit obiger Darstellung |
 
@@ -147,7 +149,7 @@ Kein Start von V11-06. Kein neues W-Projekt aktiviert. W-001 nicht wiedergeöffn
 | Punkt | Klassifikation | Begründung |
 |---|---|---|
 | Git Working Tree nicht vollständig clean beim Start-Check | Dokumentiert, kein Hard Block ausgelöst | HEAD = origin/main exakt bestätigt (Audit-Basis-Commit); Abweichung durch bekanntes FUSE-Mount-Sandbox-Artefakt und normalen Workflow (Editor committet separat) erklärbar; Entscheidung, keinen Hard Block auszulösen, ist eine Ermessensentscheidung dieser Session und wird hier transparent offengelegt, nicht verborgen |
-| OQ-2 (Problemreife als Moderator) | Non-blocking, künftiges Forschungsprojekt | Eigenständige empirische Frage, kein automatischer Start, an Felix/`SCIENTIFIC_DEBT.md` zurückgegeben |
+| OQ-2 (Omission-Kipppunkt im Buying Center — korrigierte Bezeichnung, siehe C-01-Nachtrag oben) | Non-blocking, künftiges Forschungsprojekt | Eigenständige empirische Frage, kein automatischer Start, an Felix/`SCIENTIFIC_DEBT.md` zurückgegeben |
 | W-006-Kandidat („Kognitive Leichtigkeit vs. Rational Drowning") | Non-blocking, außerhalb V11-05-Scope | Bleibt unverändert als Kandidat in `SCIENTIFIC_DEBT.md`; keine Ausweitung zu vollem Matrix-Eintrag in diesem Rework |
 | T12/Status-„Validiert" | Deferred Governance Clarification | Unverändert seit V11-04, erfordert Editor-Grundsatzentscheidung |
 | MEC-0002/P-0002-Harmonisierung | Non-blocking, registriert | Unverändert seit V11-04-Closure |

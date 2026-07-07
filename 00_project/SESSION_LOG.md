@@ -5,6 +5,18 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-07 — V11-05 OQ-2 Closure Fix (T3_WARTUNG) — Condition C-01 geschlossen
+
+**Session-Typ:** Gezielte Closure-Aktion auf Basis eines unabhängigen fokussierten Re-Audits (`00_project/projects/V11-05_knowledge_consolidation/RE_AUDIT_REPORT.md`, Verdict PASS WITH CONDITIONS, 0 Critical/0 Major/1 Minor). Kein neuer Rework-Zyklus, kein drittes volles Audit, keine neue Forschung, kein V11-06-Start.
+
+**Ausgangslage:** Der Rework aus der vorherigen Session korrigierte den W-001-Kernstatus erfolgreich (F-01 substantiell gelöst), F-02 (W-006/W-007) und F-03 (P-0040) vollständig. Das Re-Audit stellte jedoch fest, dass die residuale Frage OQ-2 wiederholt fälschlich als „Problemreife als Moderator" bezeichnet wurde. Kanonisch (`06_research_program/completed/W001/OPEN_QUESTIONS.md`) ist OQ-2 der Omission-Kipppunkt im Buying Center: ab welchem Komplexitätsgrad (Anzahl Buying-Center-Mitglieder, Menge Produktspezifikationen) verschiebt sich die kognitive Dominanz von Verlustvermeidung zu Entscheidungslähmung. Problemreife ist ein Kontextfaktor des W-001-Kernbefunds, aber nicht die Identität von OQ-2.
+
+**Durchgeführte Korrektur (Condition C-01):** Alle betroffenen Stellen in `contradiction_matrix.md`, `INTEGRATED_CONSOLIDATION_SYNTHESIS.md`, `COMPLETION_REPORT.md`, `REWORK_REPORT.md` und den Control-Plane-Dateien (`ROADMAP_V1_1.md`, `NEXT_ACTION.md`, `CURRENT_STATE.md`, `SESSION_BRIEF.md`, dieser Eintrag) korrigiert — OQ-2 durchgängig als „Omission-Kipppunkt im Buying Center" geführt, Problemreife nicht mehr mit OQ-2 gleichgesetzt. `RE_AUDIT_REPORT.md` und `00_project/CLOSURE_REPORT_V11-05_2026-07-07.md` erstellt.
+
+**Ergebnis:** Status **V11-05 — COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITION CLOSED.** `V11-06 — Research Portfolio Wave 2` ist **READY — NEXT LAUNCHER — NOT STARTED** (Editor-Autorisierung erforderlich, nicht automatisch gestartet). Kein Wissensobjekt verändert, keine W-001-Projektakte verändert, kein neues W-Projekt, kein Evidence-Level geändert, T12 nicht aktiviert, Re-Audit-Verdict nicht auf PASS umgeschrieben, ursprünglicher `AUDIT_REPORT.md` (REWORK REQUIRED) bleibt historisch unverändert bestehen.
+
+---
+
 ## 2026-07-07 — V11-05 Targeted Audit Rework (T3_WARTUNG)
 
 **Session-Typ:** Gezielter Rework auf Basis eines unabhängigen, verbindlichen externen Audits (`00_project/projects/V11-05_knowledge_consolidation/AUDIT_REPORT.md`, Verdict REWORK REQUIRED, 0 Critical/1 Major/3 Minor). Kein V11-05-Neustart, keine neue Konsolidierungsrunde, keine neue Forschung, kein V11-06-Start.
@@ -20,6 +32,8 @@ Neueste Einträge oben.
 **F-04 (MINOR) — Re-Audit-Evidenzhinlänglichkeit:** Zwei historische Provenienzbehauptungen (SPR-0002/SPR-0003) waren im geschlossenen Audit-Bundle nicht unabhängig prüfbar, da Rohquellen fehlten. Keine Änderung an den Quellberichten; Re-Audit-Paket-Anforderungen in `REWORK_REPORT.md` festgehalten.
 
 **Ergebnis:** `00_project/projects/V11-05_knowledge_consolidation/REWORK_REPORT.md` erstellt. Status: **V11-05 — COMPLETED, REWORKED, AWAITING INDEPENDENT RE-AUDIT.** V11-06 bleibt **BLOCKED — NOT STARTED**, abhängig von erfolgreichem Re-Audit. Kein Wissensobjekt verändert, kein Evidence Level geändert, T12 nicht aktiviert, kein neues W-Projekt, Audit-Verdict nicht umklassifiziert.
+
+**Korrigiert (Focused Re-Audit, Condition C-01, 2026-07-07, siehe Eintrag oben):** Die obige F-01-Zeile bezeichnete die residuale W-001-Frage als „OQ-2: Problemreife als Moderator". Ein fokussiertes unabhängiges Re-Audit stellte fest, dass dies nicht der kanonischen OQ-2-Identität entspricht (Omission-Kipppunkt im Buying Center, nicht Problemreife). Korrigiert in allen betroffenen Dateien; Details siehe C-01-Closure-Eintrag oben und `RE_AUDIT_REPORT.md`.
 
 ---
 

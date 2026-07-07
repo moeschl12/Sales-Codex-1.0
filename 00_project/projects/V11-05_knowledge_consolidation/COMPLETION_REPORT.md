@@ -1,10 +1,10 @@
 # V11-05 — Knowledge Consolidation & Integrated Synthesis — Completion Report
 
-Status: Completed — Reworked 2026-07-07 (siehe `AUDIT_REPORT.md`, Verdict REWORK REQUIRED, und `REWORK_REPORT.md`)
-Date: 2026-07-07 (ursprünglich); Rework: 2026-07-07
+Status: Completed — Audited — PASS WITH CONDITIONS — CONDITION CLOSED (2026-07-07; siehe `AUDIT_REPORT.md` [REWORK REQUIRED, historisch], `REWORK_REPORT.md`, `RE_AUDIT_REPORT.md` [PASS WITH CONDITIONS])
+Date: 2026-07-07 (ursprünglich); Rework: 2026-07-07; Focused Re-Audit Condition C-01 Closure: 2026-07-07
 Executor: Claude (Cowork-Session)
 
-**Korrekturhinweis:** Dieser Report wurde nach einem unabhängigen Audit (0 Critical/1 Major/3 Minor) an den unten markierten Stellen korrigiert. Details: `REWORK_REPORT.md`.
+**Korrekturhinweis:** Dieser Report wurde nach einem unabhängigen Audit (0 Critical/1 Major/3 Minor) an den unten markierten Stellen korrigiert. Details: `REWORK_REPORT.md`. Ein anschließendes fokussiertes Re-Audit (0 Critical/0 Major/1 Minor) fand eine verbleibende OQ-2-Identitätsverwechslung (Condition C-01), die ebenfalls korrigiert wurde. Details: `RE_AUDIT_REPORT.md`, `00_project/CLOSURE_REPORT_V11-05_2026-07-07.md`.
 
 ---
 
@@ -69,7 +69,7 @@ Keine breite mechanische Überarbeitung, kein neues Forschungsprojekt, keine Evi
 
 Eine dokumentationswürdige Klarstellung: Die Aktualisierung der Atlas-Sprint-1-Report-Priorität #1 (MEC-0018-Sichtbarkeit) von „ausstehend" auf „bereits erfüllt" ist eine auf direkter Objektprüfung basierende Tatsachenfeststellung, keine Governance-Entscheidung — sie verändert keinen Objektinhalt, sondern nur die Statuseinschätzung einer bereits gestellten offenen Frage.
 
-Die T12-Grundsatzfrage bleibt ausdrücklich unentschieden (Reserved Decision, an Felix zurückgegeben). **Korrigiert im Rework (Finding F-01):** W-001 selbst ist KEINE offene Hypothese mehr — das Kernprojekt ist abgeschlossen (Editor Decision „Teilweise annehmen", 2026-07-03). Offen bleibt ausschließlich die engere residuale empirische Frage (OQ-2: Problemreife als Moderator), die als künftiges, eigenständiges Forschungsprojekt an Felix zurückgegeben wird — nicht als Fortsetzung oder Wiedereröffnung von W-001.
+Die T12-Grundsatzfrage bleibt ausdrücklich unentschieden (Reserved Decision, an Felix zurückgegeben). **Korrigiert im Rework (Finding F-01):** W-001 selbst ist KEINE offene Hypothese mehr — das Kernprojekt ist abgeschlossen (Editor Decision „Teilweise annehmen", 2026-07-03). Offen bleibt ausschließlich die engere residuale empirische Frage (OQ-2: Omission-Kipppunkt im Buying Center — Komplexitätsgrad/Produktspezifikationsmenge als Kipppunkt zwischen Verlustvermeidung und Entscheidungslähmung), die als künftiges, eigenständiges Forschungsprojekt an Felix zurückgegeben wird — nicht als Fortsetzung oder Wiedereröffnung von W-001.
 
 ---
 
@@ -79,7 +79,7 @@ Die T12-Grundsatzfrage bleibt ausdrücklich unentschieden (Reserved Decision, an
 |---|---|---|
 | T12/Status-„Validiert" | Deferred Governance Clarification | Erfordert Editor-Grundsatzentscheidung, nicht durch V11-05 lösbar |
 | MEC-0002/P-0002-Harmonisierung | Non-blocking, registriert | Bereits in `SCIENTIFIC_DEBT.md` (V11-04-Closure) — hier nur referenziert |
-| W-001 Restfrage (OQ-2: Problemreife als Moderator) | Korrigiert im Rework (Finding F-01) — non-blocking, künftiges Forschungsprojekt | W-001-Kernprojekt ist ABGESCHLOSSEN (Editor Decision „Teilweise annehmen", 2026-07-03); nur die engere empirische Moderatorfrage OQ-2 bleibt offen und an `SCIENTIFIC_DEBT.md`/Felix zurückgegeben; kein neues W-Projekt in V11-05 gestartet, W-001 nicht wiedereröffnet |
+| W-001 Restfrage (OQ-2: Omission-Kipppunkt im Buying Center) | Korrigiert im Rework (Finding F-01), OQ-2-Identität präzisiert im Focused Re-Audit (Condition C-01, CLOSED) — non-blocking, künftiges Forschungsprojekt | W-001-Kernprojekt ist ABGESCHLOSSEN (Editor Decision „Teilweise annehmen", 2026-07-03); nur die engere empirische Frage OQ-2 (kanonisch: Komplexitätsgrad/Produktspezifikationsmenge als Kipppunkt zwischen Verlustvermeidung und Entscheidungslähmung — NICHT Problemreife) bleibt offen und an `SCIENTIFIC_DEBT.md`/Felix zurückgegeben; kein neues W-Projekt in V11-05 gestartet, W-001 nicht wiedereröffnet |
 | W-007 (Pre-Suasion vs. FOMU) — ID-Korrektur | Korrigiert im Rework (Finding F-02) | Ursprünglich fälschlich als W-006 vergeben; korrigiert auf W-007, da W-006 bereits seit 2026-07-01 für „Kognitive Leichtigkeit vs. Rational Drowning" reserviert ist; Audit Trail in `contradiction_matrix.md` dokumentiert |
 | 4 Orphan-ST-Verlinkungsvorschläge | Non-blocking, Herausgeberentscheidung ausstehend | Bewusst nicht automatisch umgesetzt (Graph Modeling Review, nicht Auto-Fix) |
 
