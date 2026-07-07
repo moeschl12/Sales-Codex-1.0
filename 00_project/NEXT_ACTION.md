@@ -1,38 +1,34 @@
 # Next Action — V1.1 Launcher
 
 Status: Active
-Updated: 2026-07-06
+Updated: 2026-07-07
 
 ---
 
-## Next Launcher (Ready — Not Yet Started)
+## Next Launcher (Blocked — Awaiting Independent Audit)
 
-**V11-04 — Early Delivery Vertical Slice**
+**V11-05 — Knowledge Consolidation & Integrated Synthesis: COMPLETED, awaiting independent audit.**
 
-Not started in any session yet. Cleared to start after the V11-02/V11-03 bundled audit closure below. Execute autonomously according to:
+Completion report: `00_project/projects/V11-05_knowledge_consolidation/COMPLETION_REPORT.md`. Main artifact: `00_project/projects/V11-05_knowledge_consolidation/INTEGRATED_CONSOLIDATION_SYNTHESIS.md`. Precisified two Atlas Sprint 1 findings via direct object verification; recovered an orphaned research question (W-001 Problemreife) and a never-formalized tension (W-006) into `contradiction_matrix.md`; produced a 9-item prioritized consolidation backlog. No knowledge object changed, no new research project, T12 remains inactive.
 
-1. `PROJECT_BOOTSTRAP.md`
-2. `SESSION_BRIEF.md`
-3. `00_project/ROADMAP_V1_1.md`
-4. `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`
-5. `00_project/V1_1_RELEASE_CRITERIA.md`
-6. `00_project/projects/V11-04_early_delivery_vertical_slice/PROJECT_BRIEF.md`
+**V11-06 — Research Portfolio Wave 2** is the next macro-project after V11-05, but should not start until V11-05 has an independent audit on record (same pattern as V11-01 through V11-04).
 
 ---
 
-## Audit Closure Status (V11-01 through V11-03)
+## Audit Closure Status (V11-01 through V11-05)
 
-- V11-01 — Baseline & Control Plane Consolidation: COMPLETED, audited **PASS WITH CONDITIONS** (condition — commit/push — fulfilled; Git Hard Block `.git/index.lock` resolved).
-- V11-02 — Evidence Architecture Resolution: COMPLETED, audited **PASS**. See `00_project/projects/V11-02_evidence_architecture_resolution/AUDIT_REPORT.md`.
-- V11-03 — Governance + Repository Integrity + Atlas Operationalization: COMPLETED, audited **PASS WITH CONDITIONS**; condition (status-consistency cleanup in `CURRENT_STATE.md` + closure documentation) fulfilled by this closure session — **condition closed**. See `00_project/projects/V11-03_governance_integrity_atlas/AUDIT_REPORT.md`.
-- Cross-Project Consistency (bundled audit V11-02/V11-03): **CONSISTENT WITH MINOR DRIFT**.
-- V11-04 readiness: **may start after this closure** — see Next Launcher above. Not started in this or any prior session.
+- V11-01: COMPLETED, audited **PASS WITH CONDITIONS** (condition fulfilled).
+- V11-02: COMPLETED, audited **PASS**.
+- V11-03: COMPLETED, audited **PASS WITH CONDITIONS** (condition closed).
+- V11-04: COMPLETED, audited **PASS WITH CONDITIONS** (0 Critical, 0 Major, 4 Minor; all closed).
+- V11-05: COMPLETED 2026-07-07, **not yet independently audited**.
 
----
+**Open, non-blocking items carried forward at program level:**
 
-## Mission (V11-04)
-
-Test whether the existing knowledge architecture can produce high-quality delivery artifacts before expanding the research corpus further — one topic cluster, one publication-section fragment, one workbook exercise, one training sequence, gap classification, and a delivery-scaling recommendation. Per `00_project/projects/V11-04_early_delivery_vertical_slice/PROJECT_BRIEF.md`.
+1. T12 ("Publikationsarbeit") governance question — deferred, T12 remains inactive.
+2. MEC-0002/P-0002 evidence-level harmonization — registered in `00_project/SCIENTIFIC_DEBT.md`.
+3. W-001 Problemreife-Hypothese — open research question, no W-project activated.
+4. W-006 (Pre-Suasion vs. FOMU tension) — formally documented in `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md`.
 
 ---
 
@@ -48,26 +44,7 @@ Normal uncertainty: document and continue.
 
 ---
 
-## Non-Scope
+## Required Finish (for whoever runs the V11-05 audit or starts V11-06)
 
-Do not:
-
-- write a full book chapter or build a full product/app,
-- invent new sales techniques not grounded in the repository,
-- hide uncertainty for readability,
-- perform broad knowledge consolidation,
-- start a new W-project or new book analysis,
-- perform Research Portfolio Wave 2.
-
----
-
-## Required Finish
-
-When V11-04 is complete:
-
-1. create `00_project/projects/V11-04_early_delivery_vertical_slice/COMPLETION_REPORT.md`,
-2. update `00_project/ROADMAP_V1_1.md`,
-3. replace this file with the next launcher,
-4. update `SESSION_BRIEF.md`,
-5. append `00_project/SESSION_LOG.md`,
-6. leave a clean Git working tree or document exactly why not (the Git Hard Block from V11-01 was resolved via commit/push after the V11-01 audit — re-verify current Git status rather than assuming either way).
+1. Independently verify V11-05 against `00_project/projects/V11-05_knowledge_consolidation/PROJECT_BRIEF.md` Definition of Done and produce `00_project/projects/V11-05_knowledge_consolidation/AUDIT_REPORT.md`.
+2. Update `00_project/ROADMAP_V1_1.md`, this file, `SESSION_BRIEF.md`, and `00_project/SESSION_LOG.md` to reflect the audit result before starting V11-06.

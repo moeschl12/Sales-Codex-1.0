@@ -415,6 +415,18 @@ Diese Punkte sind bewusst **nicht** als neue Wissensobjekte angelegt (Begründun
 
 ---
 
+### V11-04 Early Delivery Vertical Slice (2026-07-07) — Evidenzlevel-Harmonisierungsbedarf MEC-0002/P-0002
+
+**Hinweis:** Dieser Eintrag entstammt dem Delivery Traceability Check des V1.1-Makroprojekts `V11-04 — Early Delivery Vertical Slice` (`00_project/projects/V11-04_early_delivery_vertical_slice/COMPLETION_REPORT.md`) und wurde durch den nachfolgenden unabhängigen Audit (`00_project/projects/V11-04_early_delivery_vertical_slice/AUDIT_REPORT.md`) als **MINOR EVIDENCE DRIFT / HARMONIZATION NEED, kein harter Widerspruch** eingestuft. Kein bestehender Eintrag wird durch diese Registrierung herab- oder hochgestuft; keine E-Level-Änderung an MEC-0002 oder P-0002; kein neues Wissensobjekt.
+
+| Betroffener Eintrag | Disposition | Präzisierung | Priorität |
+|---|---|---|---|
+| P-0002 (Lösungswert folgt Problemgewicht) vs. MEC-0002 (Verlustaversion und Kosten des Status quo) | Registriert — **Harmonisierungsbedarf, nicht aufgelöst** | P-0002 stuft sich selbst als „E4-Kandidat" ein. MEC-0002, das P-0002 als primären Mechanismus benennt, differenziert dagegen explizit zwischen E4 für den allgemeinen Grundmechanismus und **E3** für die spezifische Anwendung auf Kaufentscheidungen im Vertriebskontext (SRC-0001) — genau die Anwendungsebene, auf der P-0002 argumentiert. Die Aussagen sind eng verwandt, aber nicht vollständig propositionell identisch; P-0002 begründet seine höhere Selbsteinstufung nicht eigenständig gegenüber MEC-0002. Gefunden während des Delivery Traceability Checks von V11-04 (Kapitelfragment `05_publications/sales_codex_book/Kapitelfragment_Verlustaversion_und_Implikationsfragen.md`, Abschnitt „Evidenzlage"). | Niedrig — nicht blockierend für Delivery-Nutzung, sofern Evidenzlevel-Kennzeichnung wie im Kapitelfragment transparent gemacht wird |
+
+**Empfohlene, nicht ausgeführte Maßnahme:** Eigenständige Prüfung, ob P-0002s „E4-Kandidat"-Einstufung durch zusätzliche, von MEC-0002 unabhängige Evidenz getragen wird, oder ob sie auf E3 (konsistent mit MEC-0002s Vertriebsanwendungs-Einstufung) zu präzisieren ist. Liegt außerhalb des V11-04-Dateiscopes (keine Wissensobjekt-Änderung) und außerhalb dieser Closure (keine Wissensobjekt-Änderung, keine Evidence-Level-Änderung) — vorgemerkt für eine künftige, Editor-freizugebende T3_WARTUNG/T11_SCIDEBT-Aufgabe, analog zum bestehenden Verfahren für Evidence-Backlog-Punkt 1 aus V11-02.
+
+---
+
 ## Schuldenabbau-Prioritäten
 
 1. **Hoch (sofort):** Validierungssprint MEC-0010/0011 — Fremd-Labeling (RQ-0010-2) + Behavioral Mirroring (RQ-0011-4) + Spiegelneuronen-Status (RQ-0011-3)

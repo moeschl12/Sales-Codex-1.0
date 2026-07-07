@@ -238,16 +238,40 @@ Kein echter Widerspruch: Man kann beide kombinieren — zuerst Quantifizierung f
 
 ---
 
+## W-001 — Nachtrag (V11-05, 2026-07-07)
+
+**Hinweis:** Diese Präzisierung entstammt dem V1.1-Makroprojekt `V11-05 — Knowledge Consolidation & Integrated Synthesis` (`00_project/projects/V11-05_knowledge_consolidation/COMPLETION_REPORT.md`). Sie ergänzt den bestehenden W-001-Eintrag additiv, ersetzt ihn nicht.
+
+W-001 wurde in `04_synthesis/SPR-0002_Research_Synthesis/SPR-0002_SYNTHESEBERICHT.md` (RQ4, 2026-07-01) zur „Problemreife-Hypothese" präzisiert (dreistufige Kontextvariable: Unbekanntes/unterschätztes/bereits schmerzhaftes Problem) und explizit als Forschungsfrage für den nächsten Sprint priorisiert ("OFFENE FRAGEN FÜR SPR-0003", Punkt 1). SPR-0003 (2026-07-02, Behavioral Science Expansion: fünf andere Bücher — Emotional Intelligence, Predictably Irrational, Nudge, Priceless, Made to Stick) behandelt diese Frage nicht — thematisch divergiert der Sprint-Fokus. Die Problemreife-Hypothese blieb seither unbeantwortet und wurde in keinem nachfolgenden Synthesebericht wieder aufgegriffen.
+
+Unabhängig davon dokumentiert `03_knowledge_base/models/MOD-0008_pre_suasion_modell.md` bereits seit seiner Anlage (2026-07-01) einen eigenen Abschnitt „W-001-Status": Pre-Suasion (MEC-0018/MOD-0008) wird dort als orthogonal zu W-001 eingeordnet ("Es beantwortet die Frage, WAS der erste Schritt sein soll, indem es sagt: Was auch immer du tust, tue es so, dass du den richtigen psychologischen Rahmen erzeugst. Beide Ansätze... profitieren von Pre-Suasion."). Diese objektebene Einordnung wurde nie in einen Synthesebericht oder in diese Widerspruchsmatrix zurückgeführt — ein Beispiel dafür, dass Objekt-Ebene und Synthese-Ebene im Codex nicht immer synchron gehalten werden.
+
+**Status W-001 bleibt UNGELÖST auf der Kernfrage (Teach First vs. Diagnose First als Sequenzentscheidung).** Weder die Problemreife-Hypothese noch die MOD-0008-Orthogonalitäts-Einordnung lösen den Kern-Widerspruch auf; sie grenzen lediglich einen Randbereich (Pre-Suasion-Timing) korrekt ab. Keine neue Forschung wurde durch diesen Nachtrag ausgelöst; die Präzisierung ist rein dokumentarisch.
+
+## W-006 — Pre-Suasion (MEC-0018) vs. FOMU-Effekt (MEC-0016) (Nachtrag V11-05, Ursprung SPR-0002)
+
+**Typ:** Kontextuell
+**Status:** Nicht vollständig dokumentiert — von SPR-0002 als „neue Spannung" benannt, aber nie als vollwertiger Matrixeintrag mit Betroffene-Objekte/Auflösungsansatz-Struktur nachgetragen. Dieser Nachtrag schließt die Lücke formal, ohne den Inhalt über das hinaus zu erweitern, was SPR-0002 bereits festgestellt hat.
+
+**Betroffene Wissensobjekte:** MEC-0018 (Pre-Suasion/Attentionale Vorbereitung), MEC-0016 (FOMU — Antizipatorische Reue)
+
+**Beschreibung (aus SPR-0002, RQ4, unverändert übernommen):** Priming-basierte Dringlichkeitserzeugung (MEC-0018) kann FOMU verstärken, wenn der Käufer bereits post-FOMO ist. SD-B010-001 (Priming-Replikationskrise) schwächt MEC-0018's wissenschaftliche Basis zusätzlich — die Spannung ist kontextabhängig, keine vollständige Widerspruchsdokumentation, aber für künftige Validierung relevant.
+
+**Auflösungsstatus:** Kontextgebunden/nicht abschließend geprüft — konsistent mit dem bereits in Abschnitt 9 der `00_project/KNOWLEDGE_ATLAS_CONTENT_ANALYSIS_SPRINT_1_REPORT.md` dokumentierten MEC-0018-Evidenzrisiko. Keine neue Recherche in diesem Nachtrag.
+
+---
+
 ## WIDERSPRUCHS-ZUSAMMENFASSUNG
 
 | ID | Typ | Status | Priorität |
 |---|---|---|---|
-| W-001 | Methodologisch | UNGELÖST | ⭐ Kritisch (Sprint 2) |
+| W-001 | Methodologisch | UNGELÖST (Problemreife-Hypothese seit SPR-0002 unbeantwortet, s. Nachtrag oben) | ⭐ Kritisch |
 | W-002 | Kontextuell | Teilaufgelöst | Mittel |
 | W-003 | Methodologisch | Scheinkonflikt (phasengebunden) | Mittel |
 | W-004 | Methodologisch | Kontextgebunden | Niedrig |
 | W-005 | Konzeptuell | Scheinkonflikt (komplementär) | Niedrig |
+| W-006 | Kontextuell | Nicht vollständig dokumentiert (Nachtrag V11-05, Ursprung SPR-0002) | Niedrig |
 
 ## Status
 
-Abgeschlossen — 2026-06-30
+Kern (W-001 bis W-005) abgeschlossen — 2026-06-30. W-001-Nachtrag und W-006 ergänzt — 2026-07-07 (V11-05 Knowledge Consolidation & Integrated Synthesis).

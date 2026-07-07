@@ -5,6 +5,39 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-07 — V11-04 Audit Closure + V11-05: Knowledge Consolidation & Integrated Synthesis (abgeschlossen, noch nicht auditiert)
+
+**Session-Typ:** Zweiphasiger Herausgeberauftrag — Phase A (T3_WARTUNG Audit Closure für V11-04) strikt vor Phase B (V11-05-Makroprojekt), kein Zwischenbericht zwischen den Phasen.
+
+**Phase A — V11-04 Audit Closure:** Verbindliches Audit-Ergebnis (PASS WITH CONDITIONS, 0 Critical/0 Major/4 Minor) persistiert unter `00_project/projects/V11-04_early_delivery_vertical_slice/AUDIT_REPORT.md`. Vier Minor Findings geschlossen: (F-1) T12/Status-„Validiert"-Überklaim von „im gesamten Repository" auf den tatsächlich geprüften Scope (`03_knowledge_base/`) präzisiert, in `COMPLETION_REPORT.md`, `SESSION_BRIEF.md` und dem Kapitelfragment korrigiert — kein Governance-Verstoß durch V11-04, T12 bleibt inaktiv; (F-2) stale Git-Artefakt-Claim in diesem Session-Log korrigiert (siehe Eintrag unten); (F-3) Files-Changed-Tabelle im V11-04-Completion-Report um die fünf tatsächlich synchronisierten Control-Plane-Dateien ergänzt; (F-4) MEC-0002/P-0002-Evidenzlevel-Harmonisierung in `SCIENTIFIC_DEBT.md` registriert (neuer Abschnitt, keine Objektänderung). Closure Report: `00_project/CLOSURE_REPORT_V11-04_2026-07-07.md`. Phase-A-Gate (12 Kriterien A–L) bestanden — direkt mit Phase B fortgefahren, ohne Rückfrage.
+
+**Phase B — V11-05:** Konsolidierungsanalyse ohne Neurecherche, ausschließlich aus bereits vorhandenen Quellen (Atlas-Sprint-1-Report, SPR-0001/0002/0003, V11-04). Hauptartefakt: `00_project/projects/V11-05_knowledge_consolidation/INTEGRATED_CONSOLIDATION_SYNTHESIS.md`. Zwei durch direkte Objektprüfung präzisierte Befunde: (1) Die im Atlas-Report vermutete MEC-0018-Evidenzunsicherheits-Vererbung an P-0035/P-0036/P-0041/MOD-0008 trifft nur auf 2 von 4 Objekten tatsächlich zu (P-0036 und P-0041 sind unabhängig fundiert) — und die betroffenen zwei (P-0035, MOD-0008) tragen die Warnung bereits seit 2026-07-03; die Atlas-Report-Empfehlung „Editorial Review Priority, Hoch" ist damit bereits erfüllt, nicht mehr offen. (2) Eine zwischen SPR-0002 (2026-07-01, „Offene Fragen für SPR-0003") und SPR-0003 (2026-07-02, anderer Themenfokus) verlorene Forschungsfrage (W-001-Problemreife-Hypothese) sowie eine in SPR-0002 benannte, aber nie formal nachgetragene Spannung (W-006, Pre-Suasion vs. FOMU) wurden identifiziert und additiv in `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md` nachgetragen (kein bestehender Eintrag verändert oder gelöscht). Priorisierter 9-Punkte-Konsolidierungs-Backlog erstellt, sauber getrennt nach Research/Maintenance/Governance/Delivery. Keine Wissensobjekt-Änderung, kein neues Forschungsprojekt, keine Evidence-Level-Änderung, T12 nicht aktiviert, V11-06 nicht gestartet.
+
+**Korrigiert (V11-04 Audit Closure, 2026-07-07, siehe Phase A oben):** Die vorherige Aussage im nachfolgenden V11-04-Eintrag zu angeblich fortbestehenden, unerklärten Git-Artefakten war veraltet/ungenau. Der bindende V11-04-Audit-Snapshot zeigte ausschließlich das erwartete V11-04-Change-Set. Die entsprechende Passage im V11-04-Eintrag wurde direkt korrigiert (nicht hier dupliziert).
+
+---
+
+## 2026-07-07 — V11-04: Early Delivery Vertical Slice (abgeschlossen, noch nicht auditiert)
+
+**Session-Typ:** Editor-Auftrag „start v11-04" — autonome Ausführung von V11-04 gemäß `00_project/projects/V11-04_early_delivery_vertical_slice/PROJECT_BRIEF.md`.
+
+**Themen-Cluster-Auswahl:** MEC-0002 (Verlustaversion und Kosten des Status quo) ausgewählt anhand der Struktur×Evidenz-Matrix aus `KNOWLEDGE_ATLAS_CONTENT_ANALYSIS_SPRINT_1_REPORT.md` — Rang 1 in allen vier Zentralitätsmaßen, Evidenzlevel E4, „Robuster Kern" (im Gegensatz zu MEC-0018, „Strategisches Evidenzrisiko", nicht gewählt). Bewusst schmale Sub-Kette verwendet (P-0002, P-0004, P-0006, T-0002, T-0003, MOD-0001), nicht alle 13 verknüpften P-/9 T-/6 MOD-Objekte — vermeidet die ausgeschlossene „breite Wissenskonsolidierung".
+
+**Erstellte Auslieferungsartefakte (alle drei DoD-Formate):** Publikationsfragment `05_publications/sales_codex_book/Kapitelfragment_Verlustaversion_und_Implikationsfragen.md`; Workbook-Übung `05_publications/workbook/Workbook_Uebung_Implikationsfragen_Formulieren.md`; Trainingssequenz `05_publications/trainings/Trainingssequenz_Verlustaversion_und_Problemgewicht.md`. Alle drei durchgängig mit Evidenzlevel-Kennzeichnung, Grenzen-Abschnitten und Quellenverweisen; keine erfundenen Techniken oder Quellen.
+
+**Zwei dokumentierte Befunde (nicht geglättet):**
+
+1. **Task-Typ-Konformitäts-Frage:** `TASK_TYPES.md` definiert T12 („Publikationsarbeit") mit der Regel, dass nur Objekte mit Status „Validiert" verwendet werden dürfen, kennzeichnet T12 aber selbst als „vorbereitet, noch nicht aktiv". Eine repositoryweite Prüfung ergab: kein einziges Objekt in `03_knowledge_base/` trägt derzeit den Status „Validiert" (alle stehen auf „Entwurf"). V11-04 wurde daher unter der Editor-Autorisierung des V11-04-Projektbriefs ausgeführt, nicht unter T12; `TASK_TYPES.md` wurde nicht verändert. Diese Abweichung ist in allen drei Artefakten selbst dokumentiert und wird dem Audit/Herausgeber als offene Klärungsfrage übergeben.
+2. **Evidenzlevel-Diskrepanz:** Beim Delivery Traceability Check gefunden: P-0002 stuft sich selbst als „E4-Kandidat" ein, während MEC-0002 (sein eigener primärer Mechanismus) dieselbe Vertriebsanwendung explizit mit E3 einstuft. Im Kapitelfragment dokumentiert, nicht korrigiert (keine Wissensobjekt-Änderung im V11-04-Scope) — zur Behebung an einen künftigen T3/T11-Wartungsauftrag übergeben.
+
+**Gaps klassifiziert** (missing examples / missing bridges / missing competencies / weak evidence / unclear audience) und **Delivery-Scaling-Empfehlung** (nicht breit skalieren, T12-Frage vorab klären) — vollständig in `00_project/projects/V11-04_early_delivery_vertical_slice/COMPLETION_REPORT.md`.
+
+**Keine Änderung an `03_knowledge_base/`. Kein neues Makroprojekt. V11-04 ist COMPLETED, aber noch nicht unabhängig auditiert** — Audit ist der empfohlene nächste Schritt vor V11-05.
+
+**Korrigiert (V11-04 Audit Closure, 2026-07-07):** Die vorherige Aussage in diesem Eintrag zu angeblich fortbestehenden, unerklärten Git-Artefakten war veraltet/ungenau. Der bindende V11-04-Audit-Snapshot zeigte ausschließlich das erwartete V11-04-Change-Set (die oben genannten Publikations- und Control-Plane-Dateien). Diese Zeile wird entsprechend korrigiert; kein anderer Teil dieses oder anderer Session-Log-Einträge wurde rückwirkend verändert.
+
+---
+
 ## 2026-07-06 — Closure Fix: Gebündelter Audit V11-02/V11-03
 
 **Session-Typ:** T3_WARTUNG — eng begrenzter Closure Fix auf verbindliche, extern übermittelte Audit-Ergebnisse (V11-02: PASS; V11-03: PASS WITH CONDITIONS; Cross-Project Consistency: CONSISTENT WITH MINOR DRIFT; V11-04 Readiness: MAY START AFTER MINOR CLOSURE ACTIONS). Kein neues Makroprojekt, kein Research, keine Wissensobjekt-Änderung, keine Open-Decision-Entscheidung, keine Atlas-Neuentwicklung.
