@@ -238,17 +238,23 @@ Kein echter Widerspruch: Man kann beide kombinieren — zuerst Quantifizierung f
 
 ---
 
-## W-001 — Nachtrag (V11-05, 2026-07-07)
+## W-001 — Nachtrag (V11-05, 2026-07-07; korrigiert im Rework 2026-07-07)
 
-**Hinweis:** Diese Präzisierung entstammt dem V1.1-Makroprojekt `V11-05 — Knowledge Consolidation & Integrated Synthesis` (`00_project/projects/V11-05_knowledge_consolidation/COMPLETION_REPORT.md`). Sie ergänzt den bestehenden W-001-Eintrag additiv, ersetzt ihn nicht.
+**Hinweis:** Diese Präzisierung entstammt dem V1.1-Makroprojekt `V11-05 — Knowledge Consolidation & Integrated Synthesis`. Ihre ursprüngliche Fassung (2026-07-07) wurde durch einen unabhängigen Audit als materiell fehlerhaft eingestuft (Finding F-01, `00_project/projects/V11-05_knowledge_consolidation/AUDIT_REPORT.md`) und im selben Tag im Rahmen eines gezielten Reworks korrigiert (`00_project/projects/V11-05_knowledge_consolidation/REWORK_REPORT.md`). Audit Trail: Die ursprüngliche Fassung behauptete, W-001 sei zwischen SPR-0002 und SPR-0003 „verloren gegangen" und der Kernwiderspruch weiterhin vollständig ungelöst. Das ist falsch — siehe Korrektur unten.
 
-W-001 wurde in `04_synthesis/SPR-0002_Research_Synthesis/SPR-0002_SYNTHESEBERICHT.md` (RQ4, 2026-07-01) zur „Problemreife-Hypothese" präzisiert (dreistufige Kontextvariable: Unbekanntes/unterschätztes/bereits schmerzhaftes Problem) und explizit als Forschungsfrage für den nächsten Sprint priorisiert ("OFFENE FRAGEN FÜR SPR-0003", Punkt 1). SPR-0003 (2026-07-02, Behavioral Science Expansion: fünf andere Bücher — Emotional Intelligence, Predictably Irrational, Nudge, Priceless, Made to Stick) behandelt diese Frage nicht — thematisch divergiert der Sprint-Fokus. Die Problemreife-Hypothese blieb seither unbeantwortet und wurde in keinem nachfolgenden Synthesebericht wieder aufgegriffen.
+**Tatsächlicher Sachverhalt (korrigiert):** W-001 wurde als eigenständiges Forschungsprojekt im Research Program geführt (`06_research_program/completed/W001/`) und am 2026-07-03 vollständig abgeschlossen — **nach** SPR-0002 (2026-07-01) und SPR-0003 (2026-07-02). Beide Sprintberichte konnten das W-001-Ergebnis somit gar nicht kennen; es handelt sich nicht um eine zwischen zwei Sprints „verlorene" Frage, sondern um eine Frage, die zeitlich später über einen dedizierten Forschungsprojekt-Lifecycle (Master Review → Red Team Review → Theory Landscape → Decision Brief → Editor Decision → Repository Integration → Health Check) bearbeitet und entschieden wurde.
 
-Unabhängig davon dokumentiert `03_knowledge_base/models/MOD-0008_pre_suasion_modell.md` bereits seit seiner Anlage (2026-07-01) einen eigenen Abschnitt „W-001-Status": Pre-Suasion (MEC-0018/MOD-0008) wird dort als orthogonal zu W-001 eingeordnet ("Es beantwortet die Frage, WAS der erste Schritt sein soll, indem es sagt: Was auch immer du tust, tue es so, dass du den richtigen psychologischen Rahmen erzeugst. Beide Ansätze... profitieren von Pre-Suasion."). Diese objektebene Einordnung wurde nie in einen Synthesebericht oder in diese Widerspruchsmatrix zurückgeführt — ein Beispiel dafür, dass Objekt-Ebene und Synthese-Ebene im Codex nicht immer synchron gehalten werden.
+**Editor Decision (2026-07-03, `06_research_program/completed/W001/06_EDITOR_DECISION.md`): Teilweise annehmen.** Kernbefund: Diagnoseorientierte Ansätze (SPIN, Gap Selling) und Teaching-/Sensemaking-orientierte Ansätze (Challenger) stehen **nicht in einem universellen Widerspruch**. Ihre relative Angemessenheit ist kontextabhängig — u. a. von Problemreife, Kontext, Sensemaking-Bedarf und Buying-Center-Dynamik. Eine mathematische Formalisierung (Socio-Cognitive Sensegiving Model, SCSM) wurde ausdrücklich **nicht** übernommen (Red-Team-Kritik: 11 von 13 Prüfkriterien nicht erfüllt). Sechs bestehende Objekte wurden kontextbezogen erweitert: A-0020, P-0021, P-0025, MEC-0013, T-0019, T-0023 (`REPOSITORY_INTEGRATION_LOG.md`). Health Check bestanden, Projekt nach `completed/` verschoben.
 
-**Status W-001 bleibt UNGELÖST auf der Kernfrage (Teach First vs. Diagnose First als Sequenzentscheidung).** Weder die Problemreife-Hypothese noch die MOD-0008-Orthogonalitäts-Einordnung lösen den Kern-Widerspruch auf; sie grenzen lediglich einen Randbereich (Pre-Suasion-Timing) korrekt ab. Keine neue Forschung wurde durch diesen Nachtrag ausgelöst; die Präzisierung ist rein dokumentarisch.
+**Residuale, tatsächlich weiterhin offene Frage (nicht mit dem Kernkonflikt zu verwechseln):** OQ-2 (`06_research_program/completed/W001/OPEN_QUESTIONS.md`) — die direkte empirische Quantifizierung, ab welchem Buying-Center-Komplexitätsgrad sich die kognitive Dominanz von Verlustvermeidung zu Entscheidungslähmung verschiebt — wurde an `00_project/SCIENTIFIC_DEBT.md` (Abschnitt „W-001 — Teach First vs. Diagnose First (Research Program, integriert 2026-07-03)") übergeben und erfordert weiterhin eigenständige empirische Forschung außerhalb des W-001-Projektumfangs. Diese Restfrage ist NICHT gleichbedeutend mit einem weiterhin offenen Kernwiderspruch.
 
-## W-006 — Pre-Suasion (MEC-0018) vs. FOMU-Effekt (MEC-0016) (Nachtrag V11-05, Ursprung SPR-0002)
+**Zusätzlich weiterhin gültig (unverändert durch diese Korrektur):** `MOD-0008` dokumentiert seit seiner Anlage (2026-07-01) einen eigenen Abschnitt „W-001-Status", der Pre-Suasion als orthogonal zu W-001 einordnet — dies bleibt richtig und unabhängig von der obigen Korrektur bestehen.
+
+**Korrigierter Status:** W-001 ist **COMPLETED / TEILWEISE ANGENOMMEN / KONTEXTUELL INTEGRIERT**. Der frühere Kernwiderspruch gilt nicht mehr als universeller, ungelöster Gegensatz, sondern als kontextabhängig aufgelöst durch Editor Decision und Repository Integration. Offen bleibt ausschließlich die engere empirische Moderator-Validierung (OQ-2/Problemreife als Kontextvariable, direkt kausal getestet). W-001 wird durch diese Korrektur nicht wiedereröffnet; keine neue Forschung wurde ausgelöst; keine bereits getroffene Editor Decision wird hier reinterpretiert oder erweitert.
+
+## W-007 — Pre-Suasion (MEC-0018) vs. FOMU-Effekt (MEC-0016) (Nachtrag V11-05, Ursprung SPR-0002; umbenannt von W-006 im Rework 2026-07-07)
+
+**Audit Trail (ID-Korrektur, Finding F-02):** Dieser Eintrag wurde ursprünglich (2026-07-07) fälschlich als „W-006" angelegt. Eine Prüfung der Repository-Historie ergab: Der Identifikator „W-006" ist bereits seit 2026-07-01 (Peer Review Sprint 2 / ARS-0001, `00_project/SCIENTIFIC_DEBT.md`, Zeile „Kognitive Leichtigkeit vs. Rational Drowning") für einen anderen Widerspruchskandidaten (MEC-0012 Cognitive Ease vs. MEC-0013/Rational Drowning, dort explizit als „W-006-Kandidat" für eine künftige Synthese-Sprint-Runde vorgemerkt) vergeben. Da diese frühere Zuordnung zeitlich vorrangig und bereits dokumentiert war, wird sie konservativ erhalten; der vorliegende Eintrag (Pre-Suasion vs. FOMU) erhält stattdessen die nächste freie ID, **W-007**. Keine historische Aussage wurde gelöscht oder umgedeutet — die W-006-Kandidatur „Kognitive Leichtigkeit vs. Rational Drowning" bleibt unverändert in `SCIENTIFIC_DEBT.md` geführt und wird durch diese Korrektur nicht selbst zu einem vollwertigen Matrixeintrag ausgebaut (das bliebe einer künftigen, dafür beauftragten Synthese-Runde vorbehalten — außerhalb des V11-05-Rework-Scopes).
 
 **Typ:** Kontextuell
 **Status:** Nicht vollständig dokumentiert — von SPR-0002 als „neue Spannung" benannt, aber nie als vollwertiger Matrixeintrag mit Betroffene-Objekte/Auflösungsansatz-Struktur nachgetragen. Dieser Nachtrag schließt die Lücke formal, ohne den Inhalt über das hinaus zu erweitern, was SPR-0002 bereits festgestellt hat.
@@ -265,13 +271,14 @@ Unabhängig davon dokumentiert `03_knowledge_base/models/MOD-0008_pre_suasion_mo
 
 | ID | Typ | Status | Priorität |
 |---|---|---|---|
-| W-001 | Methodologisch | UNGELÖST (Problemreife-Hypothese seit SPR-0002 unbeantwortet, s. Nachtrag oben) | ⭐ Kritisch |
+| W-001 | Methodologisch | **COMPLETED / Teilweise angenommen / kontextuell integriert** (Editor Decision 2026-07-03; residuale empirische Moderator-Frage OQ-2 offen, siehe `SCIENTIFIC_DEBT.md`) | Kernkonflikt gelöst; Restfrage Niedrig-Mittel |
 | W-002 | Kontextuell | Teilaufgelöst | Mittel |
 | W-003 | Methodologisch | Scheinkonflikt (phasengebunden) | Mittel |
 | W-004 | Methodologisch | Kontextgebunden | Niedrig |
 | W-005 | Konzeptuell | Scheinkonflikt (komplementär) | Niedrig |
-| W-006 | Kontextuell | Nicht vollständig dokumentiert (Nachtrag V11-05, Ursprung SPR-0002) | Niedrig |
+| W-006 | Kontextuell | Kognitive Leichtigkeit vs. Rational Drowning — Kandidat, dokumentiert in `SCIENTIFIC_DEBT.md` (2026-07-01), noch nicht als vollwertiger Matrixeintrag ausgebaut | Nicht bewertet (außerhalb V11-05-Scope) |
+| W-007 | Kontextuell | Pre-Suasion vs. FOMU — Nicht vollständig dokumentiert (Nachtrag V11-05, Ursprung SPR-0002; vormals fälschlich W-006) | Niedrig |
 
 ## Status
 
-Kern (W-001 bis W-005) abgeschlossen — 2026-06-30. W-001-Nachtrag und W-006 ergänzt — 2026-07-07 (V11-05 Knowledge Consolidation & Integrated Synthesis).
+Kern (W-001 bis W-005) abgeschlossen — 2026-06-30. W-001-Nachtrag ergänzt 2026-07-07, **korrigiert 2026-07-07** (V11-05-Rework, Finding F-01 — W-001 ist tatsächlich COMPLETED, nicht ungelöst). W-007 (vormals fälschlich W-006) ergänzt und korrigiert 2026-07-07 (V11-05-Rework, Finding F-02).

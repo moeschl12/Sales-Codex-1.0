@@ -17,13 +17,13 @@ Sales Codex Version 1.0 ist offiziell veröffentlicht und bleibt unveränderlich
 
 Cross-Project Consistency (gebündelter Audit V11-02/V11-03): **CONSISTENT WITH MINOR DRIFT** — behoben. Details: `00_project/CLOSURE_REPORT_V11-02_V11-03_2026-07-06.md`, `00_project/CLOSURE_REPORT_V11-04_2026-07-07.md`.
 
-**Ein fünftes Makroprojekt abgeschlossen, noch nicht auditiert:**
+**Ein fünftes Makroprojekt abgeschlossen, auditiert (REWORK REQUIRED) und gezielt reworked:**
 
-- V11-05 — Knowledge Consolidation & Integrated Synthesis: Konsolidierungsanalyse (`00_project/projects/V11-05_knowledge_consolidation/INTEGRATED_CONSOLIDATION_SYNTHESIS.md`) präzisiert zwei Atlas-Sprint-1-Befunde durch direkte Objektprüfung (MEC-0018-Abhängigkeitskette betrifft nur 2 von 4 vermuteten Objekten, beide bereits seit 2026-07-03 sichtbar dokumentiert — Editorial-Review-Empfehlung des Atlas-Reports damit bereits erfüllt); trägt eine zwischen SPR-0002/SPR-0003 verlorene Forschungsfrage (W-001-Problemreife) und eine nie formal nachgetragene Spannung (W-006, Pre-Suasion vs. FOMU) additiv in `contradiction_matrix.md` nach; liefert priorisierten 9-Punkte-Konsolidierungs-Backlog. Keine Wissensobjekt-Änderung, kein neues Forschungsprojekt. **Noch nicht unabhängig auditiert.**
+- V11-05 — Knowledge Consolidation & Integrated Synthesis: Konsolidierungsanalyse (`00_project/projects/V11-05_knowledge_consolidation/INTEGRATED_CONSOLIDATION_SYNTHESIS.md`) präzisiert zwei Atlas-Sprint-1-Befunde durch direkte Objektprüfung (MEC-0018-Abhängigkeitskette betrifft nur 2 von 4 vermuteten Objekten, beide bereits seit 2026-07-03 sichtbar dokumentiert — Editorial-Review-Empfehlung des Atlas-Reports damit bereits erfüllt). Unabhängiges Audit (`AUDIT_REPORT.md`): **REWORK REQUIRED** (0 Critical/1 Major/3 Minor). **Im Rework korrigiert:** W-001 (Teach First vs. Diagnose First) ist KEIN verlorenes/ungelöstes Forschungsergebnis, sondern ein am 2026-07-03 abgeschlossenes Forschungsprojekt (Editor Decision „Teilweise annehmen") — nur die engere residuale empirische Frage OQ-2 (Problemreife als Moderator) bleibt offen; die fälschlich als „W-006" nachgetragene Spannung (Pre-Suasion vs. FOMU) wurde auf W-007 korrigiert (W-006 bereits seit 2026-07-01 für „Kognitive Leichtigkeit vs. Rational Drowning" vergeben); die veraltete P-0040-„vollständig isoliert"-Aussage wurde korrigiert (W-003-Erweiterung mit MEC-0030-Rückverweis seit 2026-07-05). Details: `00_project/projects/V11-05_knowledge_consolidation/REWORK_REPORT.md`. Keine Wissensobjekt-Änderung, kein neues Forschungsprojekt, Audit-Verdict nicht umklassifiziert. **Status: COMPLETED — REWORKED — AWAITING INDEPENDENT RE-AUDIT.**
 
 Zwei nicht-blockierende, auf Programmebene weitergeführte Punkte aus V11-04/V11-05: T12/Status-„Validiert"-Klärung (deferred) und MEC-0002/P-0002-Evidenzlevel-Harmonisierung (registriert in `SCIENTIFIC_DEBT.md`).
 
-Nächster Schritt: Unabhängiger Audit von V11-05, bevor **V11-06 — Research Portfolio Wave 2** gestartet werden kann.
+Nächster Schritt: Fokussierter unabhängiger Re-Audit von V11-05, bevor **V11-06 — Research Portfolio Wave 2** gestartet werden kann. V11-06 ist **BLOCKED — NOT STARTED**.
 
 Strategische Source of Truth:
 

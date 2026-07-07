@@ -5,6 +5,24 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-07 — V11-05 Targeted Audit Rework (T3_WARTUNG)
+
+**Session-Typ:** Gezielter Rework auf Basis eines unabhängigen, verbindlichen externen Audits (`00_project/projects/V11-05_knowledge_consolidation/AUDIT_REPORT.md`, Verdict REWORK REQUIRED, 0 Critical/1 Major/3 Minor). Kein V11-05-Neustart, keine neue Konsolidierungsrunde, keine neue Forschung, kein V11-06-Start.
+
+**F-01 (MAJOR) — W-001 State Reconciliation:** V11-05 hatte W-001 (Teach First vs. Diagnose First) fälschlich als zwischen SPR-0002/SPR-0003 „verlorene", weiterhin ungelöste Forschungsfrage dargestellt. Tatsächlich ist W-001 ein am 2026-07-03 abgeschlossenes Forschungsprojekt (Editor Decision „Teilweise annehmen") — diagnose- und teaching-/sensemaking-orientierte Ansätze stehen nicht in universellem Widerspruch, sondern kontextabhängig (Problemreife, Kontext, Sensemaking-Bedarf, Buying-Center-Dynamik). Eine engere residuale empirische Frage (OQ-2: Problemreife als Moderator) bleibt offen. Korrigiert in `contradiction_matrix.md`, `INTEGRATED_CONSOLIDATION_SYNTHESIS.md`, `COMPLETION_REPORT.md` und allen Control-Plane-Dateien. W-001 nicht wiedereröffnet, kein neues W-Projekt automatisch gestartet.
+
+**Enger Relevanzscan W-001–W-004:** W-002, W-003, W-004 auf weitere Statusdrift geprüft (README.md je Projekt) — alle drei bestätigt COMPLETED/„Teilweise annehmen", konsistent mit der ursprünglichen V11-05-Darstellung. Negativbefund, keine weitere Korrektur erforderlich.
+
+**F-02 (MINOR) — W-006/W-007-Identitätskonflikt:** V11-05 hatte „W-006" an Pre-Suasion vs. FOMU vergeben, obwohl W-006 bereits seit 2026-07-01 (Peer Review Sprint 2/ARS-0001) für „Kognitive Leichtigkeit vs. Rational Drowning" reserviert ist. Konservativ aufgelöst: historische Bedeutung erhalten, neuer Tatbestand auf W-007 umbenannt, Audit Trail in `contradiction_matrix.md` dokumentiert.
+
+**F-03 (MINOR) — P-0040-Zustandskorrektur:** V11-05 hatte den älteren Atlas-Befund „0 MEC-Verbindungen, vollständig isoliert" für P-0040 wiederholt. Tatsächlich enthält P-0040 seit 2026-07-05 (W-003) eine Erweiterung mit explizitem Rückverweis auf MEC-0030. P-0039 bleibt bestätigt isoliert. Gemeinsame „Resilienz/Motivation"-Kategoriehypothese gilt nicht mehr für beide gemeinsam, nur noch für P-0039 allein.
+
+**F-04 (MINOR) — Re-Audit-Evidenzhinlänglichkeit:** Zwei historische Provenienzbehauptungen (SPR-0002/SPR-0003) waren im geschlossenen Audit-Bundle nicht unabhängig prüfbar, da Rohquellen fehlten. Keine Änderung an den Quellberichten; Re-Audit-Paket-Anforderungen in `REWORK_REPORT.md` festgehalten.
+
+**Ergebnis:** `00_project/projects/V11-05_knowledge_consolidation/REWORK_REPORT.md` erstellt. Status: **V11-05 — COMPLETED, REWORKED, AWAITING INDEPENDENT RE-AUDIT.** V11-06 bleibt **BLOCKED — NOT STARTED**, abhängig von erfolgreichem Re-Audit. Kein Wissensobjekt verändert, kein Evidence Level geändert, T12 nicht aktiviert, kein neues W-Projekt, Audit-Verdict nicht umklassifiziert.
+
+---
+
 ## 2026-07-07 — V11-04 Audit Closure + V11-05: Knowledge Consolidation & Integrated Synthesis (abgeschlossen, noch nicht auditiert)
 
 **Session-Typ:** Zweiphasiger Herausgeberauftrag — Phase A (T3_WARTUNG Audit Closure für V11-04) strikt vor Phase B (V11-05-Makroprojekt), kein Zwischenbericht zwischen den Phasen.
@@ -14,6 +32,8 @@ Neueste Einträge oben.
 **Phase B — V11-05:** Konsolidierungsanalyse ohne Neurecherche, ausschließlich aus bereits vorhandenen Quellen (Atlas-Sprint-1-Report, SPR-0001/0002/0003, V11-04). Hauptartefakt: `00_project/projects/V11-05_knowledge_consolidation/INTEGRATED_CONSOLIDATION_SYNTHESIS.md`. Zwei durch direkte Objektprüfung präzisierte Befunde: (1) Die im Atlas-Report vermutete MEC-0018-Evidenzunsicherheits-Vererbung an P-0035/P-0036/P-0041/MOD-0008 trifft nur auf 2 von 4 Objekten tatsächlich zu (P-0036 und P-0041 sind unabhängig fundiert) — und die betroffenen zwei (P-0035, MOD-0008) tragen die Warnung bereits seit 2026-07-03; die Atlas-Report-Empfehlung „Editorial Review Priority, Hoch" ist damit bereits erfüllt, nicht mehr offen. (2) Eine zwischen SPR-0002 (2026-07-01, „Offene Fragen für SPR-0003") und SPR-0003 (2026-07-02, anderer Themenfokus) verlorene Forschungsfrage (W-001-Problemreife-Hypothese) sowie eine in SPR-0002 benannte, aber nie formal nachgetragene Spannung (W-006, Pre-Suasion vs. FOMU) wurden identifiziert und additiv in `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md` nachgetragen (kein bestehender Eintrag verändert oder gelöscht). Priorisierter 9-Punkte-Konsolidierungs-Backlog erstellt, sauber getrennt nach Research/Maintenance/Governance/Delivery. Keine Wissensobjekt-Änderung, kein neues Forschungsprojekt, keine Evidence-Level-Änderung, T12 nicht aktiviert, V11-06 nicht gestartet.
 
 **Korrigiert (V11-04 Audit Closure, 2026-07-07, siehe Phase A oben):** Die vorherige Aussage im nachfolgenden V11-04-Eintrag zu angeblich fortbestehenden, unerklärten Git-Artefakten war veraltet/ungenau. Der bindende V11-04-Audit-Snapshot zeigte ausschließlich das erwartete V11-04-Change-Set. Die entsprechende Passage im V11-04-Eintrag wurde direkt korrigiert (nicht hier dupliziert).
+
+**Korrigiert (V11-05 Targeted Audit Rework, 2026-07-07):** Ein unabhängiges Audit von V11-05 (`AUDIT_REPORT.md`, Verdict REWORK REQUIRED, 0 Critical/1 Major/3 Minor) ergab, dass die obige Phase-B-Aussage materiell falsch war: W-001 ist KEIN zwischen SPR-0002 und SPR-0003 „verlorenes", weiterhin ungelöstes Forschungsergebnis, sondern ein am 2026-07-03 abgeschlossenes Forschungsprojekt (Editor Decision „Teilweise annehmen") — die Methodik hatte schlicht nicht gegen das abgeschlossene Research-Program-Korpus geprüft. Zudem war die Zuordnung „W-006" für Pre-Suasion vs. FOMU falsch, da W-006 bereits seit 2026-07-01 für „Kognitive Leichtigkeit vs. Rational Drowning" reserviert ist (korrigiert auf W-007). Beide Korrekturen sowie eine P-0040-Zustandskorrektur (Finding F-03: P-0040 ist nicht mehr isoliert, seit 2026-07-05 W-003-Erweiterung mit MEC-0030-Rückverweis) wurden in `contradiction_matrix.md`, `INTEGRATED_CONSOLIDATION_SYNTHESIS.md` und `COMPLETION_REPORT.md` durchgeführt; Details: `00_project/projects/V11-05_knowledge_consolidation/REWORK_REPORT.md`. Diese Korrektur betrifft ausschließlich die obige Phase-B-Passage; kein anderer Teil dieses oder anderer Session-Log-Einträge wurde rückwirkend verändert.
 
 ---
 

@@ -1,8 +1,10 @@
 # V11-05 — Integrated Consolidation & Synthesis
 
-Status: Completed
-Date: 2026-07-07
+Status: Completed — Reworked 2026-07-07 (siehe `REWORK_REPORT.md` und `AUDIT_REPORT.md`)
+Date: 2026-07-07 (ursprünglich); Rework: 2026-07-07
 Executor: Claude (Cowork-Session)
+
+**Korrekturhinweis (Rework, Finding F-01/F-02/F-03):** Dieses Dokument wurde nach einem unabhängigen Audit (`AUDIT_REPORT.md`, Verdict REWORK REQUIRED) an drei Stellen korrigiert: (1) Abschnitt 2/3.2/5/6/7 — W-001 wurde ursprünglich fälschlich als zwischen SPR-0002/SPR-0003 „orphaned" und weiterhin ungelöst dargestellt; tatsächlich ist W-001 ein am 2026-07-03 abgeschlossenes, „teilweise angenommenes" Forschungsprojekt. (2) Abschnitt 3.3/4/5 — der Widerspruch „Pre-Suasion vs. FOMU" wurde fälschlich als W-006 geführt; W-006 ist historisch bereits für „Kognitive Leichtigkeit vs. Rational Drowning" vergeben (`SCIENTIFIC_DEBT.md`, 2026-07-01) — korrigiert auf W-007. (3) Abschnitt 4 — P-0040 wurde mit veraltetem Atlas-Status („0 MEC-Verbindungen, vollständig isoliert") beschrieben; das aktuelle Objekt trägt seit 2026-07-05 (W-003) eine explizite MEC-0030-Verlinkung. Details: `REWORK_REPORT.md`.
 
 ---
 
@@ -26,7 +28,7 @@ Drei Zielkategorien, jede mit expliziter Quelle:
 
 - **Delivery-getrieben** (aus V11-04): Technik-Ebene hinter Mechanismus-Ebene zurück (MEC-0002s drei NSTD-Kandidaten); Evidenzlevel-Uneinheitlichkeit zwischen verknüpften Objekten (MEC-0002/P-0002); T12/Status-„Validiert"-Governance-Frage.
 - **Evidenzgetrieben/Atlas-getrieben** (aus Sprint-1-Report): Struktur×Evidenz-Diskrepanzen (MEC-0018-Familie); evidenzstarke, strukturell unterintegrierte Mechanismen (MEC-0020, MEC-0021, MEC-0025, MEC-0026–0029); 18 Reference Orphans, davon 4 mit plausibler, nicht umgesetzter Verlinkung.
-- **Synthese-Prozess-getrieben** (aus Cross-Sprint-Vergleich, neu in diesem Projekt identifiziert): Eine zwischen SPR-0002 und SPR-0003 „verlorene" Forschungsfrage (W-001-Problemreife-Hypothese) und eine seit SPR-0001 nicht aktualisierte Widerspruchsmatrix trotz einer in SPR-0002 benannten neuen Spannung (W-006).
+- **Synthese-Prozess-getrieben** (aus Cross-Sprint- und Cross-Corpus-Vergleich, korrigiert im Rework): W-001 wurde als abgeschlossenes Research-Program-Ergebnis (Editor Decision 2026-07-03, „Teilweise annehmen") identifiziert, das in den ursprünglichen SPR-0001/0002/0003-Synthesen naturgemäß nicht erscheinen konnte, da es zeitlich nach beiden Sprints abgeschlossen wurde — aber bislang nie in die Widerspruchsmatrix zurückgeführt wurde. Zusätzlich: eine seit SPR-0001 nicht aktualisierte Widerspruchsmatrix trotz einer in SPR-0002 benannten neuen Spannung (jetzt korrekt als W-007 geführt, siehe Rework-Korrektur zu F-02).
 
 ---
 
@@ -47,19 +49,27 @@ Der Atlas-Sprint-1-Report (Abschnitt 3.2) formulierte als offene Frage, ob P-003
 
 **Wichtiger methodischer Hinweis:** Dieser Befund vermischt nicht strukturelle Zentralität mit Evidenzstärke — er prüft im Gegenteil, ob eine rein graphbasierte Vermutung (strukturelle Nachbarschaft = Evidenz-Vererbung) bei Einzelprüfung der Objekttexte tatsächlich zutrifft. In zwei von vier Fällen tat sie das nicht.
 
-### 3.2 W-001 — orphaned Research Question zwischen SPR-0002 und SPR-0003
+### 3.2 W-001 — korrigiert im Rework: abgeschlossenes Research-Program-Ergebnis, nicht orphaned
 
-SPR-0002 (2026-07-01) verschob W-001 zur „Problemreife-Hypothese" (dreistufige Kontextvariable: unbekanntes/unterschätztes/bereits schmerzhaftes Problem) und listete sie explizit unter „Offene Fragen für SPR-0003". SPR-0003 (2026-07-02) behandelte fünf andere Bücher (Behavioral-Science-Themenblock) und griff die Frage nicht auf — nachvollziehbar, da der Sprint-Fokus divergierte, aber die Frage wurde seither in keinem Synthesebericht wieder aufgenommen.
+**Diese Teilsektion wurde im Rework (2026-07-07, Finding F-01) vollständig korrigiert.** Die ursprüngliche Fassung behauptete, die W-001-Problemreife-Frage sei zwischen SPR-0002 (2026-07-01, „Offene Fragen für SPR-0003") und SPR-0003 (2026-07-02, anderer Themenfokus) „verloren gegangen" und der Kernwiderspruch bleibe unverändert ungelöst. Das war falsch.
 
-Gleichzeitig dokumentiert `MOD-0008` bereits seit seiner Anlage (2026-07-01, also vor SPR-0002) einen eigenen Abschnitt „W-001-Status", der Pre-Suasion als orthogonal zu W-001 einordnet. Diese objektebene Einordnung wurde nie mit der SPR-0002-Präzisierung oder der Widerspruchsmatrix verknüpft.
+**Tatsächlicher Sachverhalt:** W-001 wurde als dediziertes Forschungsprojekt im Research Program geführt (`06_research_program/completed/W001/`) und am **2026-07-03** — zeitlich NACH sowohl SPR-0002 (07-01) als auch SPR-0003 (07-02) — vollständig abgeschlossen. Beide Sprintberichte konnten das Ergebnis also gar nicht referenzieren; es handelt sich nicht um eine zwischen zwei thematisch divergierenden Sprints verlorene Frage, sondern um eine Frage, die anschließend über den vollen neunstufigen Research Lifecycle (Master Review, Red Team Review, Theory Landscape, Decision Brief, Editor Decision, Repository Integration, Health Check) bearbeitet wurde.
 
-**Konsolidierungsmaßnahme (durchgeführt):** `contradiction_matrix.md` um einen „W-001 — Nachtrag" ergänzt, der beide Fäden zusammenführt (Problemreife-Hypothese-Status + MOD-0008-Orthogonalitäts-Befund), ohne den Kern-Widerspruch selbst aufzulösen oder neue Recherche auszulösen.
+**Editor Decision (2026-07-03, `06_research_program/completed/W001/06_EDITOR_DECISION.md`): Teilweise annehmen.** Kernbefund: Diagnose- und Teaching-/Sensemaking-orientierte Vertriebsansätze stehen **nicht in einem universellen Widerspruch**; ihre relative Angemessenheit ist kontextabhängig (Problemreife, Kontext, Sensemaking-Bedarf, Buying-Center-Dynamik). Die mathematische SCSM-Formalisierung wurde **abgelehnt** (Red-Team-Kritik gefolgt: 11/13 Prüfkriterien nicht erfüllt). Sechs Objekte wurden kontextbezogen erweitert (A-0020, P-0021, P-0025, MEC-0013, T-0019, T-0023). Health Check bestanden; Projekt abgeschlossen.
 
-### 3.3 W-006 — nie formal nachgetragene Spannung (Pre-Suasion vs. FOMU)
+**Residuale, tatsächlich offene Frage:** OQ-2 (`06_research_program/completed/W001/OPEN_QUESTIONS.md`) — die direkte empirische Quantifizierung des Kipppunkts zwischen Verlustvermeidung und Entscheidungslähmung im Buying Center als Funktion der Problemreife — wurde an `00_project/SCIENTIFIC_DEBT.md` übergeben und bleibt als eigenständige empirische Forschungsfrage offen. Dies ist NICHT gleichbedeutend mit einem weiterhin ungelösten Kernwiderspruch.
 
-SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie aber nie als vollwertigen Eintrag in `contradiction_matrix.md` nach — die Matrix blieb formal bei fünf Einträgen (W-001–W-005), obwohl der Sprintbericht selbst bereits einen sechsten Spannungsfall dokumentiert hatte.
+Gleichzeitig dokumentiert `MOD-0008` bereits seit seiner Anlage (2026-07-01, vor SPR-0002) einen eigenen Abschnitt „W-001-Status", der Pre-Suasion als orthogonal zu W-001 einordnet — dieser Befund bleibt unverändert gültig und unabhängig von der obigen Korrektur.
 
-**Konsolidierungsmaßnahme (durchgeführt):** Formal als W-006 nachgetragen, Inhalt unverändert aus SPR-0002 übernommen, keine neue Bewertung.
+**Konsolidierungsmaßnahme (durchgeführt, im Rework korrigiert):** `contradiction_matrix.md`-Nachtrag zu W-001 vollständig überarbeitet: Status jetzt korrekt als „COMPLETED / Teilweise angenommen / kontextuell integriert" geführt, mit klarer Trennung zwischen abgeschlossenem Kernkonflikt und residualer empirischer OQ-2-Frage. Kein neues W-Projekt gestartet; W-001 nicht wiedereröffnet; keine bereits getroffene Editor Decision reinterpretiert.
+
+### 3.3 W-007 (vormals fälschlich W-006) — nie formal nachgetragene Spannung (Pre-Suasion vs. FOMU)
+
+SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie aber nie als vollwertigen Eintrag in `contradiction_matrix.md` nach.
+
+**Korrektur im Rework (Finding F-02):** Diese Spannung wurde ursprünglich fälschlich als „W-006" formalisiert. Eine Prüfung der Repository-Historie ergab: „W-006" ist bereits seit 2026-07-01 (Peer Review Sprint 2/ARS-0001, `SCIENTIFIC_DEBT.md`) für einen anderen Widerspruchskandidaten vergeben — „Kognitive Leichtigkeit vs. Rational Drowning" (MEC-0012 vs. MEC-0013). Per konservativer Identitätserhaltung bleibt diese frühere Zuordnung unverändert; die Pre-Suasion/FOMU-Spannung wurde auf die nächste freie ID, **W-007**, umbenannt. Kein bestehender historischer Eintrag wurde gelöscht oder umgedeutet.
+
+**Konsolidierungsmaßnahme (durchgeführt, korrigiert):** Formal als W-007 nachgetragen, Inhalt unverändert aus SPR-0002 übernommen, keine neue Bewertung. Die W-006-Kandidatur „Kognitive Leichtigkeit vs. Rational Drowning" bleibt unverändert in `SCIENTIFIC_DEBT.md` geführt, ohne im Rahmen dieses Reworks zu einem vollwertigen Matrixeintrag ausgebaut zu werden (außerhalb des Rework-Scopes).
 
 ---
 
@@ -71,7 +81,10 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 | MEC-0020 (Machtperspektive, Galinsky) | E4, peer-reviewed | 0 P-Verbindungen — einziger MEC im gesamten Bestand mit diesem Wert | Synthesis Priority, Mittel — Buying-Center-/Verhandlungskontext als mögliches P-Feld |
 | MEC-0025 (Altruistische Bestrafung) | E4, Metaanalyse über 37 Studien | Nur 1 P-Verbindung | Synthesis Priority, Niedrig |
 | MEC-0026–0029 (Made-to-Stick-Familie) | E3–E4 | Durchgängig niedrige P-/T-Anbindung | **Kein Handlungsbedarf jetzt** — Atlas-Report identifiziert dies korrekt als wahrscheinlichen Recency-Effekt (B-0015 zuletzt integriert); Empfehlung: bei nächstem Atlas-Lauf erneut prüfen, nicht jetzt forcieren |
-| P-0039 (Buoyancy), P-0040 (Purposeful Serving) | Beide E4 | 0 MEC-Verbindungen; P-0040 vollständig isoliert im MEC-P-T-Fokusgraph | Synthesis Priority, Niedrig-Mittel — mögliche eigenständige Kategorie (Resilienz/Motivation) statt fehlende MEC-Anbindung |
+| P-0039 (Buoyancy) | E4 | 0 MEC-Verbindungen, weiterhin bestätigt (aktueller Objektstand direkt geprüft im Rework, Finding F-03: kein W-003- oder anderer Erweiterungsabschnitt vorhanden) | Synthesis Priority, Niedrig-Mittel — bleibt eigenständiger Kandidat für „Resilienz/Motivation als eigene Kategorie" |
+| P-0040 (Purposeful Serving) | E4 | **Korrigiert im Rework (Finding F-03):** NICHT mehr 0 MEC-Verbindungen / nicht mehr vollständig isoliert. Das aktuelle Objekt trägt seit 2026-07-05 (W-003 Trust Formation Research Project) einen expliziten Erweiterungsabschnitt „Rückverweis zu MEC-0030" mit mehrfacher expliziter MEC-0030-ID-Nennung. Der ältere Atlas-Sprint-1-Befund (0 MEC/isoliert) ist damit veraltet. Kein Atlas-Compiler-Lauf allein wegen dieser redaktionellen Korrektur erzwungen. | Kein Synthesis-Priority-Handlungsbedarf mehr aus dieser Quelle — P-0040 ist über MEC-0030 bereits inhaltlich angebunden (siehe Abgrenzungstabelle in MEC-0030 selbst) |
+
+**Getrennte Bewertung (Rework, Finding F-03):** Die ursprüngliche gemeinsame Formulierung „P-0039 und P-0040: 0 MEC-Verbindungen, mögliche eigenständige Kategorie Resilienz/Motivation" ist nach Einzelprüfung nicht mehr für beide Objekte gemeinsam haltbar. P-0039 bleibt tatsächlich MEC-isoliert und ein valider Synthesis-Priority-Kandidat. P-0040 ist über die W-003-Erweiterung bereits mit MEC-0030 (Trust Formation) verknüpft und damit kein Isolationsfall mehr — die „eigenständige Kategorie"-Hypothese wird für P-0040 nicht mehr aufrechterhalten, bleibt aber für P-0039 allein weiterhin plausibel und ungeprüft.
 | ST-0068, ST-0084, ST-0152, ST-0171 (Reference Orphans mit plausibler Verlinkung) | E2–E3 | Orphan trotz inhaltlicher Anschlussfähigkeit (u. a. ST-0171 mit im Fließtext dokumentiertem, aber nicht ID-referenziertem Cross-Book-Bezug) | Graph Modeling Review, Niedrig — Herausgeberentscheidung, nicht automatisch umzusetzen |
 | ST-0084 + ST-0228 (Deadline-Thema, zwei Bücher) | E2–E3 | Zwei Orphans über Voss/Ariely hinweg thematisch verwandt, nirgends zusammengeführt | Synthesis Priority, Niedrig — mögliches gemeinsames Deadline-/Tempo-Prinzip |
 | MOD-0002 Terminologie-Präzision | — | „Cross-Domain"-Zuschreibung vermischt strukturelle Brückenfunktion mit Quellenvielfalt (2 von 3 SRC vom selben Autor) | Editorial Review, Niedrig — Formulierung in künftigen Berichten präzisieren |
@@ -85,9 +98,10 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 
 | Punkt | Status | Wo dokumentiert |
 |---|---|---|
-| W-001 (Teach First vs. Diagnose First) | **UNGELÖST**, jetzt mit Cross-Sprint-Historie nachvollziehbar gemacht | `contradiction_matrix.md`, Nachtrag |
+| W-001 (Teach First vs. Diagnose First) | **Korrigiert im Rework:** COMPLETED / Teilweise angenommen / kontextuell integriert (Editor Decision 2026-07-03). Kernkonflikt nicht mehr als universeller Widerspruch geführt. Residuale, tatsächlich offene Frage: OQ-2 (empirische Moderator-Validierung der Problemreife im Buying Center) | `contradiction_matrix.md`, Nachtrag (korrigiert); `06_research_program/completed/W001/`; `00_project/SCIENTIFIC_DEBT.md` |
 | W-002 (Liking in B2B) | Teilaufgelöst, kein Schwellenwert bekannt | `contradiction_matrix.md` (unverändert) |
-| W-006 (Pre-Suasion vs. FOMU) | Kontextgebunden, nicht abschließend geprüft | `contradiction_matrix.md`, neu formal nachgetragen |
+| W-006 (Kognitive Leichtigkeit vs. Rational Drowning) | Bestehender Kandidat seit 2026-07-01, unverändert — **nicht** Gegenstand dieses V11-05-Projekts | `00_project/SCIENTIFIC_DEBT.md` |
+| W-007 (Pre-Suasion vs. FOMU, vormals fälschlich W-006) | Kontextgebunden, nicht abschließend geprüft | `contradiction_matrix.md`, neu formal nachgetragen, ID korrigiert im Rework |
 | MEC-0002/P-0002 Evidenzlevel-Uneinheitlichkeit | Registriert, nicht aufgelöst (aus V11-04) | `00_project/SCIENTIFIC_DEBT.md` |
 | MEC-0018-Familie Evidenzrisiko | Bereits korrekt dokumentiert und sichtbar (präzisiert in Abschnitt 3.1 dieses Berichts) | MEC-0018, P-0035, MOD-0008 direkt; `SCIENTIFIC_DEBT.md` B-0010 |
 | B2B-/Buying-Center-Transferlücke (ELM, Trust Formation, Buying Center) | Bereits mehrfach dokumentiert (W-002/W-003/W-004 Forschungsprojekte, V11-02 Evidence-Backlog) | `SCIENTIFIC_DEBT.md` — **hier bewusst nicht erneut aufgerollt**, da V11-05 dies nicht wiederholen soll |
@@ -99,7 +113,7 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 
 | Kategorie | Punkte |
 |---|---|
-| **Research** (neue W-Projekte — nicht in V11-05 gestartet) | Empirischer Test der Problemreife-Hypothese (W-001); B2B-Transfer für MEC-0020/Machtperspektive in Buying-Center-Kontexten (nur als Kandidat, keine Aktivierung) |
+| **Research** (neue W-Projekte — nicht in V11-05 gestartet) | **Korrigiert im Rework:** Nicht mehr „W-001 empirisch prüfen" (W-001 ist abgeschlossen) — stattdessen die engere residuale Frage OQ-2 (direkte empirische Quantifizierung des Problemreife-Moderators im Buying Center, bereits an `SCIENTIFIC_DEBT.md` übergeben); B2B-Transfer für MEC-0020/Machtperspektive in Buying-Center-Kontexten (nur als Kandidat, keine Aktivierung) |
 | **Maintenance/Scientific Debt** | MEC-0002/P-0002-Harmonisierung (bereits registriert, V11-04); MOD-0002-Terminologiepräzisierung |
 | **Governance** | T12/Status-„Validiert"-Grundsatzfrage (deferred, Felix vorbehalten) |
 | **Delivery** (informiert künftige V11-04-artige Slices, nicht in V11-05 ausgeführt) | Technik-Lücke MEC-0002 (3 NSTD-Kandidaten) als nächster sinnvoller Kandidat für eine künftige T-Objekt-Anlage, sofern Editor freigibt |
@@ -115,7 +129,7 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 | 1 | T12/Status-„Validiert"-Grundsatzfrage entscheiden | Governance | Hoch | Editor-Entscheidung (Reserved Decision — nicht durch V11-05 selbst getroffen) |
 | 2 | MEC-0002/P-0002-Evidenzlevel-Harmonisierung umsetzen | Maintenance/Scientific Debt | Mittel | T3_WARTUNG/T11_SCIDEBT-Folgeauftrag (bereits vorgemerkt) |
 | 3 | MEC-0002s drei NSTD-Technik-Kandidaten prüfen (Anchoring, Negative Leverage, Ackerman-Modell) | Synthesis/Research | Mittel | Canonicalization-Prüfung gegen bestehende T-Objekte, sofern Editor freigibt |
-| 4 | W-001-Problemreife-Hypothese empirisch prüfen | Research | Mittel (seit SPR-0002 offen, aber ohne Dringlichkeitseskalation) | Künftiges W-Projekt, kein automatischer Start |
+| 4 | **Korrigiert im Rework:** Nicht „W-001 erneut lösen" (W-001 ist COMPLETED, Editor Decision 2026-07-03) — sondern: residuale empirische Moderator-/Transferfrage OQ-2 (Problemreife als Kipppunkt-Variable im Buying Center) eigenständig prüfen | Research | Niedrig-Mittel (bereits als Scientific-Debt-Punkt übergeben, keine Dringlichkeitseskalation) | Künftiges, eigenständiges W-Projekt zu OQ-2, kein automatischer Start; W-001 selbst bleibt geschlossen und wird nicht wiedereröffnet |
 | 5 | MEC-0021 (Anchoring, E5) und MEC-0020 (Machtperspektive, E4) auf zusätzliche P-Ableitungen prüfen | Synthesis | Mittel-Niedrig | Inhaltliche Prüfung, ob neue P-Objekte sachlich gerechtfertigt sind — kein automatisches Anlegen |
 | 6 | Deadline-/Tempo-Thema (ST-0084, ST-0228) als mögliches gemeinsames Prinzip prüfen | Synthesis | Niedrig | Inhaltliche Prüfung bei künftigem Synthese-Sprint |
 | 7 | 4 Orphan-STs mit plausibler Verlinkung (ST-0068, ST-0084, ST-0152, ST-0171) | Graph Modeling Review | Niedrig | Herausgeberentscheidung, ob ID-Referenzen nachträglich ergänzt werden |
@@ -135,3 +149,12 @@ SPR-0002 benannte eine „neue Spannung" (MEC-0018 vs. MEC-0016/FOMU), trug sie 
 - Keine Open Decision inhaltlich verändert oder geschlossen.
 - T12 nicht aktiviert, `TASK_TYPES.md` nicht verändert.
 - V11-04 nicht wiederholt (Traceability Check, Gap-Klassifikation, Delivery-Artefakte unverändert übernommen als Input, nicht neu erstellt).
+
+**Rework-Ergänzung (2026-07-07, siehe `REWORK_REPORT.md` für Details):**
+
+- W-001 nicht wiedereröffnet, keine bestehende Editor Decision reinterpretiert oder erweitert.
+- Kein neues W-Projekt für OQ-2 automatisch gestartet.
+- Kein Wissensobjekt verändert (P-0040-Korrektur ist eine redaktionelle State-Korrektur an diesem Dokument, kein Edit an `P-0040_purposeful_serving.md` selbst).
+- Kein Atlas-Compiler-Lauf erzwungen.
+- W-006-Kandidat „Kognitive Leichtigkeit vs. Rational Drowning" nicht zu einem vollwertigen Matrixeintrag ausgebaut (außerhalb des Rework-Scopes).
+- Engen Relevanzscan W-001–W-004 durchgeführt (siehe `REWORK_REPORT.md`, Abschnitt 3) — keine Master-Review-Wiederholung, keine neue Theory Competition, keine neue Literaturrecherche.
