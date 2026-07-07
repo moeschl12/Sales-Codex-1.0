@@ -2,15 +2,15 @@
 
 **Stand: 2026-07-06**
 
-Sales Codex Version 1.1 wurde durch Herausgeberentscheidung als autonomes Makroprojekt-Programm eröffnet. Strategische Source of Truth ist `00_project/ROADMAP_V1_1.md`; operativer Launcher ist `00_project/NEXT_ACTION.md`. Version-1.0-Inhalte bleiben unverändert/frozen; V1.1-Arbeit erfolgt über projektbezogene Briefs, interne stille Checkpoints, exception-based escalation und unabhängige Audits. **Stand 2026-07-06:** `V11-01 — Baseline & Control Plane Consolidation` und `V11-02 — Evidence Architecture Resolution` sind aus Executor-Sicht abgeschlossen (`00_project/projects/V11-01_baseline_control_plane/COMPLETION_REPORT.md`, `00_project/projects/V11-02_evidence_architecture_resolution/COMPLETION_REPORT.md`). V11-01 wurde vor Start von V11-02 unabhängig auditiert — Ergebnis **PASS WITH CONDITIONS**; anschließend wurden Commit und Push durchgeführt und die Bedingung erfüllt, der zuvor bestehende Git-Hard-Block (`index.lock`) ist damit aufgelöst. Der Audit für V11-02 steht noch aus (Felix hat explizit direkt weiterpriorisiert, siehe `SESSION_LOG.md`). V11-02 hat den Compact Evidence Architecture Check disponiert und `SCIENTIFIC_DEBT.md` entsprechend präzisiert, ohne Wissensobjekte zu ändern. Aktiv: `V11-03 — Governance + Repository Integrity + Atlas Operationalization`.
+Sales Codex Version 1.1 wurde durch Herausgeberentscheidung als autonomes Makroprojekt-Programm eröffnet. Strategische Source of Truth ist `00_project/ROADMAP_V1_1.md`; operativer Launcher ist `00_project/NEXT_ACTION.md`. Version-1.0-Inhalte bleiben unverändert/frozen; V1.1-Arbeit erfolgt über projektbezogene Briefs, interne stille Checkpoints, exception-based escalation und unabhängige Audits. **Stand 2026-07-06 (Audit-Closure V11-02/V11-03):** `V11-01 — Baseline & Control Plane Consolidation` ist abgeschlossen und unabhängig auditiert (**PASS WITH CONDITIONS**; Bedingung — Commit/Push — erfüllt, Git-Hard-Block `index.lock` aufgelöst). `V11-02 — Evidence Architecture Resolution` ist abgeschlossen und unabhängig auditiert (**PASS**). `V11-03 — Governance + Repository Integrity + Atlas Operationalization` ist abgeschlossen und unabhängig auditiert (**PASS WITH CONDITIONS**; Bedingung — Statuskonsistenz in `CURRENT_STATE.md` bereinigen und Audit-Closure dokumentieren — mit dieser Aktualisierung erfüllt, Bedingung geschlossen). Cross-Project Consistency (gebündelter Audit V11-02/V11-03): **CONSISTENT WITH MINOR DRIFT**. Audit-Nachweise: `00_project/projects/V11-02_evidence_architecture_resolution/AUDIT_REPORT.md`, `00_project/projects/V11-03_governance_integrity_atlas/AUDIT_REPORT.md`. Nächster freigegebener Makroprojekt-Launcher: `V11-04 — Early Delivery Vertical Slice` — **noch nicht gestartet.**
 
 ---
 
 # Current State
 
-Stand: 2026-07-06  
-Workspace-Version (Framework): **1.1** (freigegeben 2026-06-30)  
-Sales-Codex-Version (Gesamtinhalt/Governance): **1.0 — OFFIZIELL VERÖFFENTLICHT am 2026-07-04.** Version 1.1 wurde weiterhin **nicht formal eröffnet.** Vorgeschichte: Programm zur Erreichung von Version 1.0 aktiv seit 2026-07-02, siehe `00_project/SALES_CODEX_1_0_PROGRAM.md`; Phase "Scientific Completion" — Behavioral Science Expansion Sprint 1 (5/5 Bücher) am 2026-07-02 abgeschlossen; Behavioral Science Review Sprint am 2026-07-02 abgeschlossen; Research Program Finalization Sprint (RC-1) am 2026-07-03 abgeschlossen; Research Project W-001 Repository Integration Sprint am 2026-07-03 abgeschlossen; Sales Codex 1.0 Final Pre-Release Sprint am 2026-07-03 abgeschlossen; External Audit Resolution Sprint am 2026-07-04 abgeschlossen; Sales Codex Version 1.0 RC-1 Release Candidate Freeze am 2026-07-04 abgeschlossen; Repository Closing & Release Sprint am 2026-07-04 abgeschlossen — Version 1.0 veröffentlicht. **2026-07-05:** Research Portfolio Initialization Sprint abgeschlossen; RP-001 Activation — Forschungsprojekt **W-002** (ELM) eröffnet und bis Stufe 6 durchlaufen; Editor Decision W-002 (Teilweise annehmen) erhalten und vollständig umgesetzt — Stufen 7–9 abgeschlossen, W-002 nach `06_research_program/completed/W002/` verschoben. Im weiteren Verlauf desselben Tages: RP-002 Activation — Forschungsprojekt **W-003** (Trust Formation & Relationship Marketing) eröffnet, vollständig durchlaufen, Editor Decision „Teilweise annehmen" erhalten und umgesetzt (1 neues Objekt MEC-0030, 13 erweiterte Objekte), Health Check bestanden, nach `06_research_program/completed/W003/` verschoben. **2026-07-06:** RP-004 Activation — Forschungsprojekt **W-004** (Buying Center Social Dynamics & Organisationale Risikoverteilung) eröffnet, vollständig durchlaufen, Editor Decision „Teilweise annehmen" erhalten und umgesetzt (2 erweiterte Objekte: MEC-0014, MEC-0030), Health Check bestanden, nach `06_research_program/completed/W004/` verschoben. Im Anschluss: **Research Portfolio Checkpoint 1** (`00_project/RESEARCH_PORTFOLIO_CHECKPOINT_1.md`) — programmebener, rein lesender Audit über W-001 bis W-004 — abgeschlossen; empfohlene nächste Programmebene-Maßnahme: **Compact Evidence Architecture Check** (Checkpoint 1, Abschnitt 9/11), kein neues W-Projekt, kein Architecture Freeze. **Aktuell kein aktives Forschungsprojekt** (`06_research_program/active/` leer, `RESEARCH_STATUS.md`, Abschnitt 1). Diese Integrationen sind weiterhin die einzigen inhaltlichen Änderungen an `03_knowledge_base/`-Objekten seit der Version-1.0-Veröffentlichung — jede ausdrücklich auf Basis einer expliziten, scope-begrenzten Herausgeber-Freigabe je Projekt, keine Wiedereröffnung von Version 1.1 oder des allgemeinen Entwicklungsmodus.  
+Stand: 2026-07-06
+Workspace-Version (Framework): **1.1** (freigegeben 2026-06-30)
+Sales-Codex-Version (Gesamtinhalt/Governance): **1.0 — OFFIZIELL VERÖFFENTLICHT am 2026-07-04.** Version 1.1 wurde durch Herausgeberentscheidung als autonomes Makroprojekt-Programm eröffnet (siehe Opening Note oben) — diese Zeile bezieht sich ausschließlich auf den unveränderten Gesamtinhalt/Governance-Stand der veröffentlichten Wissensbasis, nicht auf den V1.1-Programmstatus. Vorgeschichte: Programm zur Erreichung von Version 1.0 aktiv seit 2026-07-02, siehe `00_project/SALES_CODEX_1_0_PROGRAM.md`; Phase "Scientific Completion" — Behavioral Science Expansion Sprint 1 (5/5 Bücher) am 2026-07-02 abgeschlossen; Behavioral Science Review Sprint am 2026-07-02 abgeschlossen; Research Program Finalization Sprint (RC-1) am 2026-07-03 abgeschlossen; Research Project W-001 Repository Integration Sprint am 2026-07-03 abgeschlossen; Sales Codex 1.0 Final Pre-Release Sprint am 2026-07-03 abgeschlossen; External Audit Resolution Sprint am 2026-07-04 abgeschlossen; Sales Codex Version 1.0 RC-1 Release Candidate Freeze am 2026-07-04 abgeschlossen; Repository Closing & Release Sprint am 2026-07-04 abgeschlossen — Version 1.0 veröffentlicht. **2026-07-05:** Research Portfolio Initialization Sprint abgeschlossen; RP-001 Activation — Forschungsprojekt **W-002** (ELM) eröffnet und bis Stufe 6 durchlaufen; Editor Decision W-002 (Teilweise annehmen) erhalten und vollständig umgesetzt — Stufen 7–9 abgeschlossen, W-002 nach `06_research_program/completed/W002/` verschoben. Im weiteren Verlauf desselben Tages: RP-002 Activation — Forschungsprojekt **W-003** (Trust Formation & Relationship Marketing) eröffnet, vollständig durchlaufen, Editor Decision „Teilweise annehmen" erhalten und umgesetzt (1 neues Objekt MEC-0030, 13 erweiterte Objekte), Health Check bestanden, nach `06_research_program/completed/W003/` verschoben. **2026-07-06:** RP-004 Activation — Forschungsprojekt **W-004** (Buying Center Social Dynamics & Organisationale Risikoverteilung) eröffnet, vollständig durchlaufen, Editor Decision „Teilweise annehmen" erhalten und umgesetzt (2 erweiterte Objekte: MEC-0014, MEC-0030), Health Check bestanden, nach `06_research_program/completed/W004/` verschoben. Im Anschluss: **Research Portfolio Checkpoint 1** (`00_project/RESEARCH_PORTFOLIO_CHECKPOINT_1.md`) — programmebener, rein lesender Audit über W-001 bis W-004 — abgeschlossen; empfohlene nächste Programmebene-Maßnahme: **Compact Evidence Architecture Check** (Checkpoint 1, Abschnitt 9/11), kein neues W-Projekt, kein Architecture Freeze. **Aktuell kein aktives Forschungsprojekt** (`06_research_program/active/` leer, `RESEARCH_STATUS.md`, Abschnitt 1). Diese Integrationen sind weiterhin die einzigen inhaltlichen Änderungen an `03_knowledge_base/`-Objekten seit der Version-1.0-Veröffentlichung — jede ausdrücklich auf Basis einer expliziten, scope-begrenzten Herausgeber-Freigabe je Projekt, keine Wiedereröffnung von Version 1.1 oder des allgemeinen Entwicklungsmodus.
 Architektur: Stateless Agent Architecture (seit 2026-06-30)
 
 ---
@@ -262,7 +262,7 @@ Objekte: ST-0001–ST-0023, A-0001–A-0004, MEC-0001–MEC-0004, P-0001–P-000
 
 ### Influence (B-0002, SRC-0002) — ABGESCHLOSSEN
 
-Primärquelle: Influence, Robert B. Cialdini, Ausgabe 2007 (PDF).  
+Primärquelle: Influence, Robert B. Cialdini, Ausgabe 2007 (PDF).
 Abgeschlossen: 2026-06-30
 
 Neue Objekte: 59 (26 ST + 8 A + 8 MEC/ext + 8 P + 7 T + 1 MOD + 1 VAL)
@@ -271,8 +271,8 @@ Neue Objekte: 59 (26 ST + 8 A + 8 MEC/ext + 8 P + 7 T + 1 MOD + 1 VAL)
 
 ### Never Split the Difference (B-0003, SRC-0003) — ABGESCHLOSSEN
 
-Primärquelle: Never Split the Difference, Chris Voss / Tahl Raz, 2016 (PDF vorliegend).  
-Gestartet: 2026-06-30 | Abgeschlossen: 2026-06-30 | Modus: Book Mode  
+Primärquelle: Never Split the Difference, Chris Voss / Tahl Raz, 2016 (PDF vorliegend).
+Gestartet: 2026-06-30 | Abgeschlossen: 2026-06-30 | Modus: Book Mode
 Objekte: 57 ST + 5 A + 3 MEC (neu) + 3 MEC (ext.) + 5 P + 7 T + 1 MOD + 1 VAL + 1 BOOK_REVIEW = **83 Gesamt**
 
 | Task | Beschreibung | Status |
@@ -292,8 +292,8 @@ Objekte: 57 ST + 5 A + 3 MEC (neu) + 3 MEC (ext.) + 5 P + 7 T + 1 MOD + 1 VAL + 
 
 ### The Challenger Sale (B-0004, SRC-0004) — ABGESCHLOSSEN
 
-Primärquelle: The Challenger Sale, Matthew Dixon & Brent Adamson (CEB), 2011 (PDF vorliegend).  
-Gestartet: 2026-06-30 | Abgeschlossen: 2026-06-30 | Modus: Book Mode  
+Primärquelle: The Challenger Sale, Matthew Dixon & Brent Adamson (CEB), 2011 (PDF vorliegend).
+Gestartet: 2026-06-30 | Abgeschlossen: 2026-06-30 | Modus: Book Mode
 Objekte: 26 ST + 6 A + 2 MEC (neu) + 2 MEC (ext.) + 4 P + 3 T + 1 MOD + 1 VAL + 1 BOOK_REVIEW = **46 Gesamt**
 
 | Task | Beschreibung | Status |
@@ -313,8 +313,8 @@ Objekte: 26 ST + 6 A + 2 MEC (neu) + 2 MEC (ext.) + 4 P + 3 T + 1 MOD + 1 VAL + 
 
 ### Gap Selling (B-0005, SRC-0005) — ABGESCHLOSSEN
 
-Primärquelle: Gap Selling, Keenan, 2018 (PDF vorliegend, ⚠ Teilfassung: 98 Seiten, fehlende Kap. 1, 2, 6, 13, 15–20).  
-Gestartet: 2026-06-30 | Abgeschlossen: 2026-06-30 | Modus: Book Mode  
+Primärquelle: Gap Selling, Keenan, 2018 (PDF vorliegend, ⚠ Teilfassung: 98 Seiten, fehlende Kap. 1, 2, 6, 13, 15–20).
+Gestartet: 2026-06-30 | Abgeschlossen: 2026-06-30 | Modus: Book Mode
 Objekte: 17 ST + 6 A + 1 MEC (neu) + 2 MEC (ext.) + 2 P + 4 T + 1 MOD + 1 VAL + 1 BOOK_REVIEW = **35 Gesamt**
 
 | Task | Beschreibung | Status |

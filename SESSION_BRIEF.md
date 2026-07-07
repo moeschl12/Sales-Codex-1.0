@@ -8,15 +8,15 @@
 
 Sales Codex Version 1.0 ist offiziell veröffentlicht und bleibt unveränderlich. Version 1.1 wurde durch Herausgeberentscheidung als autonomes Makroprojekt-Programm eröffnet.
 
-**Drei Makroprojekte abgeschlossen:**
+**Drei Makroprojekte abgeschlossen und unabhängig auditiert:**
 
-- V11-01 — Baseline & Control Plane Consolidation: Git-/Atlas-/Evidence-Check-/W-002-004-Status vollständig erfasst. Vor Start von V11-02 unabhängig auditiert — Ergebnis **PASS WITH CONDITIONS**; anschließend Commit und Push durchgeführt, Bedingung erfüllt, der zuvor dokumentierte Git-Hard-Block (`index.lock`) damit aufgelöst.
-- V11-02 — Evidence Architecture Resolution (gestartet nach bestandenem V11-01-Audit, auf explizite Herausgeberanweisung): alle 7 Befunde des Compact Evidence Architecture Check disponiert, `SCIENTIFIC_DEBT.md` präzisiert, kein W-005, 3-Punkte-Evidence-Backlog.
-- V11-03 — Governance + Repository Integrity + Atlas Operationalization (auf explizite Herausgeberanweisung direkt im Anschluss an V11-02, ohne zwischengeschalteten Audit): OD-006/007/009–012 mit explizitem DoD-Status versehen (2× Deferred, 4× Needs Editor Decision); `KNOWLEDGE_ATLAS_GOVERNANCE.md` um Research-Program-Integration-Trigger und einen real gemessenen zweiten KPI-Zyklus ergänzt; Statusinkonsistenz in `CURRENT_STATE.md` behoben.
+- V11-01 — Baseline & Control Plane Consolidation: Git-/Atlas-/Evidence-Check-/W-002-004-Status vollständig erfasst. Audit: **PASS WITH CONDITIONS**; Commit/Push durchgeführt, Bedingung erfüllt, Git-Hard-Block (`index.lock`) aufgelöst.
+- V11-02 — Evidence Architecture Resolution: alle 7 Befunde des Compact Evidence Architecture Check disponiert, `SCIENTIFIC_DEBT.md` präzisiert, kein W-005, 3-Punkte-Evidence-Backlog. Audit: **PASS** (`00_project/projects/V11-02_evidence_architecture_resolution/AUDIT_REPORT.md`).
+- V11-03 — Governance + Repository Integrity + Atlas Operationalization: OD-006/007/009–012 mit explizitem DoD-Status versehen (2× Deferred, 4× Needs Editor Decision); `KNOWLEDGE_ATLAS_GOVERNANCE.md` um Research-Program-Integration-Trigger und einen real gemessenen zweiten KPI-Zyklus ergänzt. Audit: **PASS WITH CONDITIONS** (`00_project/projects/V11-03_governance_integrity_atlas/AUDIT_REPORT.md`) — Bedingung (Statuskonsistenz `CURRENT_STATE.md` bereinigen, Closure dokumentieren) durch den Closure Fix vom 2026-07-06 erfüllt, **Bedingung geschlossen**.
 
-**Offener Punkt:** V11-02 und V11-03 haben bislang keinen unabhängigen Audit-Report — gültige Herausgeber-Priorisierung, aber vor dem finalen V1.1-Release-Gate nachzuholen (`V1_1_RELEASE_CRITERIA.md`, Abschnitt 7).
+Cross-Project Consistency (gebündelter Audit V11-02/V11-03): **CONSISTENT WITH MINOR DRIFT** — die Drift (veraltete Statusaussagen in `CURRENT_STATE.md`) ist mit diesem Closure Fix behoben. Details: `00_project/CLOSURE_REPORT_V11-02_V11-03_2026-07-06.md`.
 
-Nächster Schritt: **V11-04 — Early Delivery Vertical Slice** (noch nicht gestartet).
+Nächster Schritt: **V11-04 — Early Delivery Vertical Slice** — bereit, in keiner Session bisher gestartet.
 
 Strategische Source of Truth:
 
