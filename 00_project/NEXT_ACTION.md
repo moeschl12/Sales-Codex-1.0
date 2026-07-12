@@ -1,15 +1,17 @@
 # Next Action — V1.1 Launcher
 
 Status: Active
-Updated: 2026-07-07
+Updated: 2026-07-12
 
 ---
 
-## Next Launcher (Ready — Not Started)
+## Next Launcher (Executor Work Completed — Awaiting Independent Audit)
 
-**V11-06 — Research Portfolio Wave 2: READY — NEXT LAUNCHER — NOT STARTED.**
+**V11-06 — Research Portfolio Wave 2: EXECUTOR WORK COMPLETED (2026-07-12) — AWAITING INDEPENDENT AUDIT.**
 
-Dependency V11-05 is satisfied: `00_project/projects/V11-05_knowledge_consolidation/` — COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITION CLOSED (2026-07-07). V11-06 has not been started automatically and requires explicit Editor authorization to begin.
+Felix authorized the wave on 2026-07-07 with scope explicitly limited to exactly one new research project: W-008 (OQ-2 from `06_research_program/completed/W001/`, "Omission-Kipppunkt im Buying Center"). RP-005 and RP-006 were explicitly excluded from this wave. W-008 completed all nine Research Lifecycle stages, including Editor Decision (Felix, 2026-07-12: "Teilweise annehmen"), Repository Integration and a passed Health Check; the project folder was moved to `06_research_program/completed/W008/`. Completion report: `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md` (contains the wave-level cross-wave synthesis — narrow by design, since the wave contained exactly one project; identifies a programmwide pattern of additive synthesis recommendations now confirmed in its fourth occurrence, W-002/W-003/W-004/W-008).
+
+DoD items 1–6 (`00_project/projects/V11-06_research_portfolio_wave_2/PROJECT_BRIEF.md`, Abschnitt 7) are fulfilled. DoD item 7 ("Completion report and audit package exist") is only partially fulfilled: the completion report exists, the audit package does not. Per `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §5.2/5.3, the audit should preferably be performed by a different model family (Gemini/ChatGPT) in a separate context, not by the same executor. **V11-06 is therefore not yet fully closed, and V11-07 has not been started automatically.**
 
 **V11-05 — Knowledge Consolidation & Integrated Synthesis: COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITION CLOSED.**
 
@@ -26,13 +28,16 @@ Precisified two Atlas Sprint 1 findings via direct object verification. **Correc
 - V11-03: COMPLETED, audited **PASS WITH CONDITIONS** (condition closed).
 - V11-04: COMPLETED, audited **PASS WITH CONDITIONS** (0 Critical, 0 Major, 4 Minor; all closed).
 - V11-05: COMPLETED, audited **PASS WITH CONDITIONS** (original REWORK REQUIRED → rework → focused re-audit 0 Critical/0 Major/1 Minor → Condition C-01 closed 2026-07-07).
+- V11-06: EXECUTOR WORK COMPLETED (2026-07-12) — **NOT YET AUDITED.** Wave scope: exactly one W-project (W-008), per explicit Editor authorization 2026-07-07. Completion report: `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md`.
 
 **Open, non-blocking items carried forward at program level:**
 
 1. T12 ("Publikationsarbeit") governance question — deferred, T12 remains inactive.
 2. MEC-0002/P-0002 evidence-level harmonization — registered in `00_project/SCIENTIFIC_DEBT.md`.
-3. W-001 residual empirical question OQ-2 — canonical identity: Omission-Kipppunkt im Buying Center (complexity/product-information tipping point), NOT problem maturity — open research question, no W-project activated; W-001 itself is COMPLETED, not open (see `SCIENTIFIC_DEBT.md`).
-4. W-006 candidate "Kognitive Leichtigkeit vs. Rational Drowning" — unchanged, out of V11-05 scope. W-007 (Pre-Suasion vs. FOMU tension, corrected from a misassigned W-006) — formally documented in `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md`.
+3. W-001 residual empirical question OQ-2 — canonical identity: Omission-Kipppunkt im Buying Center (complexity/product-information tipping point), NOT problem maturity — remains empirically unresolved after W-008 (no direct empirical test of the core question found in the available literature); transferred to `SCIENTIFIC_DEBT.md`, only a dedicated primary experiment can close it, no further literature synthesis planned.
+4. W-006 candidate "Kognitive Leichtigkeit vs. Rational Drowning" — unchanged, out of scope for V11-05 and V11-06. W-007 (Pre-Suasion vs. FOMU tension, corrected from a misassigned W-006) — formally documented in `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md`.
+5. RP-005 (blocked on OD-010) and RP-006 (blocked on a merge-vs-standalone question with RP-004) — unchanged, explicitly excluded from V11-06 scope by Editor instruction.
+6. Programmwide pattern of additive synthesis recommendations — now confirmed in its **fourth** occurrence (W-002/W-003/W-004/W-008; see `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md`, Abschnitt 3.1). A dedicated programmwide methods review is recommended but requires explicit Editor authorization; not started.
 
 ---
 
@@ -48,9 +53,10 @@ Normal uncertainty: document and continue.
 
 ---
 
-## Required Finish (for whoever starts V11-06)
+## Required Finish (for whoever closes V11-06 / starts V11-07)
 
-V11-05 is fully closed (audited, PASS WITH CONDITIONS, Condition C-01 closed). No further V11-05 action required. Before starting V11-06:
+W-008 (the sole W-project of V11-06) is fully closed (Editor Decision, Repository Integration, Health Check, folder moved to `completed/`). V11-06 itself is executor-complete but **not yet audited**. Before starting V11-07:
 
-1. Obtain explicit Editor authorization to begin `V11-06 — Research Portfolio Wave 2` (not started automatically by this closure).
-2. Review `00_project/projects/V11-05_knowledge_consolidation/INTEGRATED_CONSOLIDATION_SYNTHESIS.md` Section 6/7 (prioritized backlog) for research-relevant carryover items, in particular OQ-2 (Omission-Kipppunkt im Buying Center) as a candidate future research question, not an automatic activation.
+1. Obtain an independent audit of V11-06 (preferably cross-family per `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §5.2/5.3), using `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md` and `06_research_program/completed/W008/` as the evidence base.
+2. Close any audit conditions, following the established V11-01–V11-05 pattern (rework only if findings require it).
+3. Obtain explicit Editor authorization to begin `V11-07 — Cross-System Review & Delivery Scaling Decision` (not started automatically).

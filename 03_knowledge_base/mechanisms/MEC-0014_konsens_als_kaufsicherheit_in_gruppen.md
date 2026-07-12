@@ -126,6 +126,20 @@ Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MAST
 
 Vollständige Herleitung: `06_research_program/completed/W004/02_SCIENTIFIC_MASTER_REVIEW.md`, `03_RED_TEAM_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, `05_DECISION_BRIEF.md`, `06_EDITOR_DECISION.md`.
 
+## Erweiterung: Vor-Konsens-/Nach-Konsens-Phasendifferenzierung (Research Program W-008)
+
+**[Ergänzt 2026-07-12 aus W-008 — Omission-Kipppunkt im Buying Center Research Project. Editor Decision 2026-07-12: Teilweise annehmen, siehe `06_research_program/completed/W008/06_EDITOR_DECISION.md`]**
+
+Dieses Objekt modelliert Risikodiffusion durch geteilte Verantwortung (Teilmechanismus 1) bislang ausschließlich als Zustand **nach** erfolgreichem Konsens-Aufbau — der vorgelagerte Prozess, wie Konsens überhaupt zustande kommt, ist nicht erfasst. W-008 prüfte, ob in dieser Vor-Konsens-Phase eine gegenläufige Kraft wirken könnte: Darley, J.M. & Latané, B. (1968). Bystander Intervention in Emergencies: Diffusion of Responsibility. *Journal of Personality and Social Psychology*, 8, 377–383, zeigt, dass mehr Anwesende die individuelle Handlungsbereitschaft senken (Verantwortungsdiffusion), bevor überhaupt ein gemeinsamer Standpunkt erreicht ist.
+
+**Vorsichtige Randbedingung (Editor Decision W-008, "nur schwach" angenommen):** Eine mögliche Phasendifferenzierung — Vor-Konsens-Phase: Verantwortungsdiffusion wirkt potenziell lähmungsverstärkend (mehr Buying-Center-Mitglieder → geringere individuelle Initiative, bevor Konsens angestrebt wird); Nach-Konsens-Phase: die bereits bestehende Risikodiffusions-Kernaussage dieses Objekts bleibt unverändert gültig (mehr Mitglieder → mutigere Entscheidung, sobald Konsens erreicht ist) — wird hier **nicht als etablierte Randbedingung**, sondern ausdrücklich als **plausible, nicht direkt getestete Arbeitshypothese** dokumentiert. Der Kontextabstand zwischen der Darley-&-Latané-Tradition (akute, anonyme, einmalige Notfallsituationen) und einem graduellen, namentlich bekannten, wiederholten B2B-Konsensprozess ist erheblich und wurde im unabhängigen Peer Review von W-008 explizit als effektstärkerelevant benannt (`06_research_program/completed/W008/03_RED_TEAM_REVIEW.md`, Kriterium 5).
+
+**Kein E-Level-Wechsel der bestehenden Kernaussage** (bleibt E3 für den Challenger-Kontext, E3 für den allgemeinen Mechanismus). Die neue Phasendifferenzierung selbst wird nicht separat evidenzklassifiziert, da sie ausdrücklich als ungetestete Arbeitshypothese geführt wird, nicht als gesicherter Befund.
+
+**Nicht integriert (Editor Decision W-008):** Eine quantitative Aussage dazu, ab welcher Buying-Center-Größe die Vor-Konsens- gegenüber der Nach-Konsens-Dynamik dominiert, wurde nicht integriert — kein direkter empirischer Test identifiziert.
+
+Vollständige Herleitung: `06_research_program/completed/W008/02_SCIENTIFIC_MASTER_REVIEW.md`, `03_RED_TEAM_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, `05_DECISION_BRIEF.md`, `06_EDITOR_DECISION.md`.
+
 ## Status
 
-Entwurf — erstellt 2026-06-30 (SRC-0004); ergänzt 2026-07-05 (W-003 — Citation Enrichment, keine strukturelle Änderung); ergänzt 2026-07-06 (W-004 — Buying-Center-Koalitionsforschung, ausgearbeiteter Agency-Theory-Pfad, Cross-Links zu MEC-0002 und MEC-0030, kein E-Level-Wechsel der Kernaussage)
+Entwurf — erstellt 2026-06-30 (SRC-0004); ergänzt 2026-07-05 (W-003 — Citation Enrichment, keine strukturelle Änderung); ergänzt 2026-07-06 (W-004 — Buying-Center-Koalitionsforschung, ausgearbeiteter Agency-Theory-Pfad, Cross-Links zu MEC-0002 und MEC-0030, kein E-Level-Wechsel der Kernaussage); ergänzt 2026-07-12 (W-008 — Vor-Konsens-/Nach-Konsens-Phasendifferenzierung als ungetestete Arbeitshypothese, kein E-Level-Wechsel)

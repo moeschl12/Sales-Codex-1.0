@@ -5,6 +5,78 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-12 — V11-06 Audit-Fix: drei kleine Korrekturen nach unabhängigem Review
+
+**Session-Typ:** Independent review von V11-06/W-008-Artefakten fand 0 blocking / 3 minor findings. Minor wording/status fixes angewendet, keine neue Research-Integration, keine neuen Scientific-Debt-Einträge, kein Start von V11-07.
+
+**Fix 1 — MEC-0016:** `03_knowledge_base/mechanisms/MEC-0016_fomu_entscheidungsangst_durch_fehlerrisiko.md`, Abschnitt „Grenzen" — der Satz „In Kaufgruppen (Buying Center) wirkt FOMU verstärkt..." (unbelegte Tatsachenbehauptung) abgeschwächt zu „...könnte FOMU verstärkt wirken..." mit explizitem Verweis auf die W-008-Einordnung als „literaturgestützt plausibel, nicht direkt getestet". Kein E-Level-Wechsel, keine neue Aussage — nur Formulierungspräzisierung, konsistent mit dem bereits bestehenden Erweiterungsabschnitt „Zitationspräzisierung Omission Bias..." weiter unten in derselben Datei.
+
+**Fix 2 — W-008 README:** `06_research_program/completed/W008/README.md`, Rollentabelle — Zeile „Scientific Reviewer | Master Review, Theory Landscape | Noch nicht wahrgenommen" korrigiert zu „Claude (Cowork-Session, 2026-07-07)", konsistent mit der Formulierung in den READMEs von W-002/W-003/W-004.
+
+**Fix 3 — V11-06 Completion Report:** `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md` — „statistische Aussagekraft" (Abschnitt 3.1) und die verwandte Formulierung in Abschnitt 8 (Remaining Risk/Uncertainty) durch „Indiziengewicht" ersetzt, mit explizitem Zusatz „kein statistischer Nachweis". Kein neuer Befund — nur epistemisch präzisere Formulierung; die zugrunde liegende Beobachtung (viertes Vorkommen des additiven Synthesemusters) bleibt unverändert.
+
+**Ergebnis:** Alle drei Korrekturen angewendet. V11-06-Status unverändert: EXECUTOR WORK COMPLETED — AWAITING INDEPENDENT AUDIT (Wortlautfixes sind kein Ersatz für das noch ausstehende, in `V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §5.2/5.3 vorgesehene Cross-Family-Audit). Kein Git-Commit durch diese Sitzung.
+
+---
+
+## 2026-07-12 — V11-06 Wave-Abschluss: Cross-Wave-Synthese, Completion Report, Control-Plane-Sync
+
+**Session-Typ:** Fortsetzung derselben Sitzung nach Abschluss von W-008 (Stufen 8–9, siehe Eintrag unten). Bearbeitung von Wave-Ebene-Schritt 8 aus `00_project/projects/V11-06_research_portfolio_wave_2/PROJECT_BRIEF.md` („Cross-wave synthesis"), da die Wave-Scope auf genau ein W-Projekt begrenzt war.
+
+**Completion Report:** `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md` erstellt. Cross-Wave-Synthese identifiziert eine Konvergenz: das bereits über W-002/W-003/W-004 dreifach dokumentierte programmweite Muster additiver Syntheseempfehlungen bestätigt sich in W-008 als **viertes** Vorkommen — mit der zusätzlichen Beobachtung, dass der W-008-Red-Team-Review feststellte, der Master Review habe das Muster nicht selbst reflektiert, obwohl die eigene Research Question es vorwegnahm. Keine neuen Widersprüche innerhalb der Wave (nur ein Projekt). Debt-Übergabe: die fünf W-008-Scientific-Debt-Einträge (siehe Eintrag unten). Next Priorities dokumentiert: OQ-2 nur noch durch Primärexperiment klärbar; RP-005/RP-006 unverändert blockiert und außerhalb des Scopes; mögliche künftige programmweite Methoden-Review zum additiven Muster, Herausgeber-Entscheidung ausstehend.
+
+**DoD-Prüfung (`PROJECT_BRIEF.md`, Abschnitt 7):** Kriterien 1–6 erfüllt. Kriterium 7 („Completion report and audit package exist") nur teilweise erfüllt — Completion Report liegt vor, unabhängiger Audit fehlt noch. Gemäß `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §5.2/5.3 soll dieser Audit bevorzugt durch ein anderes Modell (Cross-Family, z. B. Gemini/ChatGPT) in getrenntem Kontext erfolgen — bewusst nicht durch denselben Executor in dieser Sitzung selbst durchgeführt.
+
+**Control-Plane-Sync:** `00_project/NEXT_ACTION.md` und `00_project/ROADMAP_V1_1.md` aktualisiert — V11-06-Status auf „EXECUTOR WORK COMPLETED — AWAITING INDEPENDENT AUDIT" gesetzt, Program-Board-Zeile, Abschnitt „Current Active Project" und offene Programmpunkte entsprechend ergänzt. **Kein automatischer Start von V11-07.**
+
+**Ergebnis:** V11-06 ist auf Executor-Ebene abgeschlossen, aber nicht vollständig geschlossen (Audit steht aus). Kein Git-Commit durch diese Sitzung (Herausgeber-Vorbehalt).
+
+---
+
+## 2026-07-12 — W-008 Stufen 8–9: Repository Integration, Health Check, Abschluss
+
+**Session-Typ:** Fortsetzung nach Herausgeber-Editor-Decision (Felix füllte `06_EDITOR_DECISION.md` aus: „Teilweise annehmen", 2026-07-12).
+
+**Repository Integration (Stufe 8):** Exakt die zehn in der Editor-Decision-Tabelle „Geplante Integration" genannten Zeilen umgesetzt, nicht mehr. MEC-0016 erweitert (Baron & Ritov 1994 als präzisere Omission-Bias-Primärquelle ergänzt, bestehende Kahneman-&-Ritov-1994-Zeile nicht gelöscht; Cross-Link zu Darley & Latané 1968, bestehender Grenzen-Satz als „literaturgestützt plausibel, nicht direkt getestet" relativiert statt gelöscht). MEC-0014 erweitert (Vor-Konsens-/Nach-Konsens-Phasendifferenzierung, ausdrücklich als „nur schwach angenommene", ungetestete Arbeitshypothese markiert). A-0031 erweitert (Cross-Link-Vermerk zu W-008). Kein neues Wissensobjekt. `SCIENTIFIC_DEBT.md`: bestehende OQ-2-Zeile (W-001-Abschnitt) um Update-Vermerk ergänzt (weiterhin offen); neuer Abschnitt „W-008" mit fünf Einträgen (drei projektinterne offene Fragen plus programmweites additives Synthesemuster als viertes Vorkommen). Zwei Punkte bewusst nicht integriert (neuer Mechanismus, quantitative Schwellenantwort). `REPOSITORY_INTEGRATION_LOG.md` erstellt, bidirektional 1:1 gegen die Editor-Decision-Tabelle geprüft.
+
+**Health Check (Stufe 9):** Alle neun Prüfpunkte real verifiziert (u. a. repositoryweite Grep-Gegenprobe auf „W-008" in `03_knowledge_base/` — exakt die drei erweiterten Objekte, keine Abweichung). Bestanden.
+
+**Abschluss:** `active/W008/` nach `completed/W008/` verschoben. `RESEARCH_STATUS.md` aktualisiert. W-008 ist das fünfte vollständig durchlaufene Forschungsprojekt des Programms.
+
+**Ergebnis:** OQ-2 (Omission-Kipppunkt im Buying Center, aus W-001) bleibt inhaltlich unbeantwortet — dies ist das im Decision Brief und in der Editor Decision vorgesehene Ergebnis, kein Prozessmangel. Kein Git-Commit durch diese Sitzung (Herausgeber-Vorbehalt).
+
+---
+
+## 2026-07-07 — W-008 Stufen 3–7: Master Review bis Editor Decision vorgelegt (HARD STOP)
+
+**Session-Typ:** Fortsetzung von `00_project/projects/V11-06_research_portfolio_wave_2/` nach Herausgeberauftrag „Mach weiter bis zur Editor Decision". Vollständiger Durchlauf Stufe 3–6 des Research Lifecycle für W-008, gestoppt vor Stufe 7 (Editor Decision ist ausschließlich Herausgeber-Befugnis).
+
+**Stufe 3 (Master Review):** Literaturrecherche (Websuche) zu Omission Bias, Diffusion of Responsibility, Gruppenpolarisierung, kollektiver Intelligenz und aktuellen B2B-Buying-Group-Kennzahlen. Vier Hypothesen geprüft. Zentrales Ergebnis: kein direkter empirischer Test der OQ-2-Kernfrage gefunden.
+
+**Stufe 4 (Peer/Red Team Review):** Unabhängiger Subagenten-Kontext (nur fertiger Master Review + Repo-Zugriff, keine Herleitung). Empfehlung „Überarbeiten" — Zitationsgrundlage vollständig bestätigt, aber unvollständige Repository Impact Analysis identifiziert (A-0031 fehlte).
+
+**Stufe 5 (Theory Landscape):** Sechs Streitpunkte konsolidiert, vier aufgelöst, zwei an Decision Brief/Open Questions weitergereicht. A-0031 nachgeprüft — deckt eine dritte, nicht-affektive Erklärungsdimension auf (rationale Kostenkalkulation statt Omission Bias), die die ursprüngliche OQ-2-Rahmung selbst infrage stellt (neu: OQ-1 in `06_research_program/active/W008/OPEN_QUESTIONS.md`).
+
+**Stufe 6 (Decision Brief):** Empfehlung „Teilweise annehmen" (nicht bindend) — OQ-2 bleibt offen (nur experimentell klärbar), zwei kleinere Objekterweiterungen (MEC-0016-Zitationskorrektur, MEC-0014/MEC-0016-Cross-Links) vorgeschlagen.
+
+**Ergebnis:** `06_EDITOR_DECISION.md` angelegt, Status `AWAITING_EDITOR_DECISION`, bewusst nicht ausgefüllt. Kein Wissensobjekt verändert, keine Herausgeberentscheidung vorweggenommen. Wartet auf Felix.
+
+---
+
+## 2026-07-07 — V11-06 Start: Portfolio State Check, Wave-Kandidatenauswahl, W-008 Aktivierung (Stufe 1–2)
+
+**Session-Typ:** Start von `00_project/projects/V11-06_research_portfolio_wave_2/` (Research Portfolio Wave 2) nach Herausgeberauftrag „starte v11-06".
+
+**Portfolio State Check:** `RESEARCH_STATUS.md` (keine aktiven Projekte, W-001–W-004 completed/integriert) und `RESEARCH_PORTFOLIO.md` (v1.6, RP-003/RP-005/RP-006 Validated, RP-007/RP-008 Candidate/Watchlist) gegen den aktuellen Repository-Zustand geprüft. V11-05-Backlog (`INTEGRATED_CONSOLIDATION_SYNTHESIS.md`, Abschnitt 7) und `SCIENTIFIC_DEBT.md` auf zusätzliche, noch nicht Portfolio-bewertete Kandidaten geprüft: OQ-2 (W-001-Restfrage), W-006-Kandidat (Kognitive Leichtigkeit vs. Rational Drowning), W-007-Kandidat (Pre-Suasion vs. FOMU). V11-02-Evidence-Backlog geprüft — explizit als Wartungs-/Zitationsaufgabe disponiert (kein W-005), nicht als Research-Kandidat.
+
+**Editor-Bestätigung (2026-07-07):** Felix hat die Wave-Zusammensetzung explizit auf **ausschließlich W-008 (OQ-2 — Omission-Kipppunkt im Buying Center)** festgelegt. RP-003, W-006-/W-007-Kandidaten sowie die blockierten RP-005 (OD-010) und RP-006 (Merge-Frage) bleiben unverändert im Portfolio, keine Bearbeitung dieser Blocker innerhalb von V11-06.
+
+**W-008 aktiviert:** `06_research_program/active/W008/` angelegt (`README.md`, `RESEARCH_LOG.md`, `OPEN_QUESTIONS.md`, `REFERENCES.md`). Stufe 1 (`00_RESEARCH_QUESTION.md`, vier Subfragen RQ-W008-1 bis RQ-W008-4) und Stufe 2 (`01_INITIAL_HYPOTHESIS.md`, mit drei echten Alternativhypothesen) abgeschlossen, gegründet auf direkte Prüfung von MEC-0002, MEC-0016, MEC-0014, MEC-0015. Websuchverifizierte Zitationspräzisierungsfrage zu MEC-0016s Omission-Bias-Quelle dokumentiert (Baron & Ritov 1994 vs. bestehende Kahneman & Ritov 1994-Zitation), nicht selbst korrigiert. `RESEARCH_STATUS.md` aktualisiert (W-008 in Aktive-Projekte-Tabelle, Status `ACTIVE (Stufe 2)`). `RESEARCH_PORTFOLIO.md` bewusst nicht verändert — W-008 stammt direkt aus einer bereits übergebenen Open Question (OQ-2), nicht aus einem `RP-XXX`-Theme Card.
+
+**Ergebnis:** V11-06 läuft, Wave-Scope auf ein Projekt (W-008) begrenzt. W-008 Status **ACTIVE (Stufe 2)** — Master Review (Stufe 3) ausstehend. Kein Wissensobjekt verändert, kein Evidence Level geändert, keine bestehende Editor Decision berührt. Control-Plane-Dateien außerhalb des Research Program (`NEXT_ACTION.md`, `CURRENT_STATE.md`, `SESSION_BRIEF.md`, `ROADMAP_V1_1.md`) bewusst noch nicht synchronisiert — Sync erfolgt gebündelt bei V11-06-Abschluss bzw. bei nächstem Closure-Checkpoint, analog zum bei V11-04/V11-05 etablierten Verfahren.
+
+---
+
 ## 2026-07-07 — V11-05 OQ-2 Closure Fix (T3_WARTUNG) — Condition C-01 geschlossen
 
 **Session-Typ:** Gezielte Closure-Aktion auf Basis eines unabhängigen fokussierten Re-Audits (`00_project/projects/V11-05_knowledge_consolidation/RE_AUDIT_REPORT.md`, Verdict PASS WITH CONDITIONS, 0 Critical/0 Major/1 Minor). Kein neuer Rework-Zyklus, kein drittes volles Audit, keine neue Forschung, kein V11-06-Start.
