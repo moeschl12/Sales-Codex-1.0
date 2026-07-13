@@ -39,7 +39,7 @@ Vollständige Übersicht: `00_project/DECISION_STACK_2026-07-13.md`.
 
 ## Working Tree / Git
 
-Working Tree war zum Release-Zeitpunkt nicht clean; der Post-Release-Git-Abschluss nach `b096786`/`cbed101` war clean. Aktueller Working Tree enthält uncommitted Governance-/Agenten-/Architekturänderungen (Governance-Integration OD-009 bis OD-012, Agentenhilfsschicht, Architekturübersicht) und wartet auf Commit/Push — siehe `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md` für die Commit-Bundle-Sicht.
+Working Tree war zum Release-Zeitpunkt nicht clean; der Post-Release-Git-Abschluss nach `b096786`/`cbed101` war clean. Der Governance-/Agenten-/Architekturblock ist inzwischen in `e5cdccc` committed und auf `origin/main` gepusht. Der Working Tree war beim letzten Check clean; lokale Änderungen aus der aktuellen Navigationsverschlankung sind davon getrennt.
 
 ---
 

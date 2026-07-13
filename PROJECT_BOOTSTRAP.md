@@ -13,8 +13,9 @@ Minimale Pflichtlektüre (in dieser Reihenfolge):
 
 1. `PROJECT_BOOTSTRAP.md` ← du bist hier
 2. `SESSION_BRIEF.md`, falls vorhanden — sonst nur der Statusblock am Anfang von `CURRENT_STATE.md`, nicht die vollständige Sprint-Historie darunter
-3. `00_project/NEXT_ACTION.md` — exakt eine nächste Aktion
-4. Nur die direkt betroffenen Arbeitsdateien (nicht das gesamte Repository)
+3. `00_project/ACTIVE_INDEX.md` — kompakte Navigationskarte für aktive Bereiche
+4. `00_project/NEXT_ACTION.md` — exakt eine nächste Aktion
+5. Nur die direkt betroffenen Arbeitsdateien (nicht das gesamte Repository)
 
 Nicht unnötig das gesamte Repository lesen. Nur laden, was der aktuelle Job erfordert. Kein rekursiver Scan über `00_project/` oder `03_knowledge_base/` ohne explizite Freigabe im Auftrag (siehe Dokumentklassifizierung unten).
 

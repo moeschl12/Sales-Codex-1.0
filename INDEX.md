@@ -1,5 +1,14 @@
 # Index
 
+## Current navigation
+
+Start with these compact navigation cards:
+
+- `00_project/ACTIVE_INDEX.md` - current operational areas and entry points
+- `00_project/HISTORY_INDEX.md` - completed and historical material
+
+This file remains a framework and example reference. It is not the operational launcher.
+
 ## Einstieg für Agenten
 
 Jeder Agent liest zuerst:

@@ -25,10 +25,11 @@ If a file in this directory conflicts with a repository authority file, the auth
 1. `AGENTS.md`
 2. `PROJECT_BOOTSTRAP.md`
 3. `SESSION_BRIEF.md`
-4. `00_project/NEXT_ACTION.md`
-5. `TASK_TYPES.md`
-6. Task-specific framework, governance, template, or project files
-7. `.agents/*` helper files
+4. `00_project/ACTIVE_INDEX.md`
+5. `00_project/NEXT_ACTION.md`
+6. `TASK_TYPES.md`
+7. Task-specific framework, governance, template, or project files
+8. `.agents/*` helper files
 
 ---
 
@@ -61,4 +62,3 @@ Recommended local-only patterns:
 - No framework changes by implication.
 - No automatic replacement of `TASK_TYPES.md`.
 - No broad repository scans unless the active task type permits them.
-
