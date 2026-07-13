@@ -4,26 +4,52 @@
 
 ---
 
-## Aktueller Status (Stand: 2026-07-07)
+## Aktueller Status (Stand: 2026-07-13)
 
-Sales Codex Version 1.0 ist offiziell veröffentlicht und bleibt unveränderlich. Version 1.1 wurde durch Herausgeberentscheidung als autonomes Makroprojekt-Programm eröffnet.
+Sales Codex Version 1.0 ist offiziell veröffentlicht und bleibt unveränderlich. **Version 1.1 ist durch Editor Release Decision (Felix, 2026-07-13) freigegeben: RELEASED — SCOPE-LIMITED.** Entscheidung: `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md`.
 
-**Vier Makroprojekte abgeschlossen und unabhängig auditiert:**
+**Bedeutung der Freigabe:** V1.1 ist als evidenz-, governance- und auditkonsolidierter Repository-Stand freigegeben (V11-01 bis V11-08, alle acht Makroprojekte COMPLETED — AUDITED). Die Freigabe umfasst **nicht** breite Delivery-Skalierung — diese bleibt weiterhin "begrenzt" (V11-04-Befund unverändert in Kraft) und ist gesondert entscheidungsbedürftig.
 
-- V11-01 — Baseline & Control Plane Consolidation: Git-/Atlas-/Evidence-Check-/W-002-004-Status vollständig erfasst. Audit: **PASS WITH CONDITIONS**; Commit/Push durchgeführt, Bedingung erfüllt, Git-Hard-Block (`index.lock`) aufgelöst.
-- V11-02 — Evidence Architecture Resolution: alle 7 Befunde des Compact Evidence Architecture Check disponiert, `SCIENTIFIC_DEBT.md` präzisiert, kein W-005, 3-Punkte-Evidence-Backlog. Audit: **PASS** (`00_project/projects/V11-02_evidence_architecture_resolution/AUDIT_REPORT.md`).
-- V11-03 — Governance + Repository Integrity + Atlas Operationalization: OD-006/007/009–012 mit explizitem DoD-Status versehen (2× Deferred, 4× Needs Editor Decision); `KNOWLEDGE_ATLAS_GOVERNANCE.md` um Research-Program-Integration-Trigger und einen real gemessenen zweiten KPI-Zyklus ergänzt. Audit: **PASS WITH CONDITIONS** (`00_project/projects/V11-03_governance_integrity_atlas/AUDIT_REPORT.md`) — Bedingung erfüllt, **Bedingung geschlossen**.
-- V11-04 — Early Delivery Vertical Slice: Themen-Cluster MEC-0002 (Verlustaversion/Status-quo-Kosten); Publikationsfragment, Workbook-Übung, Trainingssequenz erstellt (`05_publications/`); Gaps klassifiziert; Delivery-Scaling-Empfehlung: begrenzt, keine breite Skalierung. Audit: **PASS WITH CONDITIONS** (`00_project/projects/V11-04_early_delivery_vertical_slice/AUDIT_REPORT.md`) — 0 Critical/0 Major/4 Minor, alle vier Minor Closure Actions erledigt, **Bedingungen geschlossen**.
+**Alle acht Makroprojekte abgeschlossen und unabhängig auditiert (COMPLETED — AUDITED):**
 
-Cross-Project Consistency (gebündelter Audit V11-02/V11-03): **CONSISTENT WITH MINOR DRIFT** — behoben. Details: `00_project/CLOSURE_REPORT_V11-02_V11-03_2026-07-06.md`, `00_project/CLOSURE_REPORT_V11-04_2026-07-07.md`.
+- **V11-01** — Baseline & Control Plane Consolidation: PASS WITH CONDITIONS, Bedingung erfüllt.
+- **V11-02** — Evidence Architecture Resolution: PASS.
+- **V11-03** — Governance + Repository Integrity + Atlas Operationalization: PASS WITH CONDITIONS, Bedingung geschlossen.
+- **V11-04** — Early Delivery Vertical Slice: PASS WITH CONDITIONS (0/0/4 Minor), alle geschlossen. Delivery-Scaling-Empfehlung: **begrenzt, keine breite Skalierung** — bleibt außerhalb dieser Freigabe.
+- **V11-05** — Knowledge Consolidation & Integrated Synthesis: ursprünglich REWORK REQUIRED → Rework → Re-Audit PASS WITH CONDITIONS, geschlossen.
+- **V11-06** — Research Portfolio Wave 2: PASS WITH CONDITIONS (0/0/3 Minor), geschlossen 2026-07-12. W-008 (OQ-2 aus W-001) integriert, Editor Decision „Teilweise annehmen".
+- **V11-07** — Cross-System Review & Delivery Scaling Decision: PASS WITH CONDITIONS (0/0/3 Minor, Audit durch Codex), geschlossen 2026-07-13. Acht Risiken gerankt (R-1–R-8).
+- **V11-08** — Final Program Audit & Version 1.1 Release Decision: **PASS** (Final Audit + Re-Check durch Codex, 1 Major/2 Minor über beide Runden, alle geschlossen). **Editor Release Decision: V1.1 RELEASED — SCOPE-LIMITED.**
 
-**Ein fünftes Makroprojekt abgeschlossen und unabhängig auditiert (PASS WITH CONDITIONS, Bedingung geschlossen):**
+Details je Projekt: `00_project/ROADMAP_V1_1.md` (Program Board), Completion-/Audit-/Closure-Reports in `00_project/projects/V11-XX_*/`.
 
-- V11-05 — Knowledge Consolidation & Integrated Synthesis: Konsolidierungsanalyse (`00_project/projects/V11-05_knowledge_consolidation/INTEGRATED_CONSOLIDATION_SYNTHESIS.md`) präzisiert zwei Atlas-Sprint-1-Befunde durch direkte Objektprüfung (MEC-0018-Abhängigkeitskette betrifft nur 2 von 4 vermuteten Objekten, beide bereits seit 2026-07-03 sichtbar dokumentiert — Editorial-Review-Empfehlung des Atlas-Reports damit bereits erfüllt). Ursprüngliches Audit (`AUDIT_REPORT.md`, historisch unverändert): **REWORK REQUIRED** (0 Critical/1 Major/3 Minor). **Im Rework korrigiert:** W-001 (Teach First vs. Diagnose First) ist KEIN verlorenes/ungelöstes Forschungsergebnis, sondern ein am 2026-07-03 abgeschlossenes Forschungsprojekt (Editor Decision „Teilweise annehmen") — nur die engere residuale empirische Frage OQ-2 bleibt offen; die fälschlich als „W-006" nachgetragene Spannung (Pre-Suasion vs. FOMU) wurde auf W-007 korrigiert (W-006 bereits seit 2026-07-01 für „Kognitive Leichtigkeit vs. Rational Drowning" vergeben); die veraltete P-0040-„vollständig isoliert"-Aussage wurde korrigiert (W-003-Erweiterung mit MEC-0030-Rückverweis seit 2026-07-05). **Im fokussierten Re-Audit (`RE_AUDIT_REPORT.md`: PASS WITH CONDITIONS, 0 Critical/0 Major/1 Minor) korrigiert (Condition C-01):** OQ-2 war fälschlich als „Problemreife als Moderator" bezeichnet — kanonisch ist OQ-2 der Omission-Kipppunkt im Buying Center (Komplexitätsgrad/Produktspezifikationsmenge); Problemreife bleibt Kontextfaktor des W-001-Kernbefunds, ist aber nicht OQ-2 selbst. Details: `00_project/projects/V11-05_knowledge_consolidation/REWORK_REPORT.md`, `RE_AUDIT_REPORT.md`, `00_project/CLOSURE_REPORT_V11-05_2026-07-07.md`. Keine Wissensobjekt-Änderung, kein neues Forschungsprojekt, Audit-Verdict nicht umklassifiziert. **Status: COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITION CLOSED.**
+**Durch dieses Release ausdrücklich NICHT gelöst (unverändert offen):**
 
-Zwei nicht-blockierende, auf Programmebene weitergeführte Punkte aus V11-04/V11-05: T12/Status-„Validiert"-Klärung (deferred) und MEC-0002/P-0002-Evidenzlevel-Harmonisierung (registriert in `SCIENTIFIC_DEBT.md`).
+- Breite Delivery-Skalierung — weiterhin "begrenzt", vier V11-04-Blocker unadressiert (T12, Technik-Kandidaten, Zielgruppen-Tagging, Evidenzlevel-Inkonsistenz MEC-0002/P-0002).
+- Vier Reserved Governance Decisions **OD-009 bis OD-012** — entscheidungsreif seit 2026-07-02/03.
+- Additives Synthesemuster (4. bestätigtes Vorkommen, W-002/W-003/W-004/W-008) — Kandidat für eine programmweite Methoden-Review, Editor-Autorisierung ausstehend.
+- W-001/W-008-Restfrage OQ-2 — empirisch unbeantwortet, nur Primärexperiment kann klären.
+- RP-005 (blockiert auf OD-010), RP-006 (blockiert auf Merge-Frage mit RP-004).
+- Mögliche zukünftige Makroprojekte V11-09 ff. — kein Brief, keine Roadmap-Eintragung existiert.
 
-Nächster Schritt: **V11-06 — Research Portfolio Wave 2** ist **READY — NEXT LAUNCHER — NOT STARTED** (Editor-Autorisierung erforderlich, nicht automatisch gestartet).
+Vollständige Übersicht: `00_project/DECISION_STACK_2026-07-13.md`.
+
+---
+
+## Working Tree / Git
+
+Working Tree ist zum Release-Zeitpunkt nicht clean. Commit und Push sind ausschließlich Felix' Aufgabe und keine Voraussetzung für die inhaltliche Gültigkeit der Freigabe. Keine Session dieses Programms committet oder pusht.
+
+---
+
+## Nächster Schritt
+
+**Kein regulärer Makroprojekt-Launcher innerhalb V1.1 mehr offen — das Programm ist geschlossen.**
+
+Ausstehend:
+
+1. Editor-Commit/Push des Working Tree (Felix).
+2. Jede Erweiterung des Scopes — Delivery-Skalierungs-Freigabe, OD-009–012-Entscheidungsrunde, neue Makroprojekte V11-09 ff. — erfordert eine eigene, gesonderte Editor-Entscheidung mit eigenem Brief bzw. eigener Roadmap-Eintragung. Kein automatischer Anschluss von dieser Session aus.
 
 Strategische Source of Truth:
 

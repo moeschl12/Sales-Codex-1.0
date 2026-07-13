@@ -5,6 +5,139 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-13 — V1.1 Release Closure nach Editor Decision
+
+**Session-Typ:** Herausgeberauftrag „Sales Codex — V1.1 Release Closure nach Editor Decision" (Felix, 2026-07-13). Formale Umsetzung der Editor Release Decision, nachdem V11-08 Final Audit + Re-Check (Codex) PASS ergaben und alle Findings geschlossen waren.
+
+**Editor Decision (Felix, 2026-07-13):** Version 1.1 = **RELEASED — SCOPE-LIMITED**. Freigegeben ist der evidenz-, governance- und auditkonsolidierte Repository-Stand; breite Delivery-Skalierung ist ausdrücklich nicht Teil der Freigabe. OD-009 bis OD-012, Delivery-Scaling-Blocker, additives Synthesemuster, OQ-2/Scientific Debt und mögliche V11-09 ff. werden nicht stillschweigend gelöst.
+
+**Durchgeführt:**
+
+1. `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md` erstellt — formale Entscheidungsdokumentation im Stil der bestehenden Editor-Decision-Dokumente, mit verbindlichen Einzelfestlegungen (was freigegeben ist, was nicht, was nicht entschieden wird, Working-Tree/Git-Klarstellung).
+2. Control Plane aktualisiert: `ROADMAP_V1_1.md` (Programmstatus, Program-Board-Zeile V11-08, Sequence-Rationale-Absatz), `NEXT_ACTION.md` (Programmabschluss-Abschnitt, kein offener Launcher mehr), `CURRENT_STATE.md` (Opening Note), `SESSION_BRIEF.md` (vollständig ersetzt), `00_project/DECISION_STACK_2026-07-13.md` (neuer Abschnitt 0d, Tabellenzeile append-only korrigiert).
+3. `00_project/CLOSURE_REPORT_V1.1_2026-07-13.md` erstellt — programmweiter Abschlussreport mit geänderten Dateien und verbleibendem nächsten Schritt.
+
+**Ergebnis:** V1.1 ist formal geschlossen (RELEASED — SCOPE-LIMITED). Working Tree bleibt nicht clean — verbleibender nächster Schritt ist ausschließlich Felix' Commit/Push. Kein Wissensobjekt verändert, kein neues Projekt, kein V11-09, kein Git-Commit durch diese Sitzung.
+
+---
+
+## 2026-07-13 — DECISION_STACK_2026-07-13.md Nacharbeit nach Codex Re-Check
+
+**Session-Typ:** Codex Re-Check der V11-08-Nacharbeit ergab die ursprünglichen zwei Findings sauber geschlossen, aber einen neuen Restfund: `00_project/DECISION_STACK_2026-07-13.md` Zeile 23 und Abschnitte 3/7 sprachen noch von "READY — NEXT LAUNCHER — NOT STARTED", widersprüchlich zu `ROADMAP_V1_1.md`. Auftrag von Felix: nur diese Datei korrigieren, analog zur Roadmap.
+
+**Durchgeführt:** Neuer Abschnitt 0c ergänzt (V11-08 EXECUTOR WORK COMPLETE, Reports referenziert, Final-Audit-Status inkl. geschlossener Findings vermerkt). Tabellenzeile in Abschnitt 1 append-only korrigiert. Abschnitte 3 und 7 mit klaren "HISTORISCH/ÜBERHOLT"-Markern versehen, Originaltext erhalten. Referenzabschnitt 8 ergänzt.
+
+**Ergebnis:** Kein neuer inhaltlicher Check, keine weitere Datei angefasst, kein Git-Commit. Bereit für Mini-Recheck.
+
+---
+
+## 2026-07-13 — V11-08 Nacharbeit nach Codex Final-Audit
+
+**Session-Typ:** Codex Final Audit von V11-08 (Verdict: PASS WITH CONDITIONS, 1 Major, 1 Minor), relayed durch Felix mit Auftrag "kleine Nacharbeit vor Editor Release Decision... keine inhaltliche neue Arbeit". Ausschließlich die zwei benannten Punkte korrigiert.
+
+**Major geschlossen:** `ROADMAP_V1_1.md` Zeile 132 (Abschnitt „Sequence Rationale") enthielt eine stale Aussage ("V11-08 is READY — NEXT LAUNCHER — NOT STARTED", "execution has not yet begun"), die der korrekten Program-Board-Zeile (Zeile 53, „EXECUTOR WORK COMPLETE...") widersprach. Direkt korrigiert (append-only-Vermerk mit Originaltext erhalten, da dieser Absatz wie die Program-Board-Zeile selbst ein aktueller Status-Pointer ist, keine historische Journal-Aussage).
+
+**Minor geschlossen:** Working-Tree-Dateizählungen waren zwischen `RELEASE_CRITERIA_VERIFICATION.md` (24, bzw. 14+10), `COMPLETION_REPORT.md` (24), `RELEASE_DECISION_PACKAGE.md` (24), `SESSION_BRIEF.md` (24) und Codex' eigenem späteren Check (22 = 9+13) inkonsistent. Live-Nachprüfung zum Korrekturzeitpunkt (`git status --short`, 2026-07-13T08:58:33Z): **29 Pfade (16 geändert, 13 neu)**. Ursache identifiziert: die Zahl ist kein stabiler Wert, sondern wächst mit jeder weiteren Control-Plane-Bearbeitung derselben Sitzung — u. a. durch die V11-08-Control-Plane-Synchronisierung selbst. Alle betroffenen Dateien um einen Snapshot-Hinweis ergänzt (Zeitstempel + Verweis auf `RELEASE_CRITERIA_VERIFICATION.md` Abschnitt 9, die neue Korrektur-Sektion dort); der qualitative Befund ("nicht clean, klassifiziert, Owner Felix") war in allen drei Messungen durchgehend richtig und bleibt unverändert.
+
+**Ergebnis:** Beide Codex-Findings geschlossen. Kein neuer inhaltlicher Check, kein V11-08-Neulauf, keine Wissensobjekt-Änderung, kein Git-Commit. Bereit für kurzen Re-Check durch Codex, danach Editor Release Decision.
+
+---
+
+## 2026-07-13 — V11-08 Executor-Arbeit abgeschlossen (DoD 1–3)
+
+**Session-Typ:** Herausgeberauftrag „Lücke in V11-01 ist geklärt. Start jetzt V11-08" (Felix, 2026-07-13). Ausführung von V11-08 (`Final Program Audit & Version 1.1 Release Decision`) im Rahmen der Executor-Rolle — bewusst begrenzt auf DoD 1–3, DoD 4 (unabhängiger Final Audit) und DoD 5 (Editor Release Decision) explizit ausgespart als Hard Stop.
+
+**Durchgeführt:**
+
+1. Frische Repository-Integritätsprüfung: `git status` (Working Tree nicht clean, ~~24 Dateien~~ **[Korrigiert, siehe Abschnitt „V11-08 Nacharbeit nach Codex Final-Audit" unten — Zeitpunkt-Snapshot, kein fixer Wert, schwankte in dieser Sitzung zwischen 24 und zuletzt 29 Pfaden]**, klassifiziert — Commit ist nie Executor-Aufgabe), HEAD == origin/main. Atlas-Compiler live ausgeführt (Exit 0, 515 Nodes, 2112 Edges, 0 Duplicate IDs, 18 Orphans/2 unaufgelöste Referenzen — beide bereits bekannt/klassifiziert). Determinismus durch zwei zusätzliche Läufe mit Diff verifiziert (byte-identisch).
+2. `00_project/projects/V11-08_final_audit_release/RELEASE_CRITERIA_VERIFICATION.md` erstellt: alle sieben Abschnitte von `V1_1_RELEASE_CRITERIA.md` mit Pass/Fail/Deferred und Begründung bewertet. Abschnitte 1 und 6 live neu geprüft, Abschnitte 2–5 gegen die bestehende V11-01–V11-07-Audit-Trail-Evidenz plausibilisiert (nicht Objekt für Objekt neu deriviert). Einziger Fail: Working Tree (klassifiziert, Owner Felix). Zwei nicht-blockierende Beobachtungen dokumentiert: `NEXT_ACTION.md`-Umfang, Delivery-Scaling-Status weiterhin „begrenzt".
+3. `00_project/projects/V11-08_final_audit_release/COMPLETION_REPORT.md` erstellt: DoD 1–3 erfüllt, DoD 4–5 explizit außerhalb Executor-Scope, DoD 6 vorbereitet (beide Post-Decision-Pfade skizziert, nicht final).
+4. `00_project/projects/V11-08_final_audit_release/RELEASE_DECISION_PACKAGE.md` erstellt: konsolidiertes Paket für Felix und den unabhängigen Final Auditor.
+
+**Control Plane:** `NEXT_ACTION.md`, `ROADMAP_V1_1.md`, `CURRENT_STATE.md` (Opening Note) aktualisiert auf V11-08-Status „EXECUTOR WORK COMPLETE — AWAITING FINAL AUDIT AND EDITOR RELEASE DECISION". `SESSION_BRIEF.md` vollständig ersetzt (eigene Policy).
+
+**Ergebnis:** Kein kritischer unklassifizierter Blocker. Nächster Schritt liegt vollständig außerhalb der Executor-Rolle: (a) unabhängiger Final Audit durch Codex, (b) Editor Release Decision durch Felix. Kein Release ausgesprochen, kein Wissensobjekt verändert, kein Git-Commit.
+
+---
+
+## 2026-07-13 — V11-01 Audit-Verfügbarkeitslücke geschlossen
+
+**Session-Typ:** Codex-Auditvermerk auf Herausgeberauftrag ("mach's mit dem Auditvermerk"). Eng begrenzte Schließung der letzten V11-08-Abhängigkeit, keine V11-08-Ausführung, keine Wissensobjekt-Änderung, keine Release-Entscheidung.
+
+**Durchgeführt:** `00_project/projects/V11-01_baseline_control_plane/AUDIT_REPORT.md` neu erstellt als retroaktiver Audit-Verfügbarkeitsvermerk. Der Report rekonstruiert keinen nicht vorliegenden Volltext des ursprünglichen Audits, sondern persistiert die bereits im Repository dokumentierte Audit-Tatsache: V11-01 wurde vor V11-02 unabhängig auditiert, Verdict PASS WITH CONDITIONS; Bedingung (Git-Hard-Block / Commit-Push-Zustand) wurde vor V11-02 durch Commit und Push erfüllt (`00_project/projects/V11-02_evidence_architecture_resolution/COMPLETION_REPORT.md`, Vorbemerkung/Abschnitt 7).
+
+**Control Plane:** `NEXT_ACTION.md`, `ROADMAP_V1_1.md`, `SESSION_BRIEF.md`, `CURRENT_STATE.md` und `DECISION_STACK_2026-07-13.md` von "V11-08 Dependency Gap / V11-01 outstanding" auf **V11-08 READY — NEXT LAUNCHER — NOT STARTED** aktualisiert. V11-08 wurde nicht gestartet; die eigentliche Editor Release Decision bleibt bei Felix.
+
+**Ergebnis:** Die V11-08-Abhängigkeit "All project audits available" ist erfüllt. Nächster regulärer Auftrag: V11-08 starten (Release-Kriterien-Verifikation, frische Repository-Integritätsprüfung, Release-Decision-Paket).
+
+---
+
+## 2026-07-13 — Control Plane Refresh nach V11-07-Audit-Abschluss
+
+**Session-Typ:** Herausgeberauftrag „Sales Codex — Control Plane Refresh nach V11-07 Audit Closure" (Felix, 2026-07-13). Rein dokumentarischer Abgleich aller Einstiegspunkte auf den Stand nach V11-07-Audit-Abschluss — keine neuen Projekte, keine Wissensobjekt-Änderungen, keine Scientific-Debt-Neudisposition, keine Open-Decision-Entscheidung, keine V11-08-Ausführung, kein Commit.
+
+**`SESSION_BRIEF.md`:** Vollständig ersetzt (gemäß eigener Policy „wird bei jedem Sprintabschluss ersetzt, nicht ergänzt") — jetzt sieben abgeschlossene, auditierte Makroprojekte (V11-01–V11-07), V11-08-Gate als eindeutiger nächster Schritt.
+
+**`CURRENT_STATE.md`:** Nur der Opening-Note-Block (oberste ca. 6 Zeilen, „Stand: 2026-07-07") aktualisiert auf „Stand: 2026-07-13" mit V11-06/V11-07-Ergänzung; der gesamte historische Journal-Teil darunter unverändert gelassen (append-only-Konvention, keine Glättung).
+
+**`NEXT_ACTION.md`, `ROADMAP_V1_1.md`:** Bereits im vorherigen Audit-Closure-Schritt aktualisiert — im Rahmen dieses Refresh per Stale-State-Scan verifiziert, keine weiteren stale Aussagen gefunden.
+
+**`00_project/DECISION_STACK_2026-07-13.md`:** Neuer Abschnitt 0 („Update nach V11-07-Audit-Abschluss") ergänzt; stale Tabellenzeile (V11-07 „AWAITING INDEPENDENT AUDIT") und Abschnitt 3/7 (V11-08-Gate-Beschreibung) mit inline-Korrekturvermerken auf den aktuellen Stand gebracht — Originaltext erhalten, nicht überschrieben.
+
+**Stale-State-Scan:** Grep über alle fünf Kontrolldateien nach "V11-06 READY", "V11-07 not started/awaiting audit", "V11-08 may start/IN PROGRESS". Einziger verbliebener Treffer: `SESSION_LOG.md` Zeile 136 (innerhalb eines historischen, korrekt datierten Vergangenheitseintrags von 2026-07-07 — unverändert korrekt, keine Korrektur nötig, da chronologisches Protokoll).
+
+**Ergebnis:** Kein Einstiegspunkt verweist mehr auf V11-06 oder V11-07 als nächsten Launcher. Nächster Schritt ist über alle fünf Dateien konsistent: V11-01-Audit-Verfügbarkeitslücke klären (einzige verbleibende V11-08-Abhängigkeit), danach V11-08 starten. Kein Git-Commit durch diese Sitzung.
+
+---
+
+## 2026-07-13 — V11-07 Audit-Abschluss (Codex): drei Minor Findings geschlossen
+
+**Session-Typ:** Fortsetzung nach Codex-Audit von V11-07 (unabhängig, read-only, nachgelagert). Verdict: **PASS WITH CONDITIONS**, 0 Critical / 0 Major / 3 Minor (`00_project/projects/V11-07_cross_system_review/AUDIT_REPORT.md`). Der Audit bestätigt inhaltlich explizit: kein Cherry-Picking, unbequeme Punkte sichtbar gehalten, die korrigierte Aussage "V11-08 nicht starten wegen Audit-Dependency-Gap" sachlich richtig (Stichproben gegen V11-01–V11-06-Primärartefakte durchgeführt, Abschnitt 4 des Audits).
+
+**Geschlossene Findings:** (1) `COMPLETION_REPORT.md` — stale "V11-08 kann beginnen"-Formulierungen in Mission Result/DoD-Tabelle/Decisions ohne Korrekturverweis, jetzt mit inline-Vermerk auf die bereits bestehende Abschnitt-9-Korrektur versehen, Originaltext erhalten. (2) `NEXT_ACTION.md` — stale Satz "V11-07 has not been started automatically..." entfernt (kein Append-only-Dokument, sondern minimal launcher). (3) `ROADMAP_V1_1.md` — V11-07-Zeile von "AWAITING INDEPENDENT AUDIT" auf "COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITIONS CLOSED" aktualisiert, V11-08-Blockade-Beschreibung auf die jetzt alleinige V11-01-Lücke präzisiert.
+
+**Closure Report:** `00_project/CLOSURE_REPORT_V11-07_2026-07-13.md` erstellt, nach V11-06-Muster.
+
+**Ergebnis:** V11-07 ist damit das siebte vollständig geschlossene Makroprojekt des V1.1-Programms (COMPLETED — AUDITED). V11-08 bleibt `NOT STARTED — DEPENDENCY GAP`, jetzt korrekt auf die alleinige V11-01-Audit-Verfügbarkeitslücke präzisiert. Kein Git-Commit durch diese Sitzung.
+
+---
+
+## 2026-07-13 — Korrektur: V11-08 nicht gestartet (Abhängigkeits-Lücke im vorigen Eintrag übersehen)
+
+**Session-Typ:** Direkte Fortsetzung derselben Sitzung, unmittelbar nach dem V11-07-Abschluss-Eintrag unten. Beim tatsächlichen V11-08-State-Check (Herausgeberauftrag „V11-07 ff. autonom... fang jetzt an") wurde festgestellt, dass `V11-08_final_audit_release/PROJECT_BRIEF.md` Abschnitt 4 **zwei** Abhängigkeiten listet: (a) V11-01–V11-07 completed/deferred/rescoped — erfüllt; (b) **„All project audits available"** — **nicht erfüllt** (V11-01 ohne eigenen `AUDIT_REPORT.md`; V11-07 ohne jeden Audit). Der vorige Session-Log-Eintrag sowie die ursprüngliche Fassung von `CROSS_SYSTEM_REVIEW.md` Abschnitt 6 und `COMPLETION_REPORT.md` Abschnitt 6 hatten nur die erste Klausel geprüft und fälschlich empfohlen, V11-08 könne beginnen. **Korrektur, nicht rückwirkende Glättung:** Beide Dateien erhielten einen ergänzenden Korrekturabschnitt (`CROSS_SYSTEM_REVIEW.md` Abschnitt 8, `COMPLETION_REPORT.md` Abschnitt 9) — Originaltext unverändert stehen gelassen. `NEXT_ACTION.md` und `ROADMAP_V1_1.md` wurden auf den korrekten Stand gebracht: V11-08 = `NOT STARTED — DEPENDENCY GAP`, nicht `IN PROGRESS`.
+
+**Ergebnis:** Kein governance-widriger Fortschritt entstanden — der fehlerhafte Zwischenstand wurde vor jeder inhaltlichen V11-08-Ausführung (Release-Kriterien-Prüfung, Repository-Checks, Decision Package) korrigiert; es wurde noch keine einzige V11-08-Aufgabe substantiell begonnen. Nächster Schritt bleibt bei Felix/Codex: Audit-Lücke (V11-01, V11-07) schließen, bevor V11-08 formal beginnt. Kein Git-Commit durch diese Sitzung.
+
+---
+
+## 2026-07-13 — V11-07 Cross-System Review abgeschlossen
+
+**Session-Typ:** Herausgeberauftrag „V11-07 ff. autonom bis zu den nächsten echten Herausgeberentscheidungen durchführen" (Felix, 2026-07-13) — explizite Autorisierung, nach V11-06-Abschluss ohne Einzelfreigabe je Paket weiterzuarbeiten, mit Codex als nachgelagertem Read-only-Auditor, Hard-Stop-Liste für echte Reserved/Editor Decisions.
+
+**V11-07:** `CROSS_SYSTEM_REVIEW.md` erstellt — alle Completion-/Audit-/Rework-/Re-Audit-/Closure-Reports von V11-01 bis V11-06 direkt gelesen (Methodik-Hinweis: bewusste Vermeidung des in V11-05 selbst dokumentierten State-Coverage-Fehlers, der damals README-/Status-Zeilen statt Primärartefakten auswertete). Acht Risiken geranked (R-1 bis R-8). Höchste Priorität: additives Synthesemuster im Research Program, viertes bestätigtes Vorkommen (R-1); vier V11-04-Delivery-Scaling-Blocker unverändert offen seit 2026-07-07 (R-2). Zusätzlich aufgedeckt: T12- und MEC-0002/P-0002-Punkte seit drei Makroprojekten ohne Fortschritt (R-4); Repository-Integritätsprüfung veraltet seit V11-03/2026-07-06 (R-3); V11-01 ohne eigenen Audit-Report (R-6). Delivery-/Research-/Automation-Scaling-Optionen ohne Vorentscheidung aufgestellt. Empfehlung: V11-08 kann beginnen (Abhängigkeitsklausel verlangt „completed, deferred, or explicitly rescoped", nicht „audited" — anders als bei allen vorherigen Übergängen), mit drei explizit weiterzuführenden Einschränkungen.
+
+**Completion Report:** DoD 1–6 erfüllt, DoD 7 teilweise (Audit-Paket-Grundlage benannt, kein Selbst-Audit — Verdict bleibt Codex vorbehalten).
+
+**Control-Plane:** `NEXT_ACTION.md`, `ROADMAP_V1_1.md` aktualisiert — V11-07 auf EXECUTOR WORK COMPLETED — AWAITING INDEPENDENT AUDIT, V11-08 auf IN PROGRESS.
+
+**Ergebnis:** Kein Hard Stop ausgelöst (keine der acht Risiken erforderte eine Editor Decision im Sinne der Hard-Stop-Liste — R-5 [vier offene ODs] wird als Kontext an V11-08 weitergereicht, nicht selbst entschieden). Kein Git-Commit durch diese Sitzung.
+
+---
+
+## 2026-07-12 — V11-06 Audit-Abschluss: AUDIT_REPORT.md, Closure Report, Control-Plane final
+
+**Session-Typ:** Fortsetzung nach Herausgeber-Bestätigung „Audit fand statt. Das waren die 3 Änderungen." — der externe, unabhängige Audit (gemäß `V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §5.2/5.3, außerhalb dieser Session) ist damit inhaltlich bestätigt; formale Persistierung nachgeholt.
+
+**`AUDIT_REPORT.md`:** Neu angelegt in `00_project/projects/V11-06_research_portfolio_wave_2/`. Verdict PASS WITH CONDITIONS, 0 Critical/0 Major/3 Minor, alle drei Findings identisch mit den bereits am selben Tag behobenen Fixes (MEC-0016-Wortlaut, W-008-README-Rollentabelle, V11-06-Completion-Report-Epistemik). Mit explizitem Herkunftshinweis: der volle Audit-Report-Wortlaut wurde dieser Session nicht direkt vorgelegt — die Findings sind vom Herausgeber relayed, gegen seine Korrekturanweisung verifiziert, nicht aus eigener Einsicht in den Original-Auditor-Text rekonstruiert.
+
+**`CLOSURE_REPORT_V11-06_2026-07-12.md`:** Neu angelegt nach dem Muster von `CLOSURE_REPORT_V11-05_2026-07-07.md` — Ausgangslage, durchgeführte Closure, betroffene Dateien, Verifikation, finaler Status.
+
+**Control-Plane final:** `NEXT_ACTION.md` und `ROADMAP_V1_1.md` von „EXECUTOR WORK COMPLETED — AWAITING INDEPENDENT AUDIT" auf **„COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITIONS CLOSED"** aktualisiert, konsistent mit dem bei V11-01/V11-03/V11-04/V11-05 verwendeten Statusformat. V11-07 als nächster Kandidat referenziert, ausdrücklich **nicht automatisch gestartet** — erfordert weiterhin explizite Herausgeber-Autorisierung.
+
+**Ergebnis:** V11-06 ist vollständig geschlossen — sechstes Makroprojekt des V1.1-Programms mit COMPLETED — AUDITED-Status. Kein Git-Commit durch diese Sitzung (Herausgeber-Vorbehalt).
+
+---
+
 ## 2026-07-12 — V11-06 Audit-Fix: drei kleine Korrekturen nach unabhängigem Review
 
 **Session-Typ:** Independent review von V11-06/W-008-Artefakten fand 0 blocking / 3 minor findings. Minor wording/status fixes angewendet, keine neue Research-Integration, keine neuen Scientific-Debt-Einträge, kein Start von V11-07.

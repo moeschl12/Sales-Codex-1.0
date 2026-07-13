@@ -1,17 +1,31 @@
 # Next Action — V1.1 Launcher
 
-Status: Active
-Updated: 2026-07-12
+Status: **V1.1 RELEASED — SCOPE-LIMITED** (Editor Release Decision, Felix, 2026-07-13)
+Updated: 2026-07-13
 
 ---
 
-## Next Launcher (Executor Work Completed — Awaiting Independent Audit)
+## Programmabschluss (2026-07-13)
 
-**V11-06 — Research Portfolio Wave 2: EXECUTOR WORK COMPLETED (2026-07-12) — AWAITING INDEPENDENT AUDIT.**
+**Version 1.1 ist freigegeben: RELEASED — SCOPE-LIMITED.** Entscheidung: `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md`. Freigegeben ist der evidenz-, governance- und auditkonsolidierte Repository-Stand (V11-01–V11-08). **Nicht** freigegeben: breite Delivery-Skalierung (weiterhin „begrenzt"). Kein offener Punkt (OD-009–012, Delivery-Scaling-Blocker, additives Synthesemuster, OQ-2/Scientific Debt, mögliche V11-09 ff.) wurde durch dieses Release gelöst — siehe Abschnitt „Open, non-blocking items" unten, unverändert gültig. Working Tree bleibt bis zum Editor-Commit nicht clean; Commit/Push ist ausschließlich Felix' Aufgabe. **Es gibt aktuell keinen nächsten regulären Makroprojekt-Launcher innerhalb V1.1** — dieser Launcher wird erst mit einer neuen, gesonderten Editor-Entscheidung (z. B. Delivery-Scaling-Freigabe oder V11-09 ff.) wieder aktiv.
 
-Felix authorized the wave on 2026-07-07 with scope explicitly limited to exactly one new research project: W-008 (OQ-2 from `06_research_program/completed/W001/`, "Omission-Kipppunkt im Buying Center"). RP-005 and RP-006 were explicitly excluded from this wave. W-008 completed all nine Research Lifecycle stages, including Editor Decision (Felix, 2026-07-12: "Teilweise annehmen"), Repository Integration and a passed Health Check; the project folder was moved to `06_research_program/completed/W008/`. Completion report: `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md` (contains the wave-level cross-wave synthesis — narrow by design, since the wave contained exactly one project; identifies a programmwide pattern of additive synthesis recommendations now confirmed in its fourth occurrence, W-002/W-003/W-004/W-008).
+---
 
-DoD items 1–6 (`00_project/projects/V11-06_research_portfolio_wave_2/PROJECT_BRIEF.md`, Abschnitt 7) are fulfilled. DoD item 7 ("Completion report and audit package exist") is only partially fulfilled: the completion report exists, the audit package does not. Per `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §5.2/5.3, the audit should preferably be performed by a different model family (Gemini/ChatGPT) in a separate context, not by the same executor. **V11-06 is therefore not yet fully closed, and V11-07 has not been started automatically.**
+## V11-08 — Final Program Audit & Version 1.1 Release Decision: COMPLETED — AUDITED (PASS) — EDITOR RELEASE DECISION: RELEASED — SCOPE-LIMITED
+
+**V11-07 — Cross-System Review & Delivery Scaling Decision: COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITIONS CLOSED (2026-07-13).**
+
+Felix authorized autonomous continuation through V11-07 ff. on 2026-07-13 ("V11-07 ff. autonom bis zu den nächsten echten Herausgeberentscheidungen durchführen"). Review artifact: `00_project/projects/V11-07_cross_system_review/CROSS_SYSTEM_REVIEW.md` — direct read of all V11-01–V11-06 completion/audit/rework/re-audit/closure reports (not just roadmap summaries). Eight risks ranked (R-1 to R-8); most significant: the programmwide additive-synthesis pattern (R-1, now 4th confirmed occurrence) and four unaddressed V11-04 delivery-scaling blockers (R-2, unchanged since 2026-07-07). Completion report: `00_project/projects/V11-07_cross_system_review/COMPLETION_REPORT.md`. Independent audit (`00_project/projects/V11-07_cross_system_review/AUDIT_REPORT.md`, Codex, 2026-07-13): **PASS WITH CONDITIONS**, 0 Critical / 0 Major / 3 Minor — all three (stale "V11-08 kann beginnen" wording left uncorrected in Completion Report Summary/DoD/Decisions, stale "not started" sentence in this file, ROADMAP_V1_1.md V11-07 row not aligned with corrected V11-08 blockade) closed 2026-07-13 — details in `00_project/CLOSURE_REPORT_V11-07_2026-07-13.md`. Audit explicitly confirmed: no cherry-picking, unresolved issues visible, corrected "V11-08 not starting" conclusion factually correct.
+
+**V11-08 — Final Program Audit & Version 1.1 Release Decision: COMPLETED — AUDITED (PASS) — EDITOR RELEASE DECISION: RELEASED — SCOPE-LIMITED (2026-07-13).**
+
+`00_project/projects/V11-08_final_audit_release/PROJECT_BRIEF.md` Abschnitt 4 dependencies were satisfied 2026-07-13 and V11-08 was started same day. Executor deliverables: `00_project/projects/V11-08_final_audit_release/RELEASE_CRITERIA_VERIFICATION.md` (all 7 sections of `V1_1_RELEASE_CRITERIA.md` assessed pass/fail/deferred with rationale — only real fail is the classified, Felix-owned non-clean working tree), `COMPLETION_REPORT.md`, `RELEASE_DECISION_PACKAGE.md`. Independent Final Audit + Re-Check (Codex, 2026-07-13): PASS, all findings (1 Major, 2 Minor across both rounds) closed. **Editor Release Decision** (`EDITOR_RELEASE_DECISION.md`, Felix, 2026-07-13): **V1.1 RELEASED — SCOPE-LIMITED.** All six DoD items of `PROJECT_BRIEF.md` Abschnitt 7 fulfilled. V11-08 is fully closed.
+
+**V11-06 — Research Portfolio Wave 2: COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITIONS CLOSED (2026-07-12).**
+
+Felix authorized the wave on 2026-07-07 with scope explicitly limited to exactly one new research project: W-008 (OQ-2 from `06_research_program/completed/W001/`, "Omission-Kipppunkt im Buying Center"). RP-005 and RP-006 were explicitly excluded from this wave. W-008 completed all nine Research Lifecycle stages, including Editor Decision (Felix, 2026-07-12: "Teilweise annehmen"), Repository Integration and a passed Health Check; the project folder was moved to `06_research_program/completed/W008/`. Completion report: `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md` (wave-level cross-wave synthesis — narrow by design, since the wave contained exactly one project; identifies a programmwide pattern of additive synthesis recommendations now confirmed in its fourth occurrence, W-002/W-003/W-004/W-008).
+
+Independent audit (`00_project/projects/V11-06_research_portfolio_wave_2/AUDIT_REPORT.md`): **PASS WITH CONDITIONS**, 0 Critical / 0 Major / 3 Minor. All three minor findings (MEC-0016 unqualified claim in "Grenzen", W-008 README incomplete role attribution, V11-06 Completion Report overstated "statistische Aussagekraft") were closed 2026-07-12 — details in `00_project/CLOSURE_REPORT_V11-06_2026-07-12.md`. **V11-06 is fully closed.**
 
 **V11-05 — Knowledge Consolidation & Integrated Synthesis: COMPLETED — AUDITED — PASS WITH CONDITIONS — CONDITION CLOSED.**
 
@@ -21,14 +35,16 @@ Precisified two Atlas Sprint 1 findings via direct object verification. **Correc
 
 ---
 
-## Audit Closure Status (V11-01 through V11-05)
+## Audit Closure Status (V11-01 through V11-08)
 
-- V11-01: COMPLETED, audited **PASS WITH CONDITIONS** (condition fulfilled).
+- V11-01: COMPLETED, audited **PASS WITH CONDITIONS** (condition fulfilled). Audit report: `00_project/projects/V11-01_baseline_control_plane/AUDIT_REPORT.md` (retroactive availability report, persisted 2026-07-13).
 - V11-02: COMPLETED, audited **PASS**.
 - V11-03: COMPLETED, audited **PASS WITH CONDITIONS** (condition closed).
 - V11-04: COMPLETED, audited **PASS WITH CONDITIONS** (0 Critical, 0 Major, 4 Minor; all closed).
 - V11-05: COMPLETED, audited **PASS WITH CONDITIONS** (original REWORK REQUIRED → rework → focused re-audit 0 Critical/0 Major/1 Minor → Condition C-01 closed 2026-07-07).
-- V11-06: EXECUTOR WORK COMPLETED (2026-07-12) — **NOT YET AUDITED.** Wave scope: exactly one W-project (W-008), per explicit Editor authorization 2026-07-07. Completion report: `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md`.
+- V11-06: COMPLETED, audited **PASS WITH CONDITIONS** (0 Critical/0 Major/3 Minor; all closed 2026-07-12). Wave scope: exactly one W-project (W-008), per explicit Editor authorization 2026-07-07. Completion report: `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md`. Audit report: `00_project/projects/V11-06_research_portfolio_wave_2/AUDIT_REPORT.md`. Closure report: `00_project/CLOSURE_REPORT_V11-06_2026-07-12.md`.
+- V11-07: COMPLETED, audited **PASS WITH CONDITIONS** (0 Critical/0 Major/3 Minor, all closed 2026-07-13). Completion report: `00_project/projects/V11-07_cross_system_review/COMPLETION_REPORT.md`. Review artifact: `00_project/projects/V11-07_cross_system_review/CROSS_SYSTEM_REVIEW.md`. Audit report: `00_project/projects/V11-07_cross_system_review/AUDIT_REPORT.md` (Codex). Closure report: `00_project/CLOSURE_REPORT_V11-07_2026-07-13.md`.
+- V11-08: COMPLETED, audited **PASS** (Final Audit + Re-Check, Codex, 2026-07-13; 1 Major/2 Minor across both rounds, all closed). **Editor Release Decision 2026-07-13: V1.1 RELEASED — SCOPE-LIMITED.** Reports: `00_project/projects/V11-08_final_audit_release/RELEASE_CRITERIA_VERIFICATION.md`, `COMPLETION_REPORT.md`, `RELEASE_DECISION_PACKAGE.md`, `EDITOR_RELEASE_DECISION.md`.
 
 **Open, non-blocking items carried forward at program level:**
 
@@ -53,10 +69,9 @@ Normal uncertainty: document and continue.
 
 ---
 
-## Required Finish (for whoever closes V11-06 / starts V11-07)
+## Required Finish
 
-W-008 (the sole W-project of V11-06) is fully closed (Editor Decision, Repository Integration, Health Check, folder moved to `completed/`). V11-06 itself is executor-complete but **not yet audited**. Before starting V11-07:
-
-1. Obtain an independent audit of V11-06 (preferably cross-family per `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §5.2/5.3), using `00_project/projects/V11-06_research_portfolio_wave_2/COMPLETION_REPORT.md` and `06_research_program/completed/W008/` as the evidence base.
-2. Close any audit conditions, following the established V11-01–V11-05 pattern (rework only if findings require it).
-3. Obtain explicit Editor authorization to begin `V11-07 — Cross-System Review & Delivery Scaling Decision` (not started automatically).
+1. V1.1 program is closed: **RELEASED — SCOPE-LIMITED** (2026-07-13). No macro-project remains open within V1.1.
+2. **Outstanding, editor-only action:** commit/push the working tree — never an executor task, remains entirely with Felix.
+3. Carry forward, unresolved by this release: R-1 (additive synthesis pattern, methods-review candidate), R-2 (delivery-scaling blockers, delivery-scaling itself not released), R-4/R-5 (T12, MEC-0002/P-0002, OD-009–012 — unresolved Reserved/deferred items), possible V11-09 ff. (no brief, no roadmap entry exists).
+4. Any next work (delivery-scaling authorization, OD-009–012 decision round, new W-project, new V11-09 ff.) requires a fresh, explicit Editor instruction — this file is not a standing backlog for it.
