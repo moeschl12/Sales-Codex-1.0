@@ -159,6 +159,6 @@ Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MAST
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0003)  
-**MacLean-Bereinigung 2026-07-01:** Triune-Brain-Terminologie aus Erklärungspfad entfernt. Nur Kahneman-Dual-Process-Rahmen (E4/E3) verbleibt. Entscheidung dokumentiert in PEER_REVIEW_DECISION_REPORT_SPRINT_001.md.  
+**MacLean-Bereinigung 2026-07-01:** Triune-Brain-Terminologie aus Erklärungspfad entfernt. Nur Kahneman-Dual-Process-Rahmen (E4/E3) verbleibt. Entscheidung dokumentiert in `99_archive/00_project_history/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`.
 **Erweitert 2026-07-01 (SRC-0010):** Kanonische Primärquelle ergänzt; Cognitive Ease, WYSIATI und Halo-Effekt als System-1-Phänomene eingetragen.
 **Erweitert 2026-07-05 (W-002):** ELM als persuasionsspezifische Klassifikationsebene ergänzt, minimaler Cross-Link zum Reflective-Impulsive Model, Editor Decision Teilweise annehmen.

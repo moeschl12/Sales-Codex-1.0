@@ -2,7 +2,7 @@
 
 **Datum:** 2026-07-01  
 **Scope:** SCRP-0001 – Sales Core Sprint 1  
-**Vollständiges Entscheidungsdokument:** `PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`
+**Vollständiges Entscheidungsdokument:** `99_archive/00_project_history/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`
 
 ---
 

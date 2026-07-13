@@ -25,7 +25,7 @@ Ergebnis: Der reale Repository-Zustand wurde vollständig erfasst (Git, Atlas-Co
 | `00_project/SESSION_LOG.md` | Ergänzt | Neuer Eintrag zu dieser Session (oben angefügt) |
 | `08_knowledge_atlas/output/{nodes,edges,reference_orphans}.csv`, `atlas_network.dot`, `atlas_compiler_report.md` | Neu erzeugt (deterministisch) | Durch `compile_atlas.py`-Lauf regeneriert; inhaltlich identisch bei wiederholtem Lauf (siehe Abschnitt 4) |
 
-**Nicht verändert, aber bereits vor dieser Session im Arbeitsverzeichnis vorhanden (unverändert übernommen, nicht Teil dieser Session):** `CURRENT_STATE.md` (V1.1-Opening-Note war bereits vorhanden), `00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`, `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `00_project/V1_1_RELEASE_CRITERIA.md`, `00_project/V1_1_REVIEW_SYNTHESIS.md`, `00_project/projects/V11-0[2-8]_*/PROJECT_BRIEF.md`, `00_project/templates/*`, `06_research_program/completed/W002|W003|W004/*`, diverse `03_knowledge_base/`-Erweiterungen aus W-002/W-003/W-004.
+**Nicht verändert, aber bereits vor dieser Session im Arbeitsverzeichnis vorhanden (unverändert übernommen, nicht Teil dieser Session):** `CURRENT_STATE.md` (V1.1-Opening-Note war bereits vorhanden), `00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`, `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `00_project/V1_1_RELEASE_CRITERIA.md`, `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md`, `00_project/projects/V11-0[2-8]_*/PROJECT_BRIEF.md`, `00_project/templates/*`, `06_research_program/completed/W002|W003|W004/*`, diverse `03_knowledge_base/`-Erweiterungen aus W-002/W-003/W-004.
 
 ---
 
@@ -52,7 +52,7 @@ Ergebnis: Der reale Repository-Zustand wurde vollständig erfasst (Git, Atlas-Co
 - Branch: `main`, up to date with `origin/main` (letzter Commit: `1658e56` — "Complete Knowledge Atlas governance and MEC-0018 editorial review").
 - **Staged (Index):** ca. 60 Dateien — u. a. vollständige `06_research_program/completed/W002/`, `W003/`, `W004/`-Ordner (neu), `06_research_program/RESEARCH_PORTFOLIO.md` (neu), diverse Erweiterungen in `03_knowledge_base/assumptions|mechanisms|models|principles|statements/`, `00_project/OPEN_DECISIONS.md`, `00_project/SCIENTIFIC_DEBT.md`, `00_project/SESSION_LOG.md`, `CURRENT_STATE.md`.
 - **Unstaged (Working Tree gegenüber Index):** u. a. `.gitignore`, `00_project/NEXT_ACTION.md`, `00_project/SALES_CODEX_CONTEXT.md`, `00_project/SCIENTIFIC_DEBT.md` (weitere Änderung nach dem Staging), `00_project/WISSENSCHAFTLICHES_GUTACHTEN_SALES_CODEX.md`, zwei MEC-Dateien, `06_research_program/RESEARCH_PORTFOLIO.md` und `RESEARCH_STATUS.md`, beide W002/W004-`README.md` (weitere Änderung nach Staging), die drei Atlas-Output-CSVs, `CURRENT_STATE.md`, `PROJECT_BOOTSTRAP.md`, `SESSION_BRIEF.md`.
-- **Untracked:** `00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`, `00_project/ROADMAP_V1_1.md`, `00_project/V11_01_CLAUDE_EXECUTION_PROMPT.md`, `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `00_project/V1_1_RELEASE_CRITERIA.md`, `00_project/V1_1_REVIEW_SYNTHESIS.md`, `00_project/projects/` (alle acht Project Briefs), `00_project/templates/` (drei Templates), `INSTALL.md`.
+- **Untracked:** `00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`, `00_project/ROADMAP_V1_1.md`, `99_archive/00_project_history/V11_01_CLAUDE_EXECUTION_PROMPT.md`, `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `00_project/V1_1_RELEASE_CRITERIA.md`, `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md`, `00_project/projects/` (alle acht Project Briefs), `00_project/templates/` (drei Templates), `INSTALL.md`.
 - **Insgesamt 85 betroffene Pfade** (`git status --short` Zeilenzahl).
 - **Befund:** Der komplette inhaltliche Fortschritt seit dem letzten Commit (`1658e56`) — Research Portfolio Sprint, W-002/W-003/W-004 vollständig, Evidence Architecture Check, das gesamte V1.1-Control-Plane-Regelwerk — liegt ausschließlich in der Arbeitskopie/im Index und ist **nicht committet**. Der reale Repository-Zustand (Working Tree) ist der maßgebliche Ist-Zustand gemäß `PROJECT_BOOTSTRAP.md` Zeile 5 ("Das Repository ist die Quelle der Wahrheit"); dieser Bericht behandelt den Working-Tree-Zustand, nicht den letzten Commit, als Grundlage.
 - **Hard Block beim Versuch, den Zustand zu bereinigen:** siehe Abschnitt 5.
@@ -73,11 +73,11 @@ Ergebnis: Der reale Repository-Zustand wurde vollständig erfasst (Git, Atlas-Co
 
 ### 4.4 V1.1-Control-Plane-Konsistenz
 
-Geprüft: `ROADMAP_V1_1.md`, `NEXT_ACTION.md`, `V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `V1_1_RELEASE_CRITERIA.md`, `V1_1_REVIEW_SYNTHESIS.md`, alle acht `00_project/projects/V11-0[1-8]_*/PROJECT_BRIEF.md`, drei Dateien unter `00_project/templates/`.
+Geprüft: `ROADMAP_V1_1.md`, `NEXT_ACTION.md`, `V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `V1_1_RELEASE_CRITERIA.md`, `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md`, alle acht `00_project/projects/V11-0[1-8]_*/PROJECT_BRIEF.md`, drei Dateien unter `00_project/templates/`.
 
 - Alle Dateien sind vorhanden (kein fehlendes Control-Plane-Artefakt).
 - `ROADMAP_V1_1.md` (Program Board) und `NEXT_ACTION.md` (Launcher) stimmten vor dieser Session bereits überein: V11-01 als einziges aktives Makroprojekt, V11-02/V11-03 als READY, V11-04 bis V11-08 als LATER.
-- `V1_1_REVIEW_SYNTHESIS.md` bestätigt exakt dieselbe Sequenz (Abschnitt 5) und autorisiert V11-01 als nächsten ausführbaren Schritt (Abschnitt 6).
+- `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md` bestätigt exakt dieselbe Sequenz (Abschnitt 5) und autorisiert V11-01 als nächsten ausführbaren Schritt (Abschnitt 6).
 - Kein Widerspruch zwischen den Dateien gefunden. Keine konkurrierende Backlog-Struktur in `NEXT_ACTION.md` (Release-Criteria-Anforderung Governance Integrity, Punkt 2).
 
 ### 4.5 W-002 / W-003 / W-004 Konsistenz

@@ -126,7 +126,7 @@ Siehe auch: `00_project/SCIENTIFIC_DEBT.md` (neuer Eintrag B-0003, Sprint-3-Revi
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0003)  
-**E-Level-Korrektur 2026-07-01:** E3 → E2 (gesamt) / E1 (Spiegelneuronen-Basis). Entscheidung dokumentiert in PEER_REVIEW_DECISION_REPORT_SPRINT_001.md.  
+**E-Level-Korrektur 2026-07-01:** E3 → E2 (gesamt) / E1 (Spiegelneuronen-Basis). Entscheidung dokumentiert in `99_archive/00_project_history/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`.
 **Erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 & 4):** Mimicry- und Rapport-Literatur ergänzt (Chartrand & Bargh 1999, Lakin & Chartrand 2003, Tickle-Degnen & Rosenthal 1990, Gremler & Gwinner 2000). Kein E-Level-Wechsel.  
 **Sprint-3-Review 2026-07-01:** Trennung motorische Mimikry vs. verbales Mirroring erneut geprüft und bestätigt (konzeptionell korrekt); LSM-Literatur als methodisch relevanterer Vergleichsmaßstab ergänzt (Taylor & Thomas 2008, Ireland & Henderson 2014); Widerspruch zu Voss' zeitlich unbeschränkter Mirroring-Empfehlung in SCIENTIFIC_DEBT.md dokumentiert. Kein E-Level-Wechsel.  
 **Erweitert 2026-07-02 (B-0011, Goleman):** Abgrenzung zu neu angelegtem MEC-0022 (Emotional Contagion) dokumentiert. Kein E-Level-Wechsel.

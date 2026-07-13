@@ -123,6 +123,6 @@ Websuchverifiziert (2026-07-02): Der Begriff "Low Road"/"High Road" stammt aus L
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0003)  
-**E-Level-Korrektur 2026-07-01:** E3 → E2. Lieberman (2007) ist Laborstudie ohne direkten B2B-Verhandlungsbeweis. Entscheidung dokumentiert in PEER_REVIEW_DECISION_REPORT_SPRINT_001.md.  
+**E-Level-Korrektur 2026-07-01:** E3 → E2. Lieberman (2007) ist Laborstudie ohne direkten B2B-Verhandlungsbeweis. Entscheidung dokumentiert in `99_archive/00_project_history/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`.
 **Erweitert 2026-07-01 (Academic Recovery Sprint Phase 2, Research Pack 3 & 4):** Gross (1998), van Kleef et al. (2004) ergänzt; Konvergenzbestätigung dokumentiert.  
 **Erweitert 2026-07-02 (B-0011, Goleman/LeDoux):** Neurobiologischer Grundlagenrahmen (Thalamus-Amygdala-Kurzschluss, präfrontale Hemmung), Kagan-Temperamentsforschung als neue Grenzen-Dimension ergänzt. Kein E-Level-Wechsel für Gesamtobjekt (bleibt E2); Grundlagenrahmen selbst auf E4 dokumentiert.

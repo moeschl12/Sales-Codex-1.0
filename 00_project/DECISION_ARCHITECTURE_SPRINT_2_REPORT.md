@@ -4,7 +4,7 @@
 **Rolle bei Erstellung:** Repository Curator / Workflow Architect — ausdrücklich nicht als Editor, Research Assistant, Framework-Architekt oder Wissensarbeiter
 **Sprint:** Decision Architecture Sprint 2
 **Datum:** 2026-07-05
-**Grundlage:** `00_project/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md`
+**Grundlage:** `99_archive/00_project_history/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md`
 **Scope:** Ausschließlich die fünf im Sprintauftrag benannten Maßnahmen (Anlage `TASK_TYPES.md`, minimale Ergänzung `PROJECT_BOOTSTRAP.md`, optionale Ergänzung `SESSION_BRIEF.md`, Abschlussbericht). Keine Änderungen an `03_knowledge_base/`, `02_sources/`, `04_book_analysis/`, `01_framework/`, Templates, Evidenz-Leveln, Canonical Knowledge Model, Wissensobjekten, Quellen, Buchanalysen oder Research Program. Keine neue Forschung, keine neuen Wissensobjekte, keine Framework-Änderung, keine Repository-Umstrukturierung, keine Archivierungsentscheidung zu den vier Grenzfällen aus Sprint 1.
 
 ---
@@ -45,4 +45,4 @@ Sofern künftige Aufträge das `TASK_TYPE`-Feld verwenden (Vorlagen in `TASK_TYP
 
 ## 7. Nächster empfohlener Schritt
 
-Ab sofort neue Arbeitsaufträge mit `TASK_TYPE`-Feld formulieren (Vorlagen in `TASK_TYPES.md`). Danach, sofern gewünscht: die in `SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md`, Teil 10 als „Sprint 3" eingestuften Maßnahmen (aktive Nutzung von `08_knowledge_atlas` in T5/T7-Aufträgen, Objekt-Index-Erweiterung des Atlas-Compilers) sowie die Entscheidung zu den vier verbliebenen Grenzfällen aus Sprint 1.
+Ab sofort neue Arbeitsaufträge mit `TASK_TYPE`-Feld formulieren (Vorlagen in `TASK_TYPES.md`). Danach, sofern gewünscht: die in `99_archive/00_project_history/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md`, Teil 10 als „Sprint 3" eingestuften Maßnahmen (aktive Nutzung von `08_knowledge_atlas` in T5/T7-Aufträgen, Objekt-Index-Erweiterung des Atlas-Compilers) sowie die Entscheidung zu den vier verbliebenen Grenzfällen aus Sprint 1.

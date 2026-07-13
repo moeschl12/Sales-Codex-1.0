@@ -1,6 +1,6 @@
 # History Link Audit
 
-Status: audit complete; no physical moves authorized
+Status: first archive batch moved; further moves not authorized by this report
 Updated: 2026-07-13
 
 ## Scope and method
@@ -27,36 +27,34 @@ The repository is not ready for a broad archive move.
 - 2 of 4 peer-review files have active inbound references.
 - 10 historical files have no active-control inbound reference and are the first physical-move candidates.
 - The existing `99_archive/` content is already physically separated and was not changed.
-- No file was moved, renamed, or deleted by this audit.
+- The 10 Tier 1 files were moved into `99_archive/00_project_history/` after the audit.
 
-## Tier 1: candidates for a later first archive batch
+## Completed first archive batch
 
-These files are not referenced by the selected active control set. They are
-still referenced by historical reports, project records, or archive material,
-so a future move must update those references first.
+These files had no active-control inbound reference. Their historical and
+project references were updated to the archive path before the move.
 
 ### Root files
 
-- `00_project/CLOSURE_REPORT_V1.1_2026-07-13.md`
-- `00_project/COWORK_PERFORMANCE_AUDIT_2026-07-05.md`
-- `00_project/PROCESS_PATTERN_ANALYSIS_2026-07.md`
-- `00_project/RELEASE_NOTES_v1.1.md`
-- `00_project/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md`
-- `00_project/SPRINT_2_ABSCHLUSSBERICHT.md`
-- `00_project/V1_1_REVIEW_SYNTHESIS.md`
-- `00_project/V11_01_CLAUDE_EXECUTION_PROMPT.md`
+- `99_archive/00_project_history/CLOSURE_REPORT_V1.1_2026-07-13.md`
+- `99_archive/00_project_history/COWORK_PERFORMANCE_AUDIT_2026-07-05.md`
+- `99_archive/00_project_history/PROCESS_PATTERN_ANALYSIS_2026-07.md`
+- `99_archive/00_project_history/RELEASE_NOTES_v1.1.md`
+- `99_archive/00_project_history/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md`
+- `99_archive/00_project_history/SPRINT_2_ABSCHLUSSBERICHT.md`
+- `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md`
+- `99_archive/00_project_history/V11_01_CLAUDE_EXECUTION_PROMPT.md`
 
 ### Peer-review files
 
-- `00_project/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`
-- `00_project/peer_review/decisions/RELEASE_REPORT_SPRINT_001_PEER_REVIEW.md`
+- `99_archive/00_project_history/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`
+- `99_archive/00_project_history/peer_review/decisions/RELEASE_REPORT_SPRINT_001_PEER_REVIEW.md`
 
-### Conditions before moving Tier 1
+### Post-move conditions
 
-1. Update all historical, project, archive, and navigation references.
-2. Preserve the original relative path in a redirect/index note if required by the repository link convention.
-3. Move complete logical groups, not individual report fragments.
-4. Re-run the reference scan after the move.
+1. Keep the archive path stable.
+2. Do not treat these files as active control.
+3. Re-run the reference scan after any future archive move.
 
 ## Tier 2: hold in place
 
@@ -147,8 +145,7 @@ archive-hygiene item.
 
 ## Recommended next action
 
-Do not move Tier 1 yet. First decide whether the target archive location should
-be `99_archive/00_project_history/` or a more specific structure such as
-`99_archive/v1.1_history/`. Then prepare a single path-update manifest for the
-10 Tier 1 files, run it as a reviewable change, and verify the active startup
-path afterwards.
+The next archive move should wait until a separate link-update manifest exists
+for the remaining Tier 2 material. In particular, all eight V11 project
+folders still need to remain in place until their active evidence references
+are deliberately rewritten.

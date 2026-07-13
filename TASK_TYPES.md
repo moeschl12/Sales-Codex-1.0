@@ -2,7 +2,7 @@
 
 **Dokumentklasse:** Reference (aufgabenbezogenes Routing)
 **Zweck:** Definiert 12 Task-Typen mit fester Dateiladestrategie, Suchgrenzen, Ausgabeformat und Arbeitsmodus. Ziel: Claude muss bei einer benannten Aufgabe nicht mehr selbst abwägen, welche Dateien/Verzeichnisse relevant sind — das Routing ist hier bereits festgelegt.
-**Herkunft:** Übertragen aus `00_project/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md` (Teil 2, 3, 5, 6, 7, 8). Begründungen, Alternativen-Abwägung und Roadmap stehen dort — diese Datei ist bewusst eine reine Referenz ohne Begründungstext.
+**Herkunft:** Übertragen aus `99_archive/00_project_history/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md` (Teil 2, 3, 5, 6, 7, 8). Begründungen, Alternativen-Abwägung und Roadmap stehen dort — diese Datei ist bewusst eine reine Referenz ohne Begründungstext.
 **Status:** Statische Referenz, kein Log. Wird bei Bedarf inhaltlich korrigiert, nicht historisch fortgeschrieben. Änderungen an dieser Datei sind Framework-nahe Entscheidungen und erfordern Freigabe durch Felix.
 **Zuletzt aktualisiert:** 2026-07-05 (Decision Architecture Sprint 2)
 
@@ -396,7 +396,7 @@ ABBRUCHBEDINGUNGEN: Zu wenige validierte Objekte für das Thema vorhanden.
 | Task-spezifische Dateien (variabel je Typ) | ≈ 500–15.000 |
 | Knowledge Objects (≈ 850 Token/Objekt, variabel je Typ) | 0 bis N × 850 |
 
-Details und Beispielrechnungen je Task-Typ: `00_project/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md`, Teil 6.
+Details und Beispielrechnungen je Task-Typ: `99_archive/00_project_history/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md`, Teil 6.
 
 ---
 

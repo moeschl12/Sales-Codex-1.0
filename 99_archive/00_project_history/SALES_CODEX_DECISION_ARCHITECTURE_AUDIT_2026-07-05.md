@@ -3,7 +3,7 @@
 **Dokumentklasse:** Architecture / Reference
 **Rolle bei Erstellung:** Principal AI Systems Architect (Claude Cowork) — nicht Editor, Research Assistant oder Wissensingenieur. Gegenstand ist ausschließlich die Entscheidungsarchitektur, nicht der fachliche Inhalt des Sales Codex.
 **Datum:** 2026-07-05
-**Stufe:** 2 von 2 der Cowork-Performance-Auditreihe — baut auf `00_project/COWORK_PERFORMANCE_AUDIT_2026-07-05.md` (Stufe 1: Token/Dateiladestrategie) und `00_project/COWORK_TOKEN_OPTIMIZATION_SPRINT_1_REPORT.md` (Umsetzung) auf.
+**Stufe:** 2 von 2 der Cowork-Performance-Auditreihe — baut auf `99_archive/00_project_history/COWORK_PERFORMANCE_AUDIT_2026-07-05.md` (Stufe 1: Token/Dateiladestrategie) und `00_project/COWORK_TOKEN_OPTIMIZATION_SPRINT_1_REPORT.md` (Umsetzung) auf.
 **Status:** Analyse- und Entwurfsdokument. Keine Repository-Ausführung in diesem Schritt — die in Teil 4, 7 und 10 entworfenen Artefakte (`TASK_TYPES.md` u. a.) existieren noch nicht und werden erst nach Freigabe durch Felix in einem Folgesprint angelegt.
 **Harte Grenzen eingehalten:** Keine Änderung an `03_knowledge_base/`, `02_sources/`, `04_book_analysis/`, Wissensobjekten, Evidenz-Leveln, Canonical Knowledge Model, Templates oder Framework-Logik.
 

@@ -10,7 +10,7 @@
 
 ## 1. T-0012 und T-0013 — Evidenzlevel-Synchronisation
 
-**Befund (Audit Kapitel 3):** T-0012 (Mirroring) und T-0013 (Labeling) trugen weiterhin E3, obwohl ihre jeweiligen Basismechanismen MEC-0011 (Neural Coupling) und MEC-0010 (Amygdala-Regulation) bereits am 2026-07-01 per Peer Review Sprint 1 von E3 auf E2 herabgestuft wurden (`PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`). Die Korrektur wurde damals nicht an die abhängigen Technik-Objekte weitergegeben.
+**Befund (Audit Kapitel 3):** T-0012 (Mirroring) und T-0013 (Labeling) trugen weiterhin E3, obwohl ihre jeweiligen Basismechanismen MEC-0011 (Neural Coupling) und MEC-0010 (Amygdala-Regulation) bereits am 2026-07-01 per Peer Review Sprint 1 von E3 auf E2 herabgestuft wurden (`99_archive/00_project_history/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`). Die Korrektur wurde damals nicht an die abhängigen Technik-Objekte weitergegeben.
 
 **Durchgeführt:**
 - `T-0012_mirroring.md`: Evidenzlevel E3 → **E2**, mit Verweis auf MEC-0011 und Erklärung der Desynchronisation.

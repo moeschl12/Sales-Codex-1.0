@@ -170,7 +170,7 @@
 
 ## 2026-06-30 — v1.1 Sales Codex OS Release
 
-Grundlage: POST_MORTEM_B0002.md + RELEASE_NOTES_v1.1.md (freigegeben durch Felix 2026-06-30)
+Grundlage: POST_MORTEM_B0002.md + 99_archive/00_project_history/RELEASE_NOTES_v1.1.md (freigegeben durch Felix 2026-06-30)
 
 ### Geänderte Dateien
 

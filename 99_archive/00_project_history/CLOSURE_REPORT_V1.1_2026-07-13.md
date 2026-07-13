@@ -24,7 +24,7 @@ Version 1.1 des Sales Codex ist abgeschlossen und freigegeben als **RELEASED —
 | `SESSION_BRIEF.md` | Vollständig ersetzt (eigene Policy) |
 | `00_project/SESSION_LOG.md` | Abschlusseintrag ergänzt (siehe unten) |
 | `00_project/DECISION_STACK_2026-07-13.md` | Neuer Abschnitt 0d, Tabellenzeile V11-08 append-only korrigiert |
-| `00_project/CLOSURE_REPORT_V1.1_2026-07-13.md` | Dieser Report, neu |
+| `99_archive/00_project_history/CLOSURE_REPORT_V1.1_2026-07-13.md` | Dieser Report, neu |
 
 **Nicht verändert:** `03_knowledge_base/`, `06_research_program/`, `05_publications/`, `00_project/SCIENTIFIC_DEBT.md`, `00_project/OPEN_DECISIONS.md`.
 

@@ -64,7 +64,7 @@ the session-level entry points.
 | `00_project/backlog.md` | A | Task-selection surface, currently empty in READY/IN_PROGRESS/REVIEW; keep but load only for task selection. |
 | `00_project/BEHAVIORAL_SCIENCE_REVIEW_DECISION_REPORT_2026-07.md` | H | Closed editorial decision report; retain as decision history, later archive candidate. |
 | `00_project/changelog.md` | H | Change history; keep for historical queries, not normal startup. |
-| `00_project/CLOSURE_REPORT_V1.1_2026-07-13.md` | H | V1.1 closure evidence; later archive candidate after release links are checked. |
+| `99_archive/00_project_history/CLOSURE_REPORT_V1.1_2026-07-13.md` | H | V1.1 closure evidence; moved in the first archive batch. |
 | `00_project/CLOSURE_REPORT_V11-02_V11-03_2026-07-06.md` | H | Closed V11 audit closure; later archive candidate. |
 | `00_project/CLOSURE_REPORT_V11-04_2026-07-07.md` | H | Closed V11 audit closure; later archive candidate. |
 | `00_project/CLOSURE_REPORT_V11-05_2026-07-07.md` | H | Closed V11 audit closure; later archive candidate. |
@@ -73,7 +73,7 @@ the session-level entry points.
 | `00_project/CODEX_AUDIT_2026-07.md` | H | Completed repository audit; later archive candidate. |
 | `00_project/CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md` | H | Completed correction report; later archive candidate. |
 | `00_project/COWORK_EXECUTION_PROTOCOL.md` | R | Historical/current process reference; compare with `.agents/` before any later archive decision. |
-| `00_project/COWORK_PERFORMANCE_AUDIT_2026-07-05.md` | H | Completed agent-performance audit; later archive candidate. |
+| `99_archive/00_project_history/COWORK_PERFORMANCE_AUDIT_2026-07-05.md` | H | Completed agent-performance audit; moved in the first archive batch. |
 | `00_project/COWORK_TOKEN_OPTIMIZATION_SPRINT_1_REPORT.md` | H | Completed optimization sprint report; later archive candidate. |
 | `00_project/DECISION_ARCHITECTURE_SPRINT_2_REPORT.md` | H | Completed decision-architecture sprint report; later archive candidate. |
 | `00_project/DECISION_BRIEF_OD-009_TO_OD-012_2026-07-13.md` | R | Decision input for the current governance block; retain as current decision evidence. |
@@ -90,9 +90,9 @@ the session-level entry points.
 | `00_project/OPEN_DECISIONS.md` | A | Current decision register, including resolved decisions and remaining governance context; keep active. |
 | `00_project/POST_MORTEM_B0002.md` | H | Completed B-0002 post-mortem; later archive candidate. |
 | `00_project/POST_MORTEM_INFLUENCE_PLAN.md` | H | Completed post-mortem planning artifact; later archive candidate. |
-| `00_project/PROCESS_PATTERN_ANALYSIS_2026-07.md` | H | Completed process-pattern analysis; later archive candidate. |
+| `99_archive/00_project_history/PROCESS_PATTERN_ANALYSIS_2026-07.md` | H | Completed process-pattern analysis; moved in the first archive batch. |
 | `00_project/PROJECT_FILE_CLASSIFICATION_2026-07-13.md` | R | Current classification and simplification review; keep until the target structure is decided. |
-| `00_project/RELEASE_NOTES_v1.1.md` | H | V1.1 release record; retain as release history, later archive candidate. |
+| `99_archive/00_project_history/RELEASE_NOTES_v1.1.md` | H | V1.1 release record; moved in the first archive batch. |
 | `00_project/REPOSITORY_KPIS.md` | A | Current metrics/reporting surface; load only for health checks or release reporting. |
 | `00_project/RESEARCH_PORTFOLIO_CHECKPOINT_1.md` | H | Historical research portfolio checkpoint; later archive candidate. |
 | `00_project/RESEARCH_PORTFOLIO_INITIALIZATION_REPORT.md` | H | Historical research portfolio initialization; later archive candidate. |
@@ -100,17 +100,17 @@ the session-level entry points.
 | `00_project/ROADMAP_V1_1.md` | A | Strategic V1.1 program record; keep while V1.1 remains the governing release context. |
 | `00_project/SALES_CODEX_AUDIT_STANDARD_V2_1.md` | R | Audit method reference; keep for audit work, not daily startup. |
 | `00_project/SALES_CODEX_CONTEXT.md` | R | Short project context reference; compare with `PROJECT_BOOTSTRAP.md` before consolidating. |
-| `00_project/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md` | H | Completed decision architecture audit; later archive candidate. |
+| `99_archive/00_project_history/SALES_CODEX_DECISION_ARCHITECTURE_AUDIT_2026-07-05.md` | H | Completed decision architecture audit; moved in the first archive batch. |
 | `00_project/SALES_CODEX_OPERATING_MANUAL.md` | R | Operating reference for Codex work; keep task-loadable. |
 | `00_project/SCIENTIFIC_DEBT.md` | A | Current evidence and quality debt register; keep active. |
 | `00_project/SCIENTIFIC_PEER_REVIEW_GEMINI_RESEARCH_STRATEGY.md` | R | Research/validation strategy reference; keep for scientific-review tasks. |
 | `00_project/SESSION_LOG.md` | H | Append-only session history; keep out of normal startup. |
-| `00_project/SPRINT_2_ABSCHLUSSBERICHT.md` | H | Completed research sprint report; later archive candidate. |
+| `99_archive/00_project_history/SPRINT_2_ABSCHLUSSBERICHT.md` | H | Completed research sprint report; moved in the first archive batch. |
 | `00_project/task_rules.md` | A | Task-specific rules and task-generation behavior; load only for task routing or task creation. |
 | `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md` | R | V1.1 operating policy; keep for V1.1 governance and audit work. |
 | `00_project/V1_1_RELEASE_CRITERIA.md` | R | V1.1 release criteria; retain as release reference, not daily startup. |
-| `00_project/V1_1_REVIEW_SYNTHESIS.md` | H | Completed V1.1 review synthesis; later archive candidate. |
-| `00_project/V11_01_CLAUDE_EXECUTION_PROMPT.md` | H | Superseded V11-01 execution prompt; later archive candidate. Content was checked from the committed Git version because the working-tree file is locally read-protected. |
+| `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md` | H | Completed V1.1 review synthesis; moved in the first archive batch. |
+| `99_archive/00_project_history/V11_01_CLAUDE_EXECUTION_PROMPT.md` | H | Superseded V11-01 execution prompt; moved in the first archive batch. Content was checked from the committed Git version because the file is locally read-protected. |
 | `00_project/VALIDIERUNGSSPRINT_MEC0010-0012.md` | H | Completed validation sprint report; later archive candidate. |
 | `00_project/WISSENSCHAFTLICHER_REIFEGRADSBERICHT.md` | H | Historical scientific maturity report; later archive candidate. |
 | `00_project/WISSENSCHAFTLICHES_GUTACHTEN_SALES_CODEX.md` | H | Historical peer-review report; later archive candidate. Content was checked from the committed Git version because the working-tree file is locally read-protected. |
@@ -119,9 +119,9 @@ the session-level entry points.
 
 | File | Class | Function and target action |
 |---|---|---|
-| `00_project/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md` | H | Completed peer-review decision record; retain as history, later archive candidate. |
+| `99_archive/00_project_history/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md` | H | Completed peer-review decision record; moved in the first archive batch. |
 | `00_project/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_002.md` | H | Completed peer-review decision record; retain as history, later archive candidate. |
-| `00_project/peer_review/decisions/RELEASE_REPORT_SPRINT_001_PEER_REVIEW.md` | H | Completed peer-review release report; later archive candidate. |
+| `99_archive/00_project_history/peer_review/decisions/RELEASE_REPORT_SPRINT_001_PEER_REVIEW.md` | H | Completed peer-review release report; moved in the first archive batch. |
 | `00_project/peer_review/decisions/SCRP-0001_Sales_Core.md` | H | Completed Sales Core review package; later archive candidate after link checks. |
 
 ## File-by-file classification: templates

@@ -4,7 +4,7 @@
 **Rolle bei Erstellung:** Principal AI Systems Engineer (Claude Cowork) — nicht Editor, Autor, Research Assistant oder Knowledge Engineer. Gegenstand ist die eigene Arbeitsweise, nicht der fachliche Inhalt des Sales Codex.
 **Datum:** 2026-07-05
 **Status:** Vorschlag zur Herausgeber-Prüfung — keine Repository-Änderungen, keine Framework-Änderungen, kein Eingriff in laufende Governance (Version 1.0 gilt als veröffentlicht und unveränderlich, siehe `CURRENT_STATE.md`)
-**Verhältnis zu bestehenden Dokumenten:** Überschneidet sich thematisch mit `00_project/PROCESS_PATTERN_ANALYSIS_2026-07.md`, hat aber einen anderen Fokus. Jenes Dokument sucht wiederkehrende Arbeitsmuster als Kandidaten für Skills. Dieses Dokument analysiert ausschließlich Tokenverbrauch, Dateiladestrategie und Prompting — keine Skill-Vorschläge, keine inhaltliche Prozessbewertung.
+**Verhältnis zu bestehenden Dokumenten:** Überschneidet sich thematisch mit `99_archive/00_project_history/PROCESS_PATTERN_ANALYSIS_2026-07.md`, hat aber einen anderen Fokus. Jenes Dokument sucht wiederkehrende Arbeitsmuster als Kandidaten für Skills. Dieses Dokument analysiert ausschließlich Tokenverbrauch, Dateiladestrategie und Prompting — keine Skill-Vorschläge, keine inhaltliche Prozessbewertung.
 
 ---
 
@@ -13,7 +13,7 @@
 Diese Analyse stützt sich ausschließlich auf tatsächlich zugängliche Daten:
 
 - Vollständige Verzeichnisstruktur und Dateigrößen des Repositorys (`sales-codex-workspace-v1.0`, Stand 2026-07-05), erhoben per Shell (`find`, `du`, `wc`).
-- Volltext von: `PROJECT_BOOTSTRAP.md`, `CLAUDE_BOOTSTRAP.md`, `README.md`, `INDEX.md`, `CURRENT_STATE.md` (Auszug), `00_project/NEXT_ACTION.md`, `00_project/SESSION_LOG.md` (Kopf/Fuß), `00_project/task_rules.md` (Auszug), `00_project/REPOSITORY_KPIS.md` (Auszug), `00_project/COWORK_EXECUTION_PROTOCOL.md` (Auszug), `01_framework/07_agent_protocols/master_agent_protocol.md`, `01_framework/07_agent_protocols/claude_editor_protocol.md`, `08_knowledge_atlas/ATLAS_MANIFEST.md`, drei Beispiel-Statement-Dateien, `00_project/PROCESS_PATTERN_ANALYSIS_2026-07.md` (Auszug).
+- Volltext von: `PROJECT_BOOTSTRAP.md`, `CLAUDE_BOOTSTRAP.md`, `README.md`, `INDEX.md`, `CURRENT_STATE.md` (Auszug), `00_project/NEXT_ACTION.md`, `00_project/SESSION_LOG.md` (Kopf/Fuß), `00_project/task_rules.md` (Auszug), `00_project/REPOSITORY_KPIS.md` (Auszug), `00_project/COWORK_EXECUTION_PROTOCOL.md` (Auszug), `01_framework/07_agent_protocols/master_agent_protocol.md`, `01_framework/07_agent_protocols/claude_editor_protocol.md`, `08_knowledge_atlas/ATLAS_MANIFEST.md`, drei Beispiel-Statement-Dateien, `99_archive/00_project_history/PROCESS_PATTERN_ANALYSIS_2026-07.md` (Auszug).
 - Git-Historie (`git log`): **4 Commits insgesamt** über die gesamte sichtbare Projektlaufzeit.
 - Stichprobenhafter Zugriff auf zwei von 16 lokal verfügbaren Cowork-Sessions über das Session-Tool — jeweils nur die letzten 4–6 Nachrichten (Ende der Session, assistentenseitig). **Kein Zugriff auf die ursprünglichen Nutzer-Prompts dieser Sessions, keine vollständigen Transkripte gelesen.** Aussagen zu Felix' tatsächlichem Promptstil sind daher explizit als Inferenz aus den im Repository dokumentierten Protokollen (Bootstrap-Dateien, Execution Protocol) gekennzeichnet, nicht als beobachtete Chatanalyse.
 - Alle Tokenschätzungen sind grobe Näherungen (≈ 4 Zeichen/Token für deutschsprachigen Markdown-Text). Sie dienen der Größenordnung, nicht als exakte Zahl.

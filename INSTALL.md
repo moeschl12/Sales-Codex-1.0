@@ -13,8 +13,14 @@ python3 08_knowledge_atlas/scripts/compile_atlas.py
 git status
 ```
 
-Then start Claude/Clerk with:
+Then start any agent with:
 
-`00_project/V11_01_CLAUDE_EXECUTION_PROMPT.md`
+1. `PROJECT_BOOTSTRAP.md`
+2. `SESSION_BRIEF.md`
+3. `00_project/ACTIVE_INDEX.md`
+4. `00_project/NEXT_ACTION.md`
+
+The former V11-01 execution prompt remains available as historical material
+under `99_archive/00_project_history/` and is not a current launcher.
 
 Do not commit automatically until V11-01 completes or the current dirty state has been reconciled.

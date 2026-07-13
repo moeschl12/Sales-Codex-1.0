@@ -37,28 +37,29 @@ V1.1 audit trail.
 These are report artifacts, not active launchers. Read them only when the task
 requires their specific evidence or when reconstructing project history.
 
-- `00_project/CLOSURE_REPORT_*.md`
+- `00_project/CLOSURE_REPORT_V11-*.md`
 - `00_project/CODEX_AUDIT_*.md`
 - `00_project/CODEX_CONSISTENCY_CORRECTION_REPORT_*.md`
 - `00_project/ACADEMIC_RECOVERY_REPORT*.md`
 - `00_project/RESEARCH_PORTFOLIO_INITIALIZATION_REPORT.md`
 - `00_project/RESEARCH_PORTFOLIO_CHECKPOINT_1.md`
-- `00_project/PROCESS_PATTERN_ANALYSIS_*.md`
-- `00_project/SPRINT_2_ABSCHLUSSBERICHT.md`
 - `00_project/VALIDIERUNGSSPRINT_*.md`
 - `00_project/EDITORIAL_REVIEW_SPRINT_*.md`
 - `00_project/KNOWLEDGE_ATLAS_CONTENT_ANALYSIS_SPRINT_*.md`
 - `00_project/DECISION_ARCHITECTURE_SPRINT_*.md`
-- `00_project/COWORK_*_AUDIT.md`
 - `00_project/COWORK_TOKEN_OPTIMIZATION_SPRINT_*.md`
+
+The first archive batch is now under:
+
+- `99_archive/00_project_history/`
 
 ## Historical status and process records
 
 - `00_project/SESSION_LOG.md` - append-only session history
 - `00_project/changelog.md` - change history
-- `00_project/CLOSURE_REPORT_V1.1_2026-07-13.md` - V1.1 closure record
-- `00_project/RELEASE_NOTES_v1.1.md` - release record
-- `00_project/V1_1_REVIEW_SYNTHESIS.md` - release-era synthesis
+- `99_archive/00_project_history/CLOSURE_REPORT_V1.1_2026-07-13.md` - V1.1 closure record
+- `99_archive/00_project_history/RELEASE_NOTES_v1.1.md` - release record
+- `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md` - release-era synthesis
 - `CURRENT_STATE.md` - extended state/history document; use `SESSION_BRIEF.md` for normal startup
 
 ## Still active despite historical-looking names
@@ -85,4 +86,3 @@ A physical move is justified only when all three conditions hold:
 1. The file is not an authority, launcher, active decision, active debt record, or current reference.
 2. Its historical role is represented by this index or by `99_archive/README.md`.
 3. Links and the relevant startup instructions have been checked.
-

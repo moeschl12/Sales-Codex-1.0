@@ -43,7 +43,7 @@ Neueste Einträge oben.
 
 **Session-Typ:** Post-Release-Housekeeping nach erfolgreichem Push des V1.1-Release-Commits. Kein neues Makroprojekt, keine OD-Entscheidung, keine Wissensobjekt-Änderung.
 
-**Durchgeführt:** Control-Plane-Einstiegspunkte von "Commit/Push ausstehend" auf erledigt aktualisiert: `00_project/NEXT_ACTION.md`, `CURRENT_STATE.md`, `SESSION_BRIEF.md`, `00_project/CLOSURE_REPORT_V1.1_2026-07-13.md`; dieser Session-Log-Eintrag ergänzt.
+**Durchgeführt:** Control-Plane-Einstiegspunkte von "Commit/Push ausstehend" auf erledigt aktualisiert: `00_project/NEXT_ACTION.md`, `CURRENT_STATE.md`, `SESSION_BRIEF.md`, `99_archive/00_project_history/CLOSURE_REPORT_V1.1_2026-07-13.md`; dieser Session-Log-Eintrag ergänzt.
 
 **Ergebnis:** Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) ist nach `origin/main` gepusht; `main` ist synchron mit `origin/main`, Working Tree clean. V1.1 bleibt `RELEASED — SCOPE-LIMITED`; kein offener Punkt wurde dadurch gelöst oder neu entschieden.
 
@@ -59,7 +59,7 @@ Neueste Einträge oben.
 
 1. `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md` erstellt — formale Entscheidungsdokumentation im Stil der bestehenden Editor-Decision-Dokumente, mit verbindlichen Einzelfestlegungen (was freigegeben ist, was nicht, was nicht entschieden wird, Working-Tree/Git-Klarstellung).
 2. Control Plane aktualisiert: `ROADMAP_V1_1.md` (Programmstatus, Program-Board-Zeile V11-08, Sequence-Rationale-Absatz), `NEXT_ACTION.md` (Programmabschluss-Abschnitt, kein offener Launcher mehr), `CURRENT_STATE.md` (Opening Note), `SESSION_BRIEF.md` (vollständig ersetzt), `00_project/DECISION_STACK_2026-07-13.md` (neuer Abschnitt 0d, Tabellenzeile append-only korrigiert).
-3. `00_project/CLOSURE_REPORT_V1.1_2026-07-13.md` erstellt — programmweiter Abschlussreport mit geänderten Dateien und verbleibendem nächsten Schritt.
+3. `99_archive/00_project_history/CLOSURE_REPORT_V1.1_2026-07-13.md` erstellt — programmweiter Abschlussreport mit geänderten Dateien und verbleibendem nächsten Schritt.
 
 **Ergebnis:** V1.1 ist formal geschlossen (RELEASED — SCOPE-LIMITED). Working Tree bleibt nicht clean — verbleibender nächster Schritt ist ausschließlich Felix' Commit/Push. Kein Wissensobjekt verändert, kein neues Projekt, kein V11-09, kein Git-Commit durch diese Sitzung.
 
@@ -377,9 +377,9 @@ Neueste Einträge oben.
 
 ## 2026-07-06 — V11-01 Baseline & Control Plane Consolidation — Executor-Durchlauf abgeschlossen
 
-**Session-Typ:** Ausführung des V1.1-Makroprojekts V11-01 gemäß `00_project/projects/V11-01_baseline_control_plane/PROJECT_BRIEF.md`, autonom bis DONE bzw. Hard Block (Auftrag: `00_project/V11_01_CLAUDE_EXECUTION_PROMPT.md`). Rolle: Executor Agent, keine Herausgeberentscheidung, keine neue Forschung, keine neuen Wissensobjekte.
+**Session-Typ:** Ausführung des V1.1-Makroprojekts V11-01 gemäß `00_project/projects/V11-01_baseline_control_plane/PROJECT_BRIEF.md`, autonom bis DONE bzw. Hard Block (Auftrag: `99_archive/00_project_history/V11_01_CLAUDE_EXECUTION_PROMPT.md`). Rolle: Executor Agent, keine Herausgeberentscheidung, keine neue Forschung, keine neuen Wissensobjekte.
 
-**Erfasster Ist-Zustand:** Git — Branch `main`, up to date mit `origin/main` (`1658e56`), 85 uncommittete Pfade (staged/unstaged/untracked), darunter die vollständigen `completed/W002|W003|W004/`-Ordner, das gesamte V1.1-Control-Plane-Regelwerk (`ROADMAP_V1_1.md`, `V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `V1_1_RELEASE_CRITERIA.md`, `V1_1_REVIEW_SYNTHESIS.md`, acht `PROJECT_BRIEF.md`, drei Templates) und der bereits vorhandene V1.1-Opening-Abschnitt in `CURRENT_STATE.md`. Atlas-Compiler (`compile_atlas.py` v0.1.3) dreimal ausgeführt, durchgängig Exit Code 0, 515 Nodes / 2111 Edges / 0 Duplicate IDs / 2 unaufgelöste Referenzen (`T-0048`) / 18 Reference Orphans (alle ST); Determinismus explizit durch Vergleich zweier aufeinanderfolgender Läufe verifiziert (byte-identisch). Compact Evidence Architecture Check bestätigt vorhanden (`00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`). W-002/W-003/W-004 konsistent `COMPLETED` in `RESEARCH_STATUS.md`, `RESEARCH_PORTFOLIO.md` (v1.6) und den jeweiligen `README.md`-Dateien bestätigt.
+**Erfasster Ist-Zustand:** Git — Branch `main`, up to date mit `origin/main` (`1658e56`), 85 uncommittete Pfade (staged/unstaged/untracked), darunter die vollständigen `completed/W002|W003|W004/`-Ordner, das gesamte V1.1-Control-Plane-Regelwerk (`ROADMAP_V1_1.md`, `V1_1_AUTONOMY_AND_AUDIT_POLICY.md`, `V1_1_RELEASE_CRITERIA.md`, `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md`, acht `PROJECT_BRIEF.md`, drei Templates) und der bereits vorhandene V1.1-Opening-Abschnitt in `CURRENT_STATE.md`. Atlas-Compiler (`compile_atlas.py` v0.1.3) dreimal ausgeführt, durchgängig Exit Code 0, 515 Nodes / 2111 Edges / 0 Duplicate IDs / 2 unaufgelöste Referenzen (`T-0048`) / 18 Reference Orphans (alle ST); Determinismus explizit durch Vergleich zweier aufeinanderfolgender Läufe verifiziert (byte-identisch). Compact Evidence Architecture Check bestätigt vorhanden (`00_project/EVIDENCE_ARCHITECTURE_CHECK_2026-07-06.md`). W-002/W-003/W-004 konsistent `COMPLETED` in `RESEARCH_STATUS.md`, `RESEARCH_PORTFOLIO.md` (v1.6) und den jeweiligen `README.md`-Dateien bestätigt.
 
 **Hard Block (dokumentiert, nicht eskaliert):** `.git/index.lock` bereits zu Sessionbeginn vorhanden, lässt sich auf dem FUSE-Mount nicht entfernen (`rm`/`lsattr` scheitern mit "Operation not permitted"/"not supported"); verifiziert durch fehlgeschlagenen `git add`/`git restore`-Testversuch (exit 128). Damit war in dieser Session kein Commit und kein Staging/Unstaging möglich. Klassifiziert gemäß `V1_1_AUTONOMY_AND_AUDIT_POLICY.md` §4.1 als Hard Block für Git-Schreiboperationen, aber als non-blocking für den inhaltlichen/lesenden Teil der Mission — daher dokumentiert und fortgearbeitet, nicht an Felix eskaliert (rein technischer, kein inhaltlicher oder Governance-Befund).
 
@@ -1161,7 +1161,7 @@ PDF-Extraktion: pdfplumber (Python), alle Kapitel + Appendix, kein Modellwissen 
 **Session-Typ:** Framework-Release-Vorbereitung
 
 **Inhaltliche Arbeit:**
-- RELEASE_NOTES_v1.1.md erstellt (vollständiger Release Candidate)
+- 99_archive/00_project_history/RELEASE_NOTES_v1.1.md erstellt (vollständiger Release Candidate)
 - 11 übernommene Empfehlungen (A1–A6, B1–B2, B4–B6)
 - 1 modifizierte Empfehlung (B3 → Dokumentklassifizierung)
 - 2 neue Features (N1: Repository KPIs, N2: Scientific Debt)
@@ -1169,7 +1169,7 @@ PDF-Extraktion: pdfplumber (Python), alle Kapitel + Appendix, kein Modellwissen 
 - Implementierungsplan in 4 Phasen (21 Dateien betroffen, 3 neue Dateien)
 
 **Geänderte Dateien:**
-- NEU: `00_project/RELEASE_NOTES_v1.1.md`
+- NEU: `99_archive/00_project_history/RELEASE_NOTES_v1.1.md`
 - AKTUALISIERT: `00_project/SESSION_LOG.md`
 
 ---
@@ -1283,7 +1283,7 @@ Umsetzung:
 - `00_project/ROADMAP_V1_1.md` angelegt.
 - `00_project/V1_1_AUTONOMY_AND_AUDIT_POLICY.md` angelegt.
 - `00_project/V1_1_RELEASE_CRITERIA.md` angelegt.
-- `00_project/V1_1_REVIEW_SYNTHESIS.md` angelegt.
+- `99_archive/00_project_history/V1_1_REVIEW_SYNTHESIS.md` angelegt.
 - Projektbriefs für V11-01 bis V11-08 angelegt.
 - `00_project/NEXT_ACTION.md` als minimaler V1.1 Launcher ersetzt.
 - `SESSION_BRIEF.md` auf V1.1-Programmstart aktualisiert.
