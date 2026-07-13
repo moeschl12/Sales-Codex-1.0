@@ -273,6 +273,8 @@ Ein Objekt mit Scientific Debt ist nicht falsch. Es ist unvollständig gesichert
 
 **Zitationskorrektur (Transparenzpflicht):** Research Pack 1 zitierte Sheth mit Jahr "1987". Websuchverifikation ergibt: Sheth, J.N. (1973), "A Model of Industrial Buyer Behavior", Journal of Marketing 37(4), 50–56. Es wurde keine Sheth-Publikation von 1987 zu diesem Thema gefunden. Die Korrektur wird hier dokumentiert statt stillschweigend übernommen (Repository-Regel: „Erfinde niemals Quellen oder Fakten", „Kennzeichne Unsicherheit").
 
+**Status-Update (2026-07-13, AR-004, siehe `00_project/ACADEMIC_RECOVERY_PLAN.md`, AR-004-Abschnitt und `00_project/AR-004_COMPLETION_REPORT.md`):** Die vorstehende Zeile ("MEC-0014 | Unbelegte Annahme → teilweise ergänzt") ist für Sheth (1973) durch AR-004 überholt, wird hier aus Nachvollziehbarkeitsgründen aber nicht gelöscht, sondern präzisiert: Sheth (1973) wurde vollständig gelesen (SRC-0025, legitimer Zugriff über autoren-eigene, autorisierte Reprint-Seite) und mit drei Statements (ST-0312, ST-0313, ST-0314) in MEC-0014 integriert — Status damit von "Theorie-Referenz ohne Primärtext" auf "source-grounded, aber konzeptionell/theoretisch (kein E-Level-Wechsel)" angehoben. Webster & Wind (1972) bleibt trotz mehrerer legitimer Zugriffsversuche (SAGE, JSTOR, Unpaywall, Semantic Scholar, ResearchGate, Academia.edu) unzugänglich (SRC-0026) — Status "Theorie-Referenz ohne Primärtext" bleibt für diese Quelle unverändert bestehen, konsistent mit dem für Johnston & Lewin (1996, AR-003, SRC-0017) dokumentierten Befund. Eisenhardt (1989) ist nicht Gegenstand von AR-004 (siehe AR-005) und bleibt unverändert Theorie-Referenz.
+
 ---
 
 ### Peer Review Sprint 2 — Systemische Scientific Debt (neu 2026-07-01)
@@ -287,6 +289,22 @@ Ein Objekt mit Scientific Debt ist nicht falsch. Es ist unvollständig gesichert
 | ST-0151, MOD-0006 (JOLT/Tethr) | Publication Bias (kommerzielle Studien) | Die Tethr-ML-Klassifizierung (44%/56%-Split) wurde von einem kommerziellen Analytics-Anbieter durchgeführt und nicht unabhängig repliziert (vgl. bestehender Eintrag SD-B006-001). **Objektsichtbarkeit hergestellt (2026-07-03, External Audit Resolution Sprint):** Beide Objekte tragen jetzt einen eigenen, sichtbaren Warnhinweis-Abschnitt ("⚠ Hinweis: Publication Bias") direkt im Objekt. | Mittel |
 
 **Einordnung:** Diese Kategorie ergänzt, ersetzt aber nicht SD-SYS-001 (Replikationsrisiko). Der Unterschied: SD-SYS-001 fragt "gibt es unabhängige Wiederholung?", SD-SYS-004 fragt "gibt es einen strukturellen Anreiz zur selektiven Berichterstattung?". Beide Fragen sind unabhängig relevant und werden getrennt geführt.
+
+**Status-Update (2026-07-13, T11_SCIDEBT-Sitzung AR-002 — Publication-Bias-Einordnung proprietärer B2B-Studien):**
+
+Geprüfte Quellen: Rapp et al. (2014, SRC-0021, Abstract), Ohiomah et al. (2020, SRC-0022, kein neuer Zugriff), Kerr & Marcos-Cuevas (2023/2024, SRC-0023, kein Volltext/Abstract), Harrison et al. (2017, SRC-0024, vollständiges Abstract, Green-Open-Access). Vollständige Zugriffsprotokolle und Bewertungen: siehe jeweilige SRC-Dateien und `00_project/AR-002_COMPLETION_REPORT.md`.
+
+**Getrennte Bewertung, wie im Auftrag gefordert:**
+
+*CEB/Challenger:* Es liegt eine unabhängige akademische Modellkritik vor (Rapp et al. 2014) — diese prüft jedoch die Typologie, den Kausalitätsanspruch und die Konstruktvalidität des Challenger-Modells als Ganzes, **nicht** die Publication-Bias-Frage der ursprünglichen CEB-Rohdaten selbst (kein Volltextzugriff, daher nicht abschließend verifizierbar, aber laut Abstract eindeutig als Modellkritik, nicht als Datenforensik gerahmt). Kein direkter Nachweis und keine direkte Widerlegung von Publication Bias gefunden.
+
+*Tethr/JOLT:* Keine zusätzliche akademische Quelle in dieser Sitzung identifiziert, die spezifisch das Tethr-Modell oder dessen 44%/56%-Klassifizierung prüft (vgl. bereits dokumentierte Lücke, SD-B006-001). Die Bewertungslage bleibt gegenüber dem bisherigen Stand unverändert.
+
+**Allgemeiner Mechanismus (nicht sales-spezifisch):** Harrison et al. (2017) weisen Publication Bias im strategischen Management empirisch nach (Korrelations-Inflation 0,00–0,19, themenabhängig) — dies ist die bislang stärkste verwandte-Disziplin-Quelle im Repository (näher als die zuvor dokumentierten medizinischen Analogien), bestätigt aber ausdrücklich **nur, dass der Mechanismus in benachbarten akademischen Peer-Review-Feldern real und messbar ist**, nicht dass er bei CEB/Challenger oder Tethr/JOLT vorliegt. Die Übertragung auf proprietäre, nicht-akademische Anbieterstudien bleibt eine **Plausibilitätsschlussfolgerung durch Analogie**, kein direkter Beleg.
+
+**Strikte Trennung (Auftragsvorgabe):** Fehlende unabhängige Replikation (weiterhin bestehend, vgl. SD-SYS-001) und fehlende Datentransparenz/Peer-Review/Methodendokumentation bei CEB und Tethr sind real und bereits bekannt — sie werden hier ausdrücklich **nicht** als Beweis für Publication Bias umformuliert, sondern bleiben eigenständige, getrennt geführte Kategorien.
+
+**Finale Kategorisierung SD-SYS-004 (AR-002-Bewertungsskala):** **Kategorie 3 — "plausibel, aber nicht sales-spezifisch nachgewiesen."** Weder für CEB/Challenger noch für Tethr/JOLT liegt ein direkter, sales-spezifischer Publication-Bias-Nachweis vor; der allgemeine Mechanismus ist in einer benachbarten Disziplin akademisch belegt (Harrison et al. 2017), was die bestehende Plausibilitätsannahme stärkt, ohne sie in einen direkten Beweis zu verwandeln. Priorität bleibt **Hoch** (CEB/Challenger, A-0019) bzw. **Mittel** (Tethr/JOLT) wie bisher — keine Änderung der Priorität, da kein neuer Befund eine Herab- oder Hochstufung rechtfertigt.
 
 #### Dokumentierte, nicht angelegte Kandidaten aus dem Peer Review Sprint 2
 
@@ -444,6 +462,26 @@ Diese Punkte sind bewusst **nicht** als neue Wissensobjekte angelegt (Begründun
 | MEC-0002 vs. MEC-0016 (direkter empirischer Test der Prospect-Theory-/Omission-Bias-Dominanzfrage) | Offene Forschungsfrage — identisch mit OQ-2 (W-001), hier bestätigt | Zweite Übergabe derselben Kernfrage — siehe Update zu OQ-2 (W-001) oben. Nur durch dediziertes Laborexperiment beantwortbar, nicht durch weitere Literatursynthese. Details: `06_research_program/completed/W008/OPEN_QUESTIONS.md`, OQ-3. | Niedrig |
 | MEC-0014/MEC-0016 (Belastbarkeit der Vor-Konsens-/Nach-Konsens-Phasendifferenzierung) | Offene Forschungsfrage — Editor Decision: nur schwach angenommen | Die in W-008 als "genuiner Beitrag" gekennzeichnete Differenzierung zwischen Vor-Konsens-Phase (Verantwortungsdiffusion, Darley & Latané 1968) und Nach-Konsens-Phase (Risikodiffusion, MEC-0014) kombiniert zwei Literaturen mit erheblichem Kontextabstand (Notfallpsychologie vs. graduelle B2B-Konsensprozesse). Per Editor Decision W-008 nur als ungetestete Arbeitshypothese, nicht als etablierte Randbedingung integriert. Details: `06_research_program/completed/W008/OPEN_QUESTIONS.md`, OQ-4; `03_RED_TEAM_REVIEW.md`, Kriterium 5. | Niedrig |
 | Programmebene (additive/moderate Syntheseempfehlungen, viertes Vorkommen) | Offene Forschungsfrage — Methodenreview, keine Einzelprojekt-Auswirkung | W-008 zeigt erneut das bereits dreifach dokumentierte Muster (W-002 OQ-9 via W-003; W-003 OQ-9; W-004 OQ-7): gleichzeitige Teilbestätigung mehrerer konkurrierender Positionen (hier: Ausgangshypothese-Parsimonie, Alternativhypothese B, Teilbestätigung von Alternativhypothese C) statt eindeutiger Entscheidung. Master Review selbst spiegelte dieses Muster nicht, obwohl die eigene Research Question es vorwegnahm (Red Team Review, Kriterium 9). Per Editor Decision W-008 als **viertes** Vorkommen dokumentiert, nicht innerhalb von W-008 methodisch aufgelöst. Aufnahme einer künftigen programmweiten Prozess-Review liegt beim Herausgeber. Details: `06_research_program/completed/W008/02_SCIENTIFIC_MASTER_REVIEW.md`; `03_RED_TEAM_REVIEW.md`, Kriterium 9; `06_research_program/completed/W004/OPEN_QUESTIONS.md`, OQ-7. | Niedrig |
+
+---
+
+### AR-001 — Problemreife-Hypothese: kein direkter Test gefunden, Feld-Bestätigung der Lücke (2026-07-13)
+
+**Hinweis:** Dieser Eintrag entstammt einer T11_SCIDEBT-Sitzung (2026-07-13), Auftrag AR-001 (`00_project/ACADEMIC_RECOVERY_PLAN.md`, Tier 1). W-001 selbst (`06_research_program/completed/W001/`) wurde nicht wiedereröffnet oder verändert; dieser Eintrag ergänzt nur den Scientific-Debt-Stand.
+
+| Betroffene Objekte | Kategorie | Beschreibung | Priorität |
+|---|---|---|---|
+| MEC-0013, W-001-Problemreife-Hypothese | Offene Forschungsfrage — geprüft, Negativbefund bestätigt | AR-001 prüfte gezielt, ob akademische Primärforschung existiert, die die Wirksamkeit von Diagnose-/Insight-/Teach-First-Ansätzen als abhängig vom Käufer-Problem-/Bewusstseinszustand direkt testet. Ergebnis: **kein direkter Test gefunden.** Weitz (1981) und Plouffe et al. (2013) — die beiden vom Auftrag priorisierten Kandidaten — waren im Volltext nicht zugänglich (siehe SRC-0018, SRC-0019). Eine 2025 erschienene, vollständig gelesene Systematic-Review-Quelle (Chaker et al. 2025, SRC-0020, 188 Artikel/27 Journale/1981–2024, Open Access) bestätigt den Negativbefund auf Feldebene: kundenbezogene Moderatoren der Adaptive-Selling-Wirksamkeit sind die am wenigsten erforschte Kategorie im gesamten nomologischen Netzwerk des Feldes ("more research needs to be done to understand customer-related moderators"); die spezifische Diagnose-/Insight-/Teach-First-Terminologie taucht dort nur als Praktiker-Randnotiz auf, nicht als getestetes akademisches Konstrukt. Franke & Park (2006) und Verbeke, Dietz & Verwaal (2010/2011) bleiben wie bereits dokumentiert nur indirekte Stützung (nicht erneut als direkter Test dargestellt). Porter, Wiener & Frankwick (2003) als bislang nicht selbst geprüfter, sekundär identifizierter Kandidat vorgemerkt. Vollständige Einordnung: `00_project/AR-001_COMPLETION_REPORT.md`. | Mittel — Negativbefund gut dokumentiert, aber Porter et al. (2003) und ggf. weitere Volltextprüfung von Weitz (1981)/Plouffe et al. (2013) bleiben als künftige Rechercheaufträge offen |
+
+---
+
+### AR-003 — Johnston & Lewin (1996) — Primärtext nicht zugänglich (2026-07-13)
+
+**Hinweis:** Dieser Eintrag entstammt einer T11_SCIDEBT-Sitzung (2026-07-13), Auftrag AR-003 (`00_project/ACADEMIC_RECOVERY_PLAN.md`, Tier 2 — Organisationale Kaufentscheidung).
+
+| Betroffene Objekte | Kategorie | Beschreibung | Priorität |
+|---|---|---|---|
+| MEC-0014, A-0019, Meta-Prinzip-Kandidat „Asymmetrische Risikoverteilung im Buying Center" (`review_queue.md`) | Zugriffslücke (Primärquelle nicht auffindbar/verifizierbar) | Johnston, W.J. & Lewin, J.E. (1996), „Organizational buying behavior: toward an integrative framework", *Journal of Business Research*, 35(1), 1–15 — vollständige Quellenverarbeitung beauftragt (AR-003), aber in dieser Sitzung nicht durchführbar: kein legitimer Volltextzugriff gefunden (ScienceDirect paywalled, ResearchGate nur „Request full-text", keine Open-Access-Kopie über Unpaywall identifiziert, keine .edu-Reprints gefunden). Bibliografische Metadaten bleiben verifiziert (seit ARS-0001). Keine Statement-Extraktion, keine Änderung an MEC-0014/A-0019 vorgenommen. Vollständiges Zugriffsprotokoll: `02_sources/studies/SRC-0017_organizational_buying_behavior_johnston_lewin.md`; Status-Update: `00_project/ACADEMIC_RECOVERY_PLAN.md`, AR-003. | Mittel — blockiert AR-003 bis institutioneller Zugriff oder Herausgeber-Bereitstellung des Primärtexts vorliegt |
 
 ---
 
