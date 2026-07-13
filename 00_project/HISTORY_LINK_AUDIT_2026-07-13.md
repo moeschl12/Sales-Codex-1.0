@@ -135,7 +135,7 @@ are still used as evidence anchors by current governance and quality records.
 
 The repository contains mostly inline backtick references instead of formal
 Markdown links. The initial scanner falsely classified the historical example
-``[Text](Pfad.md)`` in `99_archive/v1.0_release/REPOSITORY_CONSOLIDATION_REPORT_RC1.md`
+`[Text](Pfad.md)` in `99_archive/v1.0_release/REPOSITORY_CONSOLIDATION_REPORT_RC1.md`
 as a real link. After excluding inline-code examples, the check found zero
 formal Markdown links and zero missing Markdown link targets.
 
