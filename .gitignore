@@ -27,6 +27,21 @@ __pycache__/
 *.tmp
 *.temp
 
+# Codex local overrides
+.codex/*.local.json
+.codex/*.local.md
+.codex/local/
+
+# Shared agent local overrides
+.agents/*.local.json
+.agents/*.local.md
+.agents/local/
+
+# Claude local overrides
+.claude/*.local.json
+.claude/*.local.md
+.claude/local/
+
 # OS
 .DS_Store
 Thumbs.db

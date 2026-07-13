@@ -134,7 +134,7 @@ Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MAST
 
 - Kulturelle Generalisierbarkeit: Stärke der Prinzipien variiert kulturell (kollektivistisch vs. individualistisch), aber Richtung scheint robust (vgl. A-0007)
 - Zeitlicher Kontext: Feldbeobachtungen aus 1970er–1980er Jahren (USA); digitale Anwendbarkeit nicht systematisch geprüft
-- Replikationskrise: Einzelne zitierte Studien (z.B. zum Priming) sind in der Sozialpsychologie umstritten — Gemini-Validierung ausstehend (TASK-0009)
+- Replikationskrise: Einzelne zitierte Studien (z.B. zum Priming) sind in der Sozialpsychologie umstritten — externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen, TASK-0009) weiterhin ausstehend; Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell, inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert
 - Käufer-Perspektive: Das Modell beschreibt Compliance-Triggers aus der Anwender-Perspektive (Compliance-Profi). Direkte Käufer-Perspektive (wie wirken Trigger in tatsächlichen B2B-Kaufprozessen?) ist nicht explizit untersucht
 
 ## Evidenzlevel

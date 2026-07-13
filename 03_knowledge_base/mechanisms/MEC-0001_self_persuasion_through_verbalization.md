@@ -87,6 +87,22 @@ Hoch — erklärt die Wirksamkeit von Need-Payoff Questions, der wichtigsten Dif
 
 **Stützende STs aus SRC-0002:** ST-0038 (Foot-in-the-Door), ST-0039 (Schriftliche Commitments als Selbstbild-Anker).
 
+---
+
+## Kontextspezialisierung — Erweiterung durch W-001 (Research Program) / OD-012 (Governance-Integration 2026-07-13)
+
+**Hinweis zur Herkunft dieses Abschnitts:** Anders als A-0020, P-0021, P-0025 und MEC-0013 wurde MEC-0001 in der ursprünglichen W-001-Repository-Integration (2026-07-03) nicht erweitert — die W-001-Auflösung wurde damals ausschließlich im Gegenstück MEC-0013 dokumentiert, mit einem Verweis auf das Verhältnis zu MEC-0001. Dieser Abschnitt trägt die dort bereits dokumentierten, entschiedenen Fakten hier erstmals nach (keine neue Recherche, keine neue Bewertung).
+
+**Geprüfter Sachverhalt:** Verhältnis von MEC-0001 (Selbstüberzeugung durch Verbalisierung, Eigen-Perspektive) zu MEC-0013 (Insight-Disruption durch Reframing, Fremd-Perspektive) — beide erklären, wie eine neue Problemsicht beim Käufer entsteht, über unterschiedliche kausale Pfade. Dieses Verhältnis war seit `04_synthesis/SPR-0001_Sales_Core_Synthesis/contradiction_matrix.md` (Eintrag „W-001", Offene Frage 3) ungeklärt.
+
+**Ergebnis (Editor Decision W-001, `06_research_program/completed/W001/06_EDITOR_DECISION.md`, 2026-07-03, Option „Teilweise annehmen"):** MEC-0001 und MEC-0013 stehen **nicht** in einem konkurrierenden Verhältnis, in dem einer der beiden Mechanismen den anderen ersetzt oder generell übertrifft. Es handelt sich um zwei eigenständige, kontextabhängig koexistierende Sensegiving-Pfade — MEC-0001 wirkt über Selbstverbalisierung (SPIN/Gap-Selling-Kontext), MEC-0013 über Fremd-Reframing (Challenger-Kontext). Welcher Pfad in einer gegebenen Kaufsituation stärker wirkt, hängt laut `04_THEORY_LANDSCAPE.md` (Abschnitt 3) von Problemreife, Kontext, Sensemaking-Bedarf und Buying-Center-Dynamik ab. Die kausale Struktur von MEC-0001 selbst (Bem'sche Selbstwahrnehmung, ELM-zentrale Verarbeitung, Commitment/Konsistenz) bleibt unverändert.
+
+**Kontextspezialisierungs-Markierung (OD-012, Option A):** Da `mechanism_template.md` kein eigenes Kontext-Feld vorsieht, erfolgt die Markierung **freitextlich**, nicht strukturell, ohne neues Feld: MEC-0001 steht gemäß CKM Abschnitt 8 (Beziehungstyp „Spezialisiert") in einer Kontextbeziehung zu **MEC-0013**. Vorbehalt: CKM Abschnitt 8 definiert „Spezialisiert" hierarchisch (engere Bedingungen als das übergeordnete Objekt); die W-001-Auflösung beschreibt eine symmetrische, kontextabhängige Koexistenz zweier gleichrangiger Mechanismen, keine echte Über-/Unterordnung. Die Markierung folgt der Editor Decision OD-012 als nächstliegende bestehende CKM-Kategorie, mit diesem ausdrücklichen begrifflichen Vorbehalt. Verweis: MEC-0013.
+
+**Nicht übernommen:** Keine mathematische Formalisierung (SCSM), kein neues Modell-Objekt, keine Differentialgleichung.
+
+**Herkunft:** W-001 (Research Program).
+
 ## Status
 
 Entwurf

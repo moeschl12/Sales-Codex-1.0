@@ -37,6 +37,8 @@ E3 — CEB-Studie (N=6.000): Challenger-Profil mit Teaching-Verhalten generiert 
 
 Komplex-B2B-spezifisch — wirkungslos in Commodity-Käufen, wo kein Reframing möglich ist. Besonders wirksam bei: langen Entscheidungszyklen, mehreren Stakeholdern, undifferenziertem Wettbewerbsumfeld.
 
+**Kontextspezialisierung (OD-012, Governance-Integration 2026-07-13):** Gemäß `canonical_knowledge_model.md`, Abschnitt 8 (Beziehungstyp „Spezialisiert") wird hier strukturell festgehalten: P-0021 steht in einer kontextabhängigen Beziehung zu **P-0025** (Vollständige Gap-Diagnose vor Lösungspräsentation) — siehe „Erweiterung durch W-001" unten. Vorbehalt: CKM Abschnitt 8 definiert „Spezialisiert" hierarchisch; die W-001-Auflösung beschreibt eine symmetrische, kontextabhängige Koexistenz zweier gleichrangiger Prinzipien, keine echte Über-/Unterordnung. Die Markierung folgt der Editor Decision OD-012 (Option A) als nächstliegende bestehende CKM-Kategorie, mit diesem ausdrücklichen begrifflichen Vorbehalt. Verweis: P-0025.
+
 ## Mechanismus
 
 - **MEC-0013** — Insight-Disruption durch Reframing: Schritte 1–2 (Warmer + Reframe) aktivieren kognitiven Frame-Conflict

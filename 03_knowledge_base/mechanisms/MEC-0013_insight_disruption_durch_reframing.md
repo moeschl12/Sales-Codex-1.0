@@ -88,6 +88,8 @@ Sehr hoch — erklärt den Kernmechanismus der Challenger-Sell-Methodik ("Teach"
 
 **Offene Anschlussfrage (an OD-012 übergeben, siehe `00_project/OPEN_DECISIONS.md`):** Ob dieses Koexistenz-Verhältnis künftig als formale "Kontextspezialisierung" im Sinne von `canonical_knowledge_model.md`, Abschnitt 8 strukturell markiert werden soll, ist eine eigenständige, hier nicht entschiedene Frage.
 
+**Kontextspezialisierung (OD-012, Governance-Integration 2026-07-13) — Auflösung der obigen Anschlussfrage:** Die Frage ist entschieden (Option A). Da `mechanism_template.md` kein eigenes Kontext-Feld vorsieht (anders als Assumption-/Principle-Template), erfolgt die Markierung hier **freitextlich**, nicht strukturell, ohne ein neues Feld einzuführen: MEC-0013 steht gemäß CKM Abschnitt 8 (Beziehungstyp „Spezialisiert") in einer Kontextbeziehung zu **MEC-0001** (Selbstüberzeugung durch Verbalisierung). Vorbehalt: CKM Abschnitt 8 definiert „Spezialisiert" hierarchisch; die oben beschriebene W-001-Auflösung ist jedoch eine symmetrische, kontextabhängige Koexistenz zweier gleichrangiger Mechanismen, keine echte Über-/Unterordnung. Die Markierung folgt der Editor Decision OD-012 (Option A) als nächstliegende bestehende CKM-Kategorie, mit diesem ausdrücklichen begrifflichen Vorbehalt. Verweis: MEC-0001.
+
 **Herkunft:** W-001 (Research Program).
 
 ## Status

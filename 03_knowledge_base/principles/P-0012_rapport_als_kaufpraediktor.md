@@ -24,7 +24,7 @@ Unter Bedingungen persönlicher Kaufkontakte überträgt sich positive affektive
 
 Vorläufig: E3
 
-Begründung: Frenzen & Davis (Tupperware-Studie) belegen Bindungsstärke als doppelt so kaufentscheidend wie Produktpräferenz (E3, Feldstudie). Attraktivitäts- und Ähnlichkeits-Halo-Effekte gut belegt (E4, Labor). Direkte B2B-Replikationen begrenzt; Gemini-Validierung ausstehend.
+Begründung: Frenzen & Davis (Tupperware-Studie) belegen Bindungsstärke als doppelt so kaufentscheidend wie Produktpräferenz (E3, Feldstudie). Attraktivitäts- und Ähnlichkeits-Halo-Effekte gut belegt (E4, Labor). Direkte B2B-Replikationen begrenzt; externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell, inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert.
 
 ## Kontextlabel
 

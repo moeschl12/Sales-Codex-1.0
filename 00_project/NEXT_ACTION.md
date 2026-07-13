@@ -5,9 +5,15 @@ Updated: 2026-07-13
 
 ---
 
+## Update (2026-07-13, Governance-Integration-Block OD-009 bis OD-012)
+
+**OD-009 bis OD-012 sind entschieden** (Herausgeberauftrag „Sales Codex — Großer Governance-Integration-Block nach V1.1 Release", Felix, 2026-07-13): OD-009 zurückgestellt (Option C); OD-010 Option B; OD-011 Option A; OD-012 Option A mit dokumentiertem Vorbehalt. Details: `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`, `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md`. Alle nachfolgenden Nennungen von „OD-009–012" in diesem Dokument (unten, als bislang offen geführt) sind damit historisch — kein automatischer Programmneustart, kein V11-09. Weiterhin offen und durch diesen Block **nicht** gelöst: R-1 (additives Synthesemuster), R-2/Delivery-Scaling-Blocker, OQ-2/Scientific Debt, RP-005/RP-006, mögliche V11-09 ff.
+
+---
+
 ## Programmabschluss (2026-07-13)
 
-**Version 1.1 ist freigegeben: RELEASED — SCOPE-LIMITED.** Entscheidung: `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md`. Freigegeben ist der evidenz-, governance- und auditkonsolidierte Repository-Stand (V11-01–V11-08). **Nicht** freigegeben: breite Delivery-Skalierung (weiterhin „begrenzt"). Kein offener Punkt (OD-009–012, Delivery-Scaling-Blocker, additives Synthesemuster, OQ-2/Scientific Debt, mögliche V11-09 ff.) wurde durch dieses Release gelöst — siehe Abschnitt „Open, non-blocking items" unten, unverändert gültig. **Post-Release Git-Abschluss erledigt:** Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) ist nach `origin/main` gepusht; Working Tree ist clean. **Es gibt aktuell keinen nächsten regulären Makroprojekt-Launcher innerhalb V1.1** — dieser Launcher wird erst mit einer neuen, gesonderten Editor-Entscheidung (z. B. Delivery-Scaling-Freigabe oder V11-09 ff.) wieder aktiv.
+**Version 1.1 ist freigegeben: RELEASED — SCOPE-LIMITED.** Entscheidung: `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md`. Freigegeben ist der evidenz-, governance- und auditkonsolidierte Repository-Stand (V11-01–V11-08). **Nicht** freigegeben: breite Delivery-Skalierung (weiterhin „begrenzt"). Kein offener Punkt (OD-009–012, Delivery-Scaling-Blocker, additives Synthesemuster, OQ-2/Scientific Debt, mögliche V11-09 ff.) wurde durch dieses Release gelöst — siehe Abschnitt „Open, non-blocking items" unten, unverändert gültig. **Post-Release-Git-Abschluss nach `b096786`/`cbed101` war clean.** Aktueller Working Tree enthält uncommitted Governance-/Agenten-/Architekturänderungen und wartet auf Commit/Push (siehe Update-Block oben und `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md`). **Es gibt aktuell keinen nächsten regulären Makroprojekt-Launcher innerhalb V1.1** — dieser Launcher wird erst mit einer neuen, gesonderten Editor-Entscheidung (z. B. Delivery-Scaling-Freigabe oder V11-09 ff.) wieder aktiv.
 
 ---
 
@@ -72,6 +78,6 @@ Normal uncertainty: document and continue.
 ## Required Finish
 
 1. V1.1 program is closed: **RELEASED — SCOPE-LIMITED** (2026-07-13). No macro-project remains open within V1.1.
-2. **Post-release Git closure:** completed. Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) is pushed to `origin/main`; working tree clean.
-3. Carry forward, unresolved by this release: R-1 (additive synthesis pattern, methods-review candidate), R-2 (delivery-scaling blockers, delivery-scaling itself not released), R-4/R-5 (T12, MEC-0002/P-0002, OD-009–012 — unresolved Reserved/deferred items), possible V11-09 ff. (no brief, no roadmap entry exists).
-4. Any next work (delivery-scaling authorization, OD-009–012 decision round, new W-project, new V11-09 ff.) requires a fresh, explicit Editor instruction — this file is not a standing backlog for it.
+2. **Post-release Git closure:** the closure after `b096786`/`cbed101` was clean. Current working tree contains uncommitted governance/agent/architecture changes (Governance-Integration OD-009–012, `.agents`/`.codex`/`.claude`/`.gitignore`, `ARCHITECTURE_OVERVIEW_2026-07-13.md`) and is awaiting commit/push — see `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md` for the commit-bundle view.
+3. Carry forward, unresolved by this release and by the later Governance-Integration block: R-1 (additive synthesis pattern, methods-review candidate), R-2 (delivery-scaling blockers, delivery-scaling itself not released), T12, MEC-0002/P-0002, RP-005/RP-006, and possible V11-09 ff. (no brief, no roadmap entry exists). OD-009–012 are no longer unresolved; they were decided in the 2026-07-13 Governance-Integration block.
+4. Any next work (delivery-scaling authorization, follow-up work from the OD-009–012 decisions, a new W-project, or new V11-09 ff.) requires a fresh, explicit Editor instruction — this file is not a standing backlog for it.

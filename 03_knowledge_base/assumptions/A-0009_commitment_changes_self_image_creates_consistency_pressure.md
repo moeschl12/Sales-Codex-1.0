@@ -45,7 +45,7 @@ Wenn Commitments kein Selbstbild-Update auslösten, würden Foot-in-the-Door (th
 
 ## Evidenzstatus
 
-E3 für die Grundwirkung (Freedman & Fraser, Racetrack-Studie, multiple Lowballing-Replikationen); E2 für die Selbstbild-Theorie als Mechanismus (Selbstwahrnehmungstheorie vs. kognitive Dissonanz — Debatte in der Literatur). Gemini-Validierung ausstehend.
+E3 für die Grundwirkung (Freedman & Fraser, Racetrack-Studie, multiple Lowballing-Replikationen); E2 für die Selbstbild-Theorie als Mechanismus (Selbstwahrnehmungstheorie vs. kognitive Dissonanz — Debatte in der Literatur). Externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell; inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert.
 
 ## Kontext
 

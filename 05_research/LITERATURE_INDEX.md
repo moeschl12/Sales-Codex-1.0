@@ -17,6 +17,14 @@ Dieser Index ist **kein Wissensobjekt** im Sinne des Canonical Knowledge Model (
 
 **Verifikationsstatus:** Jede Quelle trägt einen Status: **verifiziert** (unabhängig websuchgeprüft, Autor/Jahr/Journal/Kernbefund bestätigt), **codex-bestätigt** (identisch mit einer bereits in einer früheren Buchanalyse per Primärtext geprüften Zitation), oder **nicht verifiziert** (aus Research Pack übernommen, ohne eigene Prüfung — mit Vorbehalt zu behandeln).
 
+**Governance-Status (OD-011, Editor Decision 2026-07-13):** Dieser Index ist ab 2026-07-13 formal als dauerhafter Governance-/Framework-Bestandteil des Sales Codex verankert (`00_project/OPEN_DECISIONS.md`, OD-011; `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`). Abgrenzung zu den beiden anderen „offene Fragen/Quellen"-Dokumenten:
+
+- **`LITERATURE_INDEX.md` (dieses Dokument):** Quellenverzeichnis mit Verifikationsstatus je Quelle.
+- **`00_project/SCIENTIFIC_DEBT.md`:** objekt-/programmbezogene Evidenzlücken, offene Forschungsfragen, Replikations-/Validierungsrisiken.
+- **`00_project/review_queue.md`:** Kandidaten, Fusionsfragen, noch nicht angelegte Objekte/Quellen.
+
+**Pflegekadenz (verbindlich ab 2026-07-13):** Aktualisierung bei (a) Abschluss eines Research-Projekts, (b) Buchanalyse mit neuer Primärliteratur, (c) Academic-Recovery-/Validierungsrunde, oder (d) expliziter Editor-Freigabe.
+
 ---
 
 ## A. Entscheidungspsychologie & Behavioral Economics

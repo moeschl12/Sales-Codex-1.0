@@ -4,7 +4,7 @@
 
 ---
 
-## Aktueller Status (Stand: 2026-07-13)
+## Aktueller Status (Stand: 2026-07-13, aktualisiert nach Governance-Integration-Block OD-009 bis OD-012)
 
 Sales Codex Version 1.0 ist offiziell veröffentlicht und bleibt unveränderlich. **Version 1.1 ist durch Editor Release Decision (Felix, 2026-07-13) freigegeben: RELEASED — SCOPE-LIMITED.** Entscheidung: `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md`.
 
@@ -26,11 +26,12 @@ Details je Projekt: `00_project/ROADMAP_V1_1.md` (Program Board), Completion-/Au
 **Durch dieses Release ausdrücklich NICHT gelöst (unverändert offen):**
 
 - Breite Delivery-Skalierung — weiterhin "begrenzt", vier V11-04-Blocker unadressiert (T12, Technik-Kandidaten, Zielgruppen-Tagging, Evidenzlevel-Inkonsistenz MEC-0002/P-0002).
-- Vier Reserved Governance Decisions **OD-009 bis OD-012** — entscheidungsreif seit 2026-07-02/03.
 - Additives Synthesemuster (4. bestätigtes Vorkommen, W-002/W-003/W-004/W-008) — Kandidat für eine programmweite Methoden-Review, Editor-Autorisierung ausstehend.
 - W-001/W-008-Restfrage OQ-2 — empirisch unbeantwortet, nur Primärexperiment kann klären.
-- RP-005 (blockiert auf OD-010), RP-006 (blockiert auf Merge-Frage mit RP-004).
+- RP-005 (Instrumenten-Formalisierung durch OD-010 hebt die Blockade nicht automatisch auf), RP-006 (blockiert auf Merge-Frage mit RP-004).
 - Mögliche zukünftige Makroprojekte V11-09 ff. — kein Brief, keine Roadmap-Eintragung existiert.
+
+**Update (2026-07-13, Governance-Integration-Block):** Die vier Reserved Governance Decisions **OD-009 bis OD-012** — bis hierhin entscheidungsreif seit 2026-07-02/03 — sind entschieden und redaktionell integriert (OD-009 zurückgestellt/Option C; OD-010 Option B, inkl. Bereinigung von 9 „Gemini-Validierung ausstehend"-Platzhaltern; OD-011 Option A, `LITERATURE_INDEX.md` formal verankert; OD-012 Option A mit dokumentiertem Vorbehalt, fünf Objekte markiert). Details: `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`, `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md`.
 
 Vollständige Übersicht: `00_project/DECISION_STACK_2026-07-13.md`.
 
@@ -38,7 +39,7 @@ Vollständige Übersicht: `00_project/DECISION_STACK_2026-07-13.md`.
 
 ## Working Tree / Git
 
-Working Tree war zum Release-Zeitpunkt nicht clean; der Post-Release-Git-Abschluss ist inzwischen erledigt. Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) ist nach `origin/main` gepusht; Working Tree ist clean.
+Working Tree war zum Release-Zeitpunkt nicht clean; der Post-Release-Git-Abschluss nach `b096786`/`cbed101` war clean. Aktueller Working Tree enthält uncommitted Governance-/Agenten-/Architekturänderungen (Governance-Integration OD-009 bis OD-012, Agentenhilfsschicht, Architekturübersicht) und wartet auf Commit/Push — siehe `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md` für die Commit-Bundle-Sicht.
 
 ---
 

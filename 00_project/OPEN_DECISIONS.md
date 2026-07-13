@@ -254,6 +254,16 @@ W-002 hat zum Zeitpunkt dieses Eintrags Stufe 6 (Decision Brief) des Research Li
 
 **Betroffene Dokumente (nur bei Einführung):** `CURRENT_STATE.md` (Versionsfeld), `WISSENSCHAFTLICHER_REIFEGRADSBERICHT.md`, ggf. neues Dokument `VERSIONING_POLICY.md`.
 
+### Auflösung (Governance-Integration 2026-07-13)
+
+**Status:** ~~Offen — Herausgeber-Entscheidung erforderlich~~ → **ENTSCHIEDEN — Option C (Zurückstellen)**
+
+**Entscheidung (Felix, Herausgeberauftrag „Sales Codex — Großer Governance-Integration-Block nach V1.1 Release", 2026-07-13):** Kein formaler Reifegrad-Statusübergang wird eingeführt. Keine `VERSIONING_POLICY.md`, keine RC1-Schwellenwerte. Begründung: Der Reifegradbericht definiert selbst keinen Schwellenwert; das einzige strukturelle Analogon (V1.1-Release-Gate) ist gerade erst abgeschlossen, ohne erprobte Übertragbarkeit auf die wissenschaftliche Reifegrad-Ebene. Wiedervorlage: bei wesentlicher neuer reifegradrelevanter Arbeit oder mit dem nächsten Reifegradbericht-Update — kein festes Datum.
+
+**Nicht entschieden:** inhaltliche Richtigkeit des aktuellen Reifegrads B/B+; Auflösung von W-001-Restfragen oder der B2B-Generalisierbarkeitslücke; Verhältnis zur V1.1-Release-Terminologie im Detail.
+
+Details: `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`.
+
 ---
 
 ## OD-010 — Validierungs-Governance *(neu, 2026-07-02 — Nachfolger von OD-005)*
@@ -267,6 +277,18 @@ W-002 hat zum Zeitpunkt dieses Eintrags Stufe 6 (Decision Brief) des Research Li
 
 **Editor-Einschätzung:** Langfristige Methodik-/Governance-Frage, keine Einzel-Forschungsaufgabe. Direkte Fortsetzung der in OD-005 aufgeworfenen, aber nie policy-seitig beantworteten Frage.
 
+### Auflösung (Governance-Integration 2026-07-13)
+
+**Status:** ~~Offen — Herausgeber-Entscheidung erforderlich~~ → **ENTSCHIEDEN — Option B (bestehende De-facto-Praxis dokumentiert, kein neues Pflichtfeld)**
+
+**Entscheidung (Felix, 2026-07-13):** Peer Review Sprints, Academic Recovery Packs, Research-Lifecycle-Reviews (Master Review, Red Team Review, Health Check) und gezielte Einzelreviews (z. B. Sprint-3-Einzelprüfungen) werden als bestehende, gleichrangige Validierungsinstrumente beschrieben — kein neues Evidenzpflichtfeld, keine neue Instrumenten-zu-Evidenzlevel-Zuordnungstabelle. `SCIENTIFIC_DEBT.md`-Kategorie „Externe Validierung ausstehend" bleibt unverändert (beschreibt bereits „Gemini- oder Perplexity-Prüfung noch nicht durchgeführt", ohne ein Instrument zwingend vorzuschreiben).
+
+**Redaktionelle Bereinigung durchgeführt:** Die wörtlichen Platzhaltersätze „Gemini-Validierung ausstehend" wurden in den 9 Objekten/Berichten, in denen sie als aktiver (nicht historisch-beschreibender) Platzhalter auftraten, umformuliert — ohne zu behaupten, dass die zugrunde liegende Evidenzlücke inzwischen geschlossen ist (nur das benannte Instrument war veraltet, nicht notwendigerweise die inhaltliche Lücke). Bewusst nicht verändert: die Fundstelle in diesem Dokument selbst (oben, Ausgangstext) und in `ACADEMIC_RECOVERY_REPORT_PACK_2_4.md` (beide zitieren den Satz historisch-beschreibend) sowie nahe Varianten ohne exakten Wortlaut (z. B. MEC-0005 bis MEC-0008) — außerhalb des gezählten Scopes, als künftiger Nacharbeitspunkt vermerkt.
+
+**Nicht entschieden:** ob einzelne Objekte (z. B. MEC-0005 bis MEC-0008) als „hinreichend validiert" gelten; die inhaltliche Freigabe von RP-005 (bleibt blockiert — die Instrumenten-Formalisierung allein hebt die Blockade nicht auf).
+
+Details: `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`, `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md`.
+
 ---
 
 ## OD-011 — Literature-Governance *(neu, 2026-07-02)*
@@ -279,6 +301,18 @@ W-002 hat zum Zeitpunkt dieses Eintrags Stufe 6 (Decision Brief) des Research Li
 **Frage an Felix:** Soll `05_research/LITERATURE_INDEX.md` als dauerhafter Framework-Bestandteil formal verankert werden? Falls ja: Wie grenzt es sich strukturell von `SCIENTIFIC_DEBT.md` und `review_queue.md` ab, und wer pflegt es in welcher Kadenz?
 
 **Editor-Einschätzung:** Strukturelle/architektonische Frage über die Beziehung dreier bestehender Dokumente zueinander — keine neue Recherche, keine neuen Wissensobjekte.
+
+### Auflösung (Governance-Integration 2026-07-13)
+
+**Status:** ~~Offen — Herausgeber-Entscheidung erforderlich~~ → **ENTSCHIEDEN — Option A (formal verankert)**
+
+**Entscheidung (Felix, 2026-07-13):** `05_research/LITERATURE_INDEX.md` ist ab sofort formal ein dauerhafter Governance-/Framework-Bestandteil. Abgrenzung: `LITERATURE_INDEX.md` = Quellenverzeichnis mit Verifikationsstatus; `SCIENTIFIC_DEBT.md` = objekt-/programmbezogene Evidenzlücken, offene Forschungsfragen, Replikations-/Validierungsrisiken; `review_queue.md` = Kandidaten, Fusionsfragen, noch nicht angelegte Objekte/Quellen. Pflegekadenz: Aktualisierung bei Research-Projekt-Abschluss, Buchanalyse mit neuer Primärliteratur, Academic-Recovery-/Validierungsrunde oder expliziter Editor-Freigabe. Umgesetzt in `LITERATURE_INDEX.md` selbst (Abschnitt „Zweck").
+
+**Bewusst nicht verändert:** `00_project/SALES_CODEX_OPERATING_MANUAL.md` — trägt die ausdrückliche Fußzeile „Änderungen nur durch Felix"; die Verankerung erfolgt daher ausschließlich hier und im Zielobjekt selbst, nicht durch eine Ergänzung des Operating Manual.
+
+**Nicht entschieden:** Inhalt einzelner Literatureinträge; offene `review_queue.md`-Punkte (z. B. MEC-0006/MEC-0014-Fusionsfrage); die in `SCIENTIFIC_DEBT.md` selbst dokumentierte Datumsinkonsistenz (Kopf vs. Fußzeile vs. jüngster Inhalt) — bleibt offener, bereits dokumentierter Befund.
+
+Details: `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`.
 
 ---
 
@@ -294,6 +328,18 @@ W-002 hat zum Zeitpunkt dieses Eintrags Stufe 6 (Decision Brief) des Research Li
 **Editor-Einschätzung:** Verwandt, aber nicht identisch mit OD-007 (CTX-Ebene) — OD-007 fragt nach einer generellen, verpflichtenden Kontext-Modifikator-Ebene für alle P-/T-Objekte; OD-012 fragt spezifisch nach der Formalisierung dieser vier bereits jetzt inhaltlich aufgelösten W-001-Objektbeziehungen. Beide könnten im Rahmen derselben Herausgeber-Entscheidungsrunde behandelt werden, sind aber getrennt geführt, da OD-012 unabhängig von einer OD-007-Entscheidung beantwortbar ist.
 
 **Betroffene Dokumente (nur bei Formalisierung):** `01_framework/05_knowledge_model/canonical_knowledge_model.md` (Abschnitt 8), die vier betroffenen Objekte selbst (`A-0020`, `P-0021`, `P-0025`, `MEC-0013`, ggf. `MEC-0001`).
+
+### Auflösung (Governance-Integration 2026-07-13)
+
+**Status:** ~~Offen — Herausgeber-Entscheidung erforderlich~~ → **ENTSCHIEDEN — Option A (bestehender CKM-Beziehungstyp „Spezialisiert" genutzt, kein neues Feld)**
+
+**Entscheidung (Felix, 2026-07-13):** Vorprüfung ergab eine differenzierte Feldlage: `A-0020` (Assumption) und `P-0021` (Principle) verfügen bereits über ein canonical vorgesehenes Kontext-Feld (`Kontext` bzw. `Kontextlabel`) — hier strukturell markiert. `P-0025` (Principle) hat das im Template vorgesehene `Kontextlabel`-Feld nie angelegt — ergänzt (Vervollständigung, keine Framework-Änderung). `MEC-0013`/`MEC-0001` (Mechanism) haben laut `mechanism_template.md` kein Kontext-Feld — hier **freitextlich**, nicht strukturell, innerhalb der „Erweiterung durch W-001"-Abschnitte markiert, ohne neues Feld einzuführen. Kein Hard Stop nötig.
+
+**Wichtiger Vorbehalt (dokumentiert, nicht aufgelöst):** CKM Abschnitt 8 definiert „Spezialisiert" hierarchisch (Objekt gilt unter engeren Bedingungen als das übergeordnete). Die tatsächliche W-001-Auflösung beschreibt für beide Objektpaare jedoch eine symmetrische, kontextabhängige **Koexistenz** ohne Über-/Unterordnung. „Spezialisiert" ist die begrifflich nächstliegende, aber nicht perfekt passende bestehende CKM-Kategorie — in allen fünf Objekten mit diesem Vorbehalt markiert. CKM Abschnitt 8 selbst wurde **nicht** verändert; eine mögliche künftige, nicht-hierarchische Beziehungskategorie ist eine Empfehlung an Felix, keine Umsetzung.
+
+**Zusätzlicher Befund:** `P-0025_vollstaendige_gap_diagnose_vor_loesung.md` bricht am Dateiende mitten im Satz ab und referenziert einen nicht existierenden Abschnitt „Erweiterung durch W-001" — mutmaßlich unvollständig gespeicherte Bearbeitung aus der ursprünglichen W-001-Integration (2026-07-03). Bestehender Text unverändert gelassen; neuer, klar abgegrenzter Abschnitt ergänzt. Empfehlung: eigenständige redaktionelle Prüfung durch Felix.
+
+Details: `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`, `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md`.
 
 ---
 
@@ -316,4 +362,4 @@ W-002 hat zum Zeitpunkt dieses Eintrags Stufe 6 (Decision Brief) des Research Li
 
 ---
 
-*Zuletzt aktualisiert: 2026-07-06 (V11-03 Governance-Bundle — OD-006/OD-007 auf DoD-Status „Deferred" präzisiert, OD-009/OD-010/OD-011/OD-012 auf „Needs Editor Decision" bestätigt, keine inhaltliche Entscheidung getroffen). Zuvor: 2026-07-05 (RP-001 Activation — OD-008 auf TEILWEISE ENTSCHIEDEN gesetzt: ELM priorisiert und als W-002 aktiviert, Trust Formation/PKM unberührt). Zuvor: 2026-07-03 (Research Project W-001 Repository Integration Sprint — OD-012 neu angelegt). Davor: 2026-07-02 (Open Decisions Resolution Sprint — OD-001 bis OD-004 auf DONE gesetzt, OD-005 auf ERSETZT gesetzt [→ OD-010], OD-006/OD-007/OD-008 geprüft und als weiterhin OFFEN bestätigt, OD-009/OD-010/OD-011 neu angelegt). Vollständiger Bericht (2026-07-02): `00_project/OPEN_DECISION_RESOLUTION_REPORT_2026-07.md`.*
+*Zuletzt aktualisiert: 2026-07-13 (Governance-Integration-Block — OD-009 auf ENTSCHIEDEN/Option C [zurückgestellt], OD-010 auf ENTSCHIEDEN/Option B, OD-011 auf ENTSCHIEDEN/Option A, OD-012 auf ENTSCHIEDEN/Option A [mit dokumentiertem Vorbehalt] gesetzt — siehe je Auflösungsvermerk oben und `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`; die V11-03-Bundle-Tabelle unten bleibt als historischer Zwischenstand vor dieser Entscheidungsrunde unverändert stehen). Zuvor: 2026-07-06 (V11-03 Governance-Bundle — OD-006/OD-007 auf DoD-Status „Deferred" präzisiert, OD-009/OD-010/OD-011/OD-012 auf „Needs Editor Decision" bestätigt, keine inhaltliche Entscheidung getroffen). Zuvor: 2026-07-05 (RP-001 Activation — OD-008 auf TEILWEISE ENTSCHIEDEN gesetzt: ELM priorisiert und als W-002 aktiviert, Trust Formation/PKM unberührt). Zuvor: 2026-07-03 (Research Project W-001 Repository Integration Sprint — OD-012 neu angelegt). Davor: 2026-07-02 (Open Decisions Resolution Sprint — OD-001 bis OD-004 auf DONE gesetzt, OD-005 auf ERSETZT gesetzt [→ OD-010], OD-006/OD-007/OD-008 geprüft und als weiterhin OFFEN bestätigt, OD-009/OD-010/OD-011 neu angelegt). Vollständiger Bericht (2026-07-02): `00_project/OPEN_DECISION_RESOLUTION_REPORT_2026-07.md`.*

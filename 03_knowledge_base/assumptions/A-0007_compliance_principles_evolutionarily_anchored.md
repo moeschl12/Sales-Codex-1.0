@@ -39,7 +39,7 @@ Wenn die Prinzipien stark kulturell variieren, wären Verallgemeinerungen aus Ci
 
 ## Evidenzstatus
 
-E2 — Einzelne Universalitätsbelege (Gouldner für Reziprozität, Milgram-Replikationen in mehreren Kulturen), aber kulturelle Variationen in Stärke nicht ausreichend erforscht. Gemini-Validierung ausstehend.
+E2 — Einzelne Universalitätsbelege (Gouldner für Reziprozität, Milgram-Replikationen in mehreren Kulturen), aber kulturelle Variationen in Stärke nicht ausreichend erforscht. Externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell; inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert.
 
 ## Kontext
 

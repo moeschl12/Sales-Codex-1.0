@@ -43,7 +43,7 @@ Wenn Knappheit das Begehren nicht erhöhte, würden "limited time offers" und "n
 
 ## Evidenzstatus
 
-E3 für die Grundwirkung; E2 für die Wirkung bei aufgedeckter Manipulation; kulturelle Variationen unbekannt. Gemini-Validierung ausstehend.
+E3 für die Grundwirkung; E2 für die Wirkung bei aufgedeckter Manipulation; kulturelle Variationen unbekannt. Externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell; inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert.
 
 ## Kontext
 

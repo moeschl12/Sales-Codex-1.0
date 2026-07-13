@@ -24,7 +24,7 @@ Unter Bedingungen von Informationsasymmetrie zwischen Käufer und Verkäufer wir
 
 Vorläufig: E3
 
-Begründung: Milgram (1963/1974) E4 für den allgemeinen Gehorsamkeits-Mechanismus. Australische Studie (Körpergröße als Funktion von Titel) E3. Hofling et al. (1966, Krankenschwestern-Studie) E3. Verkaufsspezifische direkte Belege begrenzt; Gemini-Validierung ausstehend.
+Begründung: Milgram (1963/1974) E4 für den allgemeinen Gehorsamkeits-Mechanismus. Australische Studie (Körpergröße als Funktion von Titel) E3. Hofling et al. (1966, Krankenschwestern-Studie) E3. Verkaufsspezifische direkte Belege begrenzt; externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell, inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert.
 
 ## Kontextlabel
 

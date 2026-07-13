@@ -5,6 +5,40 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-13 — Commit-Readiness-Fix nach Codex-Recheck (Governance-Integration OD-009 bis OD-012)
+
+**Session-Typ:** Herausgeberauftrag „Bitte nur Commit-Readiness-Fix, keine neue Sachintegration" (Felix, 2026-07-13), ausgelöst durch Codex-Recheck des Governance-Integration-Blocks: inhaltlich PASS WITH CONDITIONS bestätigt, aber Commit-Readiness verneint wegen Control-Plane-/Bundle-Konsistenz. Ausschließlich Formulierungskorrekturen und eine Bundle-Übersicht — keine neuen Wissensobjekte, keine weitere Gemini-Bereinigung, keine P-0025-Reparatur, keine CKM-Änderung, kein Commit/Push.
+
+**Durchgeführt:**
+1. Drei stale „Working Tree clean"-Behauptungen korrigiert (`SESSION_BRIEF.md`, `CURRENT_STATE.md`, `00_project/NEXT_ACTION.md`, dort zwei Fundstellen) — neue Formulierung: Post-Release-Git-Abschluss nach `b096786`/`cbed101` war clean; aktueller Working Tree enthält uncommitted Governance-/Agenten-/Architekturänderungen und wartet auf Commit/Push.
+2. `CURRENT_STATE.md`: stale Kurzliste bereinigt, in der OD-009 bis OD-012 noch als „entscheidungsreif" geführt wurden — durch Verweis auf deren Entscheidung ersetzt; verbleibende offene Punkte (T12, MEC-0002/P-0002, additives Synthesemuster, RP-005/RP-006, Delivery-/Research-Scaling, mögliche V11-09 ff.) vollständig aufgeführt.
+3. `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md`: neuer Abschnitt 8 „Commit-Bundle-Sicht" — vier Artefaktgruppen (Governance-Integration OD-009–012, Agentenhilfsschicht, Architekturübersicht `ARCHITECTURE_OVERVIEW_2026-07-13.md`, Decision Brief) als bewusst zusammengehöriger nächster Commit-Bundle dokumentiert.
+
+**Ergebnis:** Control-Plane-Einstiegspunkte sind jetzt konsistent mit dem tatsächlichen (nicht cleanen) Working-Tree-Zustand. Commit-Bundle-Zusammengehörigkeit dokumentiert. Commit/Push bleibt ausschließlich Felix' Aufgabe.
+
+---
+
+## 2026-07-13 — Governance-Integration-Block OD-009 bis OD-012
+
+**Session-Typ:** Herausgeberauftrag „Sales Codex — Großer Governance-Integration-Block nach V1.1 Release" (Felix, 2026-07-13). Rolle: Executor/Integrator. Vier verbindliche Editor-Entscheidungen (OD-009 bis OD-012) plus begrenzte Prüfung der Agentenhilfsschicht (`.agents/`, `.codex/`, `.claude/`, `.gitignore`). Kein neues Makroprojekt V11-09 ff., keine Websuche, kein Commit/Push.
+
+**Editor-Entscheidungen (Felix, 2026-07-13):** OD-009 — Option C (zurückgestellt, kein `VERSIONING_POLICY.md`, keine RC1-Schwellenwerte). OD-010 — Option B (bestehende Validierungsinstrumente — Peer Review, Academic Recovery Packs, Research-Lifecycle-Reviews, Einzelreviews — dokumentiert, kein neues Pflichtfeld). OD-011 — Option A (`05_research/LITERATURE_INDEX.md` formal als Governance-/Framework-Bestandteil verankert, Abgrenzung zu `SCIENTIFIC_DEBT.md`/`review_queue.md` und Pflegekadenz definiert). OD-012 — Option A mit differenziertem Ergebnis nach Vorprüfung (CKM-Beziehungstyp „Spezialisiert" ohne neues Feld angewendet, teils strukturell/teils freitextlich je Objekttyp).
+
+**Deliverables:** `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md` (Entscheidungs-/Integrationsartefakt); `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md` (Abschlussbericht).
+
+**Durchgeführt:**
+1. `00_project/OPEN_DECISIONS.md`: je ein Auflösungsvermerk für OD-009 bis OD-012 ergänzt (Ursprungstext vollständig erhalten, Append-only).
+2. OD-010: 9 Objekte/Berichte mit dem wörtlichen Platzhaltersatz „Gemini-Validierung ausstehend" redaktionell umformuliert (Instrument als veraltet gekennzeichnet, ohne die zugrunde liegende Evidenzlücke als geschlossen zu behaupten) — `A-0007`, `A-0009`, `A-0012`, `MOD-0002`, `P-0009`, `P-0012`, `P-0013`, `P-0015`, `BOOK_REVIEW_REPORT_B0002.md` (2 Fundstellen). Zwei historisch-beschreibende Fundstellen (in `OPEN_DECISIONS.md` selbst und `ACADEMIC_RECOVERY_REPORT_PACK_2_4.md`) sowie nahe Varianten ohne exakten Wortlaut (u. a. MEC-0005 bis MEC-0008) bewusst nicht verändert — außerhalb des gezählten Scopes, als künftiger Nacharbeitspunkt vermerkt.
+3. OD-011: `05_research/LITERATURE_INDEX.md`, Abschnitt „Zweck" um Governance-Status, Abgrenzung und Pflegekadenz ergänzt. `SALES_CODEX_OPERATING_MANUAL.md` bewusst nicht verändert (Fußzeile „Änderungen nur durch Felix").
+4. OD-012: Vorprüfung ergab uneinheitliche Feldlage zwischen Objekttypen (Assumption/Principle haben ein Kontext-Feld, Mechanism nicht). Fünf Objekte ergänzt — `A-0020`, `P-0021` (strukturell, bestehendes Feld befüllt), `P-0025` (Kontextlabel-Feld gemäß Template erstmals angelegt), `MEC-0013`, `MEC-0001` (freitextlich, kein Kontext-Feld im Mechanism-Template, kein neues Feld eingeführt). Expliziter Vorbehalt in allen fünf Objekten dokumentiert: CKM „Spezialisiert" ist hierarchisch definiert, die W-001-Auflösung beschreibt aber eine symmetrische, kontextabhängige Koexistenz — Markierung folgt der Editor Decision als nächstliegende bestehende Kategorie, CKM selbst nicht verändert.
+5. **Unerwarteter Fund:** `P-0025_vollstaendige_gap_diagnose_vor_loesung.md` bricht am Dateiende mitten im Satz ab und referenziert einen nicht existierenden Abschnitt „Erweiterung durch W-001" — mutmaßlich unvollständig gespeicherte Bearbeitung aus der ursprünglichen W-001-Integration (2026-07-03). Bestehender Text unverändert gelassen (kein Erfinden von Inhalten); neuer, klar abgegrenzter Befund-/Ergänzungsabschnitt nachgetragen, auf Basis bereits andernorts dokumentierter W-001-Fakten. Empfehlung an Felix für eigenständige redaktionelle Prüfung vermerkt.
+6. Agentenhilfsschicht geprüft: bereits sauber als Pointer-Layer formuliert, keine Autoritätsüberschreitung, keine Secrets, keine absoluten Pfade. Eine Korrektur: `.agents/roles/scientific-editor.md` referenzierte nicht existierende Pfade (`01_framework/03_evidence_system/`, `01_framework/06_knowledge_model/`) — korrigiert auf `02_evidence_system/`/`05_knowledge_model/`. `.gitignore` geprüft und für bereits korrekt befunden (ein erster Sandbox-Mount-Zugriff hatte fälschlich eine Kürzung nahegelegt; per direktem Dateizugriff widerlegt — keine Änderung vorgenommen).
+7. Control Plane aktualisiert: `00_project/DECISION_STACK_2026-07-13.md` (neuer Abschnitt 0e, Abschnitt-4-Tabellenzeile R-5 und Abschnitt-5-Listenpunkte 2–5 als erledigt markiert), `00_project/NEXT_ACTION.md`, `CURRENT_STATE.md` (Opening-Note-Block), `SESSION_BRIEF.md` (betroffene Abschnitte ersetzt, gemäß eigener Policy).
+
+**Ergebnis:** Alle vier Reserved Decisions OD-009 bis OD-012 sind entschieden und redaktionell integriert. Kein neues Makroprojekt, kein Commit, kein Push. Verbleibend offen: R-1 (additives Synthesemuster), Delivery-Scaling-Blocker, OQ-2/Scientific Debt, RP-005/RP-006, mögliche V11-09 ff., sowie die im Completion Report dokumentierten kleineren Nacharbeitspunkte (MEC-0005–0008-Gemini-Varianten, `SCIENTIFIC_DEBT.md`-Datumsinkonsistenz, P-0025-Vervollständigung).
+
+---
+
 ## 2026-07-13 — V1.1 Post-Release Git-Abschluss
 
 **Session-Typ:** Post-Release-Housekeeping nach erfolgreichem Push des V1.1-Release-Commits. Kein neues Makroprojekt, keine OD-Entscheidung, keine Wissensobjekt-Änderung.
@@ -1259,3 +1293,59 @@ Umsetzung:
 Keine neuen Wissensobjekte, keine neue Forschung, keine Änderungen an Version-1.0-Inhalten.
 
 Nächste Aktion: V11-01 — Baseline & Control Plane Consolidation gemäß `00_project/projects/V11-01_baseline_control_plane/PROJECT_BRIEF.md` ausführen.
+
+---
+
+## 2026-07-13 - Codex Control Plane Helper Layer
+
+**Session-Typ:** Repository-Wartung / Architektur-Hilfsschicht
+
+**Ausloeser:** Herausgeberfrage zur Uebertragung einer `.claude/`-artigen Projektsteuerung auf den Sales Codex.
+
+**Umsetzung:**
+- `.agents/` als gemeinsame agentenunabhaengige Hilfsschicht angelegt.
+- `rules/`, `commands`, `roles/` und `workflows/` bewusst als Wegweiser auf bestehende Autoritaetsdateien dokumentiert.
+- `.codex/README.md` und `.claude/README.md` nur als Kompatibilitaets-Pointer auf `.agents/` angelegt.
+- Keine neue Sales-Codex-Methodik, keine neuen Templates, keine neuen Wissensobjekte.
+- `.gitignore` um lokale Override-Muster fuer `.agents/`, `.codex/` und `.claude/` erweitert.
+
+**Geaenderte Dateien:**
+- NEU: `.agents/README.md`
+- NEU: `.agents/rules/repository-authority.md`
+- NEU: `.agents/rules/session-start.md`
+- NEU: `.agents/rules/change-boundaries.md`
+- NEU: `.agents/rules/knowledge-work.md`
+- NEU: `.agents/commands/task-router.md`
+- NEU: `.agents/commands/review.md`
+- NEU: `.agents/commands/architecture-proposal.md`
+- NEU: `.agents/roles/editor.md`
+- NEU: `.agents/roles/scientific-editor.md`
+- NEU: `.agents/roles/validation-reviewer.md`
+- NEU: `.agents/workflows/book-mode/SKILL.md`
+- NEU: `.agents/workflows/research-lifecycle/SKILL.md`
+- NEU: `.codex/README.md`
+- NEU: `.claude/README.md`
+- AKTUALISIERT: `.gitignore`
+- AKTUALISIERT: `00_project/SESSION_LOG.md`
+
+**Abgrenzung:** Diese Hilfsschicht gilt fuer alle Agenten, ersetzt weder `TASK_TYPES.md` noch `PROJECT_BOOTSTRAP.md` und erzeugt keinen neuen V1.1-Makroprojekt-Launcher.
+
+---
+
+## 2026-07-13 - Architekturuebersicht Sales Codex
+
+**Session-Typ:** Architekturarbeit / Repository-Uebersicht, keine Inhaltsbewertung.
+
+**Ausloeser:** Herausgeberauftrag, die komplette Architektur des Sales Codex sichtbar zu machen und erste strukturelle Komplexitaet einzuschaetzen, bevor spaeter Leitfaden-/Publikationsarbeit beginnt.
+
+**Umsetzung:**
+- `00_project/ARCHITECTURE_OVERVIEW_2026-07-13.md` erstellt.
+- Top-Level-Struktur, Steuerungsebenen, Framework, Wissensbasis, Buchanalyse, Research Program, Knowledge Atlas, Delivery-Zonen und Datenfluesse zusammengefasst.
+- Strukturzahlen erfasst: 515 Wissensobjekte, 2112 Atlas-Referenzen, 18 Reference Orphans, 0 Duplicate IDs laut Atlas-Report.
+- Erste architektonische Verschlankungskandidaten dokumentiert, ohne Inhalte oder Methodik zu aendern.
+
+**Geaenderte Dateien:**
+- NEU: `00_project/ARCHITECTURE_OVERVIEW_2026-07-13.md`
+- AKTUALISIERT: `00_project/SESSION_LOG.md`
+
+**Abgrenzung:** Keine Wissensobjekte, keine Templates, keine Framework-Methodik, kein `NEXT_ACTION`-Launcher geaendert.

@@ -24,7 +24,7 @@ Unter Bedingungen sozialer Interaktion erzeugt eine Vorab-Leistung (Gabe, Dienst
 
 Vorläufig: E3
 
-Begründung: Kulturanthropologisch (Gouldner 1960) und experimentell (Regan 1971) gut belegt; Feldbelege aus Verkaufskontexten (Hare Krishna, Amway BUG, Rejection-then-Retreat). Keine kontrollierten B2B-Langzeitstudien; Gemini-Validierung ausstehend.
+Begründung: Kulturanthropologisch (Gouldner 1960) und experimentell (Regan 1971) gut belegt; Feldbelege aus Verkaufskontexten (Hare Krishna, Amway BUG, Rejection-then-Retreat). Keine kontrollierten B2B-Langzeitstudien; externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell, inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert.
 
 ## Kontextlabel
 

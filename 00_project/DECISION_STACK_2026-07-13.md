@@ -12,6 +12,12 @@ Erstellt im Rahmen des Arbeitsauftrags „V11-07 ff. autonom bis zu den nächste
 
 **Die verbliebene V11-01-Lücke ist geschlossen.** `00_project/projects/V11-01_baseline_control_plane/AUDIT_REPORT.md` wurde als retroaktiver Audit-Verfügbarkeitsvermerk persistiert: PASS WITH CONDITIONS — CONDITION FULFILLED. Damit ist die V11-08-Abhängigkeit **"All project audits available"** erfüllt. Abschnitt 3/7 unten ist historisch zu lesen; aktueller nächster Schritt ist jetzt: **V11-08 regulär starten** (Release-Kriterien-Verifikation, frische Repository-Integritätsprüfung, Release-Decision-Paket; Editor Release Decision bleibt bei Felix). **Dieser Absatz ist inzwischen selbst historisch — siehe Abschnitt 0c.**
 
+## 0e. Update (2026-07-13, Governance-Integration-Block OD-009 bis OD-012)
+
+**Alle vier in Abschnitt 5 als „Reserved Decisions" gelisteten OD-009 bis OD-012 sind inzwischen entschieden** (Herausgeberauftrag „Sales Codex — Großer Governance-Integration-Block nach V1.1 Release", Felix, 2026-07-13). OD-009: zurückgestellt (Option C). OD-010: Option B (bestehende Validierungsinstrumente dokumentiert, 9 „Gemini-Validierung ausstehend"-Platzhalter redaktionell bereinigt). OD-011: Option A (`05_research/LITERATURE_INDEX.md` formal verankert). OD-012: Option A mit dokumentiertem Vorbehalt (CKM-Beziehungstyp „Spezialisiert" auf fünf Objekte angewendet — A-0020, P-0021, P-0025, MEC-0013, MEC-0001). Details: `00_project/EDITOR_DECISION_OD-009_TO_OD-012_2026-07-13.md`, `00_project/GOVERNANCE_INTEGRATION_OD-009_TO_OD-012_COMPLETION_REPORT_2026-07-13.md`, `00_project/OPEN_DECISIONS.md` (je Auflösungsvermerk). Punkt 2 in Abschnitt 5 unten ist damit historisch — R-1 (additives Synthesemuster) und die Delivery-/Research-Scaling-Optionen (Punkte 6–8) bleiben unverändert offen.
+
+---
+
 ## 0d. Update (2026-07-13, Editor Release Decision — V1.1 abgeschlossen)
 
 **Felix hat die Editor Release Decision getroffen: V1.1 RELEASED — SCOPE-LIMITED** (`00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md`). Damit sind alle in Abschnitt 5 dieser Datei aufgeführten "Was noch fehlt"-Punkte für V11-08 selbst erledigt; Abschnitt 5 Punkt 1 ("V11-08-Audit-Lücke schließen") war bereits geschlossen, das war der letzte offene Schritt für den Release-Gate-Prozess.
@@ -70,7 +76,7 @@ Das war kein Hard Stop im Sinne der acht definierten Trigger, sondern eine schli
 | R-2 | Vier V11-04-Delivery-Scaling-Blocker unverändert offen (T12, Technik-Kandidaten, Zielgruppen-Tagging, Evidenzlevel) | Hoch | Seit 2026-07-07, kein Fortschritt über drei Folgeprojekte |
 | R-3 | Repository-Integritätsprüfung veraltet | Mittel-Hoch | Letzter Lauf 2026-07-06 (V11-03) |
 | R-4 | T12- und MEC-0002/P-0002-Punkte seit drei Makroprojekten ohne Fortschritt | Mittel | Seit 2026-07-07 |
-| R-5 | Vier Reserved Governance Decisions unverändert offen (OD-009 bis OD-012) | Mittel | Seit 2026-07-02/03 |
+| R-5 | ~~Vier Reserved Governance Decisions unverändert offen (OD-009 bis OD-012)~~ **Geschlossen 2026-07-13 — siehe Abschnitt 0e** | Mittel | Seit 2026-07-02/03, entschieden 2026-07-13 |
 | R-6 | V11-01 ohne eigenen Audit-Report | Niedrig-Mittel | Seit V11-01-Abschluss |
 | R-7 | OQ-2 zweifach bearbeitet (W-001, W-008), weiterhin nur per Primärexperiment lösbar | Niedrig | Strukturelle Grenze, kein Prozessfehler |
 | R-8 | Wiederkehrendes FUSE-Mount-Sandbox-Artefakt | Niedrig | Bekannt seit V11-01, nie blockierend |
@@ -82,10 +88,10 @@ Das war kein Hard Stop im Sinne der acht definierten Trigger, sondern eine schli
 Diese Sitzung hat **keine** davon selbst entschieden — das wäre außerhalb meines Mandats. Zur Übersicht, mit Empfehlung wo vorhanden:
 
 1. ~~V11-08-Audit-Lücke schließen~~ **Geschlossen 2026-07-13** — V11-01- und V11-07-Audit-Verfügbarkeit liegen vor.
-2. **OD-009 — Framework RC1/Reifegrad-Statusübergang.** Entscheidungsreif seit 2026-07-02, inhaltlich benachbart zur bevorstehenden V1.1-Release-Entscheidung (nicht identisch, siehe `OPEN_DECISIONS.md`). Empfehlung: gemeinsam mit der V11-08-Release-Entscheidung betrachten, nicht davor isoliert entscheiden.
-3. **OD-010 — Validierungs-Governance.** Entscheidungsreif seit 2026-07-02. Blockiert außerdem indirekt RP-005 im Research Portfolio.
-4. **OD-011 — Literature-Governance.** Entscheidungsreif seit 2026-07-02.
-5. **OD-012 — Kontextspezialisierung P-0021/P-0025, MEC-0013/MEC-0001.** Entscheidungsreif seit 2026-07-03.
+2. ~~**OD-009 — Framework RC1/Reifegrad-Statusübergang.** Entscheidungsreif seit 2026-07-02, inhaltlich benachbart zur bevorstehenden V1.1-Release-Entscheidung (nicht identisch, siehe `OPEN_DECISIONS.md`). Empfehlung: gemeinsam mit der V11-08-Release-Entscheidung betrachten, nicht davor isoliert entscheiden.~~ **Entschieden 2026-07-13 — Option C (zurückgestellt), siehe Abschnitt 0e.**
+3. ~~**OD-010 — Validierungs-Governance.** Entscheidungsreif seit 2026-07-02. Blockiert außerdem indirekt RP-005 im Research Portfolio.~~ **Entschieden 2026-07-13 — Option B, siehe Abschnitt 0e. RP-005 bleibt gesondert blockiert (Instrumenten-Formalisierung hebt die Blockade nicht automatisch auf).**
+4. ~~**OD-011 — Literature-Governance.** Entscheidungsreif seit 2026-07-02.~~ **Entschieden 2026-07-13 — Option A, siehe Abschnitt 0e.**
+5. ~~**OD-012 — Kontextspezialisierung P-0021/P-0025, MEC-0013/MEC-0001.** Entscheidungsreif seit 2026-07-03.~~ **Entschieden 2026-07-13 — Option A mit dokumentiertem Vorbehalt, siehe Abschnitt 0e.**
 6. **Additives Synthesemuster (R-1) — programmweite Methoden-Review ja/nein?** Vierfach bestätigt, seit W-006 mehrfach empfohlen, nie autorisiert. Keine Empfehlung meinerseits zur Sache selbst — nur die Beobachtung, dass die Beleglage inzwischen stärker ist als bei früheren Einzelmeldungen.
 7. **Delivery-Scaling — welche Option (A/B/C aus `CROSS_SYSTEM_REVIEW.md` Abschnitt 3)?** Ohne neue Prüfung bleibt der Stand „Begrenzt" (V11-04, 2026-07-07) unverändert gültig.
 8. **Research-Scaling — welche Option (A/B/C aus `CROSS_SYSTEM_REVIEW.md` Abschnitt 4)?** RP-005/RP-006 bleiben unabhängig davon blockiert.

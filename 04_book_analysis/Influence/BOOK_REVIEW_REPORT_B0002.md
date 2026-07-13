@@ -61,7 +61,7 @@ MOD-0002 schafft den konzeptuellen Rahmen für alle Cialdini-Objekte und stellt 
 |---|---|
 | Allgemeine Mechanismen | E4 — Laborexperimente, kulturanthropologische Belege, vielfach repliziert |
 | Verkaufsanwendungen | E3 — Feldbeobachtungen, Laborexperimente; direkte B2B-Replikationen begrenzt |
-| Einzelne Studien | ⚠ Gemini-Validierung ausstehend (Replikationskrise betrifft möglicherweise Einzelbefunde) |
+| Einzelne Studien | ⚠ Externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell (Replikationskrise betrifft möglicherweise Einzelbefunde) |
 
 ---
 
@@ -74,7 +74,7 @@ MOD-0002 schafft den konzeptuellen Rahmen für alle Cialdini-Objekte und stellt 
 - Kein Unity-Kapitel: Ausgabe 2007 enthält nur 6 Prinzipien (Unity = Ausgabe 2021)
 
 ### Offene Widersprüche / Lücken
-- Replikationsstatus einzelner Studien (Milgram-Varianten, Langer-Xerox, Phillips-Werther): Gemini-Validierung ausstehend
+- Replikationsstatus einzelner Studien (Milgram-Varianten, Langer-Xerox, Phillips-Werther): externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell, inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert
 - Kahneman-Quervergleich: Konzeptionelle Parallelität stark, aber Evidenzbasen unterschiedlich — noch nicht systematisch geprüft
 - B2B-spezifische Evidenz: Alle Mechanismen auf konsumenten-orientierte Studien gestützt; direkte B2B-Kaufprozessforschung fehlt
 

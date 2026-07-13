@@ -46,6 +46,8 @@ E3 — Befragungsstudie zu Loyalitätsattributen. Die Rangfolge der Attribute wu
 
 Die Annahme ist stärker für komplexe, differenzierte Lösungen. Für austauschbare Commodity-Produkte könnte die Relevanz der Insight-Lieferung geringer sein — hier dominiert möglicherweise tatsächlich das Preis-Leistungs-Verhältnis.
 
+**Kontextspezialisierung (OD-012, Governance-Integration 2026-07-13):** Gemäß `canonical_knowledge_model.md`, Abschnitt 8 (Beziehungstyp „Spezialisiert") wird hier strukturell festgehalten: Diese Annahme steht in einer kontextabhängigen Beziehung zu **P-0025** (Vollständige Gap-Diagnose vor Lösungspräsentation) — beide sind, wie im Abschnitt „Erweiterung durch W-001" oben bereits ausgeführt, kontextabhängig koexistierende, nicht universell konkurrierende Positionen. Vorbehalt: CKM Abschnitt 8 definiert „Spezialisiert" hierarchisch (engere Bedingungen als das übergeordnete Objekt); die W-001-Auflösung beschreibt dagegen eine symmetrische Koexistenz ohne echte Über-/Unterordnung. Die Markierung folgt der Editor Decision OD-012 (Option A) als nächstliegende bestehende CKM-Kategorie, mit diesem ausdrücklichen begrifflichen Vorbehalt. Verweis: P-0025.
+
 ## Widerspruch (dokumentiert)
 
 ⚠ SPIN Selling (Rackham, nicht im Repository): SPIN betont Situationsfragen, Problemfragen, Implikationsfragen und Nutzenfragen als Kern der Verkaufsexzellenz. Challenger Sale sieht das als notwendig aber nicht hinreichend — und sieht die Priorität beim Teach. Beide können richtig sein, wenn man unterschiedliche Verkaufsphasen betrachtet: Diagnose als Hygienefaktor, Insight als Differenzierer. **Siehe auch die Erweiterung durch W-001 unten — dieser Widerspruch wurde durch das Research Program aufgegriffen und kontextuell (nicht universell) aufgelöst.**

@@ -24,7 +24,7 @@ Unter Bedingungen eingeschränkter Verfügbarkeit eines Angebots (mengenmäßig,
 
 Vorläufig: E3
 
-Begründung: Brehm's Reaktanztheorie (1966) E4 für allgemeinen Mechanismus. Terrible-Twos-Beispiel und Zensur-Experimente E3. Scarcity-as-value-heuristic: plausibel herleitbar, aber direkter experimenteller Nachweis des kombinierten Dual-Kanal-Effekts im Primärtext nicht explizit — Cialdini behandelt beide Effekte, nicht ihre Interaktion. Gemini-Validierung ausstehend.
+Begründung: Brehm's Reaktanztheorie (1966) E4 für allgemeinen Mechanismus. Terrible-Twos-Beispiel und Zensur-Experimente E3. Scarcity-as-value-heuristic: plausibel herleitbar, aber direkter experimenteller Nachweis des kombinierten Dual-Kanal-Effekts im Primärtext nicht explizit — Cialdini behandelt beide Effekte, nicht ihre Interaktion. Externe Validierung (ursprünglich als Gemini-Prüfung vorgesehen) weiterhin ausstehend — Instrument gemäß OD-010 (Governance-Integration, 2026-07-13) nicht mehr aktuell, inhaltliche Lücke bleibt offen, sofern nicht anderweitig dokumentiert.
 
 ## Kontextlabel
 
