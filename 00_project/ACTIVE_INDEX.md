@@ -25,6 +25,7 @@ If this index conflicts with an authority file, the authority file wins.
 - `SESSION_BRIEF.md` - compact current project status
 - `00_project/NEXT_ACTION.md` - current operational launcher
 - `TASK_TYPES.md` - task-specific loading and output rules
+- `.agents/AGENT_GUIDE.md` - shared operating guide for all agents
 - `00_project/DECISION_STACK_2026-07-13.md` - current decision context
 
 ## Current project state

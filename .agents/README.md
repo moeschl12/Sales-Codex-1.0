@@ -15,6 +15,7 @@ All files in this directory are routing aids:
 - `commands/` contains reusable task recipes.
 - `roles/` contains role cards mapped to the existing Sales Codex role model.
 - `workflows/` contains workflow entrypoints that point back to established repository processes.
+- `AGENT_GUIDE.md` contains the shared operating sequence for all agents.
 
 If a file in this directory conflicts with a repository authority file, the authority file wins.
 
@@ -29,7 +30,7 @@ If a file in this directory conflicts with a repository authority file, the auth
 5. `00_project/NEXT_ACTION.md`
 6. `TASK_TYPES.md`
 7. Task-specific framework, governance, template, or project files
-8. `.agents/*` helper files
+8. `.agents/AGENT_GUIDE.md` and the remaining `.agents/*` helper files
 
 ---
 
@@ -37,6 +38,8 @@ If a file in this directory conflicts with a repository authority file, the auth
 
 All agents should treat `.agents/` as the shared helper layer:
 
+- Read `.agents/AGENT_GUIDE.md` as the common operating entrypoint after the
+  authority and task-type files.
 - Codex: use `.agents/` first; `.codex/` is only a compatibility pointer.
 - Claude / Cowork: use `.agents/` after `AGENTS.md` and the standard Sales Codex startup files.
 - ChatGPT, Gemini, Perplexity, or other agents: use `.agents/` only as routing support, never as a replacement for repository authorities.
