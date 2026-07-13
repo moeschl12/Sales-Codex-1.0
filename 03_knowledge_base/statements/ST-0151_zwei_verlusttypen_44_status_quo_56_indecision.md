@@ -42,6 +42,14 @@ E2 (Proprietäre Datenbasis, Klassifizierungsmethodik unklar; keine externe Repl
 
 Dieses Objekt beruht (mit) auf der proprietaeren Tethr-ML-Klassifizierung (44%/56%-Split), durchgefuehrt von einem kommerziellen Analytics-Anbieter. Die Klassifizierungsmethodik ist nicht offengelegt; keine unabhaengige Replikation bekannt. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
 
+## AR-013-Ergänzung: Unabhängige akademische Grundlage nur für das allgemeine Phänomen, nicht für den 44%/56%-Split
+
+**[Ergänzt 2026-07-13, Academic Recovery Sprint, AR-013]**
+
+Tversky & Shafir (1992, "Choice under Conflict: The Dynamics of Deferred Decision", *Psychological Science* 3(6), 358–361; SRC-0016, ST-0310/ST-0311, volltextgeprüft) liefern eine peer-reviewte, akademisch etablierte, von Tethr/JOLT vollständig unabhängige Demonstration, dass Aufschub/Rückkehr-zum-Default trotz eines objektiv mindestens ebenso guten oder verbesserten Angebots ein reales, wiederholt experimentell gezeigtes Phänomen der Entscheidungspsychologie ist (vier Einzelexperimente, N=56 bis N=224). Dies stützt die allgemeine Plausibilität, dass eine Kategorie "Aufschub trotz überwundenem Status quo" neben reiner Status-quo-Präferenz existieren kann.
+
+**Was dadurch NICHT gestützt wird:** Die Studie testet weder den spezifischen 44%/56%-Split noch die Tethr-ML-Klassifizierungsmethodik noch einen B2B-Kaufkontext. Sie liefert keinerlei Aussage darüber, ob 56 % (oder irgendein anderer Anteil) realer No-Decision-Fälle auf diesen oder einen anderen Mechanismus zurückgehen. Die in SD-SYS-004 dokumentierte Publication-Bias-/Replikations-Lücke bezüglich der spezifischen Tethr-Zahlen bleibt dadurch **unverändert bestehen** — diese Ergänzung reduziert nur die alleinige Abhängigkeit von proprietären Daten für die allgemeine Existenz-Behauptung des Phänomens, nicht für dessen genaue Quantifizierung.
+
 ## Status
 
-Entwurf
+Entwurf; AR-013-Ergänzung 2026-07-13 (Tversky & Shafir 1992, keine Änderung der Evidenzklasse E2)

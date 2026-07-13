@@ -89,6 +89,14 @@ E2 (Proprietäre ML-Datenbasis, nicht peer-reviewed; gut replizierbare Einzelmec
 
 Dieses Objekt beruht (mit) auf der proprietaeren Tethr-ML-Klassifizierung (44%/56%-Split), durchgefuehrt von einem kommerziellen Analytics-Anbieter. Die Klassifizierungsmethodik ist nicht offengelegt; keine unabhaengige Replikation bekannt. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
 
+## AR-013-Ergänzung: Akademische Grundlage für das allgemeine Post-Status-quo-Phänomen, nicht für das JOLT-Modell selbst
+
+**[Ergänzt 2026-07-13, Academic Recovery Sprint, AR-013]**
+
+Tversky & Shafir (1992, "Choice under Conflict: The Dynamics of Deferred Decision", *Psychological Science* 3(6), 358–361; SRC-0016, ST-0310/ST-0311, volltextgeprüft) demonstrieren peer-reviewt und unabhängig von Tethr/JOLT, dass Entscheider auch bei einem objektiv mindestens ebenso guten Angebot aufschieben oder zur Default-Option zurückkehren können, wenn zwischen den verfügbaren Optionen ein schwer auflösbarer Trade-off besteht. Dies liefert eine unabhängige akademische Stütze für die allgemeine Plausibilität einer "Post-Status-quo-Unentschlossenheit" als eigenständiges Phänomen (die Grundprämisse, auf der MOD-0006 aufbaut).
+
+**Was dadurch NICHT gestützt wird:** Die Studie testet keines der vier JOLT-Elemente (J/O/L/T), keine B2B-Kaufsituation und keinen der spezifischen kausalen Pfade (Diagnoseproblem, Informationsbedürfnis, Ergebnisunsicherheit), die MOD-0006 postuliert. Der zugrunde liegende Mechanismus in Tversky & Shafir (Attribut-Trade-off-Konflikt zwischen bekannten Optionen) deckt sich zudem nicht mit MEC-0016 (FOMU/antizipierte Reue über eine eigene Fehlentscheidung), auf dem das T-Element von JOLT primär aufbaut — siehe MEC-0016, Abschnitt "AR-013-Prüfung", für die vollständige Abgrenzung. Kein E-Level-Wechsel für MOD-0006 (bleibt E2) — die proprietäre Datengrundlage und die fehlende externe Validierung der spezifischen JOLT-Struktur bestehen unverändert fort.
+
 ## Status
 
-Entwurf — erstellt 2026-07-01 (SRC-0006)
+Entwurf — erstellt 2026-07-01 (SRC-0006); AR-013-Ergänzung 2026-07-13 (Tversky & Shafir 1992, keine Änderung der Evidenzklasse)

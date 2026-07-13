@@ -100,6 +100,18 @@ Sehr hoch — erklärt den dominanten Mechanismus hinter 56% der No-Decision-Ver
 
 Vollständige Herleitung: `06_research_program/completed/W008/02_SCIENTIFIC_MASTER_REVIEW.md`, `03_RED_TEAM_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, `05_DECISION_BRIEF.md`, `06_EDITOR_DECISION.md`.
 
+## AR-013-Prüfung: Tversky & Shafir (1992), "Choice under Conflict: The Dynamics of Deferred Decision" — keine Erweiterung
+
+**[Ergänzt 2026-07-13, Academic Recovery Sprint, AR-013 — `00_project/ACADEMIC_RECOVERY_PLAN.md`]**
+
+Volltextprüfung von Tversky, A. & Shafir, E. (1992). Choice under Conflict: The Dynamics of Deferred Decision. *Psychological Science*, 3(6), 358–361 (SRC-0016; Statements ST-0310, ST-0311). Geprüft als Kandidat für eine unabhängige akademische Grundlage von FOMU/Indecision, da der Academic Recovery Plan diese Quelle vorläufig als Tier-1-Kandidat für genau diesen Zweck eingestuft hatte.
+
+**Befund — keine Erweiterung von MEC-0016:** Die Studie testet einen anderen kausalen Mechanismus als den hier dokumentierten. MEC-0016s Kausalkette ist: Notwendigkeit einer aktiven Entscheidung → antizipierte Reue über eine mögliche eigene Fehlentscheidung (Omission Bias, Zeelenberg & Pieters 2007; Baron & Ritov 1994) → Handlungsblockade. Tversky & Shafir (1992) testen dagegen: Konflikt aus einem schwer auflösbaren Attribut-Trade-off zwischen zwei nicht-dominierten, vergleichbar attraktiven Optionen → Aufschub/Suche/Rückkehr zur Default-Option. Die Studie erwähnt antizipierte Dissonanz/Reue nur einleitend als allgemeinen Kontextfaktor der Konfliktentstehung, testet sie aber in keinem der berichteten Experimente als Mediator. Nach CKM-Identitätsprüfung (`01_framework/05_knowledge_model/canonical_knowledge_model.md`, Schritt 2) ist die kausale Struktur damit **nicht identisch** mit MEC-0016 — eine Erweiterung dieses Objekts ist daher nicht gerechtfertigt und wurde nicht vorgenommen (Nicht-Anlage-Dokumentation gemäß CKM Abschnitt 9, analog auf Erweiterungsentscheidungen angewendet).
+
+**Begründeter Erweiterungsvorschlag für ein anderes Objekt (keine Ausführung):** Die kausale Struktur von Tversky & Shafir (1992) — Konfrontation mit mehreren, teils nicht-dominierten Optionen → Entscheidungslast/-schwierigkeit → Aufschub/Vermeidung/Rückkehr zum Status quo — entspricht stattdessen dem bereits in MEC-0015 dokumentierten Grundmuster und insbesondere dem dortigen Erweiterungsabschnitt "Entscheidungslähmung durch irrelevante Unsicherheit und durch zusätzliche gute Optionen" (Tversky & Shafir 1992, 3(5); Redelmeier & Shafir 1995). Studie 2 dieser Quelle (CD-Player- und Prämien-Experimente) zeigt dasselbe Grundmuster ("zusätzliche attraktive Option erhöht Rückkehr zur Default-Option") wie der dort bereits zitierte Redelmeier-&-Shafir-Befund (1995) — mit einer zeitlich früheren, methodisch unabhängigen Operationalisierung. Eine Erweiterung von MEC-0015 um diesen zusätzlichen, vierten Auslösepfad erscheint nach CKM-Logik fachlich naheliegend, liegt aber außerhalb der für AR-013 definierten Zielobjekte (`00_project/ACADEMIC_RECOVERY_PLAN.md`, AR-013 nennt nur MEC-0016, A-0031, ST-0151, MOD-0006). Dieser Vorschlag wird hier dokumentiert, aber nicht ausgeführt — siehe `00_project/SCIENTIFIC_DEBT.md` für die Übernahme als offener Punkt.
+
+**Kein E-Level-Wechsel** (E4/E2 bleiben unverändert — keine neue Evidenz für oder gegen den bestehenden FOMU-Mechanismus, nur eine geprüfte und verworfene Erweiterungsoption).
+
 ## Status
 
-Entwurf — erstellt 2026-07-01 (SRC-0006); ergänzt 2026-07-12 (W-008 — Zitationspräzisierung Omission Bias, Cross-Link Verantwortungsdiffusion, kein E-Level-Wechsel)
+Entwurf — erstellt 2026-07-01 (SRC-0006); ergänzt 2026-07-12 (W-008 — Zitationspräzisierung Omission Bias, Cross-Link Verantwortungsdiffusion, kein E-Level-Wechsel); ergänzt 2026-07-13 (AR-013 — Tversky & Shafir 1992 "Choice under Conflict" geprüft, keine Erweiterung, Vorschlag für MEC-0015 dokumentiert)

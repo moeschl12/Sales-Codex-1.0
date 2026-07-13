@@ -28,6 +28,7 @@ E2 — Konzeptuell plausibel; antizipatorische Reue ist empirisch gut belegt (E4
 
 - Möglicherweise ist nicht FOMU die Barriere, sondern rationale Kostenkalkulation (ROI-Unsicherheit ohne emotionale Komponente)
 - In kollektivistischen Kulturen könnte FOMU stärker durch soziale Sanktions-Angst als durch persönliche Reue getrieben sein
+- **[Ergänzt 2026-07-13, AR-013; sprachlich korrigiert 2026-07-13, AR-013-Folgeauftrag]:** Tversky & Shafir (1992, "Choice under Conflict: The Dynamics of Deferred Decision", *Psychological Science* 3(6), 358–361; SRC-0016, ST-0310/ST-0311) untersuchen Konflikt aus einem schwer auflösbaren Attribut-Trade-off zwischen vergleichbar attraktiven, nicht-dominierten Optionen als Auslöser für Post-Status-quo-Aufschub. Die Studie ergänzt das Spektrum möglicher Erklärungen um diesen empirisch untersuchten Konflikt zwischen nicht-dominierten Optionen. Sie entscheidet jedoch nicht zwischen Konflikt, FOMU/antizipierter Reue und rationaler Kostenkalkulation, da diese konkurrierenden Erklärungen nicht als Mediatoren getestet wurden. Die Studie testet diesen Mechanismus zudem nicht im B2B-Kontext. Sie liefert damit eine dritte, empirisch beobachtete Konfliktbedingung für "Bereitschaft vorhanden, aber keine Handlung erfolgt", die bei der Diagnose realer No-Decision-Fälle neben FOMU und ROI-Unsicherheit mitgeprüft werden sollte — ohne dass belegt wäre, dass sie von diesen unabhängig wirkt. Kein Evidenzstatus-Wechsel für A-0031 selbst (bleibt E2) — diese Ergänzung präzisiert nur das Spektrum der bereits dokumentierten Gegenevidenz-Kandidaten.
 
 ## Ergänzung: Bezug zu Research Program W-008 (Omission-Kipppunkt im Buying Center)
 
@@ -37,4 +38,4 @@ Der ursprüngliche Master Review von W-008 prüfte die Frage, ab welchem Buying-
 
 ## Status
 
-Entwurf; Cross-Link-Vermerk ergänzt 2026-07-12 (W-008, Evidenzstatus unverändert)
+Entwurf; Cross-Link-Vermerk ergänzt 2026-07-12 (W-008, Evidenzstatus unverändert); Gegenevidenz-Kandidat ergänzt 2026-07-13 (AR-013, Tversky & Shafir 1992, Evidenzstatus unverändert); sprachlich korrigiert 2026-07-13 (AR-013-Folgeauftrag — keine unbelegte Unabhängigkeitsaussage gegenüber FOMU/rationaler Kostenkalkulation mehr, Evidenzstatus unverändert)
