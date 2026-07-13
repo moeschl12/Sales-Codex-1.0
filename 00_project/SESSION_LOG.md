@@ -5,6 +5,16 @@ Neueste Einträge oben.
 
 ---
 
+## 2026-07-13 — V1.1 Post-Release Git-Abschluss
+
+**Session-Typ:** Post-Release-Housekeeping nach erfolgreichem Push des V1.1-Release-Commits. Kein neues Makroprojekt, keine OD-Entscheidung, keine Wissensobjekt-Änderung.
+
+**Durchgeführt:** Control-Plane-Einstiegspunkte von "Commit/Push ausstehend" auf erledigt aktualisiert: `00_project/NEXT_ACTION.md`, `CURRENT_STATE.md`, `SESSION_BRIEF.md`, `00_project/CLOSURE_REPORT_V1.1_2026-07-13.md`; dieser Session-Log-Eintrag ergänzt.
+
+**Ergebnis:** Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) ist nach `origin/main` gepusht; `main` ist synchron mit `origin/main`, Working Tree clean. V1.1 bleibt `RELEASED — SCOPE-LIMITED`; kein offener Punkt wurde dadurch gelöst oder neu entschieden.
+
+---
+
 ## 2026-07-13 — V1.1 Release Closure nach Editor Decision
 
 **Session-Typ:** Herausgeberauftrag „Sales Codex — V1.1 Release Closure nach Editor Decision" (Felix, 2026-07-13). Formale Umsetzung der Editor Release Decision, nachdem V11-08 Final Audit + Re-Check (Codex) PASS ergaben und alle Findings geschlossen waren.

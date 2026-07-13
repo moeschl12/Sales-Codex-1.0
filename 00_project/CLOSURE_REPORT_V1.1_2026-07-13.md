@@ -33,7 +33,7 @@ Version 1.1 des Sales Codex ist abgeschlossen und freigegeben als **RELEASED —
 ## 3. Explizite Klarstellungen (gemäß Arbeitsauftrag)
 
 - **Release-Grundlage:** V11-08 Final Audit (Codex) — PASS; Re-Check nach Nacharbeit — PASS. Beide zugehörigen Findings vor dieser Entscheidung geschlossen.
-- **Working Tree:** bleibt vor Editor-Commit nicht clean. Commit/Push ist und bleibt ausschließlich Felix' Aufgabe — keine Voraussetzung für die inhaltliche Gültigkeit der Freigabe.
+- **Working Tree:** war zum Zeitpunkt der Editor Release Decision nicht clean; Commit/Push war und blieb ausschließlich Felix' Aufgabe — keine Voraussetzung für die inhaltliche Gültigkeit der Freigabe. Post-Release erledigt: Commit `b096786` wurde nach `origin/main` gepusht; Working Tree clean.
 - **Delivery Scaling:** nicht freigegeben. Bleibt "begrenzt" (V11-04-Befund unverändert in Kraft), gesondert entscheidungsbedürftig.
 - **Keine offenen Punkte stillschweigend geschlossen:** OD-009 bis OD-012, die vier V11-04-Delivery-Scaling-Blocker, das additive Synthesemuster (R-1), OQ-2/Scientific-Debt-Einträge und mögliche V11-09 ff. bleiben unverändert in ihrem bisherigen, dokumentierten Status offen.
 
@@ -47,4 +47,4 @@ Keine neuen Wissensobjekte, keine neuen Projekte, kein V11-09, kein Research-Sta
 
 ## 5. Verbleibender nächster Schritt
 
-**Felix: Commit und Push des Working Tree.** Danach ist V1.1 vollständig geschlossen und im Repository-Verlauf dokumentiert. Jede weitere Ausweitung (Delivery-Skalierung, OD-009–012-Entscheidungsrunde, neue Makroprojekte V11-09 ff.) erfordert eine eigene, gesonderte Editor-Entscheidung — kein automatischer Anschluss von dieser Session aus.
+**Post-Release Git-Abschluss erledigt:** Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) ist nach `origin/main` gepusht; Working Tree clean. V1.1 ist damit vollständig geschlossen und im Repository-Verlauf dokumentiert. Jede weitere Ausweitung (Delivery-Skalierung, OD-009–012-Entscheidungsrunde, neue Makroprojekte V11-09 ff.) erfordert eine eigene, gesonderte Editor-Entscheidung — kein automatischer Anschluss von dieser Session aus.

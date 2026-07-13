@@ -8,7 +8,7 @@ Sales Codex Version 1.1 wurde durch Herausgeberentscheidung als autonomes Makrop
 
 Details je Projekt: `00_project/ROADMAP_V1_1.md` (Program Board); Completion-/Audit-/Closure-Reports in den jeweiligen `00_project/projects/V11-XX_*/`-Ordnern. Nicht-blockierende, programmweit weitergeführte Punkte: T12/Status-„Validiert" (deferred seit V11-04); MEC-0002/P-0002-Evidenzlevel-Harmonisierung (registriert in `SCIENTIFIC_DEBT.md`); vier Reserved Decisions OD-009 bis OD-012 (entscheidungsreif seit 2026-07-02/03); additives Synthesemuster (Methoden-Review-Kandidat, Editor-Autorisierung ausstehend); RP-005/RP-006 (unverändert blockiert). Vollständige Übersicht: `00_project/DECISION_STACK_2026-07-13.md`.
 
-**Nächster Schritt:** Kein regulärer Makroprojekt-Launcher innerhalb V1.1 mehr offen — das Programm ist geschlossen. Ausstehend: (a) Editor-Commit/Push des Working Tree (ausschließlich Felix' Aufgabe, keine Voraussetzung für die inhaltliche Gültigkeit der Freigabe); (b) jede Erweiterung des Scopes (Delivery-Skalierung, OD-009–012-Entscheidungsrunde, neue Makroprojekte V11-09 ff.) erfordert eine eigene, gesonderte Editor-Entscheidung — kein automatischer Anschluss von dieser Session aus.
+**Nächster Schritt:** Kein regulärer Makroprojekt-Launcher innerhalb V1.1 mehr offen — das Programm ist geschlossen. Post-Release Git-Abschluss ist erledigt: Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) ist nach `origin/main` gepusht, Working Tree clean. Jede Erweiterung des Scopes (Delivery-Skalierung, OD-009–012-Entscheidungsrunde, neue Makroprojekte V11-09 ff.) erfordert eine eigene, gesonderte Editor-Entscheidung — kein automatischer Anschluss von dieser Session aus.
 
 ---
 

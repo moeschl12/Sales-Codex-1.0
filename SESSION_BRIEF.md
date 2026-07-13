@@ -38,7 +38,7 @@ Vollständige Übersicht: `00_project/DECISION_STACK_2026-07-13.md`.
 
 ## Working Tree / Git
 
-Working Tree ist zum Release-Zeitpunkt nicht clean. Commit und Push sind ausschließlich Felix' Aufgabe und keine Voraussetzung für die inhaltliche Gültigkeit der Freigabe. Keine Session dieses Programms committet oder pusht.
+Working Tree war zum Release-Zeitpunkt nicht clean; der Post-Release-Git-Abschluss ist inzwischen erledigt. Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) ist nach `origin/main` gepusht; Working Tree ist clean.
 
 ---
 
@@ -46,10 +46,9 @@ Working Tree ist zum Release-Zeitpunkt nicht clean. Commit und Push sind ausschl
 
 **Kein regulärer Makroprojekt-Launcher innerhalb V1.1 mehr offen — das Programm ist geschlossen.**
 
-Ausstehend:
+Mögliche nächste Arbeit:
 
-1. Editor-Commit/Push des Working Tree (Felix).
-2. Jede Erweiterung des Scopes — Delivery-Skalierungs-Freigabe, OD-009–012-Entscheidungsrunde, neue Makroprojekte V11-09 ff. — erfordert eine eigene, gesonderte Editor-Entscheidung mit eigenem Brief bzw. eigener Roadmap-Eintragung. Kein automatischer Anschluss von dieser Session aus.
+1. Jede Erweiterung des Scopes — Delivery-Skalierungs-Freigabe, OD-009–012-Entscheidungsrunde, neue Makroprojekte V11-09 ff. — erfordert eine eigene, gesonderte Editor-Entscheidung mit eigenem Brief bzw. eigener Roadmap-Eintragung. Kein automatischer Anschluss von dieser Session aus.
 
 Strategische Source of Truth:
 

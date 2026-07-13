@@ -7,7 +7,7 @@ Updated: 2026-07-13
 
 ## Programmabschluss (2026-07-13)
 
-**Version 1.1 ist freigegeben: RELEASED — SCOPE-LIMITED.** Entscheidung: `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md`. Freigegeben ist der evidenz-, governance- und auditkonsolidierte Repository-Stand (V11-01–V11-08). **Nicht** freigegeben: breite Delivery-Skalierung (weiterhin „begrenzt"). Kein offener Punkt (OD-009–012, Delivery-Scaling-Blocker, additives Synthesemuster, OQ-2/Scientific Debt, mögliche V11-09 ff.) wurde durch dieses Release gelöst — siehe Abschnitt „Open, non-blocking items" unten, unverändert gültig. Working Tree bleibt bis zum Editor-Commit nicht clean; Commit/Push ist ausschließlich Felix' Aufgabe. **Es gibt aktuell keinen nächsten regulären Makroprojekt-Launcher innerhalb V1.1** — dieser Launcher wird erst mit einer neuen, gesonderten Editor-Entscheidung (z. B. Delivery-Scaling-Freigabe oder V11-09 ff.) wieder aktiv.
+**Version 1.1 ist freigegeben: RELEASED — SCOPE-LIMITED.** Entscheidung: `00_project/projects/V11-08_final_audit_release/EDITOR_RELEASE_DECISION.md`. Freigegeben ist der evidenz-, governance- und auditkonsolidierte Repository-Stand (V11-01–V11-08). **Nicht** freigegeben: breite Delivery-Skalierung (weiterhin „begrenzt"). Kein offener Punkt (OD-009–012, Delivery-Scaling-Blocker, additives Synthesemuster, OQ-2/Scientific Debt, mögliche V11-09 ff.) wurde durch dieses Release gelöst — siehe Abschnitt „Open, non-blocking items" unten, unverändert gültig. **Post-Release Git-Abschluss erledigt:** Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) ist nach `origin/main` gepusht; Working Tree ist clean. **Es gibt aktuell keinen nächsten regulären Makroprojekt-Launcher innerhalb V1.1** — dieser Launcher wird erst mit einer neuen, gesonderten Editor-Entscheidung (z. B. Delivery-Scaling-Freigabe oder V11-09 ff.) wieder aktiv.
 
 ---
 
@@ -72,6 +72,6 @@ Normal uncertainty: document and continue.
 ## Required Finish
 
 1. V1.1 program is closed: **RELEASED — SCOPE-LIMITED** (2026-07-13). No macro-project remains open within V1.1.
-2. **Outstanding, editor-only action:** commit/push the working tree — never an executor task, remains entirely with Felix.
+2. **Post-release Git closure:** completed. Commit `b096786` (`Release Sales Codex V1.1 scope-limited`) is pushed to `origin/main`; working tree clean.
 3. Carry forward, unresolved by this release: R-1 (additive synthesis pattern, methods-review candidate), R-2 (delivery-scaling blockers, delivery-scaling itself not released), R-4/R-5 (T12, MEC-0002/P-0002, OD-009–012 — unresolved Reserved/deferred items), possible V11-09 ff. (no brief, no roadmap entry exists).
 4. Any next work (delivery-scaling authorization, OD-009–012 decision round, new W-project, new V11-09 ff.) requires a fresh, explicit Editor instruction — this file is not a standing backlog for it.
