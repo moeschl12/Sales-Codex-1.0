@@ -134,14 +134,10 @@ are still used as evidence anchors by current governance and quality records.
 ## Markdown link check
 
 The repository contains mostly inline backtick references instead of formal
-Markdown links. The explicit Markdown-link pass checked one formal relative
-link and found one missing target:
-
-- `99_archive/v1.0_release/REPOSITORY_CONSOLIDATION_REPORT_RC1.md` references `Pfad.md`.
-
-This appears to be an old placeholder or historical link defect. It is
-independent of the proposed history moves and should be handled as a separate
-archive-hygiene item.
+Markdown links. The initial scanner falsely classified the historical example
+``[Text](Pfad.md)`` in `99_archive/v1.0_release/REPOSITORY_CONSOLIDATION_REPORT_RC1.md`
+as a real link. After excluding inline-code examples, the check found zero
+formal Markdown links and zero missing Markdown link targets.
 
 ## Recommended next action
 
