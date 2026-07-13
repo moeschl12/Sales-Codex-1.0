@@ -35,8 +35,8 @@ requirement, change boundaries, or editorial authority.
 At the beginning of a task:
 
 1. Read `PROJECT_BOOTSTRAP.md`.
-2. Read `SESSION_BRIEF.md` and `00_project/NEXT_ACTION.md` when they are
-   relevant to the task.
+2. Read `SESSION_BRIEF.md` and `00_project/NEXT_ACTION.md` as part of the
+   mandatory startup sequence.
 3. Read `00_project/ACTIVE_INDEX.md` for navigation and current status.
 4. Classify the request using `TASK_TYPES.md`.
 5. Load only the files permitted and required by that task type.

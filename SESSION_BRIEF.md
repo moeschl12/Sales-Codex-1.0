@@ -39,7 +39,7 @@ Vollständige Übersicht: `00_project/DECISION_STACK_2026-07-13.md`.
 
 ## Working Tree / Git
 
-Working Tree war zum Release-Zeitpunkt nicht clean; der Post-Release-Git-Abschluss nach `b096786`/`cbed101` war clean. Der Governance-/Agenten-/Architekturblock ist inzwischen in `e5cdccc` committed und auf `origin/main` gepusht. Der Working Tree war beim letzten Check clean; lokale Änderungen aus der aktuellen Navigationsverschlankung sind davon getrennt.
+Working Tree war zum Release-Zeitpunkt nicht clean; der Post-Release-Git-Abschluss nach `b096786`/`cbed101` war clean. Der Governance-/Agenten-/Architekturblock ist in `e5cdccc` committed und auf `origin/main` gepusht. Die anschließende Navigationsverschlankung ist in `96e2ee5` und `7be2a36` committed und auf `origin/main` gepusht. Der Working Tree ist aktuell clean.
 
 ---
 
