@@ -493,6 +493,16 @@ Diese Punkte sind bewusst **nicht** als neue Wissensobjekte angelegt (Begründun
 
 ---
 
+### AR-014 — March & Simon (1958), *Organizations* — Primärtext nicht zugänglich (2026-07-14)
+
+**Hinweis:** Dieser Eintrag entstammt einer T11_SCIDEBT-Sitzung (2026-07-14), Auftrag AR-014 (`00_project/ACADEMIC_RECOVERY_PLAN.md`, Tier 2 — theoretisches Fundament Buying-Center-Cluster). Derselbe Themencluster und dasselbe Ergebnismuster wie AR-003 (Johnston & Lewin 1996), AR-004/Webster & Wind (1972) und AR-005 (Eisenhardt 1989).
+
+| Betroffene Objekte | Kategorie | Beschreibung | Priorität |
+|---|---|---|---|
+| MEC-0014 (potenzielle zusätzliche Theorie-Referenz, analog Webster & Wind 1972/Sheth 1973) | Zugriffslücke (Primärquelle nicht auffindbar/verifizierbar) | March, J.G. & Simon, H.A. (1958), *Organizations*, Wiley — vollständige Quellenprüfung beauftragt (AR-014: Bounded Rationality, Satisficing, organisationales Suchverhalten, Routinen/Programme), aber in dieser Sitzung nicht durchführbar: kein legitimer Volltextzugriff gefunden. Internet Archive hält einen Scan, aber als Controlled-Digital-Lending-Ausleihe (`access-restricted-item: true`, kein Download, DRM-Bookreader, kein an diese Sitzung gebundenes Leihkonto nutzbar); Google Books liefert keine Vorschau; ein technisch frei zugänglicher mdsoar.org-PDF-Treffer erwies sich inhaltlich als studentische Sekundärzusammenfassung, nicht als Primärtext, und wurde deshalb nicht verwendet; ein Scribd/„Anna's Archive"-Treffer wurde bewusst nicht aufgerufen (Zugriffsschutz-Umgehung, Auftrag verbietet dies ausdrücklich). Ein legitimer Open-Access-Sekundärkommentar (Bromiley, Koumakhov, Rousseau & Starbuck 2019, *Journal of Management Studies* 56(8), 1517–1526, via UC eScholarship) wurde vollständig gelesen und liefert Kontext (Kapitelstruktur, Kernkonzepte, u. a. der Hinweis, dass der Originaltext 1958 den Begriff „bounded rationality" selbst nicht wörtlich verwendet, sondern „boundaries of rationality"), zählt aber ausdrücklich nicht als Primärtextzugriff. Keine Statement-Extraktion, keine Änderung an MEC-0014 vorgenommen (Abbruchbedingung des Auftrags: „keine MEC-Erweiterung" bei fehlendem Volltextzugriff). Vollständiges Zugriffsprotokoll: `02_sources/studies/SRC-0039_march_simon_1958_organizations.md`; Status-Update: `00_project/ACADEMIC_RECOVERY_PLAN.md`, AR-014; vollständiger Bericht: `00_project/AR-014_COMPLETION_REPORT.md`. | Niedrig — Tier-2-Theoriereferenz, keine eigenständige Priorität vor AR-001/AR-002/AR-013; blockiert bis institutioneller Zugriff, ein tatsächliches Archive.org-Leihkonto oder Herausgeber-Bereitstellung des Primärtexts vorliegt |
+
+---
+
 ## Schuldenabbau-Prioritäten
 
 1. **Hoch (sofort):** Validierungssprint MEC-0010/0011 — Fremd-Labeling (RQ-0010-2) + Behavioral Mirroring (RQ-0011-4) + Spiegelneuronen-Status (RQ-0011-3)
