@@ -3,10 +3,10 @@
 **Dokumentklasse:** Governance / Scientific Debt Reduction — Konsolidierungsbericht
 **Task-Type:** T11_SCIDEBT (`TASK_TYPES.md`)
 **Auftrag:** "Academic Recovery Abschlussmatrix + Scientific-Debt-Konsolidierung" (Felix, 2026-07-14)
-**Charakter:** Kein neuer Rechercheauftrag, kein Integrationsauftrag für Wissensobjekte. Reine Konsolidierung des bestehenden AR-001–AR-014-Bestands und des daraus resultierenden Scientific-Debt-Standes. Editorentscheidungen werden gesammelt, nicht getroffen.
+**Charakter:** Kein neuer Rechercheauftrag. Konsolidierung des bestehenden AR-001–AR-014-Bestands und des daraus resultierenden Scientific-Debt-Standes; nachgelagerte Editorentscheidungen werden in Teil 3 nachgetragen.
 **Grundlage:** `00_project/ACADEMIC_RECOVERY_PLAN.md`, `00_project/SCIENTIFIC_DEBT.md`, `05_research/LITERATURE_INDEX.md`, alle zwölf vorhandenen `00_project/AR-*_COMPLETION_REPORT.md` (AR-001, AR-002, AR-004–AR-012, AR-014).
 **Datum:** 2026-07-14
-**Kein Commit, kein Push.**
+**Nachgelagerter Stand (2026-07-14):** Alle aus dieser Konsolidierung hervorgegangenen ED-AR-Entscheidungen (ED-AR-1 bis ED-AR-10) sind entschieden; verbleibende Punkte sind nur niedrig priorisierte Forschungs-/Zugriffs- oder technische Folgeaufgaben, keine offene Konsolidierungsentscheidung.
 
 ---
 
@@ -23,7 +23,7 @@ Für AR-003 (Johnston & Lewin 1996) und AR-013 (Tversky & Shafir 1992) existiert
 | **AR-001** | Problemreife-Hypothese (W-001): existiert akademischer Primärtest, dass Diagnose-/Insight-/Teach-First-Wirksamkeit vom Käuferzustand abhängt? | **Negativbefund, geprüft** (Kategorie 3: kein direkter Test gefunden) | Weitz (1981) und Plouffe et al. (2013) — die priorisierten Kandidaten — blieben ohne Volltextzugriff. Eine 2025 vollständig gelesene Systematic Review (Chaker et al., SRC-0020, 188 Artikel/27 Journale) bestätigt den Negativbefund unabhängig auf Feldebene: kundenbezogene Moderatoren sind die am wenigsten erforschte Kategorie im gesamten Adaptive-Selling-Forschungsprogramm. Kein bloßes Rechercheversagen, sondern eine durch aktuelle Sekundärliteratur bestätigte echte Feldlücke. | MEC-0013, W-001 (beide unverändert; W-001-Editor-Decision "Teilweise annehmen" bleibt in Kraft) | SRC-0018, SRC-0019 (neu, Zugriff blockiert), SRC-0020 (neu, vollständig analysiert), `LITERATURE_INDEX.md` Sektion G, `SCIENTIFIC_DEBT.md` (neuer Eintrag), `ACADEMIC_RECOVERY_PLAN.md` | Porter, Wiener & Frankwick (2003) bislang nur sekundär bekannt — Volltextprüfung für künftige Sitzung offen. Weitz (1981)/Plouffe et al. (2013) bei institutionellem Zugriff erneut prüfen. | Niedrig — Negativbefund gut dokumentiert und durch Sekundärquelle bestätigt; keine offene Blockade |
 | **AR-002** | Publication-Bias-Einordnung proprietärer B2B-Studien (CEB/Challenger, Huthwaite/SPIN, Tethr/JOLT) | **Abgeschlossen** (Kategorie 3: plausibel, aber nicht sales-spezifisch nachgewiesen) | Kein direkter Bias-Nachweis für CEB/Challenger oder Tethr/JOLT gefunden — auch keine Widerlegung. Allgemeiner Mechanismus (Publication Bias als reales Phänomen) ist in der Nachbardisziplin strategisches Management akademisch belegt (Harrison et al. 2017), stützt die Plausibilität, ohne sie in einen direkten Beweis zu verwandeln. CEB/Challenger zusätzlich durch unabhängige Modellkritik (Rapp et al. 2014) abgedeckt — keine Datenforensik. | SD-SYS-004, A-0019 (nicht verändert) | SRC-0021–0024 (neu), `LITERATURE_INDEX.md` Sektion H, `SCIENTIFIC_DEBT.md` (SD-SYS-004 final kategorisiert), `ACADEMIC_RECOVERY_PLAN.md` | Nicht ausgeführte Editorvorschläge: (a) A-0019-Warnhinweis um Harrison et al. (2017) als Kalibrierungsquelle ergänzen; (b) Zitationskorrektur "Marcos-Cuevas et al." → "Kerr, P.D. & Marcos-Cuevas, J." (durch AR-010 inzwischen bestätigt, aber Objektänderung selbst nicht ausgeführt). | Niedrig — finale Kategorisierung steht, nur redaktionelle Nacharbeiten offen |
 | **AR-003** | Johnston & Lewin (1996), "Organizational buying behavior: toward an integrative framework" — vollständige Verarbeitung für MEC-0014/Principal-Agent-Cluster | **Blockiert** — Primärtext nicht zugänglich | Mehrere legitime Zugriffswege (ScienceDirect, ResearchGate, Unpaywall, .edu-Reprint-Suche) ohne Erfolg geprüft. Ein Sci-Hub-Treffer bewusst nicht verwendet. Nur bibliografische Metadaten dokumentiert, keine Statement-Extraktion. | MEC-0014, A-0019, Meta-Prinzip-Kandidat "Asymmetrische Risikoverteilung im Buying Center" (`review_queue.md`) — alle unverändert | SRC-0017 (neu, nur Zugriffsprotokoll) | Institutioneller Zugriff oder Herausgeber-Bereitstellung des Primärtexts nötig, um die Quelle inhaltlich zu verarbeiten. Die redaktionelle Cluster-Gesamtbewertung wurde nachgelagert durch ED-AR-4 getroffen; die Zugriffslücke bleibt bestehen, blockiert aber keine aktuelle Objektentscheidung mehr. | Niedrig-Mittel — Quellenverarbeitung blockiert, Objektkalibrierung erledigt |
-| **AR-004** | Webster & Wind (1972) und Sheth (1973) — volle Statement-Extraktion für MEC-0014 | **Teilblockiert / gemischtes Ergebnis** | Sheth (1973) vollständig gelesen (legitimer Autoren-Reprint, jagsheth.com) — drei Statements extrahiert, MEC-0014 um Rollendifferenzierungs-/Konfliktlösungs-Abschnitt erweitert (kein E-Level-Wechsel). Webster & Wind (1972) trotz identischem Rechercheaufwand weiterhin ohne Volltextzugriff — bleibt reine Theorie-Referenz. A-0019 durch keine der beiden Quellen berührt. | MEC-0014 (erweitert), A-0019 (unverändert, kein Bezug gefunden) | SRC-0025, SRC-0026 (neu), ST-0312–0314 (neu), `LITERATURE_INDEX.md` Sektion F, `SCIENTIFIC_DEBT.md`, `ACADEMIC_RECOVERY_PLAN.md` | Webster & Wind (1972) bleibt zugriffsblockiert. Formale P-Objekt-Anlage für die durch Sheth gestützten P-Kandidaten "Stakeholder-Tailoring" und "Champion-Mobilizer" ist eine offene, nicht ausgeführte Folgeentscheidung. Strauss (1962) — in ST-0313 zitierte Feldstudie — nicht eigenständig verifiziert. | Mittel — eine von zwei Quellen offen, plus eine P-Objekt-Anlagefrage |
+| **AR-004** | Webster & Wind (1972) und Sheth (1973) — volle Statement-Extraktion für MEC-0014 | **Teilblockiert / gemischtes Ergebnis** | Sheth (1973) vollständig gelesen (legitimer Autoren-Reprint, jagsheth.com) — drei Statements extrahiert, MEC-0014 um Rollendifferenzierungs-/Konfliktlösungs-Abschnitt erweitert (kein E-Level-Wechsel). Webster & Wind (1972) trotz identischem Rechercheaufwand weiterhin ohne Volltextzugriff — bleibt reine Theorie-Referenz. A-0019 durch keine der beiden Quellen berührt. | MEC-0014 (erweitert), A-0019 (unverändert, kein Bezug gefunden), P-0023/T-0020 (ED-AR-5: kalibriert, keine neue P-Anlage) | SRC-0025, SRC-0026 (neu), ST-0312–0314 (neu), `LITERATURE_INDEX.md` Sektion F, `SCIENTIFIC_DEBT.md`, `ACADEMIC_RECOVERY_PLAN.md` | Webster & Wind (1972) bleibt zugriffsblockiert. ED-AR-5 ist entschieden: keine neue P-Anlage; Sheth stützt P-0023/T-0020 konzeptionell. Strauss (1962) — in ST-0313 zitierte Feldstudie — nicht eigenständig verifiziert. | Niedrig-Mittel — eine von zwei Quellen offen; P-Objekt-Frage erledigt |
 | **AR-005** | Eisenhardt (1989), Agency Theory — eigenständiger MEC-Kandidat "Principal-Agent-Risiko" ja/nein? | **Blockiert** — Primärtext nicht zugänglich; Objektfolge entschieden | Alle legitimen Zugriffswege (Verlag, JSTOR, Unpaywall, Semantic Scholar, ResearchGate, Academia.edu, Stanford-Autorenseiten) ohne Erfolg. Wichtiger Nebenbefund: Der bereits seit W-004 in MEC-0014 bestehende "Agency-Theory-Pfad" wurde selbst nie gegen Eisenhardts Primärtext validiert. ED-AR-4 hat ihn deshalb als unvalidierte Transferhypothese kalibriert. | MEC-0014, ST-0126, A-0022 (ED-AR-4: Beobachtung, Kausalkette und Praxisableitung getrennt) | SRC-0027 (neu, nur Zugriffsprotokoll); MEC-0014, ST-0126 und A-0022 nachgelagert präzisiert | Die Primärquellenfrage bleibt ohne Volltext unauflösbar. Ein eigenständiges MEC "Principal-Agent-Risiko" wird auf dieser Basis nicht angelegt; eine spätere Neubewertung setzt Primärtextzugriff oder neue direkte Evidenz voraus. | Niedrig-Mittel — Zugriff blockiert, aktuelle Objektentscheidung erledigt |
 | **AR-006** | Tuli, Kohli & Bharadwaj (2007) — stützt die Studie W-001/MEC-0013? | **Abgeschlossen** (Negativbefund/orthogonal) | Volltext überwiegend gelesen (8 von 18 Seiten plus Diskussionsseite, legitimer SMU-Repository-Zugriff). Kein direkter Test der Diagnose-vs-Insight-Sequenzfrage — "Requirements Definition" wird als Organisationsfunktion über eine mehrjährige Kundenbeziehung beschrieben, nicht als Gesprächsphase. Bewusst keine Überdehnung zu MEC-0013 vorgenommen (explizites Auftragsverbot eingehalten). | W-001, MEC-0013 (beide unverändert) | SRC-0028 (neu), `LITERATURE_INDEX.md` Sektion F, `ACADEMIC_RECOVERY_PLAN.md` | Restliche 10 von 18 Seiten ungelesen (geringe Erwartung neuer Erkenntnisse, da Kernmodell/Sequenzaussage bereits geprüft). Mögliche MEC-0014-Anschlussfähigkeit ("Political/Operational Counseling") bleibt ohne vollständige Auswertung ungenutzt. Die Cluster-Gesamtbewertung wurde durch ED-AR-4 abgeschlossen. | Niedrig — Kernfrage und Clusterentscheidung erledigt |
 | **AR-007** | Prospect Theory/Anchoring/Framing: Primärquellen (Kahneman/Tversky 1974/1979/1981) statt Sekundärsynthese (SRC-0010) | **Abgeschlossen** | Alle drei Originalquellen vollständig im Volltext gelesen (legitime universitätsgehostete Digitalisate). Ergebnis: Evidenz wird sauberer tracebar, ändert sich inhaltlich nicht. Drei Präzisierungen dokumentiert (keine 2×-Quantifizierung in 1979; 1974 trägt nur Adjustment-Pfad, nicht S1-Priming; keines der drei Papers enthält das System-1/2-Modell). Kein E-Level-Upgrade vorgenommen (fachlich nicht erforderlich). Zusätzlich (Vorsession 2026-07-13, hier mitgeführt): Scientific-Debt-Pilot zu P-0002/MEC-0002 — P-0002s "E4-Kandidat"-Status ist nicht durch eine von MEC-0002 unabhängige zweite Evidenzbasis gestützt. **Nachgelagerte Editorentscheidung ED-AR-1 (2026-07-14): P-0002 wurde auf E3 präzisiert.** | MEC-0002, MEC-0012, MEC-0021 (je Traceability-Abschnitt ergänzt, kein E-Level-Wechsel); P-0002 (ED-AR-1: E3 präzisiert) | SRC-0029–0031 (neu), ST-0315–0318 (neu), `LITERATURE_INDEX.md` Sektion A, `SCIENTIFIC_DEBT.md`, `ACADEMIC_RECOVERY_PLAN.md`, `P-0002_solution_value_follows_problem_weight.md` | ED-AR-1 erledigt; keine offene Folgefrage zu P-0002 außer künftiger Neubewertung bei neuer unabhängiger Evidenz. | Keine |
@@ -78,15 +78,17 @@ Die Unsicherheit wurde enger gefasst, verschwindet aber nicht vollständig.
 - **AR-014** — March & Simon (1958): kein Volltextzugriff (Controlled Digital Lending ohne nutzbares Leihkonto).
 - **AR-004 (Teilaspekt)** — Webster & Wind (1972): kein Volltextzugriff, während die zweite AR-004-Quelle (Sheth 1973) erfolgreich verarbeitet wurde.
 
+**Nachgelagerte Entscheidung ED-AR-7 (2026-07-14):** Diese Zugriffslücken bleiben als blockiert bis neue Zugriffslage dokumentiert. Es erfolgen keine automatischen Wiederholungsversuche in künftigen Sprints; erneute Prüfung nur bei institutionellem Zugriff, Bibliotheks-/Archive.org-Zugang, Herausgeber-Bereitstellung oder neuem legitimen Open-Access-Fund.
+
 Alle vier Fälle sind nach identischem, dokumentiertem Verfahren behandelt: mehrere legitime Zugriffswege geprüft, identifizierte nicht-autorisierte Kopien bewusst nicht verwendet, keine Statement-Extraktion, keine Objektänderung über einen reinen Zugriffsstatus-Vermerk hinaus.
 
-### 2.4 Weiterhin offen, aber entscheidungsreif (keine weitere Recherche nötig — Editorentscheidung)
+### 2.4 Editorentscheidungen aus der Konsolidierung — alle entschieden (2026-07-14)
 
-Diese Punkte sind vollständig in Teil 3 mit Kontext, Optionen und ggf. Empfehlung aufgeführt:
+Die ursprünglich offenen Punkte wurden nachgelagert in Teil 3 entschieden:
 
-- MEC-0014 — formale Anlage der P-Kandidaten "Stakeholder-Tailoring" und "Champion-Mobilizer" aus den Sheth-Statements (AR-004)
-- AR-012 — kulturelle Generalisierung als systemisches vs. objektbezogenes Restthema
-- AR-003/AR-005/AR-014 — weiter auf Zugriff warten oder dauerhaft blockiert akzeptieren (governance-seitig, nicht rechercheseitig zu lösen)
+- ED-AR-5: Keine neue P-Anlage; P-0023/P-0022/T-0020 als bestehende Zielobjekte genutzt und kalibriert.
+- ED-AR-7: AR-003/AR-005/AR-014 plus Webster & Wind bleiben blockiert bis neue Zugriffslage; keine automatischen Wiederholungen.
+- ED-AR-9: Kulturelle Generalisierung wird objektbezogen weitergeführt; kein neues systemisches Querschnittsprojekt.
 
 ### 2.5 Weiterhin offen, aber niedrig priorisiert
 
@@ -97,7 +99,7 @@ Bleiben dokumentiert, blockieren aber keinen aktuellen Arbeitsblock.
 - **AR-009:** Vollständige Tabellenintegration (alle 31 Determinanten, Moderator-Regressionstabelle) — rein technische Folgeaufgabe, kein inhaltlicher Zugriffsblock.
 - **AR-004:** Strauss (1962) — in ST-0313 zitierte Feldstudie — nicht eigenständig verifiziert.
 - **MEC-0030-Evidenzlevel (AR-009):** Ob die aktualisierte Trust-Korrelation Anlass für eine Anhebung gibt, ist nicht dringlich zu entscheiden.
-- **ST-0088, MOD-0004, T-0026–T-0030/MOD-0006, B-0012–B-0015 "Durchgängig"-Einträge (AR-012):** Kulturelle Generalisierungslücken ohne in dieser AR-Runde identifizierte passende Quelle — bleiben unverändert offen dokumentiert.
+- **ST-0088, MOD-0004, T-0026–T-0030/MOD-0006, B-0012–B-0015 "Durchgängig"-Einträge (AR-012):** Kulturelle Generalisierungslücken ohne in dieser AR-Runde identifizierte passende Quelle — bleiben objektbezogen offen dokumentiert; kein eigenes systemisches Querschnittsprojekt aus ED-AR-9.
 
 ### 2.6 Nicht weiterverfolgen / außerhalb Scope
 
@@ -105,9 +107,9 @@ Bleiben dokumentiert, blockieren aber keinen aktuellen Arbeitsblock.
 
 ---
 
-## Teil 3 — Offene Editorentscheidungen (gesammelt, nicht getroffen)
+## Teil 3 — Editorentscheidungen aus der Konsolidierung
 
-Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfehlung. Der ursprüngliche Konsolidierungsbericht traf keine dieser Entscheidungen; spätere Editorentscheidungen werden in diesem Abschnitt nachgetragen und als entschieden markiert.
+Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfehlung sowie nachgelagerte Herausgeberentscheidung. Der ursprüngliche Konsolidierungsbericht traf keine dieser Entscheidungen; der Stand vom 2026-07-14 markiert alle ED-AR-Entscheidungen als entschieden.
 
 ### ED-AR-1 — P-0002: E4-Kandidat-Status — **entschieden 2026-07-14**
 
@@ -167,7 +169,7 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 
 ---
 
-### ED-AR-5 — MEC-0014: Formale P-Objekt-Anlage aus den Sheth-Statements (AR-004)
+### ED-AR-5 — MEC-0014: Formale P-Objekt-Anlage aus den Sheth-Statements (AR-004) — **entschieden 2026-07-14**
 
 **Kontext:** ST-0312 (Rollendifferenzierung) und ST-0313 (Vier-Modi-Konfliktlösungstypologie) liefern akademisches Material, das die bereits als `[NSTD: P-Kandidat]` in MEC-0014 geführten, noch nicht formal angelegten Prinzipien "Stakeholder-Tailoring" und "Champion als interner Mobilizer" stützen könnte.
 
@@ -176,6 +178,8 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 2. Als Kandidatenstatus belassen, keine Anlage.
 
 **Redaktionell naheliegend:** Keine Empfehlung — reine Ressourcenfrage.
+
+**Herausgeberentscheidung (2026-07-14):** Keine neue P-Anlage. Die Duplikatsprüfung zeigte: "Champion als interner Mobilizer" existiert bereits als P-0023; Stakeholder-Tailoring existiert als Technik T-0020 und ist als Tailor-Komponente in P-0022 sowie als Werkzeug in P-0023 abgedeckt. Die Sheth-Statements werden deshalb als konzeptionelle Stütze/Präzisierung bestehender Objekte integriert, nicht als Anlass für zusätzliche P-Objekte. MEC-0014 wurde von `[NSTD: P-Kandidat]`-Verweisen auf P-0023/P-0022/T-0020 umgestellt; P-0023 und T-0020 wurden evidenzkalibriert. Keine Evidenzlevel-Anhebung, kein neues P-Objekt.
 
 ---
 
@@ -193,7 +197,7 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 
 ---
 
-### ED-AR-7 — AR-003 / AR-005 / AR-014: dauerhaft blockiert akzeptieren oder weiter auf Zugriff warten?
+### ED-AR-7 — AR-003 / AR-005 / AR-014: dauerhaft blockiert akzeptieren oder weiter auf Zugriff warten? — **entschieden 2026-07-14**
 
 **Kontext:** Alle drei Aufträge sind aus identischem Grund blockiert (kein legitimer Volltextzugriff trotz erschöpfender Prüfung aller bekannten legitimen Wege). Zusätzlich betroffen (nicht explizit AR-nummeriert, aber aus demselben Cluster): Webster & Wind (1972) aus AR-004.
 
@@ -202,6 +206,8 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 2. Als dauerhaft blockiert / abgeschlossen (mit Negativ-Zugriffsbefund) akzeptieren, keine weiteren automatischen Wiederholungsversuche in künftigen Sprints.
 
 **Redaktionell naheliegend:** Keine Empfehlung — abhängig davon, ob Felix Zugriff auf institutionelle Bibliotheksressourcen hat oder beschaffen möchte, was außerhalb redaktioneller Einschätzung liegt.
+
+**Herausgeberentscheidung (2026-07-14):** Option 1 in enger Form angenommen: Die Quellen bleiben **blockiert bis neue Zugriffslage**, nicht inhaltlich erledigt. Es werden aber keine automatischen Wiederholungsversuche in künftigen Academic-Recovery-Sprints gestartet. Erneute Prüfung nur bei konkretem Trigger: institutioneller Volltextzugriff, Bibliotheks-/Archive.org-Leihzugang, Herausgeber-Bereitstellung oder neu identifizierter legitimer Open-Access-Fund. Die Objektentscheidungen zu MEC-0014/Principal-Agent sind durch ED-AR-4 bereits konservativ getroffen und werden durch diese Zugriffslücken nicht weiter blockiert.
 
 ---
 
@@ -219,7 +225,7 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 
 ---
 
-### ED-AR-9 — AR-012: Kulturelle Generalisierung als systemisches Restthema oder nur objektbezogen weiterführen?
+### ED-AR-9 — AR-012: Kulturelle Generalisierung als systemisches Restthema oder nur objektbezogen weiterführen? — **entschieden 2026-07-14**
 
 **Kontext:** AR-012 hat die kulturelle Generalisierungslücke für genau ein Objektpaar (MEC-0025/P-0051) präzisiert. Die "Durchgängig"-Einträge (B-0012–B-0015, alle Practitioner-Bücher mit US-/WEIRD-Stichproben) sowie ST-0088, MOD-0004 und der JOLT-Cluster (T-0026–T-0030/MOD-0006) bleiben unverändert offen — für sie wurde keine passende akademische Quelle gefunden.
 
@@ -228,6 +234,8 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 2. Nur objektbezogen weiterführen — jedes Objekt wird bei Gelegenheit (z. B. im Rahmen künftiger Buchanalysen oder AR-Sitzungen) einzeln geprüft, kein eigenständiges Querschnittsprojekt.
 
 **Redaktionell naheliegend:** Keine Empfehlung — Aufwand-Nutzen-Abwägung liegt bei Felix, zumal das Muster (US-/WEIRD-Bias in Practitioner-Büchern) bereits durchgängig dokumentiert, aber nicht dringlich blockierend ist.
+
+**Herausgeberentscheidung (2026-07-14):** Option 2 angenommen. Kulturelle Generalisierung wird **objektbezogen** weitergeführt; kein neues systemisches SD-SYS-Querschnittsprojekt und keine programmweite Review nur aufgrund von AR-012. Begründung: Die US-/WEIRD-/B2B-Transferlücken sind bereits in den betroffenen Objekten und Buchsektionen dokumentiert, aber sie blockieren keinen aktuellen Integrationsentscheid. Neue kulturvergleichende Recherche erfolgt nur bei konkretem Objektanlass, neuer Quelle oder direkter Relevanz für eine geplante Objektänderung.
 
 ---
 

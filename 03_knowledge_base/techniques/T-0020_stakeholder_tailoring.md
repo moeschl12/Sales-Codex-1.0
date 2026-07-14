@@ -6,7 +6,7 @@ T-0020
 
 ## Source ID
 
-SRC-0004
+SRC-0004, SRC-0025
 
 ## Name
 
@@ -14,7 +14,7 @@ Stakeholder-Tailoring — funktionale und persönliche Botschaftsanpassung für 
 
 ## Definition
 
-Stakeholder-Tailoring ist die systematische Anpassung des Commercial Teaching Pitch (T-0019) und der Wert-Botschaft an die spezifische Funktion, Prioritäten und persönlichen Ziele jedes relevanten Stakeholders in einem Kaufprozess. Gleiche Lösung, gleicher Reframe — aber kommuniziert durch die Linse dessen, was für den CFO, den technischen Leiter, den Einkaufsleiter oder den operativen Manager jeweils relevant ist.
+Stakeholder-Tailoring ist die systematische Anpassung des Commercial Teaching Pitch (T-0019) und der Wert-Botschaft an die spezifische Funktion, Prioritäten und persönlichen Ziele relevanter Stakeholder in einem Kaufprozess. Gleiche Lösung, gleicher Reframe — aber kommuniziert durch die Linse dessen, was für den CFO, den technischen Leiter, den Einkaufsleiter oder den operativen Manager jeweils relevant ist.
 
 **Zwei Ebenen des Tailorings:**
 1. **Funktionales Tailoring**: Was sind die operativen Ziele und KPIs dieser Funktion? (CFO: Kostenkontrolle, ROI; IT: Sicherheit, Integration; Operations: Effizienz, Qualität)
@@ -35,6 +35,12 @@ Stakeholder-Tailoring ist die systematische Anpassung des Commercial Teaching Pi
 
 - MEC-0014 — Konsens als Kaufsicherheit: Tailoring macht jeden Stakeholder zum Befürworter statt zum Blocker
 - MEC-0013 — Insight-Disruption: Gleicher Reframe, aber stakeholder-spezifisch formuliert (CFO-Reframe vs. IT-Reframe)
+
+## Ergänzende Evidenz aus Sheth (1973)
+
+ST-0312 stützt die funktionale Tailoring-Logik konzeptionell: Purchasing Agent, Engineer und User entwickeln aufgrund unterschiedlicher Aufgaben- und Belohnungsstrukturen unterschiedliche Kaufkriterien. Daraus folgt nicht automatisch, dass jede moderne Buying-Center-Rolle exakt dieser Dreiteilung folgt; die Quelle begründet aber, warum funktionsspezifische Botschaftsanpassung mehr ist als reine Vertriebsintuition.
+
+ST-0313 ergänzt eine Konfliktlogik: Je nach Konflikttiefe reichen zusätzliche Informationen (Problem Solving), kriterienspezifische Überzeugung (Persuasion), Tauschlogik (Bargaining) oder politische Navigation (Politicking). T-0020 bleibt eine Technik für Informations- und Relevanzanpassung; sie ist kein Beleg dafür, dass sich tiefe politische Konflikte allein durch bessere Botschaften lösen lassen.
 
 ## Gesprächszustand
 
@@ -79,8 +85,8 @@ Needs_Discovery / Solution_Evaluation (Anwendung bei jedem Stakeholder-Gespräch
 
 *(Feld ergänzt 2026-07, Consistency Correction Sprint — siehe `CODEX_AUDIT_2026-07.md` Kapitel 3/11 und `CODEX_CONSISTENCY_CORRECTION_REPORT_2026-07.md`.)*
 
-Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0014 (E3, Konsens im Buying Center), MEC-0013 (E3, Insight-Disruption). Eine technikspezifische Einstufung erfordert inhaltliche Prüfung außerhalb des Scopes dieses reinen Konsistenz-Sprints. Dies wird als Empfehlung für einen künftigen inhaltlichen Bewertungssprint dokumentiert, nicht eigenmächtig neu bewertet.
+Kein eigenständiges Evidenzlevel vergeben. Verknüpfte Objekte mit eigenem Evidenzlevel: MEC-0014 (E3 für den beobachteten Challenger-Kontext, E2 für die spezifische Kausalkette/Generalisierung nach ED-AR-4), MEC-0013 (E3, Insight-Disruption), P-0022/P-0023. Sheth (1973; ST-0312/ST-0313) liefert konzeptionelle Buying-Center-Stütze, aber keinen direkten Wirksamkeitstest dieser Technik.
 
 ## Status
 
-Entwurf — erstellt 2026-06-30 (SRC-0004)
+Entwurf — erstellt 2026-06-30 (SRC-0004); präzisiert 2026-07-14 (ED-AR-5 — Sheth 1973 als konzeptionelle Stütze ergänzt, keine separate P-Anlage)
