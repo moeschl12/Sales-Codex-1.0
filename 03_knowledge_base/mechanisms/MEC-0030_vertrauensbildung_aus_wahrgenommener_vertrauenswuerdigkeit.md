@@ -109,6 +109,14 @@ Hoch für Erstkontakt, Discovery, Beratung und Key-Account-Kontexte, in denen K�
 
 ⚠ **Ethisches Risiko: Niedrig, mit Bedingung.** Authentische Signalisierung von Ability, Benevolence und Integrity ist ethisch unbedenklich. Konstruierte oder vorgetäuschte Signale (z. B. vorgetäuschte Benevolence ohne tatsächliche Kundenorientierung, vgl. die bei MEC-0008 dokumentierte Grenze zwischen authentischem Expertise-Signaling und „Autorität-Faking") sind manipulativ und bergen bei Aufdeckung ein hohes Risiko dauerhafter Vertrauensschädigung — analog zur bereits bei MEC-0007 dokumentierten Grenze zu konstruierter Ähnlichkeit.
 
+## AR-009-Ergänzung (2026-07-14, Academic Recovery Sprint)
+
+Ohiomah, Benyoucef & Andreev (2020, SRC-0022, ST-0324/ST-0325) — eine B2B-spezifische Meta-Analyse von 139 Studien (1980–2019) zu Determinanten des B2B-Vertriebserfolgs — findet, dass Kundenvertrauen ("customer trust", operational definiert als Vertrauen in die Verlässlichkeit und Integrität des Verkäufers) die mit Abstand **stärkste** Einzelkorrelation mit B2B-Vertriebserfolg unter allen 31 geprüften Determinanten aufweist (r=0,48). Dies ist eine deutlich größere und aktuellere B2B-spezifische Meta-Analyse als die bislang oben zitierte Swan, Bowers & Richardson (1999), für die im Abschnitt "Wissenschaftliche Grundlage" bereits vermerkt war: "seither keine aktualisierende Meta-Analyse identifiziert".
+
+**Wichtige Einordnung (kein Evidenzlevel-Wechsel):** Ohiomah et al. (2020) bestätigen eine Korrelation zwischen (bereits gebildetem) Kundenvertrauen und dem Erfolgs-Outcome — sie testen **nicht** das hier modellierte ABI-Kausalmodell der Trust-**Bildung** (Ability/Benevolence/Integrity → Trustworthiness Perception → Trust) selbst. Die Doppelklassifikation aus Editor Decision Punkt 8 (allgemeines Organizational-Trust vs. Sales-/Buyer-Seller-Transfer) bleibt daher unverändert: **E2–E3** für den Sales-/Buyer-Seller-Transfer. Diese Ergänzung aktualisiert die Beleglage für die Outcome-Korrelation (Trust↔Erfolg), nicht für die Trust-Formations-Kausalkette selbst — eine Evidenzlevel-Änderung wäre eine gesonderte Editorentscheidung und wird hier nicht vorgenommen.
+
+Ergänzend liefert Ohiomah et al. (2020) einen ersten, outcome-seitigen Anhaltspunkt zur oben offen geführten Frage nach digitalen/Remote-Sales-Kontexten (siehe „Offene Fragen" unten): Beziehungsqualität korreliert bei Inside/Remote-Sales-Daten **stärker** mit Erfolg (β=0,73) als bei Outside Sales, nicht schwächer (ST-0326) — dies spricht eher gegen eine pauschale Annahme reduzierter Erklärungskraft von Trust-/Beziehungsmechanismen in Remote-Kontexten, ist aber kein direkter Test des hier modellierten Mechanismus.
+
 ## Offene Fragen
 
 - Erklärt Social Exchange Theory (Reziprozitätsnorm) einen Teil der hier modellierten Trust-Wirkung ökonomischer als die ABI-Attribution? (Aus Red-Team-Review/Theory Landscape übernommen, nicht abschließend geklärt.)
@@ -118,4 +126,4 @@ Hoch für Erstkontakt, Discovery, Beratung und Key-Account-Kontexte, in denen K�
 
 ## Status
 
-Entwurf — neu angelegt 2026-07-05 (Research Program W-003, Editor Decision „Teilweise annehmen" vom 2026-07-05). Eng geschnittener Scope gemäß Editor Decision, Punkt 1–4. Ergänzt 2026-07-06 (Research Program W-004 — Rückverweis auf MEC-0014-Agency-Theory-Erweiterung und die daraus resultierende, offen markierte Verkäufer–Champion–Organisation-Dreiecksbeziehung; keine strukturelle Änderung dieses Objekts).
+Entwurf — neu angelegt 2026-07-05 (Research Program W-003, Editor Decision „Teilweise annehmen" vom 2026-07-05). Eng geschnittener Scope gemäß Editor Decision, Punkt 1–4. Ergänzt 2026-07-06 (Research Program W-004 — Rückverweis auf MEC-0014-Agency-Theory-Erweiterung und die daraus resultierende, offen markierte Verkäufer–Champion–Organisation-Dreiecksbeziehung; keine strukturelle Änderung dieses Objekts). Ergänzt 2026-07-14 (AR-009 — Ohiomah, Benyoucef & Andreev 2020 als B2B-spezifische Meta-Analyse zur Trust-Erfolg-Korrelation; kein Evidenzlevel-Wechsel).
