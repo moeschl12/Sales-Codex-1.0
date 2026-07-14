@@ -53,6 +53,7 @@ Ob Feature-Overload (Demo) oder Choice Overload (Optionspräsentation) — der z
 - Miller, G.A. (1956): The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information. *Psychological Review*, 63(2), 81–97.
 - Schwartz, B. (2004): *The Paradox of Choice: Why More is Less*. Harper Collins. (Ergänzend — nicht von Keenan zitiert)
 - Iyengar, S.S. & Lepper, M.R. (2000): When Choice is Demotivating. *Journal of Personality and Social Psychology*, 79(6), 995–1006. (Marmeladen-Studie — empirischer Beleg für Entscheidungslähmung bei Überangebot)
+- Tversky, A. & Shafir, E. (1992): Choice under Conflict: The Dynamics of Deferred Decision. *Psychological Science*, 3(6), 358–361. (SRC-0016, AR-013/ED-AR-2 — empirischer Beleg für konfliktbedingte Suche, Aufschub und Default-Rückkehr)
 
 ## Evidenzlevel
 
@@ -114,10 +115,27 @@ Made to Stick (Kap. 1 "Simple") liefert zwei weitere, von Iyengar/Lepper (Marmel
 
 **Kein E-Level-Wechsel** — E4/E5 bleibt bestehen (beide neuen Studien sind gut etablierte, in Fachzeitschriften publizierte Einzelstudien ohne bekannte Multi-Labor-Replikation im Sales-Codex-Bestand, stärken aber die Konvergenzevidenz für den Gesamtmechanismus zusätzlich zu Miller 1956 und Iyengar/Lepper 2000).
 
+## Erweiterung: Entscheidungskonflikt zwischen nicht-dominierten Optionen (SRC-0016)
+
+**[Ergänzt 2026-07-14 aus AR-013 / ED-AR-2]**
+
+Tversky & Shafir (1992, *Psychological Science* 3(6), "Choice under Conflict", SRC-0016) liefern eine zusätzliche, peer-reviewte Operationalisierung desselben übergeordneten Musters: Entscheidungskomplexität erzeugt nicht bessere Wahl, sondern Suche, Aufschub oder Rückkehr zur Default-Option. Der neue Auslöser ist dabei nicht primär die bloße Anzahl der Optionen und auch nicht Unsicherheit über einen unbekannten Weltzustand, sondern **Konflikt zwischen nicht-dominierten, vergleichbar attraktiven Optionen**.
+
+**Neuer Beleg 3 — Konflikt erhöht Suche nach Zusatzoptionen (ST-0310):** In Studie 1 (N=224) verlangten Probanden signifikant häufiger eine kostenpflichtige Zusatzoption, wenn zwei Optionen einen schwer auflösbaren Trade-off bildeten, als wenn eine Option die andere eindeutig dominierte. Dies galt für Wetten und Wohnungsentscheidungen gleichermaßen und verletzt das Value-Maximization-Prinzip, weil die beste verfügbare Option im Konfliktfall mindestens so gut war wie im Dominanzfall.
+
+**Neuer Beleg 4 — Attraktive Zusatzoption erhöht Aufschub und Default-Rückkehr (ST-0311):** In Studie 2 stieg der Aufschub bei CD-Player-Entscheidungen von 34 % (nur SONY verfügbar) auf 46 % (SONY und AIWA verfügbar); eine Kontrollbedingung mit eindeutig unterlegenem Zusatzplayer erzeugte keinen solchen Anstieg. In einem realen Prämien-Tausch-Experiment verblieben 53 % beim Default-Betrag, wenn zwei vergleichbar attraktive Prämien angeboten wurden, gegenüber 25 % bei nur einer Prämie. Der Effekt entsteht also nicht durch Optionsmenge allein, sondern durch schwer auflösbaren Attributkonflikt.
+
+**Abgrenzung zu ST-0305:** ST-0305 verarbeitet die Schwesterarbeit "The Disjunction Effect in Choice Under Uncertainty" (3(5)) und Redelmeier & Shafir (1995): Dort ist der zentrale Auslöser irrelevante Unsicherheit über einen Weltzustand bzw. eine zusätzliche gute Option. SRC-0016 (3(6)) ergänzt dies um einen engeren Konfliktpfad: nicht-dominierte Optionen mit konkurrierenden Attributvorteilen. Die Reaktion bleibt gleichartig (Suche/Aufschub/Default), der Auslöser ist präziser bestimmt.
+
+**Kausalpfad-Identitätsprüfung (CKM Schritt 2):** X = Entscheidungskomplexität durch Attribut-Trade-off-Konflikt zwischen vergleichbar attraktiven, nicht-dominierten Optionen; Y = erhöhter kognitiver Konflikt und schwerere Rechtfertigbarkeit einer eindeutigen Wahl; Z = Suche nach Zusatzoptionen, Aufschub oder Rückkehr zur Default-/Status-quo-Option. Damit bleibt der Pfad im selben MEC-0015-Grundmuster (Entscheidungskomplexität → Vermeidung statt Wahl), erweitert aber die Auslöserliste. Kein neuer MEC, keine Erweiterung von MEC-0016/FOMU, weil antizipierte Reue in SRC-0016 nicht als Mediator getestet wird.
+
+**Kein E-Level-Wechsel** — SRC-0016 ist eine E4-Primärstudie mit mehreren Teilexperimenten, aber ohne direkten B2B-Vertriebstest und ohne Multi-Labor-Replikation im Codex-Bestand. Sie stärkt die Konvergenzevidenz für MEC-0015, verändert aber die formale Einstufung nicht.
+
 ## Cross-Book-Bezug (Ergänzung 2)
 
 - B-0015 Made to Stick: Tversky/Shafir-Disjunction-Effect und Redelmeier/Shafir-Multiple-Alternatives-Studie als zusätzliche, unabhängige experimentelle Belege für Entscheidungslähmung (erweitert 2026-07-02).
+- AR-013 / SRC-0016: Tversky & Shafir (1992), "Choice under Conflict", als zusätzlicher Konfliktpfad für Suche, Aufschub und Default-Rückkehr bei nicht-dominierten Optionen (integriert 2026-07-14, ED-AR-2).
 
 ## Status
 
-Entwurf — erweitert 2026-07-01 (SRC-0006 JOLT Effect: Choice Overload als zweite Ausprägung); erweitert 2026-07-02 (SRC-0015 Made to Stick — Tversky/Shafir Decision-Paralysis-Experimente)
+Entwurf — erweitert 2026-07-01 (SRC-0006 JOLT Effect: Choice Overload als zweite Ausprägung); erweitert 2026-07-02 (SRC-0015 Made to Stick — Tversky/Shafir Decision-Paralysis-Experimente); erweitert 2026-07-14 (ED-AR-2 / SRC-0016 — konfliktbedingte Suche, Aufschub und Default-Rückkehr als zusätzlicher Auslösepfad, kein E-Level-Wechsel)

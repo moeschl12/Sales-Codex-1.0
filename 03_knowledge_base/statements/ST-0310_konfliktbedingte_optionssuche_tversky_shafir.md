@@ -32,7 +32,7 @@ A-Kandidat (nicht angelegt, außerhalb AR-013-Scope): Entscheidungskonflikt zwis
 
 ## Cross-Book-Bezug
 
-- MEC-0015 (Kognitive Überlastung durch Informations- und Optionsüberflut): Thematisch verwandter Auslösepfad (Entscheidungskomplexität → Vermeidung), aber mit einem spezifisch anderen Mechanismus (Attribut-Trade-off-Konflikt statt Optionsmenge/Arbeitsgedächtnis-Überlastung oder Unsicherheit über Weltzustände). Keine Erweiterung in dieser Session durchgeführt, da MEC-0015 kein AR-013-Zielobjekt ist — siehe Vorschlag in MEC-0016, Abschnitt "AR-013-Prüfung".
+- MEC-0015 (Kognitive Überlastung durch Informations- und Optionsüberflut): Nachgelagert zu AR-013 per ED-AR-2 am 2026-07-14 integriert — als zusätzlicher Auslösepfad innerhalb desselben Grundmusters (Entscheidungskomplexität → Vermeidung), spezifisch durch Attribut-Trade-off-Konflikt statt Optionsmenge/Arbeitsgedächtnis-Überlastung oder Unsicherheit über Weltzustände.
 - MEC-0016 (FOMU): Geprüft, keine direkte Stützung — siehe MEC-0016, Abschnitt "AR-013-Prüfung".
 - ST-0305 (Decision Paralysis, Tversky & Shafir — Schwesterarbeit 3(5)): Verwandtes, aber nicht identisches Phänomen; unterschiedlicher Auslösemechanismus (Unsicherheit über Weltzustand statt Attribut-Konflikt zwischen bekannten Optionen).
 
@@ -42,4 +42,4 @@ E4 (peer-reviewte Einzelstudie mit zwei unabhängigen Aufgabendomänen (Wetten, 
 
 ## Status
 
-geprüft — AR-013, keine Integration in MEC-0016 (Begründung siehe MEC-0016); sprachlich korrigiert 2026-07-13 (AR-013-Folgeauftrag, keine Unabhängigkeitsaussage zu antizipierter Reue/rationaler Kostenkalkulation mehr)
+geprüft — AR-013, keine Integration in MEC-0016 (Begründung siehe MEC-0016); sprachlich korrigiert 2026-07-13 (AR-013-Folgeauftrag, keine Unabhängigkeitsaussage zu antizipierter Reue/rationaler Kostenkalkulation mehr); nachgelagert in MEC-0015 integriert 2026-07-14 (ED-AR-2, kein E-Level-Wechsel)

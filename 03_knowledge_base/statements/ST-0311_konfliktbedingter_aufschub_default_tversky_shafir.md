@@ -30,7 +30,7 @@ A-Kandidat (nicht angelegt, außerhalb AR-013-Scope): Das Hinzufügen einer attr
 
 ## Cross-Book-Bezug
 
-- MEC-0015 (Kognitive Überlastung, bereits erweitert um Redelmeier & Shafir 1995 "zusätzliche gute Optionen erhöhen Rückkehr zur Standardoption"): Dieses Ergebnis ist dem bereits dokumentierten Redelmeier/Shafir-Befund (1995, JAMA, Vorlesung-vs-Lernen-Experiment) strukturell sehr ähnlich (gleiches Grundmuster: attraktive Zusatzoption → mehr Rückkehr zur Standardoption) und zeitlich älter (1992 vs. 1995) — ein möglicher, noch direkterer/früherer Beleg für denselben Auslösepfad. Keine Erweiterung von MEC-0015 in dieser Session durchgeführt (kein AR-013-Zielobjekt) — als begründeter Vorschlag dokumentiert in MEC-0016, Abschnitt "AR-013-Prüfung", und in `00_project/SCIENTIFIC_DEBT.md`.
+- MEC-0015 (Kognitive Überlastung, bereits erweitert um Redelmeier & Shafir 1995 "zusätzliche gute Optionen erhöhen Rückkehr zur Standardoption"): Nachgelagert zu AR-013 per ED-AR-2 am 2026-07-14 integriert — als zeitlich früherer und direkterer Beleg für denselben Auslösepfad (vergleichbar attraktive Zusatzoption → mehr Aufschub/Default-Rückkehr), mit zusätzlicher Kontrollbedingung gegen bloße Optionsmengen-Erklärung.
 - MEC-0016 (FOMU): Geprüft, keine direkte Stützung — die Studie testet Konflikt aus Attribut-Trade-offs, nicht antizipierte Reue über eine mögliche eigene Fehlentscheidung. Siehe MEC-0016, Abschnitt "AR-013-Prüfung".
 - ST-0151/MOD-0006 (JOLT, 44 %/56 %-Split): Liefert keine direkte Stützung der spezifischen Tethr-Klassifizierung, aber eine unabhängige akademische Demonstration, dass "Aufschub trotz intellektueller Kaufbereitschaft" ein reales, replizierbares Phänomen der Entscheidungspsychologie ist — siehe ST-0151/MOD-0006, jeweils Abschnitt "AR-013-Ergänzung".
 
@@ -40,4 +40,4 @@ E4 (peer-reviewte Studie mit drei unabhängigen Teilexperimenten, davon zwei mit
 
 ## Status
 
-geprüft — AR-013, keine Integration in MEC-0016 (Begründung siehe MEC-0016); Ergänzungen in A-0031, ST-0151, MOD-0006 vorgenommen
+geprüft — AR-013, keine Integration in MEC-0016 (Begründung siehe MEC-0016); Ergänzungen in A-0031, ST-0151, MOD-0006 vorgenommen; nachgelagert in MEC-0015 integriert 2026-07-14 (ED-AR-2, kein E-Level-Wechsel)

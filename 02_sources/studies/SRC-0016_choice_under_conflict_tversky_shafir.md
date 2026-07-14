@@ -66,7 +66,7 @@ Kein neuer Prinzip-Kandidat aus dieser Quelle allein abgeleitet (AR-013-Scope: R
 
 ## Relevante Mechanismen
 
-MEC-0015 (Kognitive Überlastung durch Informations- und Optionsüberflut) — thematisch am nächsten verwandt, siehe Erweiterungsvorschlag in MEC-0015-Querverweis unten (nicht in dieser Session umgesetzt, da MEC-0015 kein Zielobjekt von AR-013 ist). MEC-0016 (FOMU) — geprüft, keine direkte Stützung (siehe MEC-0016, Abschnitt "AR-013-Prüfung").
+MEC-0015 (Kognitive Überlastung durch Informations- und Optionsüberflut) — thematisch am nächsten verwandt; nachgelagert zu AR-013 per ED-AR-2 am 2026-07-14 als zusätzlicher Auslösepfad integriert (Entscheidungskonflikt zwischen nicht-dominierten Optionen → Suche/Aufschub/Default-Rückkehr), ohne E-Level-Wechsel. MEC-0016 (FOMU) — geprüft, keine direkte Stützung (siehe MEC-0016, Abschnitt "AR-013-Prüfung").
 
 ## Grenzen der Quelle
 
@@ -81,4 +81,4 @@ Keine inhaltlichen Widersprüche zu bestehenden Codex-Objekten identifiziert. **
 
 ## Bearbeitungsstatus
 
-Analysiert (AR-013, 2026-07-13) — Volltext geprüft, zwei source-grounded Statements extrahiert, Zielobjekte MEC-0016/A-0031/ST-0151/MOD-0006 einzeln bewertet; sprachlich korrigiert (AR-013-Folgeauftrag, 2026-07-13) — Unabhängigkeitsaussage zu antizipierter Reue/rationaler Kostenkalkulation entfernt, da nicht durch den Primärtext getestet.
+Analysiert (AR-013, 2026-07-13) — Volltext geprüft, zwei source-grounded Statements extrahiert, Zielobjekte MEC-0016/A-0031/ST-0151/MOD-0006 einzeln bewertet; sprachlich korrigiert (AR-013-Folgeauftrag, 2026-07-13) — Unabhängigkeitsaussage zu antizipierter Reue/rationaler Kostenkalkulation entfernt, da nicht durch den Primärtext getestet; nachgelagert integriert 2026-07-14 (ED-AR-2) — MEC-0015 um den konfliktbedingten Auslösepfad erweitert, kein E-Level-Wechsel.
