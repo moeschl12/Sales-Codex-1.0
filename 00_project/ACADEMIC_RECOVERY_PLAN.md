@@ -261,9 +261,23 @@ Geänderte/neue Dateien: `02_sources/studies/SRC-0027_eisenhardt_1989_agency_the
 
 ### AR-011 — Value-Based Selling Integration prüfen
 
-**Quelle (verifiziert, ARS-0001):** "Advancing value-based selling research in B2B markets: A theoretical toolbox and research agenda", Industrial Marketing Management 111 (2023). Autorenliste nicht abschließend verifiziert.
+**Quelle (verifiziert, AR-011):** Keränen, J., Totzek, D., Salonen, A., & Kienzler, M. (2023). *Advancing value-based selling research in B2B markets: A theoretical toolbox and research agenda*. Industrial Marketing Management, 111, 55–68. DOI 10.1016/j.indmarman.2023.02.014. **Bibliografiekorrektur:** Autorenliste war zuvor nicht abschließend verifiziert (Vermutung "Terho et al." unbestätigt); über Volltextzugriff jetzt vollständig bestätigt: Keränen, Totzek, Salonen, Kienzler.
 
 **Ziel:** Prüfen, ob ein neues Themenfeld (Value-Based Selling) für den Codex erschlossen werden soll, oder ob es außerhalb des aktuellen Scopes (Käuferpsychologie, Verhandlung) liegt. Niedrige Priorität — kein akuter Gutachten-Bezug.
+
+**Status-Update (2026-07-14, AR-011 durchgeführt und abgeschlossen): VOLLSTÄNDIG ABGESCHLOSSEN — Volltext vollständig gelesen, Autorenliste verifiziert, Scope-Entscheidung dokumentiert.**
+
+*Zugriffslage:* Kein Duplikat — noch kein SRC-Objekt für diese Quelle vorhanden. Legitimer Open-Access-Volltextzugriff über das institutionelle Repositorium der University of Jyväskylä (JYX, `jyx.jyu.fi`) — publizierte Version unter CC BY 4.0-Lizenz. Kein Sci-Hub, keine Zugriffsschutz-Umgehung. Vollständiger Artikeltext gelesen (Abstract, Einleitung, Stand der VBS-Forschung inkl. Tabelle 1, alle acht Theorieabschnitte inkl. Tabelle 2 mit 32 Forschungsfragen, Diskussion, theoretische/managerielle Implikationen, Limitationen, Literaturverzeichnis-Beginn).
+
+*Quellenart:* Kein empirischer Test — konzeptionelles Theorie-Integrations-Paper ("theoretische Toolbox") mit Forschungsagenda. Die Autoren erklären explizit "no data was used for the research described in the article". Acht geliehene Theorien (Equity, Framing, Mental Accounting — individuelle Ebene; Social Exchange, Signaling, Agency, Game Theory — organisationale Ebene; Institutional Theory — institutionelle Ebene) werden auf VBS angewendet und daraus 32 ungeprüfte Forschungsfragen (RQ1–RQ32) abgeleitet.
+
+*Kerndefinition VBS (unter Berufung auf Terho et al. 2012, S. 178):* Ein Verkaufsansatz, bei dem der Anbieter gemeinsam mit dem Kunden ein Marktangebot so gestaltet, dass Nutzen in monetäre Größen übersetzt werden, basierend auf einem tiefen Verständnis des Kundengeschäftsmodells, um den Beitrag zur Kundenprofitabilität überzeugend zu belegen.
+
+*Überschneidung mit bestehenden Codex-Objekten:* Agency Theory bereits über SRC-0027 (Eisenhardt 1989)/MEC-0014-Ergänzung (AR-005) vertreten, dort im Buying-Center-Kontext statt Anbieter-Kunde-Vertragsgestaltung. Mental Accounting/Transaction Utility bereits über ST-0280 (SRC-0014) vertreten, dort im Konsumentenkontext statt B2B-Investitionsentscheidung. Social Exchange Theory bereits über MEC-0030 vertreten. Equity Theory nur beiläufig in MOD-0007 erwähnt. Signaling Theory, Game Theory, Institutional Theory und Framing Theory im engeren (Goffman/Entman-)Sinn ohne direktes Codex-Objekt — der Codex deckt Framing-verwandte Phänomene stattdessen über Prospect Theory (Kahneman/Tversky-Cluster) ab, eine andere theoretische Grundlage.
+
+*Einschätzung:* Value-Based Selling ist in dieser Quelle primär eine **B2B-Vertriebs-/Preisstrategie-Forschungsagenda** (Wertquantifizierung, Pricing, Vertragsgestaltung, organisationale Adoption) und keine Sammlung etablierter, getesteter käuferpsychologischer Mechanismen. Die drei individuenbezogenen Theorien berühren zwar Käuferpsychologie/Wertwahrnehmung, treten hier aber nur als vorgeschlagene, ungeprüfte Forschungsrichtungen auf — keine "vollständig aus Primärtext ableitbaren, eindeutig codex-relevanten" Statements im Sinne der Auftragsvorgabe. **Entscheidung: keine Integration jetzt, kein neues Themenfeld, bleibt als abgeschlossener Literaturbefund vorgemerkt** — Revision nur bei künftiger Scope-Erweiterung (Editorentscheidung) oder falls eine der 32 Forschungsfragen später empirisch getestet und für ein bestehendes Codex-Objekt direkt relevant wird.
+
+*Neue/geänderte Objekte:* SRC-0036 neu angelegt (`02_sources/studies/`). Keine ST/A/P/T/MEC-Objekte (Begründung siehe SRC-0036, Abschnitt "Extrahierte Aussagen"). `05_research/LITERATURE_INDEX.md` und `00_project/SCIENTIFIC_DEBT.md` (VBS-Zeile) aktualisiert. **Kein neues Themenfeld, keine Framework-/Template-Änderung, kein Commit.** Vollständiger Bericht: `00_project/AR-011_COMPLETION_REPORT.md`.
 
 ---
 

@@ -162,7 +162,7 @@ Diese Quellen wurden aus den Research Packs übernommen, aber in diesem Sprint *
 | "Meta-Analyse der Prospect-Theory-Parameter, 166 Papers, 812 Schätzungen" (SSRN abstract_id=5928259) | Prospect-Theory-Parametrisierung | Nicht verifiziert — kein Autorenname im Pack | Vor Verwendung einzeln verifizieren. |
 | "Meta-analytische Arbeiten zu framing effects in judgment and choice" | Framing-Meta-Analyse | Nicht verifiziert — kein Autor/Jahr | Vor Verwendung einzeln verifizieren. |
 | "Meta-analytische Arbeiten zu overconfidence/calibration" | Overconfidence-Meta-Analyse | Nicht verifiziert | Vor Verwendung einzeln verifizieren. |
-| "Advancing Value-Based Selling Research" (2023, Industrial Marketing Management 111) | Value-Based Selling | Bereits in ARS-0001/Research Pack 1 als unvollständig verifiziert dokumentiert (Autorenliste nicht abschließend bestätigt) | Siehe `ACADEMIC_RECOVERY_REPORT.md` Abschnitt 3.6 — nicht doppelt recherchieren. |
+| ~~"Advancing Value-Based Selling Research" (2023, Industrial Marketing Management 111)~~ — **korrigiert: Keränen, Totzek, Salonen & Kienzler (2023)** | Value-Based Selling | **Vollständig gelesen und Autorenliste verifiziert (AR-011, 2026-07-14).** Siehe SRC-0036 — nicht doppelt recherchieren. | Kein direkter MEC-Bezug; konzeptionelles Theorie-/Agenda-Paper ohne eigene Empirie. Scope-Entscheidung: bleibt vorerst außerhalb Codex-Scope. Siehe `00_project/AR-011_COMPLETION_REPORT.md` und `00_project/SCIENTIFIC_DEBT.md`. |
 | ~~Marcos-Cuevas et al. (2023), JPSSM 44(4)~~ — **korrigiert: Kerr, P.D. & Marcos-Cuevas, J. (2024)** | Kontingenz-Taxonomie Erfolgstreiber | **Vollständig gelesen und Autorenreihenfolge verifiziert (AR-010, 2026-07-14).** Siehe Sektion H unten — nicht doppelt recherchieren. |
 
 ---
