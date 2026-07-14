@@ -10,7 +10,7 @@ Konsens als Kaufsicherheit in Gruppenentscheidungen
 
 ## Definition
 
-In komplexen Organisationskäufen suchen Entscheider aktiv nach internem Konsens nicht primär wegen formaler Genehmigungspflichten, sondern weil Konsens persönliches Risiko verteilt, Accountability diffundiert und soziale Absicherung gegen Fehlentscheidungen schafft. Fehlender Konsens blockiert Kaufentscheidungen selbst dann, wenn der primäre Entscheider persönlich überzeugt ist.
+In komplexen Organisationskäufen kann breite interne Unterstützung die subjektive Kaufsicherheit eines Entscheiders erhöhen. Der im Codex direkt dokumentierte CEB-Befund zeigt, dass Senior-Entscheider organisationsweite Unterstützung des Lieferanten als wichtigen Loyalitätstreiber bewerten (ST-0126). Die weitergehende Erklärung, dass diese Unterstützung persönliches Reputations- und Verantwortungsrisiko verteilt, ist eine plausible, aber für B2B-Kaufentscheidungen nicht direkt getestete Mechanismusinterpretation.
 
 ## Mechanismus-Typ
 
@@ -18,24 +18,24 @@ Sozialpsychologisch / Organisationspsychologisch
 
 ## Erklärung
 
-Einzelne Entscheider in Organisationen tragen persönliches Reputationsrisiko für Einkaufsentscheidungen. Dieses Risiko motiviert eine spezifische Strategie: die Vorabmobilisierung von Unterstützung im eigenen Netzwerk. Wenn eine Entscheidung scheitert, ist ein Entscheider mit Konsens-Basis deutlich besser geschützt als einer, der alleine entschieden hat.
+**Direkt dokumentierter Ausgangspunkt:** In der proprietären CEB-Datengrundlage wird „widespread support for the supplier across my organization“ als zentraler Loyalitätstreiber von Senior-Entscheidern berichtet (SRC-0004, ST-0126). Dieser Befund zeigt die Bedeutung interner Unterstützung im untersuchten Challenger-Kontext. Er testet jedoch weder, ob Unterstützung für jeden Abschluss notwendig ist, noch warum Entscheider sie bevorzugen.
 
-Drei Teilmechanismen wirken zusammen:
+**Mechanistische Interpretation:** MEC-0014 ordnet diesen Befund als mögliche Kaufsicherheitslogik ein. Drei Pfade sind zu unterscheiden; sie besitzen nicht denselben Evidenzstatus:
 
-**1. Risikodiffusion durch geteilte Verantwortung:**  
-Wenn mehrere Stakeholder einer Entscheidung zustimmen, verteilt sich persönliche Verantwortung bei negativem Ausgang. Der psychologische Effekt: Entscheider treffen mutigere (riskantere) Entscheidungen, wenn sie breiteren Rückhalt haben.
+**1. Persönliche Absicherung durch geteilte Unterstützung — Kernhypothese, B2B-spezifisch ungetestet:**
+Wenn mehrere Stakeholder eine Entscheidung mittragen, könnte sich das individuell wahrgenommene Reputations- und Verantwortungsrisiko verringern. Der vorhandene CEB-Befund ist mit dieser Erklärung vereinbar, misst diesen Mediator aber nicht direkt.
 
-**2. Soziale Validierung (überlappend mit MEC-0006 Social Proof):**  
-Wenn Kollegen die Richtigkeit einer Entscheidung bestätigen, steigt das interne Sicherheitsgefühl. Dies ist verwandt mit, aber anders als klassischer Social Proof: Hier geht es nicht um Korrektheit (was machen andere?), sondern um Absicherung (werde ich unterstützt?).
+**2. Soziale Validierung — verwandter, nicht direkt geprüfter Pfad:**
+Interne Zustimmung kann zugleich als Korrektheits- oder Akzeptanzsignal wirken. Diese Erklärung ist mit MEC-0006 verwandt, wurde für den konkreten ST-0126-Befund aber nicht separat getestet. Die Abgrenzung „Korrektheitssignal“ versus „persönliche Absicherung“ ist daher eine analytische Trennung des Codex, kein empirisch nachgewiesener Mediatorenvergleich.
 
-**3. Präventive Einwandantizipation:**  
-Ein gut aufgestellter Konsens-Aufbau exponiert den Entscheider frühzeitig gegenüber internen Einwänden — und er kann diese vor dem offiziellen Entscheidungsprozess ausräumen. Das erhöht die Erfolgswahrscheinlichkeit der Entscheidung.
+**3. Frühe Konfliktklärung — angrenzender Prozesspfad:**
+Die Einbindung verschiedener Rollen macht unterschiedliche Erwartungen und Konflikte sichtbar. Sheth (1973; ST-0312, ST-0313) liefert hierfür eine konzeptionelle Rollendifferenzierung und Konfliktlösungstypologie. Die Quelle testet nicht, ob frühe Konfliktklärung die Abschlusswahrscheinlichkeit erhöht und stützt nicht direkt die persönliche Absicherungshypothese.
 
 **Vertriebsimplikation:**  
-Der Verkäufer, der primär auf den formalen Entscheider fokussiert, übersieht, dass dieser Entscheider selbst ein Verkaufsproblem hat: Er muss intern verkaufen. Der Challenger-Ansatz unterstützt den Champion dabei — durch "Mobilizer"-Identifikation und durch maßgeschneiderte Materialien, die der Champion intern verwenden kann.
+Für den Vertrieb folgt daraus eine begründete Arbeitshypothese: Bei komplexen Multi-Stakeholder-Käufen kann es sinnvoll sein, einen internen Champion bei Stakeholder-Kommunikation und Konfliktklärung zu unterstützen. Die vorhandene Evidenz belegt nicht, dass dies in jedem B2B-Kontext notwendig oder einem direkten Entscheiderzugang grundsätzlich überlegen ist.
 
 **Abgrenzung zu MEC-0006 (Social Proof):**  
-MEC-0006 erklärt, warum externe Referenzen ("andere Kunden kaufen es auch") überzeugen. MEC-0014 erklärt, warum interne organisationale Absicherung Kaufentscheidungen möglich macht. Unterschied: Korrektheitssignal (MEC-0006) vs. Sicherheitsmechanismus (MEC-0014). Beide können in einem Kaufprozess gleichzeitig wirken.
+MEC-0006 beschreibt soziale Bewährtheit als Korrektheitssignal. MEC-0014 behandelt interne Unterstützung als möglichen Sicherheits- und Akzeptanzpfad im organisationalen Kauf. Beide Erklärungen können gleichzeitig wirken; ihre relative kausale Bedeutung wurde im Buying-Center-Kontext nicht direkt verglichen.
 
 ## Verknüpfte Prinzipien
 
@@ -49,34 +49,44 @@ MEC-0006 erklärt, warum externe Referenzen ("andere Kunden kaufen es auch") üb
 
 ## Wissenschaftliche Grundlage
 
-- CEB / Gartner (2011): *The Challenger Sale* — "widespread support from across their organization" als Top-1-Loyalitätstreiber für Entscheider
-- Janis, I. (1972): *Victims of Groupthink* — Gruppen-Entscheidungspsychologie (Kontext: Risikodiffusion)
-- Cialdini, R. (1984): *Influence* — Social Proof (MEC-0006) als verwandter Mechanismus
-- Kahneman, D. (2011): *Thinking, Fast and Slow* — Risk aversion in Verlustdomäne (Verbindung zu MEC-0002)
+**Direkte Objektbasis:**
+
+- CEB (Dixon & Adamson 2011), *The Challenger Sale* — ST-0126 dokumentiert organisationsweite Unterstützung des Lieferanten als zentralen Loyalitätstreiber bei Senior-Entscheidern. Proprietäre Datengrundlage; Rohdaten und vollständige Methodik sind nicht öffentlich prüfbar.
+
+**Source-grounded angrenzende Befunde:**
+
+- Sheth (1973), SRC-0025 / ST-0312–ST-0314 — Rollendifferenzierung und Konfliktlösung im Buying Center; theoretisches Integrationsmodell, kein direkter Test der persönlichen Absicherungshypothese.
+
+**Theoretische Cross-Links, nicht als direkte Objektstütze gezählt:**
+
+- MEC-0006 (Social Proof), MEC-0002 (Verlustaversion) und MEC-0030 (Vertrauensbildung) liefern mögliche Nachbarpfade. Keiner dieser allgemeinen Mechanismen testet den spezifischen Champion-/Buying-Center-Transfer von MEC-0014 direkt.
+- Janis (1972) wird nicht als tragende Grundlage geführt: Groupthink wurde in W-004 wegen schwacher empirischer Bestätigung ausdrücklich nicht integriert.
 
 ## Ergänzende Theorie-Referenzen (ARS-0001, Research Pack 1, 2026-07-01)
 
-Im Rahmen des Academic Recovery Sprint wurden folgende theoretische Standardwerke als thematisch einschlägig identifiziert und verifiziert (Autor/Jahr/Journal per Websuche geprüft). Sie liefern akademisches Fundament für die im Mechanismus beschriebene Buying-Center- und Risikoverteilungs-Logik, wurden aber **nicht** per Primärtext-Extraktion in den Codex-Standardprozess (Statements/Annahmen) überführt. Sie ergänzen die „Wissenschaftliche Grundlage", ändern aber das Evidenzlevel nicht:
+Im Rahmen des Academic Recovery Sprint wurden folgende theoretische Standardwerke als thematisch einschlägig identifiziert. Nur Sheth (1973) wurde anschließend per Primärtext-Extraktion verarbeitet. Webster & Wind (1972) und Eisenhardt (1989) bleiben trotz gezielter Zugriffsversuche ungeprüfte Referenzkandidaten und werden **nicht** als tragende Evidenz für die Kernaussage gezählt:
 
 - Webster, F.E. & Wind, Y. (1972): *A General Model for Understanding Organizational Buying Behavior*. Journal of Marketing, 36(2), 12–19. — Klassisches Modell organisationaler Kaufentscheidungen als Gruppenprozess; theoretischer Rahmen für die Buying-Center-Prämisse von MEC-0014.
 - Sheth, J.N. (1973): *A Model of Industrial Buyer Behavior*. Journal of Marketing, 37(4), 50–56. — Psychologische Dimension gemeinsamer Kaufentscheidungen (Erwartungsdivergenz zwischen Buying-Center-Mitgliedern); ergänzt die „Präventive Einwandantizipation"-Komponente. ⚠ Research Pack 1 nannte fälschlich „1987" — korrigiert auf verifiziertes Jahr 1973.
-- Eisenhardt, K.M. (1989): *Agency Theory: An Assessment and Review*. Academy of Management Review, 14(1), 57–74. — Principal-Agent-Rahmen; liefert eine alternative/ergänzende theoretische Grundlage für „Risikodiffusion durch geteilte Verantwortung" (Teilmechanismus 1): Der einzelne Entscheider als Agent mit eigenem Reputationsrisiko gegenüber dem Prinzipal (Organisation) sucht Konsens auch zur Absicherung gegen Agency-Risiko, nicht nur aus Gruppenpsychologie. **AR-005-Zugriffsstatus (2026-07-13):** Ein gezielter Volltextzugriffsversuch (Verlag, JSTOR, Unpaywall, Semantic Scholar, ResearchGate, Academia.edu, Autoren-/Stanford-Profilseiten) blieb ohne Erfolg — siehe `02_sources/studies/SRC-0027_eisenhardt_1989_agency_theory_assessment_review.md`. Diese Referenz bleibt damit weiterhin eine unextrahierte Theorie-Referenz; der unten (Abschnitt "Erweiterung: Buying-Center-Koalitionsforschung ... W-004") bereits ausgearbeitete Agency-Theory-Kausalpfad wurde ebenfalls ohne Primärtextzugriff formuliert und bleibt entsprechend ohne direkte Validierung gegen Eisenhardts eigenen Text.
+- Eisenhardt, K.M. (1989): *Agency Theory: An Assessment and Review*. Academy of Management Review, 14(1), 57–74. — möglicher Principal-Agent-Rahmen für individuelles Reputationsrisiko. **AR-005-Zugriffsstatus (2026-07-13):** Der Volltext blieb unzugänglich; siehe SRC-0027. Der in W-004 formulierte Agency-Pfad ist daher eine unvalidierte Transferhypothese des Codex, keine aus Eisenhardts Primärtext extrahierte Aussage.
 
-**Status:** Kandidaten für vollständige Integration (Statement-Extraktion, ggf. eigenständiges MEC „Principal-Agent-Risiko im Buying Center") in einem künftigen Sprint mit Primärtextzugriff. Bis dahin: dokumentierte, aber nicht ausgeschöpfte Literaturbasis. Siehe `00_project/ACADEMIC_RECOVERY_REPORT.md`.
+**Status:** Sheth ist verarbeitet; Webster & Wind und Eisenhardt bleiben blockiert. Ein eigenständiges MEC „Principal-Agent-Risiko im Buying Center“ wird ohne Primärtextprüfung nicht angelegt. Siehe `00_project/ACADEMIC_RECOVERY_REPORT.md` und `00_project/ACADEMIC_RECOVERY_CONSOLIDATION_REPORT.md`.
 
 ## Evidenzlevel
 
-E3 (für den Challenger-Kontext — CEB-Befragungsstudie, keine RCT)  
-E3 (für den allgemeinen Mechanismus — Gruppenentscheidungspsychologie gut dokumentiert in sozialpsychologischer Literatur, aber spezifisch für B2B-Käufe wenig experimentell untersucht)  
-⚠ Keine Änderung durch ARS-0001: Die ergänzten Theorie-Referenzen (s.o.) stützen den Mechanismus plausibel, sind aber nicht in Codex-Statements überführt — E3 bleibt bestehen, bis Primärtext-Extraktion erfolgt.
+E3 für den beobachteten Challenger-Kontext — proprietäre CEB-Befragungsdaten, kein öffentlich prüfbarer Datensatz und kein Kausaltest.
+E2 für die spezifische Mechanismusinterpretation „interne Unterstützung → geringeres persönliches Reputations-/Verantwortungsrisiko → höhere Kaufsicherheit“ — plausibler Transfer, aber kein direkter B2B-Mediatorentest.
+E2 für die Generalisierung über den Challenger-/Enterprise-Kontext hinaus. Sheth (1973) ergänzt das Buying-Center-Verständnis, testet diese Kausalkette jedoch nicht.
 
 ## Vertriebsrelevanz
 
-Hoch — erklärt, warum ein "überzeugte Champion"-Strategie im modernen B2B zu häufig scheitert und warum Stakeholder-Tailoring und Champion-Mobilisierung als explizite Vertriebsskills notwendig sind.
+Potenziell hoch im komplexen Enterprise-B2B — liefert eine plausible Begründung für Stakeholder-Tailoring und Champion-Unterstützung. Die vorhandene Evidenz reicht nicht für die universelle Aussage, diese Fähigkeiten seien in jedem B2B-Kauf notwendig oder ein einzelner Entscheider könne grundsätzlich nicht ausreichen.
 
 ## Grenzen
 
-- Wirkt stärker in risikoaversen, bürokratischen Organisationen; in Startup-Umfeldern mit klarer Entscheidungshierarchie kann ein einzelner Entscheider ausreichend sein
+- Direkte Objektbasis ist eine proprietäre CEB-Quelle; Rohdaten, Mediatoren und vollständige Methodik sind nicht öffentlich prüfbar
+- Strukturelle Notwendigkeit von Zustimmung, subjektive Präferenz für Rückhalt und persönliche Risikoabsicherung sind unterschiedliche Aussagen und dürfen nicht gleichgesetzt werden
+- Stärke und Relevanz variieren voraussichtlich nach Kaufvolumen, Governance, Unternehmensgröße und Entscheidungshierarchie; diese Moderatoren sind im Objekt nicht direkt getestet
 - Konsens-Aufbau durch den Verkäufer kann als Einmischung in interne Prozesse wahrgenommen werden — backfires wenn zu aggressiv
 - Über-Konsens kann Entscheidungen verlangsamen und Deal-Timelines strecken
 
@@ -85,6 +95,7 @@ Hoch — erklärt, warum ein "überzeugte Champion"-Strategie im modernen B2B zu
 - Wie verhält sich der Mechanismus mit zunehmend digitalisierten Einkaufsprozessen (Procurement-Plattformen, die direkten Verkäufer-Stakeholder-Kontakt einschränken)?
 - Gibt es Branchen oder Unternehmensgrößen, in denen Konsens-Anforderungen systematisch geringer sind?
 - Wie misst man den "Konsens-Grad" innerhalb eines Kauf-Accounts als Lead-Scoring-Signal?
+- Vermitteln persönliches Reputationsrisiko, soziale Validierung oder formale Governance den Zusammenhang zwischen interner Unterstützung und Kaufbereitschaft — und mit welchem relativen Gewicht?
 
 ## Erweiterung: Citation Enrichment — Formale Absicherung vs. relationales Vertrauen (Research Program W-003)
 
@@ -112,15 +123,15 @@ Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MAST
 
 **Wichtiger Einordnungsvorbehalt (Cabanelas, Mora Cortez & Charterina, 2023, *Industrial Marketing Management*, 108, 65–78):** Die vorstehende Koalitionsliteratur ist akademisch etabliert und methodisch divers (Soziometrie, Multidimensionale Skalierung, Feldbefragung), repräsentiert aber laut dieser aktuellen Übersichtsarbeit kein aktiv wachsendes Forschungsfeld — Publikationszahlen zum Buying-Center-Konzept sind seit den späten 2000er-Jahren rückläufig. Diese Erweiterung stützt sich damit auf eine etablierte, aber überwiegend historische (1979–1999) Evidenzbasis, nicht auf eine sich weiterentwickelnde Forschungsfront.
 
-**2. Ausgearbeiteter Agency-Theory-Pfad.** Die bereits seit ARS-0001 (2026-07-01) als "ergänzende Theorie-Referenz" geführte, aber nie extrahierte Eisenhardt (1989)-Quelle wird hier erstmals zu einem expliziten Kausalpfad ausgearbeitet: Der Champion tritt gegenüber der eigenen Organisation als **Agent** auf, der ein individuelles Reputationsrisiko trägt, das der **Prinzipal** (die Organisation) nicht symmetrisch teilt. Dieser Agency-Pfad ergänzt, ersetzt aber nicht die bereits bestehende Kernaussage dieses Objekts (Konsens als Risikodiffusion) — er liefert eine zusätzliche, strukturelle Begründung dafür, warum Konsens-Aufbau für den Champion individuell rational ist, unabhängig vom tatsächlichen Organisationsnutzen.
+**2. Vorläufiger Agency-Theory-Transferpfad.** W-004 formulierte aus der damals bereits als ergänzende Theorie-Referenz geführten, aber nie extrahierten Eisenhardt-(1989)-Quelle folgenden Transfer: Der Champion könnte gegenüber der eigenen Organisation als **Agent** ein individuelles Reputationsrisiko tragen, das der **Prinzipal** (die Organisation) nicht symmetrisch teilt. AR-005 bestätigte anschließend, dass dieser Pfad nie gegen Eisenhardts Primärtext geprüft wurde. Er bleibt deshalb eine plausible Strukturhypothese des Codex und darf nicht als aus Eisenhardt extrahierter oder im Buying Center getesteter Kausalpfad dargestellt werden.
 
-**3. Cross-Link zu MEC-0002 (Prospect Theory/Verlustaversion).** Warum der Champion das eigene Karriererisiko stärker gewichtet als den ungewissen Organisationsnutzen, erklärt sich zusätzlich durch Verlustaversion (Kahneman & Tversky 1979; bereits im Codex über MEC-0002 geführt): Ein potenzieller Verlust (Karriereschaden) wird stärker gewichtet als ein gleich großer potenzieller Gewinn (Unternehmensnutzen). Diese Kombination aus Agency-Theory-Struktur (Punkt 2) und Prospect-Theory-Gewichtung (dieser Punkt) ersetzt die im Rahmen von W-004 geprüfte, aber nicht zur Integration empfohlene Neuanlage eines eigenständigen Meta-Prinzips "Asymmetrische Risikoverteilung" (`00_project/review_queue.md`) — der dort postulierte Kausalpfad ist vollständig als Kombination dieser beiden bereits vorhandenen bzw. jetzt ausgearbeiteten Erklärungen rekonstruierbar, ohne dass ein dritter, eigenständiger Prozess erforderlich wäre.
+**3. Cross-Link zu MEC-0002 (Prospect Theory/Verlustaversion).** Verlustaversion bietet eine mögliche Zusatzhypothese dafür, warum ein Champion potenziellen persönlichen Karriereschaden stärker gewichten könnte als einen ungewissen Organisationsnutzen. Der allgemeine Verlustaversionsmechanismus ist über MEC-0002 fundiert; seine Anwendung auf die konkrete Champion-Situation ist nicht direkt getestet. Die W-004-Entscheidung, kein eigenständiges Meta-Prinzip "Asymmetrische Risikoverteilung" anzulegen, bleibt bestehen: Der Kandidat besitzt keinen nachgewiesenen eigenständigen Kausalpfad über diese bereits vorhandenen Erklärungsangebote hinaus.
 
 **4. Cross-Link zu MEC-0030 (Verkäufer–Champion–Organisation-Dreiecksbeziehung) — ausdrücklich als offene, ungetestete Kopplung markiert.** MEC-0030 (Vertrauensbildung aus wahrgenommener Vertrauenswürdigkeit, W-003) dokumentiert bereits in seiner eigenen Abgrenzungstabelle eine thematische Nähe zu diesem Objekt über dieselbe Agency-Theory-Referenz. Die im Rahmen von W-004 durch die Peer Review identifizierte, in der Theory Landscape bestätigte offene Frage: Ein Champion, der gegenüber dem Verkäufer ein Trustworthiness-Urteil bildet (MEC-0030), könnte dadurch eher bereit sein, das hier beschriebene organisationale Risiko einzugehen. Diese Kopplung ist plausibel, aber durch keine in W-003 oder W-004 gesichtete Quelle direkt getestet — sie wird hier als Cross-Link dokumentiert, nicht als empirisch bestätigter Kausalpfad.
 
 **Nicht integriert (Editor Decision W-004, Einzelentscheidung 2):** Der Meta-Prinzip-Kandidat "Asymmetrische Risikoverteilung im Buying Center" wird nicht als eigenständiges Wissensobjekt angelegt — siehe Punkt 3 oben. Ebenfalls nicht integriert: Social Identity Theory (kein direkter Beleg für Buying-Center-Transfer identifiziert), Groupthink (schwache empirische Bestätigung, Esser 1998; Mullen et al. 1994), Group Polarization (keine ausdrückliche Freigabe).
 
-**Kein E-Level-Wechsel der bestehenden Kernaussage** (bleibt E3 für den Challenger-Kontext, E3 für den allgemeinen Mechanismus). Die neu ergänzte Koalitionsliteratur wird eigenständig als E3 geführt (Feldstudien, kein Multi-Labor-Replikationsstandard); der ausgearbeitete Agency-Theory-Pfad als E3–E4 (starke allgemeine Theorie, plausibler, aber nicht direkt getesteter Buying-Center-Transfer); der Prospect-Theory-Cross-Link als E4–E5 für den allgemeinen Mechanismus (bereits in MEC-0002), E2 für den spezifischen Champion-Transfer.
+**Evidenzkalibrierung nach AR-005 / ED-AR-4:** Der beobachtete Challenger-Kontext bleibt E3; die spezifische MEC-0014-Kausalkette und ihre Generalisierung werden E2 geführt (siehe Abschnitt "Evidenzlevel"). Die W-004-Koalitionsliteratur bleibt als eigenständige, überwiegend historische E3-Kontextlinie dokumentiert, erhöht aber nicht die Evidenz der Kaufsicherheits-Kernaussage. Für den Agency-Transfer wird ohne Primärtextprüfung kein eigenständiges E3–E4 beansprucht; der spezifische Champion-Transfer bleibt E2. Der Prospect-Theory-Cross-Link bleibt E4–E5 für den allgemeinen Mechanismus in MEC-0002 und E2 für die konkrete Champion-Anwendung.
 
 **Offene Frage:** Volltextprüfung von Kohli (1989) sowie von Cabanelas et al. (2023) steht aus (siehe `00_project/SCIENTIFIC_DEBT.md`, Sektion "W-004").
 
@@ -164,4 +175,4 @@ Vollständige Herleitung: `02_sources/studies/SRC-0025_sheth_1973_model_industri
 
 ## Status
 
-Entwurf — erstellt 2026-06-30 (SRC-0004); ergänzt 2026-07-05 (W-003 — Citation Enrichment, keine strukturelle Änderung); ergänzt 2026-07-06 (W-004 — Buying-Center-Koalitionsforschung, ausgearbeiteter Agency-Theory-Pfad, Cross-Links zu MEC-0002 und MEC-0030, kein E-Level-Wechsel der Kernaussage); ergänzt 2026-07-12 (W-008 — Vor-Konsens-/Nach-Konsens-Phasendifferenzierung als ungetestete Arbeitshypothese, kein E-Level-Wechsel); ergänzt 2026-07-13 (AR-004 — Sheth 1973 vollständig statement-extrahiert, drei ST-Objekte, kein E-Level-Wechsel; Webster & Wind 1972 weiterhin ohne Volltextzugriff, unverändert Theorie-Referenz; A-0019 unverändert); ergänzt 2026-07-13 (AR-005 — Eisenhardt 1989 Volltextzugriff geprüft und weiterhin blockiert, kein Fortschritt gegenüber ARS-0001/W-004, keine Statement-Extraktion, kein neuer MEC angelegt; Zugriffsstatus-Vermerk bei der bestehenden Eisenhardt-Theorie-Referenz ergänzt)
+Entwurf — erstellt 2026-06-30 (SRC-0004); ergänzt 2026-07-05 (W-003 — Citation Enrichment, keine strukturelle Änderung); ergänzt 2026-07-06 (W-004 — Buying-Center-Koalitionsforschung, Agency-Theory-Transferpfad, Cross-Links zu MEC-0002 und MEC-0030); ergänzt 2026-07-12 (W-008 — Vor-Konsens-/Nach-Konsens-Phasendifferenzierung als ungetestete Arbeitshypothese); ergänzt 2026-07-13 (AR-004 — Sheth 1973 vollständig statement-extrahiert, drei ST-Objekte; Webster & Wind 1972 weiterhin ohne Volltextzugriff; A-0019 unverändert); ergänzt 2026-07-13 (AR-005 — Eisenhardt 1989 weiterhin blockiert, keine Statement-Extraktion, kein neuer MEC); präzisiert 2026-07-14 (ED-AR-4 — direkte CEB-Beobachtung, B2B-Mechanismusinterpretation und angrenzende Buying-Center-Befunde getrennt; Agency-Pfad als unvalidierte Transferhypothese gekennzeichnet; Evidenzbild E3 beobachteter Challenger-Kontext / E2 spezifische Kausalkette und Generalisierung)

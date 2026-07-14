@@ -148,6 +148,8 @@ Geänderte/neue Dateien: `02_sources/studies/SRC-0025_sheth_1973_model_industria
 
 **Wichtiger Befund unabhängig vom Zugriffsstatus:** Der in MEC-0014 seit W-004 (2026-07-06) bereits ausgearbeitete "Agency-Theory-Pfad" (Champion als Agent mit individuellem Reputationsrisiko gegenüber der Organisation als Prinzipal) wurde selbst ohne Primärtextzugriff formuliert — auf Basis allgemeinen Aufbaus der Agency-Theory-Literatur, nicht aus Eisenhardts eigenem Text. AR-005 konnte diesen Pfad mangels Zugriff weder bestätigen noch widerlegen; er bleibt als plausible, aber nicht primärtextvalidierte Erweiterung bestehen. Die Kernfrage des Auftrags (eigenständiger Mechanismus vs. Erweiterung von MEC-0014 vs. reine Umformulierung) bleibt daher **vollständig offen** und ist ohne Volltextzugriff nicht auflösbar.
 
+**Nachgelagerte Editorentscheidung (2026-07-14, ED-AR-4):** Die Primärquellenfrage bleibt blockiert; die aktuelle Objektfrage wurde dennoch konservativ entschieden. Kein eigenständiges MEC "Principal-Agent-Risiko" wird ohne Primärtextprüfung angelegt. MEC-0014 trennt nun den beobachteten CEB-/Challenger-Befund (E3) von der spezifischen Kaufsicherheits-Kausalkette und ihrer Generalisierung (je E2); der W-004-Agency-Pfad ist ausdrücklich als unvalidierte Transferhypothese gekennzeichnet. Damit blockiert AR-005 weiterhin die Quellenvalidierung, aber keine aktuelle Objektentscheidung mehr.
+
 Geänderte/neue Dateien: `02_sources/studies/SRC-0027_eisenhardt_1989_agency_theory_assessment_review.md`, `03_knowledge_base/mechanisms/MEC-0014_konsens_als_kaufsicherheit_in_gruppen.md` (reiner Zugriffsstatus-Vermerk, keine inhaltliche Erweiterung), `05_research/LITERATURE_INDEX.md` (Sektion F), `00_project/SCIENTIFIC_DEBT.md`. Vollständiger Bericht: `00_project/AR-005_COMPLETION_REPORT.md`.
 
 ---
@@ -335,6 +337,8 @@ Geänderte/neue Dateien: `02_sources/studies/SRC-0027_eisenhardt_1989_agency_the
 | Publication-Bias-Frage | Nur allgemein vermerkt (SD-SYS-004) | Konkret geprüft, ggf. mit spezifischer Quelle belegt oder als "nicht spezifisch belegbar" abschließend dokumentiert |
 | Principal-Agent-Lücke | Nicht existent | Entweder neues MEC oder begründete Nicht-Anlage-Dokumentation (CKM Abschnitt 9) |
 | Generalisierbarkeit (C+) | Schwächste Dimension | Potenzielle Anhebung durch Ohiomah/Marcos-Cuevas-Volltextintegration — abhängig von Befunden |
+
+**Tatsächlicher Stand nach Abschluss und ED-AR-4 (2026-07-14):** Die für MEC-0014 erwartete Anhebung auf E3–E4 wurde nicht erreicht. Der beobachtete CEB-/Challenger-Befund bleibt E3; die spezifische Kaufsicherheits-Kausalkette und ihre Generalisierung werden E2 geführt. Kein eigenständiges Principal-Agent-MEC wurde angelegt; der vorhandene Agency-Pfad ist bis zur Primärtextprüfung als unvalidierte Transferhypothese gekennzeichnet.
 
 **Wichtiger Vorbehalt:** Dieser Plan beschreibt Recherche- und Integrationsarbeit, keine garantierten Ergebnisse. Sollte AR-001 (Problemreife-Hypothese) keine direkte Bestätigung finden, ist die korrekte wissenschaftliche Konsequenz die explizite Dokumentation dieser Lücke — nicht eine nachträgliche Anpassung der Suche, bis ein passendes Ergebnis gefunden wird.
 

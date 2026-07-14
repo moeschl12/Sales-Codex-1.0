@@ -1,4 +1,4 @@
-# ST-0126 — Entscheider wollen Teamrückhalt: Konsens schlägt direkten C-Level-Zugang
+# ST-0126 — Organisationsweite Unterstützung ist ein zentraler Entscheider-Loyalitätstreiber im CEB-Datensatz
 
 ## Statement ID
 
@@ -18,7 +18,7 @@ Und:
 
 ## Paraphrase
 
-CEB-Loyalitätsdaten differenziert nach Entscheider vs. Beeinflusser zeigen: Für Senior Decision Makers ist "organizationsweite Unterstützung des Lieferanten" der wichtigste Loyalitätstreiber — wichtiger als Preis, individuelle Rep-Fähigkeiten oder Anpassungsbereitschaft. Senior-Entscheider kaufen nicht allein — sie wollen, dass ihr Team hinter dem Kauf steht, bevor sie unterschreiben. Direkte C-Level-Ansprache ohne Teamkonsens ist kontraproduktiv. Der Weg zum Entscheider führt über die Stakeholder-Organisation.
+Die im Buch berichteten CEB-Loyalitätsdaten differenzieren zwischen Senior-Entscheidern und Beeinflussern. Für Senior-Entscheider steht „organisationsweite Unterstützung des Lieferanten“ an der Spitze der berichteten Loyalitätstreiber. Die Autoren leiten daraus ab, dass ein indirekter Zugang über relevante Stakeholder häufig wirksamer ist als die ausschließliche direkte Ansprache des Entscheiders. Der Befund zeigt eine Priorität im proprietären CEB-Datensatz; er beweist weder, dass Senior-Entscheider niemals allein kaufen, noch dass direkter C-Level-Zugang ohne Teamkonsens generell kontraproduktiv ist.
 
 ## Aussage-Typ
 
@@ -30,8 +30,8 @@ Direkte Implikation für die Tailor-Dimension: Tailoring bedeutet nicht nur, die
 
 ## Mögliche Annahmen
 
-- A-Kandidat: Komplexe B2B-Kaufentscheidungen sind strukturell konsensuell — kein einzelner Champion ist ausreichend
-- Direkter C-Level-Kontakt ohne Unterbau erhöht das Risiko für den Entscheider und reduziert damit die Abschlusswahrscheinlichkeit
+- A-Kandidat: In komplexen B2B-Käufen kann breite interne Unterstützung die Lieferantenloyalität von Senior-Entscheidern erhöhen
+- Möglicher, in dieser Quelle nicht direkt getesteter Mediator: Interne Unterstützung verringert das vom Entscheider wahrgenommene persönliche Risiko
 
 ## Mögliche Prinzipien
 
@@ -48,4 +48,4 @@ Dieses Objekt beruht (mit) auf der proprietaeren CEB-Befragungsstudie (N≈ 6.00
 
 ## Status
 
-Entwurf
+Entwurf — Wortlaut am 2026-07-14 durch ED-AR-4 auf den direkt berichteten CEB-Befund begrenzt; universelle Notwendigkeits- und Kontraproduktivitätsaussagen entfernt

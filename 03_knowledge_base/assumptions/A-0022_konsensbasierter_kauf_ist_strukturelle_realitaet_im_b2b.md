@@ -10,15 +10,15 @@ SRC-0004
 
 ## Name
 
-Kaufentscheidungen im modernen B2B-Vertrieb werden nicht von Einzelpersonen gefällt, sondern von Kollektiven — und der Aufbau von Konsens ist eine explizite Bedingung für Deal-Abschlüsse
+Breite interne Unterstützung ist in komplexen B2B-Käufen ein relevanter Entscheider-Loyalitätstreiber; ob sie eine notwendige Abschlussbedingung ist, bleibt offen
 
 ## Beschreibung
 
-Traditioneller B2B-Vertrieb fokussiert auf einen "Economic Buyer" oder "Champion" und versucht, diese Person zu überzeugen. CEB-Forschung zeigt, dass dieser Ansatz in modernen Kaufprozessen scheitert: Der einzelne Entscheider benötigt "widespread support from across their organization" als wichtigsten Faktor für seine Loyalität gegenüber einer Kaufentscheidung.
+Traditioneller B2B-Vertrieb fokussiert häufig auf einen "Economic Buyer" oder "Champion". Die im Challenger-Buch berichteten CEB-Daten führen "widespread support for the supplier across my organization" als wichtigsten Loyalitätstreiber der untersuchten Senior-Entscheider. Das spricht gegen einen ausschließlich personenbezogenen Vertriebsansatz im untersuchten Enterprise-Kontext, belegt aber weder dessen generelles Scheitern noch eine universelle Konsenspflicht für Abschlüsse.
 
-Die Konsequenz: Vertrieb muss nicht nur den Entscheider überzeugen, sondern das gesamte Stakeholder-Netzwerk. Der Challenger-Ansatz dazu: Mobilisierung des Kundennetzwerks, nicht durch den Verkäufer selbst, sondern durch den Champion, der mit den richtigen Materialien und Argumenten ausgestattet wird ("Mobilizer" statt "Talker").
+Die praktische Ableitung des Challenger-Ansatzes lautet, neben dem Entscheider auch relevante Stakeholder einzubeziehen und einen internen Champion mit geeigneten Materialien und Argumenten zu unterstützen ("Mobilizer" statt "Talker"). Dies ist die Autorenempfehlung aus dem Befund, kein experimentell getesteter Wirksamkeitsvergleich.
 
-Diese Annahme impliziert, dass ein einziger guter Champion im Kundenunternehmen nicht ausreicht, wenn er kein internes Netzwerk aufbauen kann.
+Die vorsichtige praktische Annahme lautet deshalb: Ein Champion ohne internen Rückhalt kann in komplexen Multi-Stakeholder-Käufen weniger wirksam sein. Ob ein einzelner Entscheider ausreicht, hängt unter anderem von Entscheidungshierarchie, formaler Governance, Kaufvolumen und wahrgenommenem Risiko ab; diese Moderatoren wurden in der CEB-Quelle nicht direkt getestet.
 
 ## Quelle(n)
 
@@ -33,7 +33,7 @@ Diese Annahme impliziert, dass ein einziger guter Champion im Kundenunternehmen 
 
 ## Warum diese Annahme wichtig ist
 
-Wenn Einzelpersonen-Überzeugung ausreichen würde, könnte Vertrieb stark auf einen "Top Decision Maker Access"-Ansatz setzen. Die Konsens-Annahme impliziert, dass dies ineffizient ist — und dass die Fähigkeit, einen Champion zu empowern (statt ihn nur zu überzeugen), der eigentliche Vertriebsskill ist.
+Die Annahme begründet, warum Champion-Unterstützung und Stakeholder-Arbeit in komplexen Käufen relevant sein können. Sie belegt nicht, dass diese Fähigkeiten in jedem B2B-Kontext der zentrale Vertriebsskill sind.
 
 ## Was passiert, wenn die Annahme falsch ist?
 
@@ -41,7 +41,7 @@ In Unternehmen mit starker autoritärer Entscheidungsstruktur (z.B. familiengef�
 
 ## Evidenzstatus
 
-E3 — CEB-Befragungsstudie zur Kaufentscheidungsstruktur. Mehrstufige Annahme: (1) Konsens ist strukturell notwendig, (2) der Entscheider selbst will Konsens als Absicherung. Kausalität nicht experimentell belegt.
+E3 für den beobachteten CEB-/Challenger-Befund zur Rangfolge der Loyalitätstreiber. E2 für die weitergehenden Annahmen, dass breite Unterstützung eine strukturelle Abschlussbedingung ist oder über persönliche Risikoabsicherung wirkt; beides wurde nicht direkt kausal getestet.
 
 ## Kontext
 
@@ -55,4 +55,4 @@ Stärker ausgeprägt bei großen Unternehmensverkäufen (Enterprise) als bei SMB
 
 ## Status
 
-Entwurf
+Entwurf — am 2026-07-14 durch ED-AR-4 evidenzkalibriert; CEB-Beobachtung, strukturelle Notwendigkeit und persönliche Absicherung getrennt
