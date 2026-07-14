@@ -10,7 +10,7 @@ Eine Lösung wirkt für den Kunden wertvoller, wenn die Konsequenzen des aktuell
 
 ## Evidenzklassifikation
 
-Vorläufig: E4-Kandidat
+E3 — Vertriebsprinzip mit plausibler mechanistischer Fundierung über MEC-0002, aber aktuell nur einer direkten Vertriebsquelle (SRC-0001). Die frühere Kennzeichnung "E4-Kandidat" wurde per Editorentscheidung ED-AR-1 (2026-07-14) nach AR-007/Academic-Recovery-Konsolidierung präzisiert: keine unabhängige zweite Evidenzbasis für die spezifische P-0002-Aussage im Vertriebskontext identifiziert.
 
 ## Kontextlabel
 
@@ -24,6 +24,7 @@ Breit anwendbar; besonders stark bei High-Ticket, B2B, Beratung, Immobilien und 
 ## Unterstützende Quellen
 
 - SRC-0001 — SPIN Selling
+- MEC-0002 / AR-007 — robuste verhaltensökonomische Grundmechanik, aber keine direkte zweite Vertriebsquelle für die spezifische P-0002-Aussage
 
 ## Widersprechende Quellen
 
