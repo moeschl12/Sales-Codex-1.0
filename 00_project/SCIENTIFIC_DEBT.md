@@ -5,6 +5,8 @@ Version: 1.0
 Stand: 2026-06-30  
 Analogie: Technische Schulden in der Softwareentwicklung
 
+**Konsolidierungsverweis (2026-07-14):** Für eine nach AR-001–AR-014 konsolidierte Übersicht (erledigt / teilgeschlossen / blockiert / weiterhin offen / außerhalb Scope) sowie eine Sammlung der daraus offenen, noch nicht getroffenen Editorentscheidungen siehe `00_project/ACADEMIC_RECOVERY_CONSOLIDATION_REPORT.md`. Die Einzeleinträge in diesem Dokument bleiben die kanonische, detaillierte Quelle.
+
 ---
 
 ## Konzept

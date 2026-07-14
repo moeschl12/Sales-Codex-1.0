@@ -6,6 +6,8 @@
 **Grundlage:** Wissenschaftliches Gutachten nach Sprint 2, `PEER_REVIEW_DECISION_REPORT_SPRINT_002.md`, `ACADEMIC_RECOVERY_REPORT.md` (Research Pack 1)
 **Geltungsbereich:** Fortsetzung des Academic Recovery Sprint. **Kein Book Mode.** Practitioner-Bücher werden in diesem Sprint nicht analysiert.
 
+**Konsolidierungsstand (2026-07-14):** AR-001 bis AR-014 sind vollständig bearbeitet (abgeschlossen, teilblockiert oder blockiert — siehe Einzelabschnitte unten). Eine zusammenfassende Abschlussmatrix, eine Scientific-Debt-Konsolidierung und eine Sammlung offener Editorentscheidungen (nicht entschieden) stehen in `00_project/ACADEMIC_RECOVERY_CONSOLIDATION_REPORT.md`. Dieses Dokument bleibt die Einzelfall-Quelle je AR; der Konsolidierungsbericht ist der zentrale Ort für die programmweite Zusammenschau.
+
 ---
 
 ## 1. Zielsetzung
