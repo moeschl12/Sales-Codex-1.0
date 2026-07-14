@@ -156,9 +156,18 @@ Das Elaboration Likelihood Model (ELM, Petty, R.E. & Cacioppo, J.T. (1986). *Com
 
 Vollständige Herleitung: `06_research_program/completed/W002/02_SCIENTIFIC_MASTER_REVIEW.md`, `04_THEORY_LANDSCAPE.md`, `05_DECISION_BRIEF.md`, `06_EDITOR_DECISION.md`.
 
+## Erweiterung: AR-007 — Primärquellen-Prüfung Kahneman & Tversky 1979 (SRC-0030)
+
+**[Ergänzt 2026-07-14, T11_SCIDEBT-Sitzung AR-007. Reine Traceability-Präzisierung — keine inhaltliche Änderung, keine E-Level-Änderung.]**
+
+Die in der „Wissenschaftlichen Grundlage" dieses Objekts zitierte Originalarbeit Kahneman & Tversky (1979) wurde erstmals im Volltext direkt verarbeitet (SRC-0030). **Befund:** Das 1979-Paper enthält kein System-1/System-2-Modell — die Dual-Process-Terminologie stammt aus späterer Forschung (u. a. Stanovich/West 2000) und wurde von Kahneman erst in SRC-0010 (2011) als Synthese-Rahmen übernommen. Die 1979-Referenz trägt daher nur die Bias-Beispiele dieses Objekts (Loss Aversion als System-1-Bias, → MEC-0002), nicht die Dual-Process-Architektur selbst. **Verwechslungswarnung:** Die Zwei-Phasen-Struktur des 1979-Papers (Editing → Evaluation) ist ein eigenständiges Prozessmodell der Entscheidungsvorbereitung und NICHT mit System 1/System 2 identisch.
+
+**Konsequenz:** SRC-0010 bleibt die kanonische Primärquelle für das Dual-Process-Modell (wie seit 2026-07-01 dokumentiert); SRC-0030 wird als Primärquelle der Bias-Seite geführt. Auch Tversky & Kahneman (1974, SRC-0029) und Tversky & Kahneman (1981, SRC-0031) enthalten das Modell nicht (geprüft im Volltext, AR-007). Kein E-Level-Wechsel (E4 stützt sich auf die Dual-Process-Literatur insgesamt, nicht auf die 1979-Referenz). Details: `02_sources/studies/SRC-0030_kahneman_tversky_1979_prospect_theory.md`, `00_project/AR-007_COMPLETION_REPORT.md`.
+
 ## Status
 
 Entwurf — erstellt 2026-06-30 (SRC-0003)  
 **MacLean-Bereinigung 2026-07-01:** Triune-Brain-Terminologie aus Erklärungspfad entfernt. Nur Kahneman-Dual-Process-Rahmen (E4/E3) verbleibt. Entscheidung dokumentiert in `99_archive/00_project_history/peer_review/decisions/PEER_REVIEW_DECISION_REPORT_SPRINT_001.md`.
 **Erweitert 2026-07-01 (SRC-0010):** Kanonische Primärquelle ergänzt; Cognitive Ease, WYSIATI und Halo-Effekt als System-1-Phänomene eingetragen.
 **Erweitert 2026-07-05 (W-002):** ELM als persuasionsspezifische Klassifikationsebene ergänzt, minimaler Cross-Link zum Reflective-Impulsive Model, Editor Decision Teilweise annehmen.
+**Präzisiert 2026-07-14 (AR-007):** 1979-Referenz als Bias-Quelle, nicht als Dual-Process-Quelle eingeordnet (SRC-0030); Verwechslungswarnung Editing/Evaluation vs. System 1/2 ergänzt.

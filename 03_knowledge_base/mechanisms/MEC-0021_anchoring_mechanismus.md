@@ -111,3 +111,15 @@ Poundstone liefert die ausführlichste Primärquellen-Rekonstruktion des Anchori
 **Kein E-Level-Wechsel** (bleibt E5 — die neuen Primärquellen und Robustheitsbelege bestätigen und vertiefen die bestehende Einstufung; keine widersprechende Evidenz gefunden).
 
 **Neue Grenzen-Präzisierung:** Anchoring ist widerstandsfähig gegen (a) Expertise, (b) explizite Warnungen [bereits im Bestand], UND (c) allgemeine kognitive Reflexionsfähigkeit [neu, Oechssler et al.]. Einzige nachgewiesene wirksame Gegenmaßnahme ist die aktive, gezielte Anwendung von "Consider the Opposite" (Pfad-2-Intervention), nicht bloße Aufmerksamkeit oder Intelligenz.
+
+## Erweiterung: AR-007 — Primärquellen-Verankerung Tversky & Kahneman 1974 (SRC-0029)
+
+**[Ergänzt 2026-07-14, T11_SCIDEBT-Sitzung AR-007. Reine Traceability-Ergänzung — keine inhaltliche Änderung des Kausalpfads, keine E-Level-Änderung.]**
+
+Die Gründungsquelle Tversky & Kahneman (1974) wurde erstmals im Volltext direkt verarbeitet (SRC-0029 / ST-0317; Schlüsselzitate zeichengenau gegen das JSTOR-Digitalisat verifiziert). Damit sind die in „Kanonische Experimente" geführten Glücksrad-Angaben (Anker 10/65 → Mediane 25 %/45 %) erstmals aus der Originalquelle selbst belegt, nicht mehr nur über SRC-0010 (Kahneman 2011, Kap. 11) und die Poundstone-Rekonstruktion (SRC-0014/ST-0267). Neu aus der Originalquelle dokumentiert: **„Payoffs for accuracy did not reduce the anchoring effect"** — die Anreiz-Robustheit ist bereits 1974 Originalbefund und verstärkt die bestehende Grenzen-Aussage „Bewusstsein über Anchoring reduziert Effekt nicht vollständig".
+
+**Präzisierungsbefund zur Zwei-Pfad-Struktur (dokumentiert, nicht geglättet):** Die Originalquelle 1974 beschreibt ausschließlich Pfad 2 (Anchoring-and-Insufficient-Adjustment: „adjustments are typically insufficient … We call this phenomenon anchoring"). Pfad 1 (S1-Priming/assoziative Aktivierung, Selective Accessibility) ist eine spätere theoretische Entwicklung (u. a. Mussweiler/Strack, im Codex über SRC-0010 Kap. 11 und SRC-0014/ST-0270 verankert). Die Quellen-Zeile dieses Objekts („primär: Tversky & Kahneman (1974)") gilt daher für das Phänomen und Pfad 2, nicht für Pfad 1. Diese Zuordnung war im Objekt bislang nicht explizit — hiermit präzisiert.
+
+**Grenzen des Primärquellen-Transfers:** Keine Vertriebs-/Verhandlungs-/B2B-Kontexte in der Quelle (Schätzaufgaben zu Allgemeinwissen und Statistik); die verhandlungs- und preisspezifische Evidenz dieses Objekts stammt weiterhin aus den späteren Quellen (Northcraft/Neale, Galinsky/Mussweiler, Chapman/Bornstein, Ariely et al.). **Kein E-Level-Wechsel** (bleibt E5 — die direkte Primärquellen-Verankerung macht die bestehende Einstufung sauberer tracebar, ohne sie zu verändern).
+
+Zugriffsprotokoll und vollständige Quellenbewertung: `02_sources/studies/SRC-0029_tversky_kahneman_1974_judgment_under_uncertainty.md`.
