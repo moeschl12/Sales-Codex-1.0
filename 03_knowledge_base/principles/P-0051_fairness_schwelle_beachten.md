@@ -58,7 +58,7 @@ MEC-0025 beschreibt den kausalen Mechanismus (Normverletzung → Empörung → B
 
 ## Widersprechende Quellen
 
-- Keine direkten Widersprüche identifiziert. Einschränkung: Die kulturelle Generalisierbarkeit ist nicht universell (Henrich et al., ST-0285) — in Kulturen ohne ausgeprägte Markteinbindung kann das Muster stark abweichen (sowohl schwächer als auch stärker ausgeprägt als im westlichen Kontext).
+- Keine direkten Widersprüche identifiziert. Einschränkung: Die kulturelle Generalisierbarkeit ist nicht universell (Henrich et al. 2001, ST-0285/ST-0331) — in Kulturen ohne ausgeprägte Markteinbindung kann das Muster stark abweichen (sowohl schwächer als auch stärker ausgeprägt als im westlichen Kontext). **AR-012-Präzisierung (2026-07-14, `00_project/ACADEMIC_RECOVERY_PLAN.md`):** Diese Abweichung ist laut Primärquelle (SRC-0038) an sehr geringe Markteinbindung gekoppelt (kein realistischer B2B-Kontext). Innerhalb markwirtschaftlich integrierter Länder bestätigt eine 25-Länder-Meta-Analyse (Oosterbeek et al. 2004, SRC-0037, ST-0330) den Kernmechanismus als robust, findet aber eine nicht durch Hofstedes Kulturdimensionen erklärbare Restvariation im Ablehnungsverhalten zwischen Regionen — die Warnung vor pauschaler Übertragung bleibt bestehen, sollte sich aber nicht auf Hofstede-Prädiktoren stützen.
 
 ## Bedingungen: Wann funktioniert es (bzw. ist die Warnung relevant)?
 
