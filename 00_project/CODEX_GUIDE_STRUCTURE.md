@@ -1,8 +1,8 @@
 # Sales-Codex-Leitfaden: Konsolidierte Zielstruktur
 
-**Status:** Redaktionelle Zielstruktur nach Abgleich der Leitfadenarchitektur mit der Merge-Readiness-Übersicht.  
-**Datum:** 2026-07-14  
-**Grundlage:** `CODEX_GUIDE_ARCHITECTURE_DRAFT.md`, `CODEX_MERGE_READINESS_OVERVIEW.md`, `ACADEMIC_RECOVERY_CONSOLIDATION_REPORT.md`, `SCIENTIFIC_DEBT.md`.  
+**Status:** Redaktionelle Zielstruktur nach Abgleich der Leitfadenarchitektur mit der Merge-Readiness-Übersicht.
+**Datum:** 2026-07-14
+**Grundlage:** `CODEX_GUIDE_ARCHITECTURE_DRAFT.md`, `CODEX_MERGE_READINESS_OVERVIEW.md`, `ACADEMIC_RECOVERY_CONSOLIDATION_REPORT.md`, `SCIENTIFIC_DEBT.md`.
 **Geltung:** Architektur und Schreibreihenfolge. Keine neue Wissensbehauptung, Evidenzneubewertung oder Freigabe der T12-Publikationsarbeit.
 
 ---
@@ -192,4 +192,3 @@ Die drei strukturellen Evidenzgrenzen bleiben sichtbar:
 3. Fehlender legitimer Primärtext wird weder durch Sekundärzusammenfassungen noch durch plausible Theorie ersetzt.
 
 Diese Grenzen sind kein Grund, den Leitfaden aufzuschieben. Sie sind die redaktionelle Disziplin, die ihn glaubwürdig macht.
-
