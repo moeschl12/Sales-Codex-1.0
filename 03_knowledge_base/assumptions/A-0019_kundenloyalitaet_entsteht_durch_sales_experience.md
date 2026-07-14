@@ -57,6 +57,8 @@ CEB-Studie, Enterprise-B2B-Kontext. Zahl wurde auf zahlreichen Vertriebskonferen
 
 Dieses Objekt beruht (mit) auf der proprietaeren CEB-Befragungsstudie (N≈ 6.000, Vertriebsmitarbeiter aus 90+ Unternehmen). Die Rohdaten, Faktorladungen und Signifikanztests sind nicht oeffentlich einsehbar; ein unabhaengiges akademisches Peer-Review-Verfahren ist nicht nachgewiesen. Siehe `SCIENTIFIC_DEBT.md`, SD-SYS-001 (Replikationsrisiko) und SD-SYS-004 (Publication Bias kommerzieller Studien) fuer die vollstaendige Einordnung. **[Ergaenzt 2026-07-03, External Audit Resolution Sprint]**
 
+**Kalibrierungsquelle (nicht sales-spezifisch):** Harrison, Banks, Pollack, O'Boyle & Short (2017, *Journal of Management* 43(2), 400–425; SRC-0024) weisen im strategischen Management einen themenabhängigen Publication-Bias-Effekt nach; die berichtete mittlere Korrelations-Inflation reicht laut verifiziertem Abstract von 0,00 bis 0,19. Dies belegt, dass Publication Bias in einer benachbarten akademischen Disziplin real und messbar sein kann. Es ist **kein direkter Nachweis für CEB/Challenger** und erlaubt keine Aussage über Richtung oder Größenordnung eines möglichen Bias in der CEB-Studie. **[Ergänzt 2026-07-14, ED-AR-6]**
+
 ## Erweiterung: Evidenzkalibrierung durch Relationship-Marketing-Meta-Evidenz (Research Program W-003)
 
 **[Ergänzt 2026-07-05 aus W-003 — Trust Formation & Relationship Marketing Research Project. Editor Decision 2026-07-05: Teilweise annehmen, siehe `06_research_program/completed/W003/06_EDITOR_DECISION.md`]**
@@ -71,4 +73,4 @@ Vollständige Herleitung: `06_research_program/completed/W003/02_SCIENTIFIC_MAST
 
 ## Status
 
-Entwurf; ergänzt 2026-07-05 (W-003 — Evidenzkalibrierung durch Palmatier et al. 2006, SD-SYS-001 bleibt unverändert offen)
+Entwurf; ergänzt 2026-07-05 (W-003 — Evidenzkalibrierung durch Palmatier et al. 2006, SD-SYS-001 bleibt unverändert offen); ergänzt 2026-07-14 (ED-AR-6 — Harrison et al. 2017 als nicht sales-spezifische Kalibrierungsquelle, kein direkter CEB-Nachweis)

@@ -35,6 +35,8 @@ Für AR-003 (Johnston & Lewin 1996) und AR-013 (Tversky & Shafir 1992) existiert
 | **AR-013** | Tversky & Shafir (1992), "Choice under Conflict" — akademische Fundierung für MEC-0016/FOMU (JOLT/B-0006) | **Vollständig bearbeitet** — Negativbefund für MEC-0016, Teilstützung für ST-0151/MOD-0006 | Primärtext vollständig gelesen (JSTOR-Digitalisat). Zentraler Befund: testet einen anderen kausalen Mechanismus (Attribut-Trade-off-Konflikt zwischen nicht-dominierten Optionen) als MEC-0016/A-0031 (antizipierte Reue/FOMU) — **keine Erweiterung von MEC-0016 gerechtfertigt und keine vorgenommen.** Liefert aber unabhängige akademische Stütze für das allgemeine Phänomen "Aufschub/Default-Rückkehr trotz überwundenem Status quo" (ST-0151, MOD-0006 ergänzt) — validiert weder den 44%/56%-Split noch die Tethr-Methodik selbst. Zusätzlich identifiziert: dieselbe kausale Struktur wie ein bereits bestehender MEC-0015-Erweiterungsabschnitt. **Nachgelagerte Editorentscheidung ED-AR-2 (2026-07-14): MEC-0015 wurde um diesen Auslösepfad erweitert; kein E-Level-Wechsel.** Eine Traceability-Lücke in `LITERATURE_INDEX.md` (fälschliche ST-0305-Zuordnung) wurde klargestellt. | ST-0151, MOD-0006 (ergänzt, kein E-Level-Wechsel); MEC-0016, A-0031 (geprüft, nicht erweitert); MEC-0015 (ED-AR-2-Erweiterung umgesetzt) | SRC-0016 (neu), ST-0310, ST-0311 (neu), `LITERATURE_INDEX.md` (Korrektur und MEC-0015-Zuordnung), `SCIENTIFIC_DEBT.md` (B-0006), `ACADEMIC_RECOVERY_PLAN.md`, `MEC-0015_kognitive_ueberlastung_durch_feature_overload.md` | ED-AR-2 erledigt; keine weitere MEC-0015-Folgefrage aus AR-013 offen. | Keine |
 | **AR-014** | March & Simon (1958), *Organizations* — theoretisches Fundament Buying-Center-Cluster | **Blockiert** — Primärtext nicht zugänglich | Internet Archive hält nur eine Controlled-Digital-Lending-Ausleihe ohne Download; Google Books ohne Vorschau; ein technisch frei zugänglicher Treffer erwies sich als studentische Sekundärzusammenfassung (bewusst nicht verwendet); ein Sci-Hub-/Schattenbibliothek-Treffer bewusst nicht aufgerufen. Ein legitimer Sekundärkommentar (Bromiley et al. 2019) vollständig gelesen, aber ausdrücklich nicht zur inhaltlichen Fundierung verwendet. | MEC-0014 (geprüft, keine Änderung — kein bestehender Eintrag zum Aktualisieren, da March & Simon zuvor nicht referenziert war) | SRC-0039 (neu, nur Zugriffsprotokoll), `LITERATURE_INDEX.md` Sektion F, `SCIENTIFIC_DEBT.md` | Institutionelles Archive.org-Leihkonto, Bibliothekszugriff oder Herausgeber-Bereitstellung nötig. Tier 2, keine eigenständige Priorität vor AR-001/AR-002/AR-013. | Niedrig — Tier-2-Theoriereferenz ohne eigenständige Priorität, dauerhaft blockiert bis Zugriffsänderung |
 
+**Nachgelagerte Entscheidungen zum Tabellenstand (2026-07-14):** Die in den Zeilen AR-002 und AR-011 noch als offen beschriebenen Folgefragen sind durch ED-AR-6 bzw. ED-AR-8 entschieden. Die querschnittliche Zugriffsmethodik ist durch ED-AR-10 geregelt. Maßgeblich sind die Entscheidungsabschnitte in Teil 3.
+
 ---
 
 ## Teil 2 — Scientific-Debt-Konsolidierung
@@ -54,6 +56,9 @@ Diese Punkte sind für den aktuellen Codex-Stand ausreichend geklärt — nicht 
 - **ED-AR-2 — MEC-0015-Erweiterung:** Editorentscheidung getroffen (2026-07-14): Tversky & Shafir (1992), "Choice under Conflict", wurde als zusätzlicher Auslösepfad in MEC-0015 integriert; kein E-Level-Wechsel.
 - **ED-AR-1 — P-0002-Evidenzstatus:** Editorentscheidung getroffen (2026-07-14): P-0002 wurde auf E3 präzisiert; der MEC-0002/P-0002-Harmonisierungsbedarf ist erledigt.
 - **ED-AR-4 — MEC-0014-Evidenzarchitektur:** Editorentscheidung getroffen (2026-07-14): Der beobachtete CEB-Befund, die spezifische Kaufsicherheits-Kausalkette und angrenzende Buying-Center-Befunde wurden getrennt; der Agency-Pfad ist als unvalidierte Transferhypothese gekennzeichnet. ST-0126 und A-0022 wurden konsistent kalibriert. Kein neues MEC angelegt.
+- **ED-AR-6 — A-0019/Harrison:** Editorentscheidung getroffen (2026-07-14): Harrison et al. (2017) ist als nicht sales-spezifische Kalibrierungsquelle direkt in A-0019 sichtbar; keine Risikorichtung oder -größe für CEB wird daraus abgeleitet.
+- **ED-AR-8 — Value-Based Selling:** Editorentscheidung getroffen (2026-07-14): derzeit außerhalb Scope, Wiedervorlage nur bei neuer direkt anschlussfähiger Empirie oder ausdrücklicher Scope-Erweiterung.
+- **ED-AR-10 — Access Provenance:** Editorentscheidung getroffen (2026-07-14): drei getrennte Zugangswege mit Präferenzreihenfolge; Drittanbieter-Kurs-/Fakultätsseiten nur subsidiär und mit Restunsicherheitsvermerk.
 
 ### 2.2 Teilgeschlossen / präzisiert
 
@@ -80,11 +85,8 @@ Alle vier Fälle sind nach identischem, dokumentiertem Verfahren behandelt: mehr
 Diese Punkte sind vollständig in Teil 3 mit Kontext, Optionen und ggf. Empfehlung aufgeführt:
 
 - MEC-0014 — formale Anlage der P-Kandidaten "Stakeholder-Tailoring" und "Champion-Mobilizer" aus den Sheth-Statements (AR-004)
-- A-0019/SD-SYS-004 — Warnhinweis um Harrison et al. (2017) ergänzen (AR-002, nicht ausgeführter Editorvorschlag)
-- AR-011 — Dauerhaftigkeit der Scope-Entscheidung zu Value-Based Selling
 - AR-012 — kulturelle Generalisierung als systemisches vs. objektbezogenes Restthema
 - AR-003/AR-005/AR-014 — weiter auf Zugriff warten oder dauerhaft blockiert akzeptieren (governance-seitig, nicht rechercheseitig zu lösen)
-- Zugriffsklasse "Universitäts-Kurs-/Fakultätsseiten-Digitalisate ohne offiziellen Open-Access-Status" — soll diese Zugriffsklasse (etabliert seit AR-013, angewendet in AR-007/AR-008/AR-009/AR-010) weiter zulässig bleiben, oder enger geregelt werden? (Von AR-007 selbst als offene Governance-Frage aufgeworfen.)
 
 ### 2.5 Weiterhin offen, aber niedrig priorisiert
 
@@ -187,6 +189,8 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 
 **Redaktionell naheliegend:** Keine Empfehlung — geringe inhaltliche Tragweite, reine Vollständigkeitsfrage.
 
+**Herausgeberentscheidung (2026-07-14):** Option 1 angenommen, mit engerer Kalibrierung als im ursprünglichen Entwurf. A-0019 nennt Harrison et al. (2017; SRC-0024) und die im Abstract berichtete themenabhängige mittlere Korrelations-Inflation von 0,00–0,19. Die Ergänzung stellt ausdrücklich klar, dass dies kein direkter CEB-/Challenger-Nachweis ist und weder Richtung noch Größenordnung eines möglichen CEB-Bias ableiten lässt. SRC-0024 wurde konsistent präzisiert; SD-SYS-004 bleibt Kategorie 3 und Priorität Hoch.
+
 ---
 
 ### ED-AR-7 — AR-003 / AR-005 / AR-014: dauerhaft blockiert akzeptieren oder weiter auf Zugriff warten?
@@ -211,6 +215,8 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 
 **Redaktionell naheliegend:** Option 2 erscheint konsistent mit der bisherigen Formulierung in `ACADEMIC_RECOVERY_PLAN.md`/`SCIENTIFIC_DEBT.md` ("vorerst"), ist aber eine reine Scope-Frage, die Felix vorbehalten bleibt.
 
+**Herausgeberentscheidung (2026-07-14):** Option 2 angenommen. Value-Based Selling bleibt derzeit außerhalb des Codex-Scopes, nicht dauerhaft ausgeschlossen. Wiedervorlage nur bei neuer empirischer Primärforschung mit direktem Anschluss an ein bestehendes Codex-Objekt oder bei ausdrücklicher Scope-Erweiterung auf B2B-Preisstrategie/Pricing/Wertquantifizierung. Ohne Trigger keine routinemäßige Neurecherche.
+
 ---
 
 ### ED-AR-9 — AR-012: Kulturelle Generalisierung als systemisches Restthema oder nur objektbezogen weiterführen?
@@ -230,10 +236,13 @@ Für jede Entscheidung: Kontext, Optionen, ggf. redaktionell naheliegende Empfeh
 **Kontext:** Seit AR-013 (Präzedenzfall SRC-0016) wurde eine Zugriffsklasse etabliert und in AR-007, AR-008, AR-009, AR-010 wiederholt angewendet: legitime, aber nicht-Verlags-Open-Access-Digitalisate, die auf Universitäts-Kurs- oder Fakultätsseiten gehostet sind (kein Sci-Hub, kein Zugriffsschutz-Umgehen, aber auch keine offizielle Verlags-Open-Access-Kennzeichnung). AR-007 hat dies selbst als dokumentierte Restunsicherheit benannt und angeboten, dass eine engere Regelung eine gesonderte Governance-Entscheidung wäre.
 
 **Optionen:**
-1. Zugriffsklasse wie bisher praktiziert weiter zulassen (Status quo, bereits mehrfach angewendeter Präzedenzfall).
-2. Engere Regelung einführen (z. B. nur offizielle Verlags-/Repository-Open-Access-Kennzeichnung zulässig).
+1. Alle universitätsgehosteten Kopien wie bisher gleich behandeln.
+2. Differenzierte Regel: institutionelle Repositorien und Autoren-Selbstarchivierung regulär zulassen; Drittanbieter-Kurs-/Fakultätsseiten nur subsidiär und mit Restunsicherheitsvermerk.
+3. Drittanbieter-Kurs-/Fakultätsseiten vollständig ausschließen.
 
-**Redaktionell naheliegend:** Keine Empfehlung — dies ist eine Grundsatzfrage zur Zugriffsmethodik, keine Einzelfallfrage.
+**Redaktionell naheliegend:** Option 2 — trennt etablierte Open-Access-Wege von der tatsächlich unsicheren Zwischenkategorie, ohne frühere Academic-Recovery-Arbeit pauschal zu entwerten.
+
+**Herausgeberentscheidung (2026-07-14):** Option 2 angenommen. Die Regel ist als **Zugangsweg 1/2/3** formuliert, um eine Verwechslung mit den Quellenklassen A–F zu vermeiden. Zugangsweg 1 sind offizielle institutionelle Repositorien, Zugangsweg 2 Autoren-Selbstarchivierung, Zugangsweg 3 Drittanbieter-Kurs-/Fakultätsseiten ohne erkennbaren Autoren- oder Repositoriumsbezug. Zugangsweg 3 ist nur zulässig, wenn kein regulärer Verlagszugang und kein Zugangsweg 1 oder 2 auffindbar ist; ein sichtbarer Restunsicherheitsvermerk im SRC-Objekt ist Pflicht. Verankert in `01_framework/03_source_standard/codex_source_standard.md` und im Source Template. Keine pauschale rückwirkende Entwertung bereits verarbeiteter Quellen; Access Provenance wird bei späterer Revision nachgetragen.
 
 ---
 

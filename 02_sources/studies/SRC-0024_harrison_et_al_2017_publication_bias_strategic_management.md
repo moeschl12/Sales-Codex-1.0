@@ -51,7 +51,7 @@ Laut vollständig zugänglichem, wörtlich übernommenem Abstract (UR Scholarshi
 **Wichtige Einordnung für AR-002 — Grenzen der Übertragbarkeit:**
 - Diese Studie untersucht **peer-reviewte akademische Forschung im strategischen Management**, nicht **B2B-Vertriebsforschung** und erst recht nicht **proprietäre, nicht peer-reviewte Anbieter-Studien** (CEB/Challenger, Huthwaite/SPIN, Tethr/JOLT).
 - Der hier gemessene Publication-Bias-Mechanismus (selektive Veröffentlichung signifikanter/erwarteter Befunde durch Autoren und Journale im regulären akademischen Peer-Review-Prozess) ist **konzeptionell verwandt, aber nicht identisch** mit dem für CEB/Tethr vermuteten Mechanismus (kommerzieller Anbieter mit Eigeninteresse am eigenen Produkt, außerhalb jedes Peer-Review-Prozesses).
-- **Wichtiges Argument, das die Übertragbarkeit stützt, ohne sie zu beweisen:** Wenn selbst der reguläre, doppelblinde Peer-Review-Prozess im strategischen Management einen messbaren Publication-Bias-Effekt (bis zu 0,19 Korrelations-Inflation) nicht verhindert, ist es **strukturell plausibel**, dass proprietäre Anbieterstudien — denen dieselben Kontrollmechanismen (Peer Review, unabhängige Replikation, Registrierung) von vornherein fehlen — einem **mindestens vergleichbaren, eher höheren** Risiko unterliegen. Dies ist jedoch eine **Plausibilitätsschlussfolgerung durch Analogie**, kein direkter Nachweis für CEB/Tethr selbst.
+- **Zulässige Übertragung:** Der Befund zeigt, dass Publication Bias selbst in einem benachbarten akademischen Peer-Review-Feld real und messbar sein kann. Für proprietäre Anbieterstudien ohne öffentlich prüfbare Rohdaten bleibt Publication Bias daher eine strukturell plausible Risikohypothese. Aus Harrison et al. (2017) lässt sich jedoch **weder ableiten, dass dieses Risiko bei CEB/Tethr tatsächlich vorliegt, noch welche Richtung oder Größenordnung es dort hätte**.
 
 ## Extrahierte Aussagen
 
@@ -90,4 +90,4 @@ Keine identifiziert. Ergänzt (statt ersetzt) die bereits im Repository dokument
 
 ## Bearbeitungsstatus
 
-Abstract-Ebene analysiert (2026-07-13, AR-002-Sitzung) — vollständiges, verifiziertes Abstract einer legitimen Green-Open-Access-Quelle, PDF-Volltext technisch nicht extrahierbar. Kein ST-Objekt angelegt (außerhalb Dateiscope). Dient als Kalibrierungsquelle für die SD-SYS-004-Bewertung im AR-002-Abschlussbericht.
+Abstract-Ebene analysiert (2026-07-13, AR-002-Sitzung) — vollständiges, verifiziertes Abstract einer legitimen Green-Open-Access-Quelle, PDF-Volltext technisch nicht extrahierbar. Kein ST-Objekt angelegt (außerhalb Dateiscope). Dient als Kalibrierungsquelle für die SD-SYS-004-Bewertung im AR-002-Abschlussbericht; Übertragungsformulierung am 2026-07-14 durch ED-AR-6 auf die belegbare Analogie begrenzt.

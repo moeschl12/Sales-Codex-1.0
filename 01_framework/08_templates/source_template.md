@@ -19,6 +19,12 @@ SRC-0000
 [ ] Ja — Seite: ___  
 [ ] Nein — Grund: ___
 
+## Zugangsweg / Access Provenance
+
+Verlagszugang / Open Access / Zugangsweg 1 (institutionelles Repositorium) / Zugangsweg 2 (Autoren-Selbstarchivierung) / Zugangsweg 3 (Drittanbieter-Kurs-/Fakultätsseite) / Nicht zugänglich
+
+Fundort, Textversion, Lizenz-/Autorisierungsstatus und erforderlicher Restunsicherheitsvermerk: ___
+
 ## Quellenklasse
 
 A / B / C / D / E / F
