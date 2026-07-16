@@ -85,7 +85,7 @@ Der Leitfaden hat sieben Kapitel. Drei davon sind direkt leitfadenreif (A); drei
 
 **Leserfrage:** Was hilft, wenn ein Käufer nicht Nein sagt, aber nicht entscheiden kann?
 
-**Kernobjekte:** `MEC-0015`, `MEC-0016`, `P-S1-004`, `T-0022`, ergänzt durch `ST-0305` und `ST-0310` als akademische Stütze für konfliktbedingten Aufschub.
+**Kernobjekte:** `MEC-0015`, `MEC-0016`, `P-S1-004`, ergänzt durch `ST-0305` und `ST-0310` als akademische Stütze für konfliktbedingten Aufschub. `T-0022` bleibt eine optionale E2-Praxisillustration, kein tragender Kapitelbeleg.
 
 **Zulässige Leser-Aussage:** Zu viele oder zu schwer vergleichbare Optionen können Entscheidungen erschweren. Reduziere unnötige Komplexität, mache die Entscheidung vergleichbar und unterscheide zwischen Informationsbedarf, Risiko und echtem Optionskonflikt.
 
